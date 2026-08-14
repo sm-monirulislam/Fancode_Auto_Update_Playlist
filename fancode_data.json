@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:02:38 PM 14-08-2026",
+    "last_update_time": "10:49:20 PM 14-08-2026",
     "total_matches": 40,
-    "live_match": 9,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -21,32 +21,6 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Germany vs Czechia (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248371_53031_CZE_GER_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Czechia",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Germany vs Czechia",
-            "match_id": 4248371,
-            "startTime": "06:30:00 PM 14-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248371/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Luxembourg vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248377_53031_IOM_LUX_fc-web.jpg",
-            "team_1": "Luxembourg",
-            "team_2": "Isle of Man",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Luxembourg vs Isle of Man",
-            "match_id": 4248377,
-            "startTime": "06:30:00 PM 14-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248377/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Golf",
             "title": "Main Feed - Day 2 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
@@ -57,19 +31,6 @@
             "match_id": 4248407,
             "startTime": "05:30:00 PM 14-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248407/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "title": "Day 2 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
-            "team_1": "Day 2",
-            "team_2": "Golfpark Holzhausem",
-            "event_name": "VP Bank Swiss Ladies Open 2026",
-            "match_name": "Day 2",
-            "match_id": 4248321,
-            "startTime": "07:00:00 PM 14-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248321/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -149,30 +110,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al Faisaly Saudi (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248267_53025_AHS_ALF_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al Faisaly Saudi",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al Hilal SFC vs Al Faisaly Saudi",
-            "match_id": 4248267,
-            "startTime": "11:30:00 PM 14-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Wolverhampton Wanderers F.C. vs Blackburn Rovers F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247467_52993_WOL_BLK_fc-web_1786657253007.jpg",
-            "team_1": "Wolverhampton Wanderers F.C.",
-            "team_2": "Blackburn Rovers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Wolverhampton Wanderers F.C. vs Blackburn Rovers F.C.",
-            "match_id": 4247467,
-            "startTime": "12:30:00 AM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247995_53005_NDT_SDS_fc-Web.png",
@@ -194,6 +131,30 @@
             "match_name": "Lucknow Falcons vs Gaur Gorakhpur Lions",
             "match_id": 4248336,
             "startTime": "07:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al Faisaly Saudi (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248267_53025_AHS_ALF_FC-Web.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al Faisaly Saudi",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al Hilal SFC vs Al Faisaly Saudi",
+            "match_id": 4248267,
+            "startTime": "11:30:00 PM 14-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Wolverhampton Wanderers F.C. vs Blackburn Rovers F.C. (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247467_52993_WOL_BLK_fc-web_1786657253007.jpg",
+            "team_1": "Wolverhampton Wanderers F.C.",
+            "team_2": "Blackburn Rovers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "Wolverhampton Wanderers F.C. vs Blackburn Rovers F.C.",
+            "match_id": 4247467,
+            "startTime": "12:30:00 AM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -389,6 +350,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Granada",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Real Oviedo vs Granada",
+            "match_id": 4248178,
+            "startTime": "10:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
@@ -402,14 +375,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Granada",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Granada",
-            "match_id": 4248178,
-            "startTime": "10:30:00 PM 15-08-2026"
+            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Rayo Vallecano",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Sevilla FC vs Rayo Vallecano",
+            "match_id": 4247568,
+            "startTime": "01:00:00 AM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -422,18 +395,6 @@
             "match_name": "Qualifying 1",
             "match_id": 143814,
             "startTime": "01:25:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Sevilla FC vs Rayo Vallecano",
-            "match_id": 4247568,
-            "startTime": "01:00:00 AM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -494,6 +455,42 @@
             "match_name": "Race 1",
             "match_id": 143818,
             "startTime": "06:40:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248114,
+            "startTime": "10:00:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248115,
+            "startTime": "10:00:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248116,
+            "startTime": "10:00:00 PM 15-08-2026"
         }
     ]
 }
