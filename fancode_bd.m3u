@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:45:38 PM 15-08-2026 (BD Time)
-# Live Match : 12
+# Last Updated: 10:22:09 PM 15-08-2026 (BD Time)
+# Live Match : 13
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="Cricket",Ireland vs Afghanistan
 https://fancode-bd.sm-monirul.top/4248051/index.m3u8
@@ -29,3 +29,5 @@ https://fancode-bd.sm-monirul.top/4248408/index.m3u8
 https://fancode-bd.sm-monirul.top/4248114/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",World Feed
 https://fancode-bd.sm-monirul.top/4248115/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg" group-title="Football",Sheffield United F.C. vs Birmingham City F.C.
+https://fancode-bd.sm-monirul.top/4247469/index.m3u8
