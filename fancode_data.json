@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:14:17 PM 15-08-2026",
+    "last_update_time": "04:27:46 PM 15-08-2026",
     "total_matches": 39,
-    "live_match": 5,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Noida Kings vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "title": "Kanpur Superstars vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248335_53029_NOI_KAN_FC-Web_1786702851443.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kanpur Superstars",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Noida Kings",
             "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Kanpur Superstars",
+            "match_name": "Kanpur Superstars vs Noida Kings",
             "match_id": 4248335,
             "startTime": "03:00:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248335/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+            "team_1": "Ireland",
+            "team_2": "Afghanistan",
+            "event_name": "Afghanistan tour of Ireland, 2026",
+            "match_name": "Ireland vs Afghanistan",
+            "match_id": 4248051,
+            "startTime": "03:15:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248051/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -72,16 +85,17 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248370/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-            "team_1": "Ireland",
-            "team_2": "Afghanistan",
-            "event_name": "Afghanistan tour of Ireland, 2026",
-            "match_name": "Ireland vs Afghanistan",
-            "match_id": 4248051,
-            "startTime": "03:15:00 PM 15-08-2026"
+            "title": "Oman vs Goa (Goa tour of Oman 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
+            "team_1": "Oman",
+            "team_2": "Goa",
+            "event_name": "Goa tour of Oman 2026",
+            "match_name": "Oman vs Goa",
+            "match_id": 4248365,
+            "startTime": "04:00:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248365/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -130,6 +144,18 @@
             "match_name": "Germany vs Portugal",
             "match_id": 4248376,
             "startTime": "06:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "Central Delhi Kings",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs Central Delhi Kings",
+            "match_id": 4247990,
+            "startTime": "01:30:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -218,18 +244,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Central Delhi Kings",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Central Delhi Kings",
-            "match_id": 4247990,
-            "startTime": "01:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Kashi Rudras vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",
             "team_1": "Kashi Rudras",
@@ -301,15 +315,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Oman vs Goa (Goa tour of Oman 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
-            "team_1": "Oman",
-            "team_2": "Goa",
-            "event_name": "Goa tour of Oman 2026",
-            "match_name": "Oman vs Goa",
-            "match_id": 4248365,
-            "startTime": "04:00:00 PM 15-08-2026"
+            "event_category": "Football",
+            "title": "Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
+            "team_1": "Watford F.C.",
+            "team_2": "Southampton F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "Watford F.C. vs Southampton F.C.",
+            "match_id": 4247470,
+            "startTime": "06:00:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -345,7 +359,7 @@
             "event_name": "FedEx St. Jude Championship 2026",
             "match_name": "Main Feed - Day 3",
             "match_id": 4248408,
-            "startTime": "05:15:00 PM 15-08-2026"
+            "startTime": "05:30:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -421,18 +435,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
-            "team_1": "Watford F.C.",
-            "team_2": "Southampton F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Watford F.C. vs Southampton F.C.",
-            "match_id": 4247470,
-            "startTime": "06:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
@@ -442,18 +444,6 @@
             "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
             "match_id": 4248289,
             "startTime": "05:30:00 AM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 2",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "Race 2",
-            "match_id": 143816,
-            "startTime": "12:40:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -477,6 +467,18 @@
             "event_name": "LALIGA 2026-27",
             "match_name": "Racing Club de Santander vs Villarreal CF",
             "match_id": 4247575,
+            "startTime": "08:30:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "FC Schalke 04 vs Real Madrid (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248026_53006_SCH_RM_FC-WEB.png",
+            "team_1": "FC Schalke 04",
+            "team_2": "Real Madrid",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "FC Schalke 04 vs Real Madrid",
+            "match_id": 4248026,
             "startTime": "08:30:00 PM 16-08-2026"
         }
     ]
