@@ -2,49 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:20:20 AM 16-08-2026",
+    "last_update_time": "02:47:56 AM 16-08-2026",
     "total_matches": 36,
-    "live_match": 10,
+    "live_match": 7,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Getafe CF (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Getafe CF",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Deportivo Alaves vs Getafe CF",
-            "match_id": 4247576,
-            "startTime": "11:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247576/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Kholood Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ittihad vs Al-Kholood Club",
-            "match_id": 4248268,
-            "startTime": "11:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248268/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Fateh SC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Nassr FC vs Al-Fateh SC",
-            "match_id": 4248269,
-            "startTime": "11:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248269/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -447,6 +408,42 @@
             "match_name": "Germany vs Israel",
             "match_id": 4248367,
             "startTime": "01:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Bulgaria vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
+            "team_1": "Bulgaria",
+            "team_2": "Isle of Man",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Bulgaria vs Isle of Man",
+            "match_id": 4248384,
+            "startTime": "01:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+            "team_1": "West Delhi Lions",
+            "team_2": "South Delhi Superstarz",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "West Delhi Lions vs South Delhi Superstarz",
+            "match_id": 4247993,
+            "startTime": "07:00:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+            "team_1": "Noida Kings",
+            "team_2": "Lucknow Falcons",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Lucknow Falcons",
+            "match_id": 4248333,
+            "startTime": "07:30:00 PM 17-08-2026"
         }
     ]
 }
