@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:27:34 AM 16-08-2026",
+    "last_update_time": "12:57:40 AM 16-08-2026",
     "total_matches": 37,
-    "live_match": 13,
+    "live_match": 11,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "match_id": 4248336,
             "startTime": "07:30:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248336/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Sheffield United F.C. vs Birmingham City F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Birmingham City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Sheffield United F.C. vs Birmingham City F.C.",
-            "match_id": 4247469,
-            "startTime": "10:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247469/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,19 +70,6 @@
             "match_id": 4248178,
             "startTime": "10:30:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248178/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Oman vs Goa (Goa tour of Oman 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
-            "team_1": "Oman",
-            "team_2": "Goa",
-            "event_name": "Goa tour of Oman 2026",
-            "match_name": "Oman vs Goa",
-            "match_id": 4248365,
-            "startTime": "04:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248365/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -201,6 +175,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Rayo Vallecano",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Sevilla FC vs Rayo Vallecano",
+            "match_id": 4247568,
+            "startTime": "01:00:00 AM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Outer Delhi Warriors vs Purani Dilli-6 (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
@@ -222,18 +208,6 @@
             "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks",
             "match_id": 4248337,
             "startTime": "07:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Sevilla FC vs Rayo Vallecano",
-            "match_id": 4247568,
-            "startTime": "01:00:00 AM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +436,30 @@
             "match_name": "New Delhi Tigers vs East Delhi Riders",
             "match_id": 4247996,
             "startTime": "01:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hong Kong, China vs Italy (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Hong Kong, China",
+            "team_2": "Italy",
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Hong Kong, China vs Italy",
+            "match_id": 4248261,
+            "startTime": "11:30:00 AM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Tanzania vs Singapore (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Tanzania",
+            "team_2": "Singapore",
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Tanzania vs Singapore",
+            "match_id": 4248263,
+            "startTime": "11:30:00 AM 17-08-2026"
         }
     ]
 }
