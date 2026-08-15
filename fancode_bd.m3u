@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:28:54 PM 15-08-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 07:54:25 PM 15-08-2026 (BD Time)
+# Live Match : 13
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248335_53029_NOI_KAN_FC-Web_1786702851443.png" group-title="Cricket",Kanpur Superstars vs Noida Kings
 https://fancode-bd.sm-monirul.top/4248335/index.m3u8
@@ -17,8 +17,12 @@ https://fancode-bd.sm-monirul.top/4248259/index.m3u8
 https://fancode-bd.sm-monirul.top/4248369/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248376_53031_GER_POR_fc-web.jpg" group-title="Cricket",Germany vs Portugal
 https://fancode-bd.sm-monirul.top/4248376/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247468_52993_MIDD_LNC_fc-web_1786657252979.jpg" group-title="Football",Middlesbrough F.C. vs Lincoln City F.C.
+https://fancode-bd.sm-monirul.top/4247468/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png" group-title="Football",Notts County vs Leicester City F.C.
 https://fancode-bd.sm-monirul.top/4248157/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Football",York City vs Bristol Rovers
+https://fancode-bd.sm-monirul.top/4248162/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="Cricket",Oman vs Goa
 https://fancode-bd.sm-monirul.top/4248365/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png" group-title="Golf",Day 3

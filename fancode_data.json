@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:28:54 PM 15-08-2026",
+    "last_update_time": "07:54:25 PM 15-08-2026",
     "total_matches": 39,
-    "live_match": 11,
+    "live_match": 13,
     "matches": [
         {
             "status": "LIVE",
@@ -87,6 +87,19 @@
         {
             "status": "LIVE",
             "event_category": "Football",
+            "title": "Middlesbrough F.C. vs Lincoln City F.C. (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247468_52993_MIDD_LNC_fc-web_1786657252979.jpg",
+            "team_1": "Middlesbrough F.C.",
+            "team_2": "Lincoln City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "Middlesbrough F.C. vs Lincoln City F.C.",
+            "match_id": 4247468,
+            "startTime": "07:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247468/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
             "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
             "team_1": "Notts County",
@@ -96,6 +109,19 @@
             "match_id": 4248157,
             "startTime": "05:00:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248157/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "York City vs Bristol Rovers (League Two 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+            "team_1": "York City",
+            "team_2": "Bristol Rovers",
+            "event_name": "League Two 2026-27",
+            "match_name": "York City vs Bristol Rovers",
+            "match_id": 4248162,
+            "startTime": "07:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248162/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -163,18 +189,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Middlesbrough F.C. vs Lincoln City F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247468_52993_MIDD_LNC_fc-web_1786657252979.jpg",
-            "team_1": "Middlesbrough F.C.",
-            "team_2": "Lincoln City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Middlesbrough F.C. vs Lincoln City F.C.",
-            "match_id": 4247468,
-            "startTime": "07:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
@@ -196,18 +210,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "York City vs Bristol Rovers (League Two 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "York City",
-            "team_2": "Bristol Rovers",
-            "event_name": "League Two 2026-27",
-            "match_name": "York City vs Bristol Rovers",
-            "match_id": 4248162,
-            "startTime": "07:30:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
