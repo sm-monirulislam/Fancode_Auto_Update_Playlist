@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:57:40 AM 16-08-2026",
+    "last_update_time": "01:25:54 AM 16-08-2026",
     "total_matches": 37,
     "live_match": 11,
     "matches": [
@@ -61,15 +61,15 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "title": "Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Granada",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Granada",
-            "match_id": 4248178,
-            "startTime": "10:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248178/index.m3u8"
+            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Rayo Vallecano",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Sevilla FC vs Rayo Vallecano",
+            "match_id": 4247568,
+            "startTime": "01:00:00 AM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247568/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -172,18 +172,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Sevilla FC vs Rayo Vallecano",
-            "match_id": 4247568,
-            "startTime": "01:00:00 AM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -460,6 +448,18 @@
             "match_name": "Tanzania vs Singapore",
             "match_id": 4248263,
             "startTime": "11:30:00 AM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Germany vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
+            "team_1": "Germany",
+            "team_2": "Israel",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Germany vs Israel",
+            "match_id": 4248367,
+            "startTime": "01:30:00 PM 17-08-2026"
         }
     ]
 }
