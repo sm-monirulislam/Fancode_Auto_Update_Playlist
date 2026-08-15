@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:45:03 PM 15-08-2026",
-    "total_matches": 39,
+    "last_update_time": "12:27:34 AM 16-08-2026",
+    "total_matches": 37,
     "live_match": 13,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-            "team_1": "Ireland",
-            "team_2": "Afghanistan",
-            "event_name": "Afghanistan tour of Ireland, 2026",
-            "match_name": "Ireland vs Afghanistan",
-            "match_id": 4248051,
-            "startTime": "03:15:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248051/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247995_53005_NDT_SDS_fc-Web.png",
-            "team_1": "New Delhi Tigers",
-            "team_2": "South Delhi Superstarz",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "New Delhi Tigers vs South Delhi Superstarz",
-            "match_id": 4247995,
-            "startTime": "07:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247995/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -70,6 +44,32 @@
             "match_id": 4247576,
             "startTime": "11:00:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4247576/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Kholood Club",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Ittihad vs Al-Kholood Club",
+            "match_id": 4248268,
+            "startTime": "11:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248268/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Fateh SC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Nassr FC vs Al-Fateh SC",
+            "match_id": 4248269,
+            "startTime": "11:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248269/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -198,30 +198,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Kholood Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ittihad vs Al-Kholood Club",
-            "match_id": 4248268,
-            "startTime": "11:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Fateh SC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Nassr FC vs Al-Fateh SC",
-            "match_id": 4248269,
-            "startTime": "11:30:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
