@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:18:29 AM 16-08-2026",
-    "total_matches": 35,
-    "live_match": 4,
+    "last_update_time": "05:44:19 AM 16-08-2026",
+    "total_matches": 36,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -57,6 +57,19 @@
             "match_id": 4248117,
             "startTime": "11:00:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248117/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
+            "match_id": 4248289,
+            "startTime": "05:30:00 AM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248289/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -177,18 +190,6 @@
             "match_name": "Liverpool vs Como",
             "match_id": 4248027,
             "startTime": "10:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
-            "match_id": 4248289,
-            "startTime": "05:30:00 AM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -429,6 +430,18 @@
             "match_name": "Greece vs Portugal",
             "match_id": 4248385,
             "startTime": "06:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Oman vs Goa (Goa tour of Oman 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
+            "team_1": "Oman",
+            "team_2": "Goa",
+            "event_name": "Goa tour of Oman 2026",
+            "match_name": "Oman vs Goa",
+            "match_id": 4248366,
+            "startTime": "04:00:00 PM 17-08-2026"
         }
     ]
 }
