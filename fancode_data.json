@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:18:32 PM 15-08-2026",
+    "last_update_time": "09:45:38 PM 15-08-2026",
     "total_matches": 39,
-    "live_match": 13,
+    "live_match": 12,
     "matches": [
         {
             "status": "LIVE",
@@ -126,19 +126,6 @@
         {
             "status": "LIVE",
             "event_category": "Golf",
-            "title": "Day 3 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
-            "team_1": "Day 3",
-            "team_2": "Golfpark Holzhausem",
-            "event_name": "VP Bank Swiss Ladies Open 2026",
-            "match_name": "Day 3",
-            "match_id": 4248322,
-            "startTime": "05:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248322/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
             "title": "Main Feed - Day 3 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
             "team_1": "Main Feed - Day 3",
@@ -177,6 +164,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sheffield United F.C. vs Birmingham City F.C. (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Birmingham City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "Sheffield United F.C. vs Birmingham City F.C.",
+            "match_id": 4247469,
+            "startTime": "10:00:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
@@ -198,18 +197,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sheffield United F.C. vs Birmingham City F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Birmingham City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Sheffield United F.C. vs Birmingham City F.C.",
-            "match_id": 4247469,
-            "startTime": "10:00:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -417,18 +404,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 2",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "Race 2",
-            "match_id": 143816,
-            "startTime": "12:40:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
@@ -438,6 +413,18 @@
             "match_name": "Girona FC vs Leganés",
             "match_id": 4248179,
             "startTime": "10:30:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "Race 2",
+            "match_id": 143816,
+            "startTime": "12:40:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +473,18 @@
             "match_name": "World Feed - Day 4",
             "match_id": 4248405,
             "startTime": "09:30:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248118,
+            "startTime": "10:00:00 PM 16-08-2026"
         }
     ]
 }
