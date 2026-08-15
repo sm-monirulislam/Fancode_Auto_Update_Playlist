@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:54:25 PM 15-08-2026",
-    "total_matches": 39,
-    "live_match": 13,
+    "last_update_time": "08:20:34 PM 15-08-2026",
+    "total_matches": 38,
+    "live_match": 11,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Kanpur Superstars vs Noida Kings (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248335_53029_NOI_KAN_FC-Web_1786702851443.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Noida Kings",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kanpur Superstars vs Noida Kings",
-            "match_id": 4248335,
-            "startTime": "03:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248335/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -48,15 +35,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Singapore vs Uganda (ICC CWC Challenge League B 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-            "team_1": "Singapore",
-            "team_2": "Uganda",
-            "event_name": "ICC CWC Challenge League B 2026",
-            "match_name": "Singapore vs Uganda",
-            "match_id": 4248259,
-            "startTime": "11:30:00 AM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248259/index.m3u8"
+            "title": "Lucknow Falcons vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Lucknow Falcons vs Gaur Gorakhpur Lions",
+            "match_id": 4248336,
+            "startTime": "07:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248336/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -96,19 +83,6 @@
             "match_id": 4247468,
             "startTime": "07:30:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4247468/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
-            "team_1": "Notts County",
-            "team_2": "Leicester City F.C.",
-            "event_name": "League One 2026-27",
-            "match_name": "Notts County vs Leicester City F.C.",
-            "match_id": 4248157,
-            "startTime": "05:00:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248157/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -177,15 +151,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Lucknow Falcons vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Lucknow Falcons vs Gaur Gorakhpur Lions",
-            "match_id": 4248336,
-            "startTime": "07:30:00 PM 15-08-2026"
+            "event_category": "Football",
+            "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
+            "team_1": "Manchester United",
+            "team_2": "AC Milan",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Manchester United vs AC Milan",
+            "match_id": 4248219,
+            "startTime": "08:15:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -210,18 +184,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
-            "team_1": "Manchester United",
-            "team_2": "AC Milan",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Manchester United vs AC Milan",
-            "match_id": 4248219,
-            "startTime": "08:15:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -321,6 +283,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "Champions' Court vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Champions' Court",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Champions' Court",
+            "match_id": 4248114,
+            "startTime": "08:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248115,
+            "startTime": "08:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
@@ -370,30 +356,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "title": "Champions' Court vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Champions' Court",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Champions' Court",
-            "match_id": 4248114,
-            "startTime": "08:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248115,
-            "startTime": "08:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
             "title": "Court 8 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
             "team_1": "Court 8",
@@ -429,18 +391,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
-            "match_id": 4248289,
-            "startTime": "05:30:00 AM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
@@ -465,6 +415,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
+            "match_id": 4248289,
+            "startTime": "05:30:00 AM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
@@ -486,6 +448,30 @@
             "match_name": "Girona FC vs Leganés",
             "match_id": 4248179,
             "startTime": "10:30:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "DTM 2026 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "DTM 2026",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "DTM 2026",
+            "match_id": 143817,
+            "startTime": "05:00:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Southwind - Memphis, Tennessee",
+            "event_name": "FedEx St. Jude Championship 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 4248409,
+            "startTime": "05:15:00 PM 16-08-2026"
         }
     ]
 }
