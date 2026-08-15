@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:18:54 PM 15-08-2026",
+    "last_update_time": "05:44:21 PM 15-08-2026",
     "total_matches": 39,
-    "live_match": 6,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -60,16 +60,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Greece vs Czechia (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg",
-            "team_1": "Greece",
-            "team_2": "Czechia",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Greece vs Czechia",
-            "match_id": 4248370,
-            "startTime": "01:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248370/index.m3u8"
+            "event_category": "Football",
+            "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
+            "team_1": "Notts County",
+            "team_2": "Leicester City F.C.",
+            "event_name": "League One 2026-27",
+            "match_name": "Notts County vs Leicester City F.C.",
+            "match_id": 4248157,
+            "startTime": "05:00:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248157/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,6 +83,32 @@
             "match_id": 4248365,
             "startTime": "04:00:00 PM 15-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248365/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "title": "Race 1 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 1",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "Race 1",
+            "match_id": 143815,
+            "startTime": "05:00:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/143815/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "Day 3 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
+            "team_1": "Day 3",
+            "team_2": "Golfpark Holzhausem",
+            "event_name": "VP Bank Swiss Ladies Open 2026",
+            "match_name": "Day 3",
+            "match_id": 4248322,
+            "startTime": "05:00:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248322/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -107,18 +133,6 @@
             "match_name": "Lucknow Falcons vs Gaur Gorakhpur Lions",
             "match_id": 4248336,
             "startTime": "07:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
-            "team_1": "Notts County",
-            "team_2": "Leicester City F.C.",
-            "event_name": "League One 2026-27",
-            "match_name": "Notts County vs Leicester City F.C.",
-            "match_id": 4248157,
-            "startTime": "05:00:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -194,6 +208,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Kanpur Superstars",
+            "match_id": 4248340,
+            "startTime": "03:00:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Deportivo Alaves vs Getafe CF (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
@@ -242,18 +268,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Kashi Rudras vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Kanpur Superstars",
-            "match_id": 4248340,
-            "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "York City vs Bristol Rovers (League Two 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
@@ -275,30 +289,6 @@
             "match_name": "Real Oviedo vs Granada",
             "match_id": 4248178,
             "startTime": "10:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Race 1 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 1",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "Race 1",
-            "match_id": 143815,
-            "startTime": "05:00:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Day 3 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
-            "team_1": "Day 3",
-            "team_2": "Golfpark Holzhausem",
-            "event_name": "VP Bank Swiss Ladies Open 2026",
-            "match_name": "Day 3",
-            "match_id": 4248322,
-            "startTime": "05:00:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -479,6 +469,18 @@
             "match_name": "Race 2",
             "match_id": 143816,
             "startTime": "12:40:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Levante",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "RCD Espanyol vs Levante",
+            "match_id": 4247573,
+            "startTime": "10:30:00 PM 16-08-2026"
         }
     ]
 }
