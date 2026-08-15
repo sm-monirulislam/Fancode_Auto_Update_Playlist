@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:50:14 PM 15-08-2026",
+    "last_update_time": "11:19:27 PM 15-08-2026",
     "total_matches": 39,
-    "live_match": 11,
+    "live_match": 13,
     "matches": [
         {
             "status": "LIVE",
@@ -73,6 +73,32 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Getafe CF (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Getafe CF",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Deportivo Alaves vs Getafe CF",
+            "match_id": 4247576,
+            "startTime": "11:00:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247576/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Granada",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Real Oviedo vs Granada",
+            "match_id": 4248178,
+            "startTime": "10:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248178/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Oman vs Goa (Goa tour of Oman 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
@@ -124,6 +150,32 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248115/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "Court 8 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Court 8",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Court 8",
+            "match_id": 4248116,
+            "startTime": "10:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248116/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+            "team_1": "World Feed - Day 3",
+            "team_2": "TPC Southwind - Memphis, Tennessee",
+            "event_name": "FedEx St. Jude Championship 2026",
+            "match_name": "World Feed - Day 3",
+            "match_id": 4248404,
+            "startTime": "10:30:00 PM 15-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248404/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
@@ -138,14 +190,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Deportivo Alaves vs Getafe CF (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Getafe CF",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Deportivo Alaves vs Getafe CF",
-            "match_id": 4247576,
-            "startTime": "11:00:00 PM 15-08-2026"
+            "title": "Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Kholood Club",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Ittihad vs Al-Kholood Club",
+            "match_id": 4248268,
+            "startTime": "11:30:00 PM 15-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Fateh SC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Nassr FC vs Al-Fateh SC",
+            "match_id": 4248269,
+            "startTime": "11:30:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -158,19 +222,6 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Granada",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Granada",
-            "match_id": 4248178,
-            "startTime": "10:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248178/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -199,30 +250,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Kholood Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ittihad vs Al-Kholood Club",
-            "match_id": 4248268,
-            "startTime": "11:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Fateh SC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Nassr FC vs Al-Fateh SC",
-            "match_id": 4248269,
-            "startTime": "11:30:00 PM 15-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
             "team_1": "Sevilla FC",
@@ -243,31 +270,6 @@
             "match_name": "Watford F.C. vs Southampton F.C.",
             "match_id": 4247470,
             "startTime": "06:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "Court 8 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Court 8",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Court 8",
-            "match_id": 4248116,
-            "startTime": "10:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248116/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
-            "team_1": "World Feed - Day 3",
-            "team_2": "TPC Southwind - Memphis, Tennessee",
-            "event_name": "FedEx St. Jude Championship 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 4248404,
-            "startTime": "10:30:00 PM 15-08-2026"
         },
         {
             "status": "UPCOMING",

@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:50:14 PM 15-08-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 11:19:27 PM 15-08-2026 (BD Time)
+# Live Match : 13
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="Cricket",Ireland vs Afghanistan
 https://fancode-bd.sm-monirul.top/4248051/index.m3u8
@@ -15,6 +15,10 @@ https://fancode-bd.sm-monirul.top/4248336/index.m3u8
 https://fancode-bd.sm-monirul.top/4248219/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg" group-title="Football",Sheffield United F.C. vs Birmingham City F.C.
 https://fancode-bd.sm-monirul.top/4247469/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png" group-title="Football",Deportivo Alaves vs Getafe CF
+https://fancode-bd.sm-monirul.top/4247576/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png" group-title="Football",Real Oviedo vs Granada
+https://fancode-bd.sm-monirul.top/4248178/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="Cricket",Oman vs Goa
 https://fancode-bd.sm-monirul.top/4248365/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Golf",Main Feed - Day 3
@@ -23,7 +27,7 @@ https://fancode-bd.sm-monirul.top/4248408/index.m3u8
 https://fancode-bd.sm-monirul.top/4248114/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",World Feed
 https://fancode-bd.sm-monirul.top/4248115/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png" group-title="Football",Real Oviedo vs Granada
-https://fancode-bd.sm-monirul.top/4248178/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Court 8
 https://fancode-bd.sm-monirul.top/4248116/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Golf",World Feed - Day 3
+https://fancode-bd.sm-monirul.top/4248404/index.m3u8
