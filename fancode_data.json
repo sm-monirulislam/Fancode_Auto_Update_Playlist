@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:45:05 AM 16-08-2026",
+    "last_update_time": "04:19:36 AM 16-08-2026",
     "total_matches": 36,
     "live_match": 7,
     "matches": [
@@ -352,18 +352,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Barbados Tridents",
-            "match_id": 4248284,
-            "startTime": "04:30:00 AM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "New Delhi Tigers vs East Delhi Riders (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
             "team_1": "New Delhi Tigers",
@@ -372,6 +360,18 @@
             "match_name": "New Delhi Tigers vs East Delhi Riders",
             "match_id": 4247996,
             "startTime": "01:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Barbados Tridents",
+            "match_id": 4248284,
+            "startTime": "04:30:00 AM 17-08-2026"
         },
         {
             "status": "UPCOMING",
