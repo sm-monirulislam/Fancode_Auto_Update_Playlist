@@ -1,6 +1,8 @@
 name: FanCode Auto Update
 
 on:
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
