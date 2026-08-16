@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:37:09 PM 16-08-2026",
+    "last_update_time": "01:30:15 PM 16-08-2026",
     "total_matches": 36,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248115,
-            "startTime": "08:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248115/index.m3u8"
+            "event_category": "Motorsports",
+            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "Race 2",
+            "match_id": 143816,
+            "startTime": "12:40:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/143816/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -131,24 +131,12 @@
             "status": "UPCOMING",
             "event_category": "Football",
             "title": "Liverpool vs Como (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg",
             "team_1": "Liverpool",
             "team_2": "Como",
             "event_name": "Club Friendlies 2026",
             "match_name": "Liverpool vs Como",
             "match_id": 4248027,
-            "startTime": "10:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Girona FC vs Leganés",
-            "match_id": 4248179,
             "startTime": "10:30:00 PM 16-08-2026"
         },
         {
@@ -165,15 +153,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 2",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "Race 2",
-            "match_id": 143816,
-            "startTime": "12:40:00 PM 16-08-2026"
+            "event_category": "Football",
+            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Leganés",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Girona FC vs Leganés",
+            "match_id": 4248179,
+            "startTime": "10:30:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -261,6 +249,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248120,
+            "startTime": "08:30:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "title": "World Feed - Day 4 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
@@ -304,32 +304,8 @@
             "team_2": "Cincinnati, United States",
             "event_name": "ATP Masters Cincinnati Open 2026",
             "match_name": "ATP Masters Cincinnati Open 2026",
-            "match_id": 4248120,
-            "startTime": "10:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "ATP Masters Cincinnati Open 2026",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248121,
             "startTime": "10:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Barbados Tridents",
-            "match_id": 4248284,
-            "startTime": "04:30:00 AM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -354,6 +330,18 @@
             "match_name": "Noida Kings vs Lucknow Falcons",
             "match_id": 4248333,
             "startTime": "07:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Barbados Tridents",
+            "match_id": 4248284,
+            "startTime": "04:30:00 AM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -437,6 +425,18 @@
             "event_name": "ATP Masters Cincinnati Open 2026",
             "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248122,
+            "startTime": "10:00:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248123,
             "startTime": "10:00:00 PM 17-08-2026"
         }
     ]
