@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:36:01 PM 16-08-2026",
+    "last_update_time": "07:30:23 PM 16-08-2026",
     "total_matches": 37,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -21,6 +21,19 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Outer Delhi Warriors vs Purani Dilli-6 (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "Purani Dilli-6",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Outer Delhi Warriors vs Purani Dilli-6",
+            "match_id": 4247998,
+            "startTime": "07:00:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247998/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Football",
             "title": "Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
@@ -31,19 +44,6 @@
             "match_id": 4247470,
             "startTime": "06:00:00 PM 16-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4247470/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Motorsports",
-            "title": "DTM 2026 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "DTM 2026",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "DTM 2026",
-            "match_id": 143817,
-            "startTime": "05:00:00 PM 16-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/143817/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -59,16 +59,17 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248409/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Outer Delhi Warriors vs Purani Dilli-6 (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
-            "team_1": "Outer Delhi Warriors",
-            "team_2": "Purani Dilli-6",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Outer Delhi Warriors vs Purani Dilli-6",
-            "match_id": 4247998,
-            "startTime": "07:00:00 PM 16-08-2026"
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "Race 2",
+            "match_id": 143819,
+            "startTime": "06:40:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/143819/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -180,15 +181,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Girona FC vs Leganés",
-            "match_id": 4248179,
-            "startTime": "10:30:00 PM 16-08-2026"
+            "event_category": "Cricket",
+            "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+            "team_1": "West Delhi Lions",
+            "team_2": "South Delhi Superstarz",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "West Delhi Lions vs South Delhi Superstarz",
+            "match_id": 4247993,
+            "startTime": "07:00:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -217,18 +218,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
-            "team_1": "West Delhi Lions",
-            "team_2": "South Delhi Superstarz",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "West Delhi Lions vs South Delhi Superstarz",
-            "match_id": 4247993,
-            "startTime": "07:00:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
             "team_1": "Noida Kings",
@@ -240,15 +229,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 2",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "Race 2",
-            "match_id": 143819,
-            "startTime": "06:40:00 PM 16-08-2026"
+            "event_category": "Football",
+            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Leganés",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Girona FC vs Leganés",
+            "match_id": 4248179,
+            "startTime": "10:30:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +441,18 @@
             "event_name": "ICC CWC Challenge League B 2026",
             "match_name": "Bahrain vs Uganda",
             "match_id": 4248262,
+            "startTime": "11:30:00 AM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Tanzania vs Italy (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Tanzania",
+            "team_2": "Italy",
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Tanzania vs Italy",
+            "match_id": 4248264,
             "startTime": "11:30:00 AM 18-08-2026"
         }
     ]
