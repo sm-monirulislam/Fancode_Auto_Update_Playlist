@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:18:20 AM 17-08-2026",
+    "last_update_time": "03:44:40 AM 17-08-2026",
     "total_matches": 36,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Southwind - Memphis, Tennessee",
-            "event_name": "FedEx St. Jude Championship 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 4248409,
-            "startTime": "05:15:00 PM 16-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248409/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -442,6 +429,18 @@
             "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248129,
             "startTime": "10:00:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
+            "match_id": 4248281,
+            "startTime": "05:30:00 AM 19-08-2026"
         }
     ]
 }
