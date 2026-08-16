@@ -2,11 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:44:44 PM 16-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 06:36:01 PM 16-08-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png" group-title="Cricket",Kanpur Superstars vs Kashi Rudras
 https://fancode-bd.sm-monirul.top/4248340/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg" group-title="Football",Watford F.C. vs Southampton F.C.
+https://fancode-bd.sm-monirul.top/4247470/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Motorsports",DTM 2026
 https://fancode-bd.sm-monirul.top/143817/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Golf",Main Feed - Day 4
