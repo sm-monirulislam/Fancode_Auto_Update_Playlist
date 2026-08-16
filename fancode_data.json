@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:22:16 PM 16-08-2026",
+    "last_update_time": "10:50:31 PM 16-08-2026",
     "total_matches": 38,
-    "live_match": 11,
+    "live_match": 14,
     "matches": [
         {
             "status": "LIVE",
@@ -70,6 +70,45 @@
             "match_id": 4248026,
             "startTime": "08:30:00 PM 16-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248026/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Levante",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "RCD Espanyol vs Levante",
+            "match_id": 4247573,
+            "startTime": "10:30:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247573/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Liverpool vs Como (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Como",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Liverpool vs Como",
+            "match_id": 4248027,
+            "startTime": "10:30:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248027/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Leganés",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Girona FC vs Leganés",
+            "match_id": 4248179,
+            "startTime": "10:30:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248179/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -151,18 +190,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Levante",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "RCD Espanyol vs Levante",
-            "match_id": 4247573,
-            "startTime": "10:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "New Delhi Tigers vs East Delhi Riders (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
@@ -172,30 +199,6 @@
             "match_name": "New Delhi Tigers vs East Delhi Riders",
             "match_id": 4247996,
             "startTime": "01:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Liverpool vs Como (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg",
-            "team_1": "Liverpool",
-            "team_2": "Como",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Liverpool vs Como",
-            "match_id": 4248027,
-            "startTime": "10:30:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Girona FC vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Girona FC vs Leganés",
-            "match_id": 4248179,
-            "startTime": "10:30:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -295,18 +298,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Barbados Tridents",
-            "match_id": 4248284,
-            "startTime": "04:30:00 AM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",
@@ -340,6 +331,18 @@
             "match_name": "Sporting de Gijón vs CE Sabadell",
             "match_id": 4248180,
             "startTime": "10:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Barbados Tridents",
+            "match_id": 4248284,
+            "startTime": "04:30:00 AM 17-08-2026"
         },
         {
             "status": "UPCOMING",

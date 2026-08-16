@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:22:16 PM 16-08-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 10:50:31 PM 16-08-2026 (BD Time)
+# Live Match : 14
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png" group-title="Cricket",Outer Delhi Warriors vs Purani Dilli-6
 https://fancode-bd.sm-monirul.top/4247998/index.m3u8
@@ -15,6 +15,12 @@ https://fancode-bd.sm-monirul.top/4247471/index.m3u8
 https://fancode-bd.sm-monirul.top/4247575/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248026_53006_SCH_RM_FC-WEB.png" group-title="Football",FC Schalke 04 vs Real Madrid
 https://fancode-bd.sm-monirul.top/4248026/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png" group-title="Football",RCD Espanyol vs Levante
+https://fancode-bd.sm-monirul.top/4247573/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg" group-title="Football",Liverpool vs Como
+https://fancode-bd.sm-monirul.top/4248027/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248179_53017_GIR_LEG_FC-Web.png" group-title="Football",Girona FC vs Leganés
+https://fancode-bd.sm-monirul.top/4248179/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Golf",Main Feed - Day 4
 https://fancode-bd.sm-monirul.top/4248409/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",P&G Stadium Court
