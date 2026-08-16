@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:19:16 PM 16-08-2026",
-    "total_matches": 38,
-    "live_match": 2,
+    "last_update_time": "05:44:44 PM 16-08-2026",
+    "total_matches": 37,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Central Delhi Kings",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Central Delhi Kings",
-            "match_id": 4247990,
-            "startTime": "01:30:00 PM 16-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247990/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -31,6 +18,32 @@
             "match_id": 4248340,
             "startTime": "03:00:00 PM 16-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248340/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "title": "DTM 2026 vs Nurburgring, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "DTM 2026",
+            "team_2": "Nurburgring, Germany",
+            "event_name": "DTM 2026",
+            "match_name": "DTM 2026",
+            "match_id": 143817,
+            "startTime": "05:00:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/143817/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Southwind - Memphis, Tennessee",
+            "event_name": "FedEx St. Jude Championship 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 4248409,
+            "startTime": "05:15:00 PM 16-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248409/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -58,18 +71,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "New Delhi Tigers vs East Delhi Riders (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
-            "team_1": "New Delhi Tigers",
-            "team_2": "East Delhi Riders",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "New Delhi Tigers vs East Delhi Riders",
-            "match_id": 4247996,
-            "startTime": "01:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
@@ -79,6 +80,18 @@
             "match_name": "Watford F.C. vs Southampton F.C.",
             "match_id": 4247470,
             "startTime": "06:00:00 PM 16-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "New Delhi Tigers vs East Delhi Riders (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
+            "team_1": "New Delhi Tigers",
+            "team_2": "East Delhi Riders",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "New Delhi Tigers vs East Delhi Riders",
+            "match_id": 4247996,
+            "startTime": "01:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -199,30 +212,6 @@
             "match_name": "Bulgaria vs Isle of Man",
             "match_id": 4248384,
             "startTime": "01:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "DTM 2026 vs Nurburgring, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "DTM 2026",
-            "team_2": "Nurburgring, Germany",
-            "event_name": "DTM 2026",
-            "match_name": "DTM 2026",
-            "match_id": 143817,
-            "startTime": "05:00:00 PM 16-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Southwind - Memphis, Tennessee",
-            "event_name": "FedEx St. Jude Championship 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 4248409,
-            "startTime": "05:15:00 PM 16-08-2026"
         },
         {
             "status": "UPCOMING",
