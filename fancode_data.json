@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:44:19 AM 16-08-2026",
+    "last_update_time": "07:12:36 AM 16-08-2026",
     "total_matches": 36,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -35,19 +35,6 @@
         {
             "status": "LIVE",
             "event_category": "Tennis",
-            "title": "Court 8 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Court 8",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Court 8",
-            "match_id": 4248116,
-            "startTime": "10:30:00 PM 15-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248116/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
             "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
             "team_1": "Tony Trabert Stadium 3",
@@ -61,12 +48,12 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "title": "Trinbago Knight Riders vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "Trinbago Knight Riders",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Jamaica Kingsmen",
             "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
+            "match_name": "Trinbago Knight Riders vs Jamaica Kingsmen",
             "match_id": 4248289,
             "startTime": "05:30:00 AM 16-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248289/index.m3u8"
@@ -442,6 +429,18 @@
             "match_name": "Oman vs Goa",
             "match_id": 4248366,
             "startTime": "04:00:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "CE Sabadell",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Sporting de Gijón vs CE Sabadell",
+            "match_id": 4248180,
+            "startTime": "10:30:00 PM 17-08-2026"
         }
     ]
 }
