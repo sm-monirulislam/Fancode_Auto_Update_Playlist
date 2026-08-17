@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:48:58 AM 17-08-2026",
+    "last_update_time": "10:40:09 AM 17-08-2026",
     "total_matches": 36,
-    "live_match": 2,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248120,
-            "startTime": "08:30:00 PM 16-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248120/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Barbados Tridents vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Barbados Tridents vs Saint Lucia Kings",
-            "match_id": 4248284,
-            "startTime": "04:30:00 AM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248284/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -439,6 +413,30 @@
             "match_name": "Lucknow Falcons vs Meerut Mavericks",
             "match_id": 4248329,
             "startTime": "07:30:00 PM 19-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Málaga (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Málaga",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Atletico de Madrid vs Málaga",
+            "match_id": 4247577,
+            "startTime": "12:30:00 AM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248130,
+            "startTime": "10:00:00 PM 19-08-2026"
         }
     ]
 }
