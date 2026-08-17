@@ -2,10 +2,49 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:40:34 PM 17-08-2026",
-    "total_matches": 37,
-    "live_match": 1,
+    "last_update_time": "07:38:02 PM 17-08-2026",
+    "total_matches": 38,
+    "live_match": 4,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+            "team_1": "West Delhi Lions",
+            "team_2": "South Delhi Superstarz",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "West Delhi Lions vs South Delhi Superstarz",
+            "match_id": 4247993,
+            "startTime": "07:00:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247993/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Spain vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
+            "team_1": "Spain",
+            "team_2": "Luxembourg",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Spain vs Luxembourg",
+            "match_id": 4248383,
+            "startTime": "06:30:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248383/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Greece vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg",
+            "team_1": "Greece",
+            "team_2": "Portugal",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Greece vs Portugal",
+            "match_id": 4248385,
+            "startTime": "06:30:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248385/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -22,18 +61,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
-            "team_1": "West Delhi Lions",
-            "team_2": "South Delhi Superstarz",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "West Delhi Lions vs South Delhi Superstarz",
-            "match_id": 4247993,
-            "startTime": "07:00:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
             "team_1": "Noida Kings",
@@ -42,30 +69,6 @@
             "match_name": "Noida Kings vs Lucknow Falcons",
             "match_id": 4248333,
             "startTime": "07:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Luxembourg vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
-            "team_1": "Luxembourg",
-            "team_2": "Spain",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Luxembourg vs Spain",
-            "match_id": 4248383,
-            "startTime": "06:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Greece vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg",
-            "team_1": "Greece",
-            "team_2": "Portugal",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Greece vs Portugal",
-            "match_id": 4248385,
-            "startTime": "06:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -129,15 +132,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
-            "team_1": "Sporting de Gijón",
-            "team_2": "CE Sabadell",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Sporting de Gijón vs CE Sabadell",
-            "match_id": 4248180,
-            "startTime": "10:30:00 PM 17-08-2026"
+            "event_category": "Cricket",
+            "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+            "team_1": "East Delhi Riders",
+            "team_2": "Central Delhi Kings",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "East Delhi Riders vs Central Delhi Kings",
+            "match_id": 4247992,
+            "startTime": "07:00:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -166,18 +169,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-            "team_1": "East Delhi Riders",
-            "team_2": "Central Delhi Kings",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "East Delhi Riders vs Central Delhi Kings",
-            "match_id": 4247992,
-            "startTime": "07:00:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
             "team_1": "Gaur Gorakhpur Lions",
@@ -186,6 +177,18 @@
             "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
             "match_id": 4248338,
             "startTime": "07:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "CE Sabadell",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Sporting de Gijón vs CE Sabadell",
+            "match_id": 4248180,
+            "startTime": "10:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -449,6 +452,18 @@
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "match_name": "Bulgaria vs Luxembourg",
             "match_id": 4248381,
+            "startTime": "01:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Rovers FC Women vs East Bengal FC Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://images.fancode.com/aig/match/v1786951996568/4248495_CASACARDS_APP.png",
+            "team_1": "Rovers FC Women",
+            "team_2": "East Bengal FC Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "Rovers FC Women vs East Bengal FC Women",
+            "match_id": 4248495,
             "startTime": "01:30:00 PM 20-08-2026"
         }
     ]
