@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:54:19 AM 18-08-2026",
+    "last_update_time": "03:24:40 AM 18-08-2026",
     "total_matches": 37,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",
-            "team_1": "Cardiff City",
-            "team_2": "Wrexham A.F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Cardiff City vs Wrexham A.F.C.",
-            "match_id": 4247472,
-            "startTime": "12:30:00 AM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247472/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Deportivo de La Coruna vs Elche CF",
-            "match_id": 4247574,
-            "startTime": "12:30:00 AM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247574/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -70,6 +44,19 @@
             "match_id": 4248122,
             "startTime": "10:30:00 PM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248122/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",
+            "team_1": "Deportivo de La Coruna",
+            "team_2": "Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Deportivo de La Coruna vs Elche CF",
+            "match_id": 4247574,
+            "startTime": "12:30:00 AM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247574/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -454,6 +441,18 @@
             "match_name": "Al-Fayha FC vs Al Hilal SFC",
             "match_id": 4248270,
             "startTime": "11:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 4248414,
+            "startTime": "07:45:00 PM 20-08-2026"
         }
     ]
 }
