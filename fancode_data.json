@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:52:11 PM 17-08-2026",
-    "total_matches": 36,
+    "last_update_time": "02:41:44 PM 17-08-2026",
+    "total_matches": 37,
     "live_match": 6,
     "matches": [
         {
@@ -243,6 +243,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
+            "match_id": 4248338,
+            "startTime": "07:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Oman vs Goa (Goa tour of Oman 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
             "team_1": "Oman",
@@ -287,18 +299,6 @@
             "match_name": "Tony Trabert Stadium 3",
             "match_id": 4248122,
             "startTime": "10:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
-            "match_id": 4248338,
-            "startTime": "07:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -442,6 +442,18 @@
             "event_name": "ATP Masters Cincinnati Open 2026",
             "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248130,
+            "startTime": "10:00:00 PM 19-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248131,
             "startTime": "10:00:00 PM 19-08-2026"
         }
     ]
