@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:40:09 AM 17-08-2026",
+    "last_update_time": "11:33:35 AM 17-08-2026",
     "total_matches": 36,
     "live_match": 0,
     "matches": [
@@ -189,6 +189,30 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Germany vs Greece (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg",
+            "team_1": "Germany",
+            "team_2": "Greece",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Germany vs Greece",
+            "match_id": 4248375,
+            "startTime": "01:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Finland vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg",
+            "team_1": "Finland",
+            "team_2": "Luxembourg",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Finland vs Luxembourg",
+            "match_id": 4248379,
+            "startTime": "01:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Oman vs Goa (Goa tour of Oman 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
             "team_1": "Oman",
@@ -245,30 +269,6 @@
             "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248125,
             "startTime": "10:00:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Germany vs Greece (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Greece",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Germany vs Greece",
-            "match_id": 4248375,
-            "startTime": "01:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Finland vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg",
-            "team_1": "Finland",
-            "team_2": "Luxembourg",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Finland vs Luxembourg",
-            "match_id": 4248379,
-            "startTime": "01:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
