@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:30:51 PM 17-08-2026",
+    "last_update_time": "05:23:32 PM 17-08-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "match_id": 4248261,
             "startTime": "11:30:00 AM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248261/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Israel vs Germany (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
-            "team_1": "Israel",
-            "team_2": "Germany",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Israel vs Germany",
-            "match_id": 4248367,
-            "startTime": "01:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248367/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,6 +85,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
+            "team_1": "Purani Dilli-6",
+            "team_2": "North Delhi Strikers",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Purani Dilli-6 vs North Delhi Strikers",
+            "match_id": 4247994,
+            "startTime": "01:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Luxembourg vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
             "team_1": "Luxembourg",
@@ -118,18 +117,6 @@
             "match_name": "Greece vs Portugal",
             "match_id": 4248385,
             "startTime": "06:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "North Delhi Strikers",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Purani Dilli-6 vs North Delhi Strikers",
-            "match_id": 4247994,
-            "startTime": "01:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -157,18 +144,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
-            "team_1": "Sporting de Gijón",
-            "team_2": "CE Sabadell",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Sporting de Gijón vs CE Sabadell",
-            "match_id": 4248180,
-            "startTime": "10:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Bahrain vs Uganda (ICC CWC Challenge League B 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
@@ -190,6 +165,18 @@
             "match_name": "Tanzania vs Italy",
             "match_id": 4248264,
             "startTime": "11:30:00 AM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "CE Sabadell",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Sporting de Gijón vs CE Sabadell",
+            "match_id": 4248180,
+            "startTime": "10:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +453,18 @@
             "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
             "match_id": 4248285,
             "startTime": "04:30:00 AM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Noida Kings",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Noida Kings",
+            "match_id": 4248331,
+            "startTime": "03:00:00 PM 20-08-2026"
         }
     ]
 }
