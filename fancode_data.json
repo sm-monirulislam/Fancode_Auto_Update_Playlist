@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:50:26 AM 18-08-2026",
+    "last_update_time": "04:22:29 AM 18-08-2026",
     "total_matches": 37,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -44,19 +44,6 @@
             "match_id": 4248122,
             "startTime": "10:30:00 PM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248122/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Deportivo de La Coruna vs Elche CF",
-            "match_id": 4247574,
-            "startTime": "12:30:00 AM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247574/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -453,6 +440,18 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 4248414,
             "startTime": "07:45:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Rayo Vallecano vs Deportivo Alaves",
+            "match_id": 4247586,
+            "startTime": "12:30:00 AM 21-08-2026"
         }
     ]
 }
