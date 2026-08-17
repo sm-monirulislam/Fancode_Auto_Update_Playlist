@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:23:32 PM 17-08-2026",
+    "last_update_time": "05:50:13 PM 17-08-2026",
     "total_matches": 38,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "match_id": 4248261,
             "startTime": "11:30:00 AM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248261/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Isle of Man vs Bulgaria (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
-            "team_1": "Isle of Man",
-            "team_2": "Bulgaria",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Isle of Man vs Bulgaria",
-            "match_id": 4248384,
-            "startTime": "01:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248384/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -465,6 +452,18 @@
             "match_name": "Gaur Gorakhpur Lions vs Noida Kings",
             "match_id": 4248331,
             "startTime": "03:00:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Czechia vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg",
+            "team_1": "Czechia",
+            "team_2": "Portugal",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Czechia vs Portugal",
+            "match_id": 4248378,
+            "startTime": "01:30:00 PM 20-08-2026"
         }
     ]
 }
