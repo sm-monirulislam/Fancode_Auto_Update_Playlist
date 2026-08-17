@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:54:25 PM 17-08-2026",
+    "last_update_time": "09:49:43 PM 17-08-2026",
     "total_matches": 39,
     "live_match": 7,
     "matches": [
@@ -111,6 +111,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+            "team_1": "East Delhi Riders",
+            "team_2": "Central Delhi Kings",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "East Delhi Riders vs Central Delhi Kings",
+            "match_id": 4247992,
+            "startTime": "07:00:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",
@@ -136,14 +148,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-            "team_1": "East Delhi Riders",
-            "team_2": "Central Delhi Kings",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "East Delhi Riders vs Central Delhi Kings",
-            "match_id": 4247992,
-            "startTime": "07:00:00 PM 18-08-2026"
+            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
+            "match_id": 4248338,
+            "startTime": "07:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -168,18 +180,6 @@
             "match_name": "Tanzania vs Italy",
             "match_id": 4248264,
             "startTime": "11:30:00 AM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
-            "match_id": 4248338,
-            "startTime": "07:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
