@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:25:00 PM 17-08-2026",
+    "last_update_time": "10:55:15 PM 17-08-2026",
     "total_matches": 39,
     "live_match": 7,
     "matches": [
@@ -34,29 +34,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Spain vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
-            "team_1": "Spain",
-            "team_2": "Luxembourg",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Spain vs Luxembourg",
-            "match_id": 4248383,
-            "startTime": "06:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248383/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Greece vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg",
-            "team_1": "Greece",
-            "team_2": "Portugal",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Greece vs Portugal",
-            "match_id": 4248385,
-            "startTime": "06:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248385/index.m3u8"
+            "event_category": "Football",
+            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "CE Sabadell",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Sporting de Gijón vs CE Sabadell",
+            "match_id": 4248180,
+            "startTime": "10:30:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248180/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,6 +85,19 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248124/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Tony Trabert Stadium 3",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Tony Trabert Stadium 3",
+            "match_id": 4248122,
+            "startTime": "10:30:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248122/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
@@ -108,18 +108,6 @@
             "match_name": "Purani Dilli-6 vs North Delhi Strikers",
             "match_id": 4247994,
             "startTime": "01:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
-            "team_1": "Sporting de Gijón",
-            "team_2": "CE Sabadell",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Sporting de Gijón vs CE Sabadell",
-            "match_id": 4248180,
-            "startTime": "10:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -240,18 +228,6 @@
             "match_name": "Bulgaria vs Spain",
             "match_id": 4248382,
             "startTime": "06:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Tony Trabert Stadium 3",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Tony Trabert Stadium 3",
-            "match_id": 4248122,
-            "startTime": "10:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -480,6 +456,30 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras",
             "match_id": 4248339,
             "startTime": "07:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Finland vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg",
+            "team_1": "Finland",
+            "team_2": "Isle of Man",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Finland vs Isle of Man",
+            "match_id": 4248373,
+            "startTime": "06:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Greece vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248388_53031_GRE_ISR_fc-web.jpg",
+            "team_1": "Greece",
+            "team_2": "Israel",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Greece vs Israel",
+            "match_id": 4248388,
+            "startTime": "06:30:00 PM 20-08-2026"
         }
     ]
 }
