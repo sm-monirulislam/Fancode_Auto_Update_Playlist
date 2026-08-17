@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:42:45 AM 18-08-2026",
+    "last_update_time": "01:26:53 AM 18-08-2026",
     "total_matches": 37,
-    "live_match": 6,
+    "live_match": 5,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",
+            "team_1": "Cardiff City",
+            "team_2": "Wrexham A.F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "Cardiff City vs Wrexham A.F.C.",
+            "match_id": 4247472,
+            "startTime": "12:30:00 AM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247472/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -18,32 +31,6 @@
             "match_id": 4247574,
             "startTime": "12:30:00 AM 18-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4247574/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
-            "team_1": "Sporting de Gijón",
-            "team_2": "CE Sabadell",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Sporting de Gijón vs CE Sabadell",
-            "match_id": 4248180,
-            "startTime": "10:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248180/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Oman vs Goa (Goa tour of Oman 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
-            "team_1": "Oman",
-            "team_2": "Goa",
-            "event_name": "Goa tour of Oman 2026",
-            "match_name": "Oman vs Goa",
-            "match_id": 4248366,
-            "startTime": "04:00:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248366/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -95,18 +82,6 @@
             "match_name": "Purani Dilli-6 vs North Delhi Strikers",
             "match_id": 4247994,
             "startTime": "01:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",
-            "team_1": "Cardiff City",
-            "team_2": "Wrexham A.F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "Cardiff City vs Wrexham A.F.C.",
-            "match_id": 4247472,
-            "startTime": "12:30:00 AM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -455,6 +430,30 @@
             "match_name": "Greece vs Israel",
             "match_id": 4248388,
             "startTime": "06:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
+            "team_1": "South Delhi Superstarz Women",
+            "team_2": "Central Delhi Queens",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "South Delhi Superstarz Women vs Central Delhi Queens",
+            "match_id": 4247559,
+            "startTime": "07:00:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Al-Fayha FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248270_53025_ALF_AHS_FC-Web.png",
+            "team_1": "Al-Fayha FC",
+            "team_2": "Al Hilal SFC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Fayha FC vs Al Hilal SFC",
+            "match_id": 4248270,
+            "startTime": "11:30:00 PM 20-08-2026"
         }
     ]
 }
