@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:38:02 PM 17-08-2026",
-    "total_matches": 38,
-    "live_match": 4,
+    "last_update_time": "08:26:17 PM 17-08-2026",
+    "total_matches": 39,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,19 @@
             "match_id": 4247993,
             "startTime": "07:00:00 PM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4247993/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+            "team_1": "Noida Kings",
+            "team_2": "Lucknow Falcons",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Lucknow Falcons",
+            "match_id": 4248333,
+            "startTime": "07:30:00 PM 17-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248333/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -57,18 +70,6 @@
             "match_id": 4248366,
             "startTime": "04:00:00 PM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248366/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-            "team_1": "Noida Kings",
-            "team_2": "Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Lucknow Falcons",
-            "match_id": 4248333,
-            "startTime": "07:30:00 PM 17-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -145,6 +146,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
+            "match_id": 4248338,
+            "startTime": "07:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Germany vs Greece (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg",
             "team_1": "Germany",
@@ -168,18 +181,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
-            "match_id": 4248338,
-            "startTime": "07:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Sporting de Gijón vs CE Sabadell (LALIGA Hypermotion 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248180_53017_SG_CES_FC-Web.png",
@@ -189,30 +190,6 @@
             "match_name": "Sporting de Gijón vs CE Sabadell",
             "match_id": 4248180,
             "startTime": "10:30:00 PM 17-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Czechia vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
-            "team_1": "Czechia",
-            "team_2": "Israel",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Czechia vs Israel",
-            "match_id": 4248374,
-            "startTime": "06:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Bulgaria vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
-            "team_1": "Bulgaria",
-            "team_2": "Spain",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Bulgaria vs Spain",
-            "match_id": 4248382,
-            "startTime": "06:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -237,6 +214,30 @@
             "match_name": "Court 4",
             "match_id": 4248124,
             "startTime": "08:30:00 PM 17-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Czechia vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
+            "team_1": "Czechia",
+            "team_2": "Israel",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Czechia vs Israel",
+            "match_id": 4248374,
+            "startTime": "06:30:00 PM 18-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Bulgaria vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
+            "team_1": "Bulgaria",
+            "team_2": "Spain",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Bulgaria vs Spain",
+            "match_id": 4248382,
+            "startTime": "06:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -465,6 +466,18 @@
             "match_name": "Rovers FC Women vs East Bengal FC Women",
             "match_id": 4248495,
             "startTime": "01:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kanpur Superstars vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kanpur Superstars vs Kashi Rudras",
+            "match_id": 4248339,
+            "startTime": "07:30:00 PM 20-08-2026"
         }
     ]
 }
