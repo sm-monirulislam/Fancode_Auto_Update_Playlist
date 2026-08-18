@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:32:05 PM 18-08-2026",
+    "last_update_time": "09:30:23 PM 18-08-2026",
     "total_matches": 39,
     "live_match": 4,
     "matches": [
@@ -47,16 +47,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Bulgaria vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
-            "team_1": "Bulgaria",
-            "team_2": "Spain",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Bulgaria vs Spain",
-            "match_id": 4248382,
-            "startTime": "06:30:00 PM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248382/index.m3u8"
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248127,
+            "startTime": "08:30:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248127/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -93,18 +93,6 @@
             "match_name": "Lucknow Falcons vs Meerut Mavericks",
             "match_id": 4248329,
             "startTime": "07:30:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248127,
-            "startTime": "08:30:00 PM 18-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -477,6 +465,18 @@
             "match_name": "Australian Capital Territory vs Hyderabad Kingsmen",
             "match_id": 4248428,
             "startTime": "11:00:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Outer Delhi Warriors vs East Delhi Riders (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "East Delhi Riders",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Outer Delhi Warriors vs East Delhi Riders",
+            "match_id": 4247999,
+            "startTime": "07:00:00 PM 21-08-2026"
         }
     ]
 }
