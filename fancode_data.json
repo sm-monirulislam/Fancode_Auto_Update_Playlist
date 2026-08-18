@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:56:07 AM 18-08-2026",
+    "last_update_time": "12:44:29 PM 18-08-2026",
     "total_matches": 37,
     "live_match": 2,
     "matches": [
@@ -155,18 +155,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
-            "match_id": 4248281,
-            "startTime": "05:30:00 AM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "New Delhi Tigers vs West Delhi Lions (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247991_53005_NDT_WDL_fc-Web_1786618029951.png",
             "team_1": "New Delhi Tigers",
@@ -175,6 +163,18 @@
             "match_name": "New Delhi Tigers vs West Delhi Lions",
             "match_id": 4247991,
             "startTime": "07:00:00 PM 19-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
+            "match_id": 4248281,
+            "startTime": "05:30:00 AM 19-08-2026"
         },
         {
             "status": "UPCOMING",
