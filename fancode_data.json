@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:30:23 PM 18-08-2026",
+    "last_update_time": "10:29:10 PM 18-08-2026",
     "total_matches": 39,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -59,6 +59,19 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248127/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "Court 4 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Court 4",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Court 4",
+            "match_id": 4248129,
+            "startTime": "10:00:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248129/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "North Delhi Strikers vs South Delhi Superstarz (Delhi Premier League, 2026)",
@@ -96,15 +109,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "Court 4 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Court 4",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Court 4",
-            "match_id": 4248129,
-            "startTime": "10:00:00 PM 18-08-2026"
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Málaga (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Málaga",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Atletico de Madrid vs Málaga",
+            "match_id": 4247577,
+            "startTime": "12:30:00 AM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -117,18 +130,6 @@
             "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
             "match_id": 4248281,
             "startTime": "05:30:00 AM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Málaga (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Málaga",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Atletico de Madrid vs Málaga",
-            "match_id": 4247577,
-            "startTime": "12:30:00 AM 20-08-2026"
         },
         {
             "status": "UPCOMING",
