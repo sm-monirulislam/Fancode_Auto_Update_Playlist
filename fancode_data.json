@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:42:09 PM 18-08-2026",
+    "last_update_time": "07:40:40 PM 18-08-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "North Delhi Strikers",
+            "title": "Central Delhi Kings vs East Delhi Riders (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "East Delhi Riders",
             "event_name": "Delhi Premier League, 2026",
-            "match_name": "Purani Dilli-6 vs North Delhi Strikers",
-            "match_id": 4247994,
-            "startTime": "01:30:00 PM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247994/index.m3u8"
+            "match_name": "Central Delhi Kings vs East Delhi Riders",
+            "match_id": 4247992,
+            "startTime": "07:00:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247992/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -33,31 +33,7 @@
             "stream_link": "https://fancode-bd.sm-monirul.top/4248262/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-            "team_1": "East Delhi Riders",
-            "team_2": "Central Delhi Kings",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "East Delhi Riders vs Central Delhi Kings",
-            "match_id": 4247992,
-            "startTime": "07:00:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
-            "match_id": 4248338,
-            "startTime": "07:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Czechia vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
@@ -66,10 +42,11 @@
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "match_name": "Czechia vs Israel",
             "match_id": 4248374,
-            "startTime": "06:30:00 PM 18-08-2026"
+            "startTime": "06:30:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248374/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Bulgaria vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
@@ -78,7 +55,21 @@
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "match_name": "Bulgaria vs Spain",
             "match_id": 4248382,
-            "startTime": "06:30:00 PM 18-08-2026"
+            "startTime": "06:30:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248382/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Gaur Gorakhpur Lions vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Kashi Rudras",
+            "match_id": 4248338,
+            "startTime": "07:30:00 PM 18-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248338/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +454,18 @@
             "match_name": "Meerut Mavericks vs Noida Kings",
             "match_id": 4248332,
             "startTime": "03:00:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4248386,
+            "startTime": "01:30:00 PM 21-08-2026"
         }
     ]
 }
