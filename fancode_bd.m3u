@@ -2,12 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:35:32 AM 18-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 09:42:32 AM 18-08-2026 (BD Time)
+# Live Match : 1
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",World Feed
 https://fancode-bd.sm-monirul.top/4248123/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Court 4
-https://fancode-bd.sm-monirul.top/4248124/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Tony Trabert Stadium 3
-https://fancode-bd.sm-monirul.top/4248122/index.m3u8

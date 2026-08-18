@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:35:32 AM 18-08-2026",
+    "last_update_time": "09:42:32 AM 18-08-2026",
     "total_matches": 37,
-    "live_match": 3,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,32 +18,6 @@
             "match_id": 4248123,
             "startTime": "08:30:00 PM 17-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248123/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "Court 4 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Court 4",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Court 4",
-            "match_id": 4248124,
-            "startTime": "08:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248124/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Tony Trabert Stadium 3",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Tony Trabert Stadium 3",
-            "match_id": 4248122,
-            "startTime": "10:30:00 PM 17-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248122/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +426,30 @@
             "match_name": "Rayo Vallecano vs Deportivo Alaves",
             "match_id": 4247586,
             "startTime": "12:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sheffield Wednesday F.C. vs Bradford City (League One 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png",
+            "team_1": "Sheffield Wednesday F.C.",
+            "team_2": "Bradford City",
+            "event_name": "League One 2026-27",
+            "match_name": "Sheffield Wednesday F.C. vs Bradford City",
+            "match_id": 4248158,
+            "startTime": "12:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248134,
+            "startTime": "10:00:00 PM 20-08-2026"
         }
     ]
 }
