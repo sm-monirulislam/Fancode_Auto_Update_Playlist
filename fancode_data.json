@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:20:27 AM 19-08-2026",
+    "last_update_time": "05:46:41 AM 19-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "match_id": 4248129,
             "startTime": "10:00:00 PM 18-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248129/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
+            "match_id": 4248281,
+            "startTime": "05:30:00 AM 19-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248281/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -79,18 +92,6 @@
             "match_name": "Atletico de Madrid vs Málaga",
             "match_id": 4247577,
             "startTime": "12:30:00 AM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
-            "match_id": 4248281,
-            "startTime": "05:30:00 AM 19-08-2026"
         },
         {
             "status": "UPCOMING",
