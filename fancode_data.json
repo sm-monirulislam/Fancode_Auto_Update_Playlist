@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:26:34 PM 18-08-2026",
+    "last_update_time": "04:56:57 PM 18-08-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,32 +31,6 @@
             "match_id": 4248262,
             "startTime": "11:30:00 AM 18-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248262/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Tanzania vs Italy (ICC CWC Challenge League B 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-            "team_1": "Tanzania",
-            "team_2": "Italy",
-            "event_name": "ICC CWC Challenge League B 2026",
-            "match_name": "Tanzania vs Italy",
-            "match_id": 4248264,
-            "startTime": "11:30:00 AM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248264/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Greece vs Germany (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg",
-            "team_1": "Greece",
-            "team_2": "Germany",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Greece vs Germany",
-            "match_id": 4248375,
-            "startTime": "01:30:00 PM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248375/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,6 +72,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "North Delhi Strikers vs South Delhi Superstarz (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247997_53005_NDS_SDS_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "South Delhi Superstarz",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs South Delhi Superstarz",
+            "match_id": 4247997,
+            "startTime": "01:30:00 PM 19-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Czechia vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
             "team_1": "Czechia",
@@ -118,18 +104,6 @@
             "match_name": "Bulgaria vs Spain",
             "match_id": 4248382,
             "startTime": "06:30:00 PM 18-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247997_53005_NDS_SDS_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "South Delhi Superstarz",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs South Delhi Superstarz",
-            "match_id": 4247997,
-            "startTime": "01:30:00 PM 19-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +440,30 @@
             "match_name": "World Feed - Day 1",
             "match_id": 4248410,
             "startTime": "12:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
+            "match_id": 4248290,
+            "startTime": "04:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Victoria CA XI (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Victoria CA XI",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Victoria CA XI",
+            "match_id": 4248427,
+            "startTime": "06:00:00 AM 21-08-2026"
         }
     ]
 }
