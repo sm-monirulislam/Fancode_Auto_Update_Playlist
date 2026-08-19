@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:54:17 AM 20-08-2026",
+    "last_update_time": "03:23:29 AM 20-08-2026",
     "total_matches": 37,
     "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Málaga (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web_1787121237407.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Málaga",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Atletico de Madrid vs Málaga",
-            "match_id": 4247577,
-            "startTime": "12:30:00 AM 20-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4247577/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -44,6 +31,19 @@
             "match_id": 4248132,
             "startTime": "08:30:00 PM 19-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248132/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Málaga (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web_1787121237407.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Málaga",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Atletico de Madrid vs Málaga",
+            "match_id": 4247577,
+            "startTime": "12:30:00 AM 20-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247577/index.m3u8"
         },
         {
             "status": "UPCOMING",
