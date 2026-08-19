@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:38:13 AM 19-08-2026",
+    "last_update_time": "09:44:49 AM 19-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248127,
-            "startTime": "08:30:00 PM 18-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248127/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -82,54 +69,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "ATP Masters Cincinnati Open 2026",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "ATP Masters Cincinnati Open 2026",
-            "match_id": 4248130,
-            "startTime": "10:00:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "ATP Masters Cincinnati Open 2026",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "ATP Masters Cincinnati Open 2026",
-            "match_id": 4248131,
-            "startTime": "10:00:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "ATP Masters Cincinnati Open 2026",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "ATP Masters Cincinnati Open 2026",
-            "match_id": 4248132,
-            "startTime": "10:00:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "ATP Masters Cincinnati Open 2026",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "ATP Masters Cincinnati Open 2026",
-            "match_id": 4248133,
-            "startTime": "10:00:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
@@ -142,15 +81,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
-            "match_id": 4248285,
-            "startTime": "04:30:00 AM 20-08-2026"
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248131,
+            "startTime": "08:30:00 PM 19-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Tony Trabert Stadium 3",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Tony Trabert Stadium 3",
+            "match_id": 4248132,
+            "startTime": "08:30:00 PM 19-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -187,6 +138,18 @@
             "match_name": "Rovers FC Women vs East Bengal FC Women",
             "match_id": 4248495,
             "startTime": "01:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+            "match_id": 4248285,
+            "startTime": "04:30:00 AM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +414,42 @@
             "match_name": "North Delhi Strikers Women vs East Delhi Riders Women",
             "match_id": 4247558,
             "startTime": "01:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Northern Territory Strike vs Nepal",
+            "match_id": 4248426,
+            "startTime": "02:00:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4248389,
+            "startTime": "06:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4248390,
+            "startTime": "06:30:00 PM 21-08-2026"
         }
     ]
 }
