@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:32:24 PM 19-08-2026",
+    "last_update_time": "04:26:44 PM 19-08-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -117,6 +117,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Finland vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg",
+            "team_1": "Finland",
+            "team_2": "Isle of Man",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Finland vs Isle of Man",
+            "match_id": 4248373,
+            "startTime": "06:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Greece vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248388_53031_GRE_ISR_fc-web.jpg",
+            "team_1": "Greece",
+            "team_2": "Israel",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Greece vs Israel",
+            "match_id": 4248388,
+            "startTime": "06:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -150,30 +174,6 @@
             "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
             "match_id": 4248285,
             "startTime": "04:30:00 AM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Finland vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg",
-            "team_1": "Finland",
-            "team_2": "Isle of Man",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Finland vs Isle of Man",
-            "match_id": 4248373,
-            "startTime": "06:30:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Greece vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248388_53031_GRE_ISR_fc-web.jpg",
-            "team_1": "Greece",
-            "team_2": "Israel",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Greece vs Israel",
-            "match_id": 4248388,
-            "startTime": "06:30:00 PM 20-08-2026"
         },
         {
             "status": "UPCOMING",
