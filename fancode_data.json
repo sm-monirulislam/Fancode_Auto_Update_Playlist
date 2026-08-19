@@ -2,12 +2,12 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:42:42 PM 19-08-2026",
-    "total_matches": 37,
-    "live_match": 0,
+    "last_update_time": "07:42:15 PM 19-08-2026",
+    "total_matches": 38,
+    "live_match": 2,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "New Delhi Tigers vs West Delhi Lions (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247991_53005_NDT_WDL_fc-Web_1786618029951.png",
@@ -16,10 +16,11 @@
             "event_name": "Delhi Premier League, 2026",
             "match_name": "New Delhi Tigers vs West Delhi Lions",
             "match_id": 4247991,
-            "startTime": "07:00:00 PM 19-08-2026"
+            "startTime": "07:00:00 PM 19-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4247991/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Lucknow Falcons vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248329_53029_LCK_MER_FC-Web_1786702851437.png",
@@ -28,7 +29,8 @@
             "event_name": "Uttar Pradesh T20 League, 2026",
             "match_name": "Lucknow Falcons vs Meerut Mavericks",
             "match_id": 4248329,
-            "startTime": "07:30:00 PM 19-08-2026"
+            "startTime": "07:30:00 PM 19-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248329/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -80,18 +82,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Rovers FC Women vs East Bengal FC Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248495_53040_ROFC-W_EBWC_FC-WEB.png",
-            "team_1": "Rovers FC Women",
-            "team_2": "East Bengal FC Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "Rovers FC Women vs East Bengal FC Women",
-            "match_id": 4248495,
-            "startTime": "01:30:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Kanpur Superstars vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
@@ -101,6 +91,18 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras",
             "match_id": 4248339,
             "startTime": "07:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Rovers FC Women vs East Bengal FC Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248495_53040_ROFC-W_EBWC_FC-WEB.png",
+            "team_1": "Rovers FC Women",
+            "team_2": "East Bengal FC Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "Rovers FC Women vs East Bengal FC Women",
+            "match_id": 4248495,
+            "startTime": "01:30:00 PM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -200,18 +202,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 4248414,
-            "startTime": "07:45:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Sheffield Wednesday F.C. vs Bradford City (League One 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png",
@@ -221,6 +211,18 @@
             "match_name": "Sheffield Wednesday F.C. vs Bradford City",
             "match_id": 4248158,
             "startTime": "12:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 4248414,
+            "startTime": "07:45:00 PM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -449,6 +451,18 @@
             "match_name": "Al-Riyadh SC vs Al-Nassr FC",
             "match_id": 4248271,
             "startTime": "09:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Zandvoort",
+            "event_name": "F1 ACADEMY NETHERLANDS 2026",
+            "match_name": "Practice Session",
+            "match_id": 139694,
+            "startTime": "05:30:00 PM 21-08-2026"
         }
     ]
 }
