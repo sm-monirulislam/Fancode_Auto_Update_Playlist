@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:31:55 PM 19-08-2026",
+    "last_update_time": "09:29:36 PM 19-08-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,32 @@
             "match_id": 4248329,
             "startTime": "07:30:00 PM 19-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248329/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248131,
+            "startTime": "08:30:00 PM 19-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248131/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Tony Trabert Stadium 3",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "Tony Trabert Stadium 3",
+            "match_id": 4248132,
+            "startTime": "08:30:00 PM 19-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248132/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -106,30 +132,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248131,
-            "startTime": "08:30:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Tony Trabert Stadium 3",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "Tony Trabert Stadium 3",
-            "match_id": 4248132,
-            "startTime": "08:30:00 PM 19-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Finland vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg",
@@ -154,18 +156,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
-            "match_id": 4248285,
-            "startTime": "04:30:00 AM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Al-Fayha FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248270_53025_ALF_AHS_FC-Web.png",
@@ -175,6 +165,18 @@
             "match_name": "Al-Fayha FC vs Al Hilal SFC",
             "match_id": 4248270,
             "startTime": "11:30:00 PM 20-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+            "match_id": 4248285,
+            "startTime": "04:30:00 AM 20-08-2026"
         },
         {
             "status": "UPCOMING",
