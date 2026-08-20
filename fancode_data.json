@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:57:37 PM 20-08-2026",
+    "last_update_time": "12:04:39 AM 21-08-2026",
     "total_matches": 39,
     "live_match": 4,
     "matches": [
@@ -17,7 +17,7 @@
             "match_name": "Kashi Rudras vs Kanpur Superstars",
             "match_id": 4248339,
             "startTime": "07:30:00 PM 20-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248339/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248339/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -30,7 +30,7 @@
             "match_name": "Al-Fayha FC vs Al Hilal SFC",
             "match_id": 4248270,
             "startTime": "11:30:00 PM 20-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248270/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248270/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -43,7 +43,7 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 4248414,
             "startTime": "07:45:00 PM 20-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248414/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248414/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -56,7 +56,7 @@
             "match_name": "Men's Doubles ft. Ram",
             "match_id": 4248135,
             "startTime": "10:00:00 PM 20-08-2026",
-            "stream_link": "https://fancode-bd.sm-monirul.top/4248135/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248135/index.m3u8"
         },
         {
             "status": "UPCOMING",
