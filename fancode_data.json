@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:35:36 AM 21-08-2026",
+    "last_update_time": "03:26:20 AM 21-08-2026",
     "total_matches": 38,
     "live_match": 5,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Rayo Vallecano vs Deportivo Alaves",
-            "match_id": 4247586,
-            "startTime": "12:30:00 AM 21-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247586/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -70,6 +57,19 @@
             "match_id": 4248134,
             "startTime": "01:30:00 AM 21-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248134/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Rayo Vallecano vs Deportivo Alaves",
+            "match_id": 4247586,
+            "startTime": "12:30:00 AM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247586/index.m3u8"
         },
         {
             "status": "UPCOMING",
