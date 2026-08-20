@@ -2,6 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:48:32 PM 20-08-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 02:36:11 PM 20-08-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg" group-title="Cricket",Portugal vs Czechia
+https://fancode-bd.sm-monirul.top/4248378/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg" group-title="Cricket",Bulgaria vs Luxembourg
+https://fancode-bd.sm-monirul.top/4248381/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248495_53040_ROFC-W_EBWC_FC-WEB.png" group-title="Football",Rovers FC Women vs East Bengal FC Women
+https://fancode-bd.sm-monirul.top/4248495/index.m3u8

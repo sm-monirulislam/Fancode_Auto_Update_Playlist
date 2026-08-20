@@ -2,10 +2,49 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:48:32 PM 20-08-2026",
-    "total_matches": 37,
-    "live_match": 0,
+    "last_update_time": "02:36:11 PM 20-08-2026",
+    "total_matches": 38,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Portugal vs Czechia (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg",
+            "team_1": "Portugal",
+            "team_2": "Czechia",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Portugal vs Czechia",
+            "match_id": 4248378,
+            "startTime": "01:30:00 PM 20-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248378/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Bulgaria vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg",
+            "team_1": "Bulgaria",
+            "team_2": "Luxembourg",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Bulgaria vs Luxembourg",
+            "match_id": 4248381,
+            "startTime": "01:30:00 PM 20-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248381/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Rovers FC Women vs East Bengal FC Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248495_53040_ROFC-W_EBWC_FC-WEB.png",
+            "team_1": "Rovers FC Women",
+            "team_2": "East Bengal FC Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "Rovers FC Women vs East Bengal FC Women",
+            "match_id": 4248495,
+            "startTime": "01:30:00 PM 20-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248495/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -29,42 +68,6 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras",
             "match_id": 4248339,
             "startTime": "07:30:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Czechia vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg",
-            "team_1": "Czechia",
-            "team_2": "Portugal",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Czechia vs Portugal",
-            "match_id": 4248378,
-            "startTime": "01:30:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Bulgaria vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg",
-            "team_1": "Bulgaria",
-            "team_2": "Luxembourg",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Bulgaria vs Luxembourg",
-            "match_id": 4248381,
-            "startTime": "01:30:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Rovers FC Women vs East Bengal FC Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248495_53040_ROFC-W_EBWC_FC-WEB.png",
-            "team_1": "Rovers FC Women",
-            "team_2": "East Bengal FC Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "Rovers FC Women vs East Bengal FC Women",
-            "match_id": 4248495,
-            "startTime": "01:30:00 PM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -116,18 +119,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Sheffield Wednesday F.C. vs Bradford City (League One 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png",
-            "team_1": "Sheffield Wednesday F.C.",
-            "team_2": "Bradford City",
-            "event_name": "League One 2026-27",
-            "match_name": "Sheffield Wednesday F.C. vs Bradford City",
-            "match_id": 4248158,
-            "startTime": "12:30:00 AM 21-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Meerut Mavericks vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png",
@@ -137,6 +128,18 @@
             "match_name": "Meerut Mavericks vs Noida Kings",
             "match_id": 4248332,
             "startTime": "03:00:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Sheffield Wednesday F.C. vs Bradford City (League One 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png",
+            "team_1": "Sheffield Wednesday F.C.",
+            "team_2": "Bradford City",
+            "event_name": "League One 2026-27",
+            "match_name": "Sheffield Wednesday F.C. vs Bradford City",
+            "match_id": 4248158,
+            "startTime": "12:30:00 AM 21-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -165,6 +168,30 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Outer Delhi Warriors vs East Delhi Riders (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "East Delhi Riders",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Outer Delhi Warriors vs East Delhi Riders",
+            "match_id": 4247999,
+            "startTime": "07:00:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Lucknow Falcons vs Kanpur Superstars",
+            "match_id": 4248328,
+            "startTime": "07:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "South Delhi Superstarz Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247559_53003_SDS-W_CDQ_FC-Web_1787120909809.png",
             "team_1": "South Delhi Superstarz Women",
@@ -185,18 +212,6 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 4248414,
             "startTime": "07:45:00 PM 20-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Outer Delhi Warriors vs East Delhi Riders (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
-            "team_1": "Outer Delhi Warriors",
-            "team_2": "East Delhi Riders",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Outer Delhi Warriors vs East Delhi Riders",
-            "match_id": 4247999,
-            "startTime": "07:00:00 PM 21-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -233,18 +248,6 @@
             "match_name": "World Feed 1",
             "match_id": 4248134,
             "startTime": "01:30:00 AM 21-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Lucknow Falcons vs Kanpur Superstars",
-            "match_id": 4248328,
-            "startTime": "07:30:00 PM 21-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -449,6 +452,18 @@
             "match_name": "Practice Session",
             "match_id": 143614,
             "startTime": "09:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248138,
+            "startTime": "10:00:00 PM 21-08-2026"
         }
     ]
 }
