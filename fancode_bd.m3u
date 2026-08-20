@@ -2,9 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:36:11 PM 20-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 03:32:52 PM 20-08-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" group-title="Cricket",Gaur Gorakhpur Lions vs Noida Kings
+https://fancode-bd.sm-monirul.top/4248331/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg" group-title="Cricket",Portugal vs Czechia
 https://fancode-bd.sm-monirul.top/4248378/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg" group-title="Cricket",Bulgaria vs Luxembourg

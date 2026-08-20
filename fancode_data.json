@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:36:11 PM 20-08-2026",
+    "last_update_time": "03:32:52 PM 20-08-2026",
     "total_matches": 38,
-    "live_match": 3,
+    "live_match": 4,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Noida Kings",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Gaur Gorakhpur Lions vs Noida Kings",
+            "match_id": 4248331,
+            "startTime": "03:00:00 PM 20-08-2026",
+            "stream_link": "https://fancode-bd.sm-monirul.top/4248331/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -44,18 +57,6 @@
             "match_id": 4248495,
             "startTime": "01:30:00 PM 20-08-2026",
             "stream_link": "https://fancode-bd.sm-monirul.top/4248495/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Noida Kings",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Gaur Gorakhpur Lions vs Noida Kings",
-            "match_id": 4248331,
-            "startTime": "03:00:00 PM 20-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -263,30 +264,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 2",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 4248136,
-            "startTime": "06:00:00 AM 21-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Victoria CA XI (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Victoria CA XI",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Victoria CA XI",
-            "match_id": 4248427,
-            "startTime": "06:00:00 AM 21-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -308,6 +285,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 4248390,
             "startTime": "06:30:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed 2",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed 2",
+            "match_id": 4248136,
+            "startTime": "06:00:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Victoria CA XI (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Victoria CA XI",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Victoria CA XI",
+            "match_id": 4248427,
+            "startTime": "06:00:00 AM 21-08-2026"
         },
         {
             "status": "UPCOMING",
