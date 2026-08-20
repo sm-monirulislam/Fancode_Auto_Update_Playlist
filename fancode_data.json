@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:25:28 AM 21-08-2026",
+    "last_update_time": "05:50:44 AM 21-08-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -141,18 +141,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248393_53017_CDB_GIR_FC-Web.png",
-            "team_1": "Córdoba",
-            "team_2": "Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Córdoba vs Girona FC",
-            "match_id": 4248393,
-            "startTime": "12:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -174,6 +162,18 @@
             "match_name": "Hobart Hurricanes Academy vs Victoria Academy",
             "match_id": 4248427,
             "startTime": "06:00:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248393_53017_CDB_GIR_FC-Web.png",
+            "team_1": "Córdoba",
+            "team_2": "Girona FC",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Córdoba vs Girona FC",
+            "match_id": 4248393,
+            "startTime": "12:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -346,18 +346,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Adelaide Strikers Academy vs New Zealand A",
-            "match_id": 4248435,
-            "startTime": "06:00:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
             "team_1": "Kashi Rudras",
@@ -366,6 +354,18 @@
             "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions",
             "match_id": 4248330,
             "startTime": "03:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Adelaide Strikers Academy vs New Zealand A",
+            "match_id": 4248435,
+            "startTime": "06:00:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
