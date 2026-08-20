@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:54:24 AM 21-08-2026",
+    "last_update_time": "04:26:20 AM 21-08-2026",
     "total_matches": 38,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "match_id": 4248410,
             "startTime": "12:30:00 AM 21-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248410/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed 1 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 1",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 1",
-            "match_id": 4248134,
-            "startTime": "01:30:00 AM 21-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248134/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -155,6 +142,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
+            "match_id": 4248290,
+            "startTime": "04:30:00 AM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Real Betis vs Real Sociedad (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -176,18 +175,6 @@
             "match_name": "Córdoba vs Girona FC",
             "match_id": 4248393,
             "startTime": "12:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
-            "match_id": 4248290,
-            "startTime": "04:30:00 AM 21-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -464,6 +451,18 @@
             "match_name": "Lincoln City F.C. vs Portsmouth F.C.",
             "match_id": 4247473,
             "startTime": "05:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Meerut Mavericks vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
+            "team_1": "Meerut Mavericks",
+            "team_2": "Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Meerut Mavericks vs Kanpur Superstars",
+            "match_id": 4248343,
+            "startTime": "07:30:00 PM 22-08-2026"
         }
     ]
 }
