@@ -2,15 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:27:25 PM 21-08-2026 (BD Time)
+# Last Updated: 11:57:46 PM 21-08-2026 (BD Time)
 # Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png" group-title="Cricket",Outer Delhi Warriors vs East Delhi Riders
-https://fancode.sm-monirul-islam-rs.workers.dev/4247999/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars
 https://fancode.sm-monirul-islam-rs.workers.dev/4248328/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248271_53025_ALR_ANF_FC-Web.png" group-title="Football",Al-Riyadh SC vs Al-Nassr FC
 https://fancode.sm-monirul-islam-rs.workers.dev/4248271/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png" group-title="Football",Al Qadisiyah vs Al-Ittihad
+https://fancode.sm-monirul-islam-rs.workers.dev/4248272/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 2
 https://fancode.sm-monirul-islam-rs.workers.dev/4248415/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Tony Trabert Stadium 3
