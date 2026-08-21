@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:33:24 PM 21-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 09:31:21 PM 21-08-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png" group-title="Cricket",Outer Delhi Warriors vs East Delhi Riders
 https://fancode.sm-monirul-islam-rs.workers.dev/4247999/index.m3u8
@@ -15,5 +15,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248389/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248390/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 2
 https://fancode.sm-monirul-islam-rs.workers.dev/4248415/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Formula 1",Sprint Qualifying
-https://fancode.sm-monirul-islam-rs.workers.dev/139478/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Tony Trabert Stadium 3
+https://fancode.sm-monirul-islam-rs.workers.dev/4248138/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Grandstand
+https://fancode.sm-monirul-islam-rs.workers.dev/4248140/index.m3u8
