@@ -2,8 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:40:59 PM 21-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:38:29 PM 21-08-2026 (BD Time)
+# Live Match : 5
 #=================================
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787292158752/4248386_CASACARDS_APP.png" group-title="Cricket",Bulgaria vs Czechia
+https://fancode.sm-monirul-islam-rs.workers.dev/4248386/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787292177385/4248387_CASACARDS_APP.png" group-title="Cricket",Germany vs Finland
+https://fancode.sm-monirul-islam-rs.workers.dev/4248387/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248428_53036_ACT_HYK_fc-web.jpg" group-title="Cricket",Australian Capital Territory vs Hyderabad Kingsmen
 https://fancode.sm-monirul-islam-rs.workers.dev/4248428/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247558_53003_NDS-W_EDR-W_FC-Web_1787120909825.png" group-title="Cricket",East Delhi Riders Women vs North Delhi Strikers Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4247558/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248426_53036_NTS_NEP_fc-web.jpg" group-title="Cricket",Northern Territory Strike vs Nepal
+https://fancode.sm-monirul-islam-rs.workers.dev/4248426/index.m3u8
