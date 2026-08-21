@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:11:58 AM 21-08-2026",
+    "last_update_time": "08:43:50 AM 21-08-2026",
     "total_matches": 38,
     "live_match": 3,
     "matches": [
@@ -336,18 +336,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
-            "match_id": 4248291,
-            "startTime": "04:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
             "team_1": "Kashi Rudras",
@@ -360,14 +348,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Adelaide Strikers Academy vs New Zealand A",
-            "match_id": 4248435,
-            "startTime": "06:00:00 AM 22-08-2026"
+            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
+            "match_id": 4248291,
+            "startTime": "04:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -384,14 +372,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Hyderabad Kingsmen vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
-            "team_1": "Hyderabad Kingsmen",
-            "team_2": "Victoria Academy",
+            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "New Zealand A",
             "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hyderabad Kingsmen vs Victoria Academy",
-            "match_id": 4248437,
-            "startTime": "10:30:00 AM 22-08-2026"
+            "match_name": "Adelaide Strikers Academy vs New Zealand A",
+            "match_id": 4248435,
+            "startTime": "06:00:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -404,6 +392,18 @@
             "match_name": "SV Wehen Wiesbaden vs Bayer 04 Leverkusen",
             "match_id": 4248529,
             "startTime": "04:30:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hyderabad Kingsmen vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+            "team_1": "Hyderabad Kingsmen",
+            "team_2": "Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hyderabad Kingsmen vs Victoria Academy",
+            "match_id": 4248437,
+            "startTime": "10:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
