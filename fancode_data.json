@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:43:03 PM 21-08-2026",
+    "last_update_time": "01:40:59 PM 21-08-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -154,30 +154,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions",
-            "match_id": 4248330,
-            "startTime": "03:00:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Someshwar Warriors",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Rawain Royals vs Someshwar Warriors",
-            "match_id": 4248509,
-            "startTime": "01:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "North Delhi Strikers Women vs East Delhi Riders Women (Women's Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247558_53003_NDS-W_EDR-W_FC-Web_1787120909825.png",
             "team_1": "North Delhi Strikers Women",
@@ -198,6 +174,30 @@
             "match_name": "Northern Territory Strike vs Nepal",
             "match_id": 4248426,
             "startTime": "02:00:00 PM 21-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions",
+            "match_id": 4248330,
+            "startTime": "03:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Someshwar Warriors",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Someshwar Warriors",
+            "match_id": 4248509,
+            "startTime": "01:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -285,6 +285,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "West Delhi Lions",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Central Delhi Kings vs West Delhi Lions",
+            "match_id": 4248000,
+            "startTime": "07:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -306,42 +318,6 @@
             "match_name": "World Feed - Day 2",
             "match_id": 4248411,
             "startTime": "12:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
-            "match_id": 4248291,
-            "startTime": "04:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
-            "team_1": "Central Delhi Kings",
-            "team_2": "West Delhi Lions",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Central Delhi Kings vs West Delhi Lions",
-            "match_id": 4248000,
-            "startTime": "07:00:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Adelaide Strikers Academy vs New Zealand A",
-            "match_id": 4248435,
-            "startTime": "06:00:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -369,6 +345,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
+            "match_id": 4248291,
+            "startTime": "04:30:00 AM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Lincoln City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247473_52993_LNC_PRM_fc-web_1786657253738.jpg",
@@ -378,6 +366,18 @@
             "match_name": "Lincoln City F.C. vs Portsmouth F.C.",
             "match_id": 4247473,
             "startTime": "05:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Adelaide Strikers Academy vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Adelaide Strikers Academy vs New Zealand A",
+            "match_id": 4248435,
+            "startTime": "06:00:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -393,18 +393,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Zandvoort",
-            "event_name": "F1 ACADEMY NETHERLANDS 2026",
-            "match_name": "Qualifying Session",
-            "match_id": 139693,
-            "startTime": "12:50:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "West Ham United vs Charlton Athletic F.C (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247474_52993_WHU_CHL_fc-web_1786657253142.jpg",
@@ -414,6 +402,18 @@
             "match_name": "West Ham United vs Charlton Athletic F.C",
             "match_id": 4247474,
             "startTime": "07:30:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Zandvoort",
+            "event_name": "F1 ACADEMY NETHERLANDS 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139693,
+            "startTime": "12:50:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -441,18 +441,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Nepal (Top End T20 Series, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1787120232577/4248432_CASACARDS_APP.png",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Nepal",
-            "match_id": 4248432,
-            "startTime": "02:00:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Athletic Club vs Sevilla FC (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247583_53004_ATH_SEV_FC-Web.png",
@@ -462,6 +450,18 @@
             "match_name": "Athletic Club vs Sevilla FC",
             "match_id": 4247583,
             "startTime": "08:30:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Bangladesh HP-XI vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232577/4248432_CASACARDS_APP.png",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Nepal",
+            "match_id": 4248432,
+            "startTime": "02:00:00 PM 22-08-2026"
         }
     ]
 }
