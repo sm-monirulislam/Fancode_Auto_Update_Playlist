@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:24:46 AM 22-08-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 01:47:54 AM 22-08-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png" group-title="Football",Al Qadisiyah vs Al-Ittihad
 https://fancode.sm-monirul-islam-rs.workers.dev/4248272/index.m3u8
@@ -13,10 +13,6 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4247580/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248393/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 2
 https://fancode.sm-monirul-islam-rs.workers.dev/4248415/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Tony Trabert Stadium 3
-https://fancode.sm-monirul-islam-rs.workers.dev/4248138/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Grandstand
-https://fancode.sm-monirul-islam-rs.workers.dev/4248140/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",World Feed
 https://fancode.sm-monirul-islam-rs.workers.dev/4248141/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",World Feed - Day 2
