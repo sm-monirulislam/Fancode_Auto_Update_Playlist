@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:43:09 PM 21-08-2026",
+    "last_update_time": "07:43:27 PM 21-08-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -21,19 +21,6 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Zandvoort",
-            "event_name": "F1 ACADEMY NETHERLANDS 2026",
-            "match_name": "Practice Session",
-            "match_id": 139694,
-            "startTime": "05:30:00 PM 21-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139694/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Outer Delhi Warriors vs East Delhi Riders (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
@@ -42,10 +29,11 @@
             "event_name": "Delhi Premier League, 2026",
             "match_name": "Outer Delhi Warriors vs East Delhi Riders",
             "match_id": 4247999,
-            "startTime": "07:00:00 PM 21-08-2026"
+            "startTime": "07:00:00 PM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247999/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
@@ -54,22 +42,24 @@
             "event_name": "Uttar Pradesh T20 League, 2026",
             "match_name": "Lucknow Falcons vs Kanpur Superstars",
             "match_id": 4248328,
-            "startTime": "07:30:00 PM 21-08-2026"
+            "startTime": "07:30:00 PM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248328/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Isle of Man vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "title": "Israel vs Isle of Man (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://images.fancode.com/aig/match/v1787292196231/4248389_CASACARDS_APP.png",
-            "team_1": "Isle of Man",
-            "team_2": "Israel",
+            "team_1": "Israel",
+            "team_2": "Isle of Man",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Isle of Man vs Israel",
+            "match_name": "Israel vs Isle of Man",
             "match_id": 4248389,
-            "startTime": "06:30:00 PM 21-08-2026"
+            "startTime": "06:30:00 PM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248389/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Portugal vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://images.fancode.com/aig/match/v1787292215433/4248390_CASACARDS_APP.png",
@@ -78,7 +68,8 @@
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "match_name": "Portugal vs Spain",
             "match_id": 4248390,
-            "startTime": "06:30:00 PM 21-08-2026"
+            "startTime": "06:30:00 PM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248390/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -131,6 +122,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "West Delhi Lions",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Central Delhi Kings vs West Delhi Lions",
+            "match_id": 4248000,
+            "startTime": "07:00:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248509_53041_RR_SW_FC-Web.jpg",
             "team_1": "Rawain Royals",
@@ -139,6 +142,18 @@
             "match_name": "Rawain Royals vs Someshwar Warriors",
             "match_id": 4248509,
             "startTime": "01:30:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Meerut Mavericks vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
+            "team_1": "Meerut Mavericks",
+            "team_2": "Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Meerut Mavericks vs Kanpur Superstars",
+            "match_id": 4248343,
+            "startTime": "07:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -154,27 +169,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
-            "team_1": "Central Delhi Kings",
-            "team_2": "West Delhi Lions",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Central Delhi Kings vs West Delhi Lions",
-            "match_id": 4248000,
-            "startTime": "07:00:00 PM 22-08-2026"
+            "event_category": "Golf",
+            "title": "Main Feed - Day 2 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 2",
+            "match_id": 4248415,
+            "startTime": "07:45:00 PM 21-08-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Meerut Mavericks vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Meerut Mavericks vs Kanpur Superstars",
-            "match_id": 4248343,
-            "startTime": "07:30:00 PM 22-08-2026"
+            "event_category": "Formula 1",
+            "title": "Sprint Qualifying vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
+            "team_1": "Sprint Qualifying",
+            "team_2": "Circuit Zandvoort",
+            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
+            "match_name": "Sprint Qualifying",
+            "match_id": 139478,
+            "startTime": "08:00:00 PM 21-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -226,27 +241,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 4248415,
-            "startTime": "07:45:00 PM 21-08-2026"
+            "event_category": "Football",
+            "title": "Al-Fateh SC vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248273_53025_AFF_ETT_FC-Web.png",
+            "team_1": "Al-Fateh SC",
+            "team_2": "Al-Ettifaq",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Fateh SC vs Al-Ettifaq",
+            "match_id": 4248273,
+            "startTime": "09:15:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "title": "Sprint Qualifying vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
-            "team_1": "Sprint Qualifying",
-            "team_2": "Circuit Zandvoort",
-            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
-            "match_name": "Sprint Qualifying",
-            "match_id": 139478,
-            "startTime": "08:00:00 PM 21-08-2026"
+            "event_category": "Football",
+            "title": "SV Eintracht Trier 05 vs RB Leipzig (DFB Pokal 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248530_53043_EIN_LEP_FC-WEB.png",
+            "team_1": "SV Eintracht Trier 05",
+            "team_2": "RB Leipzig",
+            "event_name": "DFB Pokal 2026-27",
+            "match_name": "SV Eintracht Trier 05 vs RB Leipzig",
+            "match_id": 4248530,
+            "startTime": "09:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -335,26 +350,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Al-Fateh SC vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248273_53025_AFF_ETT_FC-Web.png",
-            "team_1": "Al-Fateh SC",
-            "team_2": "Al-Ettifaq",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Fateh SC vs Al-Ettifaq",
-            "match_id": 4248273,
-            "startTime": "09:15:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "SV Eintracht Trier 05 vs RB Leipzig (DFB Pokal 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248530_53043_EIN_LEP_FC-WEB.png",
-            "team_1": "SV Eintracht Trier 05",
-            "team_2": "RB Leipzig",
-            "event_name": "DFB Pokal 2026-27",
-            "match_name": "SV Eintracht Trier 05 vs RB Leipzig",
-            "match_id": 4248530,
-            "startTime": "09:30:00 PM 22-08-2026"
+            "title": "Real Oviedo vs Leganés (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248396_53017_RO_LEG_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Leganés",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Real Oviedo vs Leganés",
+            "match_id": 4248396,
+            "startTime": "08:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -371,14 +374,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Real Oviedo vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248396_53017_RO_LEG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Leganés",
-            "match_id": 4248396,
-            "startTime": "08:30:00 PM 22-08-2026"
+            "title": "Valencia CF vs RC Celta (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247585_53004_VAL_CEV_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "RC Celta",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Valencia CF vs RC Celta",
+            "match_id": 4247585,
+            "startTime": "11:00:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -391,6 +394,18 @@
             "match_name": "Qualifying Session",
             "match_id": 139693,
             "startTime": "12:50:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Abha",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Ahli Saudi FC vs Abha",
+            "match_id": 4248274,
+            "startTime": "11:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -418,18 +433,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Valencia CF vs RC Celta (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247585_53004_VAL_CEV_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Valencia CF vs RC Celta",
-            "match_id": 4247585,
-            "startTime": "11:00:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Bangladesh HP-XI vs Nepal (Top End T20 Series, 2026)",
             "src": "https://images.fancode.com/aig/match/v1787120232577/4248432_CASACARDS_APP.png",
@@ -439,18 +442,6 @@
             "match_name": "Bangladesh HP-XI vs Nepal",
             "match_id": 4248432,
             "startTime": "02:00:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Abha",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ahli Saudi FC vs Abha",
-            "match_id": 4248274,
-            "startTime": "11:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -475,6 +466,18 @@
             "match_name": "RCD Espanyol vs Real Madrid",
             "match_id": 4247582,
             "startTime": "01:00:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 4248416,
+            "startTime": "06:45:00 PM 22-08-2026"
         }
     ]
 }

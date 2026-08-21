@@ -2,10 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:43:09 PM 21-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 07:43:27 PM 21-08-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Meerut Mavericks vs Noida Kings
 https://fancode.sm-monirul-islam-rs.workers.dev/4248332/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg" group-title="Motorsports",Practice Session
-https://fancode.sm-monirul-islam-rs.workers.dev/139694/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png" group-title="Cricket",Outer Delhi Warriors vs East Delhi Riders
+https://fancode.sm-monirul-islam-rs.workers.dev/4247999/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars
+https://fancode.sm-monirul-islam-rs.workers.dev/4248328/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787292196231/4248389_CASACARDS_APP.png" group-title="Cricket",Israel vs Isle of Man
+https://fancode.sm-monirul-islam-rs.workers.dev/4248389/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787292215433/4248390_CASACARDS_APP.png" group-title="Cricket",Portugal vs Spain
+https://fancode.sm-monirul-islam-rs.workers.dev/4248390/index.m3u8
