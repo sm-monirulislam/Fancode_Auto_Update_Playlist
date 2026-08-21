@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:50:44 AM 21-08-2026",
+    "last_update_time": "07:11:58 AM 21-08-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,32 @@
             "match_id": 4248290,
             "startTime": "04:30:00 AM 21-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248290/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed 2",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed 2",
+            "match_id": 4248136,
+            "startTime": "06:00:00 AM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248136/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-WebTVBG_fc-web-1.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Victoria Academy",
+            "match_id": 4248427,
+            "startTime": "06:00:00 AM 21-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248427/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -138,30 +164,6 @@
             "match_name": "Real Betis vs Real Sociedad",
             "match_id": 4247580,
             "startTime": "12:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 2",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 4248136,
-            "startTime": "06:00:00 AM 21-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-WebTVBG_fc-web-1.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Victoria Academy",
-            "match_id": 4248427,
-            "startTime": "06:00:00 AM 21-08-2026"
         },
         {
             "status": "UPCOMING",
