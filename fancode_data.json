@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:44:16 AM 22-08-2026",
-    "total_matches": 38,
-    "live_match": 6,
+    "last_update_time": "01:24:46 AM 22-08-2026",
+    "total_matches": 37,
+    "live_match": 8,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Lucknow Falcons vs Kanpur Superstars",
-            "match_id": 4248328,
-            "startTime": "07:30:00 PM 21-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248328/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -44,6 +31,19 @@
             "match_id": 4247580,
             "startTime": "12:30:00 AM 22-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247580/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248393_53017_CDB_GIR_FC-Web.png",
+            "team_1": "Córdoba",
+            "team_2": "Girona FC",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Córdoba vs Girona FC",
+            "match_id": 4248393,
+            "startTime": "12:30:00 AM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248393/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -85,6 +85,32 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248140/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed",
+            "match_id": 4248141,
+            "startTime": "12:30:00 AM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248141/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "World Feed - Day 2",
+            "match_id": 4248411,
+            "startTime": "12:30:00 AM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248411/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
@@ -119,18 +145,6 @@
             "match_name": "Meerut Mavericks vs Kanpur Superstars",
             "match_id": 4248343,
             "startTime": "07:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248393_53017_CDB_GIR_FC-Web.png",
-            "team_1": "Córdoba",
-            "team_2": "Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Córdoba vs Girona FC",
-            "match_id": 4248393,
-            "startTime": "12:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -191,30 +205,6 @@
             "match_name": "Athletic Club vs Sevilla FC",
             "match_id": 4247583,
             "startTime": "08:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248141,
-            "startTime": "12:30:00 AM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "World Feed - Day 2",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 4248411,
-            "startTime": "12:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
