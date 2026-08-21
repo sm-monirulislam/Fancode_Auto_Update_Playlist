@@ -2,49 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:49:05 AM 22-08-2026",
+    "last_update_time": "04:22:43 AM 22-08-2026",
     "total_matches": 37,
-    "live_match": 6,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Al Qadisiyah vs Al-Ittihad (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
-            "team_1": "Al Qadisiyah",
-            "team_2": "Al-Ittihad",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al Qadisiyah vs Al-Ittihad",
-            "match_id": 4248272,
-            "startTime": "11:30:00 PM 21-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248272/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Real Betis vs Real Sociedad (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247580_53004_RB_RS_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Real Sociedad",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Real Betis vs Real Sociedad",
-            "match_id": 4247580,
-            "startTime": "12:30:00 AM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247580/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248393_53017_CDB_GIR_FC-Web.png",
-            "team_1": "Córdoba",
-            "team_2": "Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Córdoba vs Girona FC",
-            "match_id": 4248393,
-            "startTime": "12:30:00 AM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248393/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -230,6 +191,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
+            "match_id": 4248291,
+            "startTime": "04:30:00 AM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "RCD Espanyol vs Real Madrid (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png",
@@ -251,18 +224,6 @@
             "match_name": "Real Oviedo vs Leganés",
             "match_id": 4248396,
             "startTime": "08:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Saint Lucia Kings vs Jamaica Kingsmen",
-            "match_id": 4248291,
-            "startTime": "04:30:00 AM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -455,6 +416,42 @@
             "match_name": "Day 1",
             "match_id": 4248527,
             "startTime": "01:30:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
+            "match_id": 4248293,
+            "startTime": "04:30:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Australian Capital Territory vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_APP.png",
+            "team_1": "Australian Capital Territory",
+            "team_2": "New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Australian Capital Territory vs New Zealand A",
+            "match_id": 4248431,
+            "startTime": "06:00:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "F1 Kids - Sprint vs Zandvoort (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids - Sprint",
+            "team_2": "Zandvoort",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids - Sprint",
+            "match_id": 4248533,
+            "startTime": "03:30:00 PM 22-08-2026"
         }
     ]
 }
