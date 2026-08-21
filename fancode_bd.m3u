@@ -2,12 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:33:35 PM 21-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 06:43:09 PM 21-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Formula 1",Practice 1
-https://fancode.sm-monirul-islam-rs.workers.dev/139477/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Meerut Mavericks vs Noida Kings
 https://fancode.sm-monirul-islam-rs.workers.dev/4248332/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787292158752/4248386_CASACARDS_APP.png" group-title="Cricket",Bulgaria vs Czechia
-https://fancode.sm-monirul-islam-rs.workers.dev/4248386/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg" group-title="Motorsports",Practice Session
+https://fancode.sm-monirul-islam-rs.workers.dev/139694/index.m3u8
