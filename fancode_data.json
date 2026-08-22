@@ -2,35 +2,61 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:30:27 PM 22-08-2026",
+    "last_update_time": "02:27:45 PM 22-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Hyderabad Kingsmen vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
-            "team_1": "Hyderabad Kingsmen",
-            "team_2": "Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hyderabad Kingsmen vs Victoria Academy",
-            "match_id": 4248437,
-            "startTime": "10:30:00 AM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248437/index.m3u8"
+            "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248509_53041_RR_SW_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Someshwar Warriors",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Someshwar Warriors",
+            "match_id": 4248509,
+            "startTime": "01:30:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248509/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png",
+            "team_1": "North Delhi Strikers Women",
+            "team_2": "South Delhi Superstarz Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
+            "match_id": 4247555,
+            "startTime": "01:30:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247555/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Motorsports",
-            "title": "Qualifying Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+            "title": "Qualifying Session vs Zandvoort, Netherlands (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
             "team_1": "Qualifying Session",
-            "team_2": "Zandvoort",
-            "event_name": "F1 ACADEMY NETHERLANDS 2026",
+            "team_2": "Zandvoort, Netherlands",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
             "match_name": "Qualifying Session",
-            "match_id": 139693,
-            "startTime": "12:50:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139693/index.m3u8"
+            "match_id": 143615,
+            "startTime": "01:45:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/143615/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Bangladesh HP-XI vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Nepal",
+            "match_id": 4248432,
+            "startTime": "02:00:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248432/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -67,18 +93,6 @@
             "match_name": "Meerut Mavericks vs Kanpur Superstars",
             "match_id": 4248343,
             "startTime": "07:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248509_53041_RR_SW_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Someshwar Warriors",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Rawain Royals vs Someshwar Warriors",
-            "match_id": 4248509,
-            "startTime": "01:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -203,30 +217,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "South Delhi Superstarz Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png",
-            "team_1": "South Delhi Superstarz Women",
-            "team_2": "North Delhi Strikers Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "South Delhi Superstarz Women vs North Delhi Strikers Women",
-            "match_id": 4247555,
-            "startTime": "01:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Zandvoort, Netherlands (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Zandvoort, Netherlands",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Qualifying Session",
-            "match_id": 143615,
-            "startTime": "01:45:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Lucknow Falcons vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
             "team_1": "Lucknow Falcons",
@@ -251,14 +241,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Nepal (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Nepal",
-            "match_id": 4248432,
-            "startTime": "02:00:00 PM 22-08-2026"
+            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "Outer Delhi Warriors",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
+            "match_id": 4248002,
+            "startTime": "07:00:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -295,6 +285,18 @@
             "match_name": "Reverse Grid Race",
             "match_id": 4248536,
             "startTime": "06:05:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Meerut Mavericks vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+            "team_1": "Meerut Mavericks",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
+            "match_id": 4248348,
+            "startTime": "07:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -346,6 +348,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Burnley",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "West Bromwich Albion F.C. vs Burnley",
+            "match_id": 4247475,
+            "startTime": "04:30:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "title": "First Race vs Zandvoort, Netherlands (Porsche Mobil 1 Supercup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
@@ -382,18 +396,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Outer Delhi Warriors",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
-            "match_id": 4248002,
-            "startTime": "07:00:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -403,18 +405,6 @@
             "match_name": "World Feed 2",
             "match_id": 4248143,
             "startTime": "03:30:00 AM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Burnley",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "West Bromwich Albion F.C. vs Burnley",
-            "match_id": 4247475,
-            "startTime": "04:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -430,15 +420,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Meerut Mavericks vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
-            "match_id": 4248348,
-            "startTime": "07:30:00 PM 23-08-2026"
+            "event_category": "Football",
+            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Sabah FA Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "East Bengal FC Women vs Sabah FA Women",
+            "match_id": 4248496,
+            "startTime": "05:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +441,18 @@
             "match_name": "Australian Capital Territory vs New Zealand A",
             "match_id": 4248431,
             "startTime": "06:00:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
+            "team_1": "Baragaddi Kings",
+            "team_2": "Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Baragaddi Kings vs Bhagirathi Giants",
+            "match_id": 4248511,
+            "startTime": "06:00:00 PM 23-08-2026"
         }
     ]
 }
