@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:50:01 PM 22-08-2026",
-    "total_matches": 39,
-    "live_match": 10,
+    "last_update_time": "11:18:57 PM 22-08-2026",
+    "total_matches": 38,
+    "live_match": 11,
     "matches": [
         {
             "status": "LIVE",
@@ -74,15 +74,15 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "title": "Real Oviedo vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248396_53017_RO_LEG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Leganés",
-            "match_id": 4248396,
-            "startTime": "08:30:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248396/index.m3u8"
+            "title": "Valencia CF vs RC Celta (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247585_53004_VAL_CEV_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "RC Celta",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Valencia CF vs RC Celta",
+            "match_id": 4247585,
+            "startTime": "11:00:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247585/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -125,28 +125,29 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Motorsports",
-            "title": "First Race vs Zandvoort, Netherlands (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "First Race",
-            "team_2": "Zandvoort, Netherlands",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "First Race",
-            "match_id": 143616,
-            "startTime": "09:30:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/143616/index.m3u8"
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "World Feed - Day 3",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "World Feed - Day 3",
+            "match_id": 4248412,
+            "startTime": "10:30:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248412/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Valencia CF vs RC Celta (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247585_53004_VAL_CEV_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Valencia CF vs RC Celta",
-            "match_id": 4247585,
-            "startTime": "11:00:00 PM 22-08-2026"
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "title": "World Feed 1 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed 1",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed 1",
+            "match_id": 4248142,
+            "startTime": "11:00:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248142/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -159,6 +160,18 @@
             "match_name": "Lucknow Falcons vs Noida Kings",
             "match_id": 4248342,
             "startTime": "03:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Abha",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Ahli Saudi FC vs Abha",
+            "match_id": 4248274,
+            "startTime": "11:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -183,18 +196,6 @@
             "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
             "match_id": 4248348,
             "startTime": "07:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Abha",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ahli Saudi FC vs Abha",
-            "match_id": 4248274,
-            "startTime": "11:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -234,18 +235,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
-            "team_1": "East Bengal FC Women",
-            "team_2": "Sabah FA Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "East Bengal FC Women vs Sabah FA Women",
-            "match_id": 4248496,
-            "startTime": "05:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
@@ -258,27 +247,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 4248412,
-            "startTime": "10:30:00 PM 22-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed 1 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 1",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 1",
-            "match_id": 4248142,
-            "startTime": "11:00:00 PM 22-08-2026"
+            "event_category": "Football",
+            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Sabah FA Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "East Bengal FC Women vs Sabah FA Women",
+            "match_id": 4248496,
+            "startTime": "05:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +295,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "FC Barcelona",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Elche CF vs FC Barcelona",
+            "match_id": 4247581,
+            "startTime": "01:00:00 AM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -351,18 +340,6 @@
             "match_name": "Australian Capital Territory vs New Zealand A",
             "match_id": 4248431,
             "startTime": "06:00:00 AM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Elche CF vs FC Barcelona",
-            "match_id": 4247581,
-            "startTime": "01:00:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -482,6 +459,18 @@
             "event_name": "ATP Masters Cincinnati Open 2026",
             "match_name": "ATP Masters Cincinnati Open 2026",
             "match_id": 4248146,
+            "startTime": "10:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "ATP Masters Cincinnati Open 2026",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "ATP Masters Cincinnati Open 2026",
+            "match_id": 4248147,
             "startTime": "10:00:00 PM 23-08-2026"
         }
     ]
