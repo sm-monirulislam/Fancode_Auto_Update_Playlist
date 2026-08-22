@@ -2,16 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:49:18 PM 22-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 05:19:21 PM 22-08-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png" group-title="Cricket",Kashi Rudras vs Gaur Gorakhpur Lions
 https://fancode.sm-monirul-islam-rs.workers.dev/4248330/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248529_53043_WIE_LEV_FC-WEB.png" group-title="Football",SV Wehen Wiesbaden vs Bayer 04 Leverkusen
+https://fancode.sm-monirul-islam-rs.workers.dev/4248529/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png" group-title="Cricket",North Delhi Strikers Women vs South Delhi Superstarz Women
 https://fancode.sm-monirul-islam-rs.workers.dev/4247555/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248432_53036_BAN-HP_NEP_fc-web_1787393618574.jpg" group-title="Cricket",Bangladesh HP-XI vs Nepal
 https://fancode.sm-monirul-islam-rs.workers.dev/4248432/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Formula 1",Sprint
-https://fancode.sm-monirul-islam-rs.workers.dev/139479/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports",F1 Kids - Sprint
-https://fancode.sm-monirul-islam-rs.workers.dev/4248533/index.m3u8
