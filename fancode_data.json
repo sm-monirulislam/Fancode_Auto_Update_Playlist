@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:47:47 AM 23-08-2026",
+    "last_update_time": "05:18:47 AM 23-08-2026",
     "total_matches": 37,
     "live_match": 2,
     "matches": [
@@ -22,12 +22,12 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "title": "Trinbago Knight Riders vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Trinbago Knight Riders",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Antigua & Barbuda Falcons",
             "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
+            "match_name": "Trinbago Knight Riders vs Antigua & Barbuda Falcons",
             "match_id": 4248293,
             "startTime": "04:30:00 AM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248293/index.m3u8"
@@ -82,18 +82,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Burnley",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "West Bromwich Albion F.C. vs Burnley",
-            "match_id": 4247475,
-            "startTime": "04:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
@@ -103,6 +91,18 @@
             "match_name": "Baragaddi Kings vs Bhagirathi Giants",
             "match_id": 4248511,
             "startTime": "06:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Burnley",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "West Bromwich Albion F.C. vs Burnley",
+            "match_id": 4247475,
+            "startTime": "04:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
