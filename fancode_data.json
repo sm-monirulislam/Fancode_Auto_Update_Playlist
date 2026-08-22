@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:08:38 AM 22-08-2026",
+    "last_update_time": "08:34:36 AM 22-08-2026",
     "total_matches": 37,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed",
-            "match_id": 4248141,
-            "startTime": "12:30:00 AM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248141/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -396,18 +383,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
-            "match_id": 4248293,
-            "startTime": "04:30:00 AM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Lucknow Falcons vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
             "team_1": "Lucknow Falcons",
@@ -420,14 +395,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Australian Capital Territory vs New Zealand A (Top End T20 Series, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_APP.png",
-            "team_1": "Australian Capital Territory",
-            "team_2": "New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Australian Capital Territory vs New Zealand A",
-            "match_id": 4248431,
-            "startTime": "06:00:00 AM 23-08-2026"
+            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
+            "match_id": 4248293,
+            "startTime": "04:30:00 AM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -444,6 +419,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Australian Capital Territory vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_APP.png",
+            "team_1": "Australian Capital Territory",
+            "team_2": "New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Australian Capital Territory vs New Zealand A",
+            "match_id": 4248431,
+            "startTime": "06:00:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Northern Territory Strike vs Adelaide Strikers Academy (Top End T20 Series, 2026)",
             "src": "https://images.fancode.com/aig/match/v1787120232561/4248443_CASACARDS_APP.png",
             "team_1": "Northern Territory Strike",
@@ -452,6 +439,18 @@
             "match_name": "Northern Territory Strike vs Adelaide Strikers Academy",
             "match_id": 4248443,
             "startTime": "09:00:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "title": "F1 Kids - Sprint vs Zandvoort (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids - Sprint",
+            "team_2": "Zandvoort",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids - Sprint",
+            "match_id": 4248533,
+            "startTime": "03:30:00 PM 22-08-2026"
         }
     ]
 }
