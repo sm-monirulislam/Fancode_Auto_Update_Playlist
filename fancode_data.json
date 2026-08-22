@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:35:31 PM 22-08-2026",
-    "total_matches": 38,
+    "last_update_time": "07:30:45 PM 22-08-2026",
+    "total_matches": 37,
     "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Kashi Rudras vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions",
-            "match_id": 4248330,
-            "startTime": "03:00:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248330/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "SV Wehen Wiesbaden vs Bayer 04 Leverkusen (DFB Pokal 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248529_53043_WIE_LEV_FC-WEB.png",
-            "team_1": "SV Wehen Wiesbaden",
-            "team_2": "Bayer 04 Leverkusen",
-            "event_name": "DFB Pokal 2026-27",
-            "match_name": "SV Wehen Wiesbaden vs Bayer 04 Leverkusen",
-            "match_id": 4248529,
-            "startTime": "04:30:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248529/index.m3u8"
+            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "West Delhi Lions",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Central Delhi Kings vs West Delhi Lions",
+            "match_id": 4248000,
+            "startTime": "07:00:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248000/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -59,16 +46,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248536/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
-            "team_1": "Central Delhi Kings",
-            "team_2": "West Delhi Lions",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Central Delhi Kings vs West Delhi Lions",
-            "match_id": 4248000,
-            "startTime": "07:00:00 PM 22-08-2026"
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 4248416,
+            "startTime": "06:30:00 PM 22-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248416/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -84,18 +72,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Lucknow Falcons vs Noida Kings (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Noida Kings",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Lucknow Falcons vs Noida Kings",
-            "match_id": 4248342,
-            "startTime": "03:00:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "West Ham United vs Charlton Athletic F.C (EFL Championship 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247474_52993_WHU_CHL_fc-web_1786657253142.jpg",
@@ -105,6 +81,18 @@
             "match_name": "West Ham United vs Charlton Athletic F.C",
             "match_id": 4247474,
             "startTime": "07:30:00 PM 22-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Lucknow Falcons vs Noida Kings (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Noida Kings",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Lucknow Falcons vs Noida Kings",
+            "match_id": 4248342,
+            "startTime": "03:00:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -180,15 +168,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Real Oviedo vs Leganés (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248396_53017_RO_LEG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Leganés",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Real Oviedo vs Leganés",
-            "match_id": 4248396,
-            "startTime": "08:30:00 PM 22-08-2026"
+            "event_category": "Cricket",
+            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "Outer Delhi Warriors",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
+            "match_id": 4248002,
+            "startTime": "07:00:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -204,15 +192,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Outer Delhi Warriors",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
-            "match_id": 4248002,
-            "startTime": "07:00:00 PM 23-08-2026"
+            "event_category": "Football",
+            "title": "Real Oviedo vs Leganés (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248396_53017_RO_LEG_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Leganés",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Real Oviedo vs Leganés",
+            "match_id": 4248396,
+            "startTime": "08:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -228,15 +216,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 4248416,
-            "startTime": "06:30:00 PM 22-08-2026"
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Circuit Zandvoort",
+            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
+            "match_name": "Qualifying",
+            "match_id": 139480,
+            "startTime": "07:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -285,18 +273,6 @@
             "match_name": "Atletico de Madrid vs Villarreal CF",
             "match_id": 4247578,
             "startTime": "08:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Circuit Zandvoort",
-            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
-            "match_name": "Qualifying",
-            "match_id": 139480,
-            "startTime": "07:30:00 PM 22-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -420,6 +396,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Getafe CF vs Racing Club de Santander (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Racing Club de Santander",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Getafe CF vs Racing Club de Santander",
+            "match_id": 4247584,
+            "startTime": "11:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Bangladesh HP-XI vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
@@ -456,15 +444,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Getafe CF vs Racing Club de Santander (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Racing Club de Santander",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Getafe CF vs Racing Club de Santander",
-            "match_id": 4247584,
-            "startTime": "11:00:00 PM 23-08-2026"
+            "event_category": "Motorsports",
+            "title": "Second Race vs Monza (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Second Race",
+            "team_2": "Monza",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Second Race",
+            "match_id": 143617,
+            "startTime": "03:15:00 PM 23-08-2026"
         }
     ]
 }
