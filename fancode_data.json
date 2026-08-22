@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:45:58 AM 23-08-2026",
+    "last_update_time": "04:19:59 AM 23-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "title": "RCD Espanyol vs Real Madrid (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "RCD Espanyol vs Real Madrid",
-            "match_id": 4247582,
-            "startTime": "01:00:00 AM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247582/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 4248412,
-            "startTime": "10:30:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248412/index.m3u8"
+            "event_category": "Tennis",
+            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed 2",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed 2",
+            "match_id": 4248143,
+            "startTime": "03:30:00 AM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248143/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -142,15 +129,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 2",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 4248143,
-            "startTime": "03:30:00 AM 23-08-2026"
+            "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
+            "match_id": 4248293,
+            "startTime": "04:30:00 AM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -175,18 +162,6 @@
             "match_name": "Eibar vs Real Valladolid",
             "match_id": 4248394,
             "startTime": "08:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders",
-            "match_id": 4248293,
-            "startTime": "04:30:00 AM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +426,30 @@
             "match_name": "South Delhi Superstarz vs New Delhi Tigers",
             "match_id": 4248003,
             "startTime": "07:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+            "team_1": "Noida Kings",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
+            "match_id": 4248353,
+            "startTime": "07:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Taknor Tigers",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Taknor Tigers",
+            "match_id": 4248513,
+            "startTime": "06:00:00 PM 24-08-2026"
         }
     ]
 }
