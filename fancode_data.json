@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:49:08 AM 23-08-2026",
+    "last_update_time": "03:20:01 AM 23-08-2026",
     "total_matches": 37,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "match_id": 4247582,
             "startTime": "01:00:00 AM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247582/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 4248416,
-            "startTime": "06:30:00 PM 22-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248416/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -168,6 +155,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "World Feed 2",
+            "team_2": "Cincinnati, United States",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "match_name": "World Feed 2",
+            "match_id": 4248143,
+            "startTime": "03:30:00 AM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
@@ -189,18 +188,6 @@
             "match_name": "Elche CF vs FC Barcelona",
             "match_id": 4247581,
             "startTime": "01:00:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 2",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 4248143,
-            "startTime": "03:30:00 AM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -453,6 +440,18 @@
             "match_name": "Someshwar Warriors vs Baragaddi Kings",
             "match_id": 4248512,
             "startTime": "01:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Victoria Academy",
+            "match_id": 4248429,
+            "startTime": "10:30:00 AM 24-08-2026"
         }
     ]
 }
