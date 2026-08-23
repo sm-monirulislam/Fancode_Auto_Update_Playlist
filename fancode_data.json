@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:18:51 PM 23-08-2026",
-    "total_matches": 40,
-    "live_match": 8,
+    "last_update_time": "11:45:34 PM 23-08-2026",
+    "total_matches": 39,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -48,19 +48,6 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247578_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Atletico de Madrid vs Villarreal CF [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Villarreal CF",
-            "startTime": "08:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247578_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
             "match_id": "4247584_ENG",
             "title": "LALIGA 2026-27 [English]",
             "match_name": "Getafe CF vs Racing Club de Santander [English]",
@@ -70,19 +57,6 @@
             "team_2": "Racing Club de Santander",
             "startTime": "11:00:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247584_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248394_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Eibar vs Real Valladolid [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "Real Valladolid",
-            "startTime": "08:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248394_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -493,6 +467,18 @@
             "team_1": "Al-Ettifaq",
             "team_2": "Al-Nassr FC",
             "startTime": "11:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248497,
+            "title": "Ipswich Town F.C. vs Leicester City F.C. (Carabao Cup 2026-27)",
+            "match_name": "Ipswich Town F.C. vs Leicester City F.C.",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248497_53016_IPT_LEI_fc-web.jpg",
+            "team_1": "Ipswich Town F.C.",
+            "team_2": "Leicester City F.C.",
+            "startTime": "12:15:00 AM 26-08-2026"
         }
     ]
 }
