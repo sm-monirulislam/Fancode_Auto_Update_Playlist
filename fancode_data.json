@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:43:52 AM 23-08-2026",
+    "last_update_time": "09:49:06 AM 23-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "match_id": 4248293,
             "startTime": "04:30:00 AM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248293/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Australian Capital Territory vs New Zealand A (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248431_53036_ACT_NZ-A_fc-web_1787393619331.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Australian Capital Territory vs New Zealand A",
-            "match_id": 4248431,
-            "startTime": "06:00:00 AM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248431/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -167,18 +154,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Northern Territory Strike vs Adelaide Strikers Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248443_53036_NTS_ACA_fc-web_1787393618661.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Adelaide Strikers Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Northern Territory Strike vs Adelaide Strikers Academy",
-            "match_id": 4248443,
-            "startTime": "09:00:00 AM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Bangladesh HP-XI vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
             "team_1": "Bangladesh HP-XI",
@@ -223,6 +198,18 @@
             "match_name": "Second Race",
             "match_id": 143617,
             "startTime": "03:15:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Lucknow Falcons",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Lucknow Falcons",
+            "match_id": 4248352,
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -334,18 +321,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Lucknow Falcons",
-            "match_id": 4248352,
-            "startTime": "03:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Golf",
             "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
@@ -355,18 +330,6 @@
             "match_name": "Day 2",
             "match_id": 4248528,
             "startTime": "01:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
-            "match_id": 4248299,
-            "startTime": "04:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -383,6 +346,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
+            "match_id": 4248299,
+            "startTime": "04:30:00 AM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
             "team_1": "Northern Territory Strike",
@@ -395,18 +370,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Victoria Academy",
-            "match_id": 4248429,
-            "startTime": "10:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
             "team_1": "South Delhi Superstarz",
@@ -415,6 +378,18 @@
             "match_name": "South Delhi Superstarz vs New Delhi Tigers",
             "match_id": 4248003,
             "startTime": "07:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Victoria Academy",
+            "match_id": 4248429,
+            "startTime": "10:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +426,30 @@
             "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
             "match_id": 4247553,
             "startTime": "01:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Nepal",
+            "match_id": 4248444,
+            "startTime": "03:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
+            "team_1": "Neom SC",
+            "team_2": "Al Qadisiyah",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Neom SC vs Al Qadisiyah",
+            "match_id": 4248275,
+            "startTime": "10:10:00 PM 24-08-2026"
         }
     ]
 }
