@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:27:50 PM 23-08-2026",
+    "last_update_time": "02:59:19 PM 23-08-2026",
     "total_matches": 37,
     "live_match": 4,
     "matches": [
@@ -35,12 +35,12 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Central Delhi Queens vs East Delhi Riders Women (Women's Delhi Premier League, 2026)",
+            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
-            "team_1": "Central Delhi Queens",
-            "team_2": "East Delhi Riders Women",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "Central Delhi Queens",
             "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "Central Delhi Queens vs East Delhi Riders Women",
+            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
             "match_id": 4247552,
             "startTime": "01:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247552/index.m3u8"
@@ -168,6 +168,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Lucknow Falcons",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Lucknow Falcons",
+            "match_id": 4248352,
+            "startTime": "03:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
@@ -180,15 +192,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Lucknow Falcons",
-            "match_id": 4248352,
-            "startTime": "03:00:00 PM 24-08-2026"
+            "event_category": "Motorsports",
+            "title": "Second Race vs Monza (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Second Race",
+            "team_2": "Monza",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Second Race",
+            "match_id": 143617,
+            "startTime": "03:15:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -225,18 +237,6 @@
             "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
             "match_id": 4248353,
             "startTime": "07:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Second Race vs Monza (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Second Race",
-            "team_2": "Monza",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Second Race",
-            "match_id": 143617,
-            "startTime": "03:15:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -349,18 +349,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Hyderabad Kingsmen",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Northern Territory Strike vs Hyderabad Kingsmen",
-            "match_id": 4248430,
-            "startTime": "06:00:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
             "team_1": "Rawain Royals",
@@ -369,6 +357,18 @@
             "match_name": "Rawain Royals vs Taknor Tigers",
             "match_id": 4248513,
             "startTime": "06:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Hyderabad Kingsmen",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Northern Territory Strike vs Hyderabad Kingsmen",
+            "match_id": 4248430,
+            "startTime": "06:00:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
