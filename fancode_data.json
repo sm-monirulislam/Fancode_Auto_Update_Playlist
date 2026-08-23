@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:36:32 PM 23-08-2026",
+    "last_update_time": "07:31:07 PM 23-08-2026",
     "total_matches": 38,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
@@ -22,6 +22,19 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "Outer Delhi Warriors",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
+            "match_id": 4248002,
+            "startTime": "07:00:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248002/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
             "team_1": "Baragaddi Kings",
@@ -31,19 +44,6 @@
             "match_id": 4248511,
             "startTime": "06:00:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248511/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Burnley",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "West Bromwich Albion F.C. vs Burnley",
-            "match_id": 4247475,
-            "startTime": "04:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247475/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -60,19 +60,6 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
-            "team_1": "East Delhi Riders Women",
-            "team_2": "Central Delhi Queens",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
-            "match_id": 4247552,
-            "startTime": "01:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247552/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Formula 1",
             "title": "Race vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
@@ -85,16 +72,30 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139481/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Outer Delhi Warriors",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
-            "match_id": 4248002,
-            "startTime": "07:00:00 PM 23-08-2026"
+            "status": "LIVE",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "Bellerive Country Club - St. Louis, Missouri",
+            "event_name": "BMW Championship 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 4248417,
+            "startTime": "06:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248417/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "title": "F1 Kids - Race vs Zandvoort (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids - Race",
+            "team_2": "Zandvoort",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids - Race",
+            "match_id": 4248534,
+            "startTime": "06:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248534/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -158,15 +159,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "Real Valladolid",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Eibar vs Real Valladolid",
-            "match_id": 4248394,
-            "startTime": "08:30:00 PM 23-08-2026"
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "New Delhi Tigers",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
+            "match_id": 4248003,
+            "startTime": "07:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -183,18 +184,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "New Delhi Tigers",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
-            "match_id": 4248003,
-            "startTime": "07:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
             "team_1": "Noida Kings",
@@ -206,27 +195,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Bellerive Country Club - St. Louis, Missouri",
-            "event_name": "BMW Championship 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 4248417,
-            "startTime": "06:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "F1 Kids - Race vs Zandvoort (F1 Kids 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
-            "team_1": "F1 Kids - Race",
-            "team_2": "Zandvoort",
-            "event_name": "F1 Kids 2026",
-            "match_name": "F1 Kids - Race",
-            "match_id": 4248534,
-            "startTime": "06:30:00 PM 23-08-2026"
+            "event_category": "Football",
+            "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
+            "team_1": "Eibar",
+            "team_2": "Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Eibar vs Real Valladolid",
+            "match_id": 4248394,
+            "startTime": "08:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -326,18 +303,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Victoria Academy",
-            "match_id": 4248429,
-            "startTime": "10:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
@@ -351,14 +316,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
-            "team_1": "Central Delhi Queens",
-            "team_2": "South Delhi Superstarz Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
-            "match_id": 4247553,
-            "startTime": "01:30:00 PM 24-08-2026"
+            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Victoria Academy",
+            "match_id": 4248429,
+            "startTime": "10:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -375,14 +340,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Nepal",
-            "match_id": 4248444,
-            "startTime": "03:00:00 PM 24-08-2026"
+            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+            "team_1": "Central Delhi Queens",
+            "team_2": "South Delhi Superstarz Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
+            "match_id": 4247553,
+            "startTime": "01:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -395,6 +360,18 @@
             "match_name": "Al-Ittihad vs Al-Hazem FC",
             "match_id": 4248276,
             "startTime": "11:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Nepal",
+            "match_id": 4248444,
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -467,6 +444,30 @@
             "match_name": "Baukh Night Riders vs Bhagirathi Giants",
             "match_id": 4248514,
             "startTime": "01:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hyderabad Kingsmen vs New Zealand A (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+            "team_1": "Hyderabad Kingsmen",
+            "team_2": "New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hyderabad Kingsmen vs New Zealand A",
+            "match_id": 4248440,
+            "startTime": "10:30:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Purani Dilli-6 vs East Delhi Riders (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
+            "team_1": "Purani Dilli-6",
+            "team_2": "East Delhi Riders",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Purani Dilli-6 vs East Delhi Riders",
+            "match_id": 4248004,
+            "startTime": "07:00:00 PM 25-08-2026"
         }
     ]
 }
