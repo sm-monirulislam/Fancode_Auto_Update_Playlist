@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:21:30 PM 23-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 08:49:47 PM 23-08-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Cricket",North Delhi Strikers vs Outer Delhi Warriors
 https://fancode.sm-monirul-islam-rs.workers.dev/4248002/index.m3u8
@@ -11,6 +11,8 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248002/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Cricket",Baragaddi Kings vs Bhagirathi Giants
 https://fancode.sm-monirul-islam-rs.workers.dev/4248511/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png" group-title="Football",Atletico de Madrid vs Villarreal CF
+https://fancode.sm-monirul-islam-rs.workers.dev/4247578/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Formula 1",Race
 https://fancode.sm-monirul-islam-rs.workers.dev/139481/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 4
