@@ -2,14 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:22:54 PM 23-08-2026 (BD Time)
+# Last Updated: 10:51:41 PM 23-08-2026 (BD Time)
 # Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Cricket",North Delhi Strikers vs Outer Delhi Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248002_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Cricket",Baragaddi Kings vs Bhagirathi Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248511_ENG/index.m3u8

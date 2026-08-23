@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:22:54 PM 23-08-2026",
+    "last_update_time": "10:51:41 PM 23-08-2026",
     "total_matches": 40,
     "live_match": 8,
     "matches": [
@@ -24,11 +24,11 @@
             "event_category": "Cricket",
             "match_id": "4248348_HIN",
             "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions [Hindi]",
+            "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]",
             "event_name": "Uttar Pradesh T20 League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Gaur Gorakhpur Lions",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Meerut Mavericks",
             "startTime": "07:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8"
         },
@@ -37,11 +37,11 @@
             "event_category": "Cricket",
             "match_id": "4248348_BHO",
             "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions [Bhojpuri]",
+            "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]",
             "event_name": "Uttar Pradesh T20 League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Gaur Gorakhpur Lions",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Meerut Mavericks",
             "startTime": "07:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248348_BHO/index.m3u8"
         },
@@ -112,6 +112,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247584,
+            "title": "Getafe CF vs Racing Club de Santander (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Racing Club de Santander",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Racing Club de Santander",
+            "startTime": "11:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248352,
             "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
@@ -145,18 +157,6 @@
             "team_1": "Noida Kings",
             "team_2": "Gaur Gorakhpur Lions",
             "startTime": "07:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247584,
-            "title": "Getafe CF vs Racing Club de Santander (LALIGA 2026-27)",
-            "match_name": "Getafe CF vs Racing Club de Santander",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Racing Club de Santander",
-            "startTime": "11:00:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
