@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:19:29 PM 23-08-2026",
+    "last_update_time": "05:45:40 PM 23-08-2026",
     "total_matches": 38,
-    "live_match": 6,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -44,19 +44,6 @@
             "match_id": 4247475,
             "startTime": "04:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247475/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Bangladesh HP-XI",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Bangladesh HP-XI",
-            "match_id": 4248436,
-            "startTime": "01:00:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248436/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -110,18 +97,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
-            "team_1": "East Bengal FC Women",
-            "team_2": "Sabah FA Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "East Bengal FC Women vs Sabah FA Women",
-            "match_id": 4248496,
-            "startTime": "05:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
@@ -131,6 +106,18 @@
             "match_name": "Baragaddi Kings vs Bhagirathi Giants",
             "match_id": 4248511,
             "startTime": "06:00:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Sabah FA Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "East Bengal FC Women vs Sabah FA Women",
+            "match_id": 4248496,
+            "startTime": "05:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -158,18 +145,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Elche CF vs FC Barcelona",
-            "match_id": 4247581,
-            "startTime": "01:00:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
@@ -179,6 +154,18 @@
             "match_name": "Kashi Rudras vs Lucknow Falcons",
             "match_id": 4248352,
             "startTime": "03:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "FC Barcelona",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Elche CF vs FC Barcelona",
+            "match_id": 4247581,
+            "startTime": "01:00:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -362,18 +349,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
-            "team_1": "Central Delhi Queens",
-            "team_2": "South Delhi Superstarz Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
-            "match_id": 4247553,
-            "startTime": "01:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
@@ -383,6 +358,18 @@
             "match_name": "Neom SC vs Al Qadisiyah",
             "match_id": 4248275,
             "startTime": "10:10:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+            "team_1": "Central Delhi Queens",
+            "team_2": "South Delhi Superstarz Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
+            "match_id": 4247553,
+            "startTime": "01:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -467,6 +454,18 @@
             "match_name": "Northern Territory Strike vs Australian Capital Territory",
             "match_id": 4248434,
             "startTime": "06:00:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Meerut Mavericks",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kanpur Superstars vs Meerut Mavericks",
+            "match_id": 4248355,
+            "startTime": "03:00:00 PM 25-08-2026"
         }
     ]
 }
