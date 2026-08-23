@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:45:40 PM 23-08-2026",
+    "last_update_time": "06:36:32 PM 23-08-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -22,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Taknor Tigers vs Baukh Night Riders (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
-            "team_1": "Taknor Tigers",
-            "team_2": "Baukh Night Riders",
+            "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
+            "team_1": "Baragaddi Kings",
+            "team_2": "Bhagirathi Giants",
             "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Taknor Tigers vs Baukh Night Riders",
-            "match_id": 4248510,
-            "startTime": "01:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248510/index.m3u8"
+            "match_name": "Baragaddi Kings vs Bhagirathi Giants",
+            "match_id": 4248511,
+            "startTime": "06:00:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248511/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -44,6 +44,19 @@
             "match_id": 4247475,
             "startTime": "04:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247475/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Sabah FA Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "East Bengal FC Women vs Sabah FA Women",
+            "match_id": 4248496,
+            "startTime": "05:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248496/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,26 +111,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
-            "team_1": "Baragaddi Kings",
-            "team_2": "Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Baragaddi Kings vs Bhagirathi Giants",
-            "match_id": 4248511,
-            "startTime": "06:00:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
-            "team_1": "East Bengal FC Women",
-            "team_2": "Sabah FA Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "East Bengal FC Women vs Sabah FA Women",
-            "match_id": 4248496,
-            "startTime": "05:30:00 PM 23-08-2026"
+            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Lucknow Falcons",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Lucknow Falcons",
+            "match_id": 4248352,
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,18 +143,6 @@
             "match_name": "Getafe CF vs Racing Club de Santander",
             "match_id": 4247584,
             "startTime": "11:00:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Lucknow Falcons",
-            "match_id": 4248352,
-            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -217,18 +206,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Taknor Tigers",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Rawain Royals vs Taknor Tigers",
-            "match_id": 4248513,
-            "startTime": "06:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Golf",
             "title": "Main Feed - Day 4 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
@@ -250,6 +227,18 @@
             "match_name": "F1 Kids - Race",
             "match_id": 4248534,
             "startTime": "06:30:00 PM 23-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Taknor Tigers",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Taknor Tigers",
+            "match_id": 4248513,
+            "startTime": "06:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -373,18 +362,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Nepal",
-            "match_id": 4248444,
-            "startTime": "03:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
@@ -394,6 +371,18 @@
             "match_name": "CA Osasuna vs Levante",
             "match_id": 4247579,
             "startTime": "11:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Nepal",
+            "match_id": 4248444,
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +455,18 @@
             "match_name": "Kanpur Superstars vs Meerut Mavericks",
             "match_id": 4248355,
             "startTime": "03:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Baukh Night Riders vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
+            "team_1": "Baukh Night Riders",
+            "team_2": "Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Baukh Night Riders vs Bhagirathi Giants",
+            "match_id": 4248514,
+            "startTime": "01:30:00 PM 25-08-2026"
         }
     ]
 }
