@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:27:00 AM 24-08-2026",
-    "total_matches": 39,
-    "live_match": 7,
+    "last_update_time": "12:58:31 AM 24-08-2026",
+    "total_matches": 37,
+    "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248348_HIN",
-            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Meerut Mavericks",
-            "startTime": "07:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248348_BHO",
-            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Meerut Mavericks",
-            "startTime": "07:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248348_BHO/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -98,6 +72,19 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248528_ENG/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248150_ENG",
+            "title": "ATP 250 - Winston-Salem Open 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "12:30:00 AM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248150_ENG/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248352,
@@ -108,6 +95,18 @@
             "team_1": "Kashi Rudras",
             "team_2": "Lucknow Falcons",
             "startTime": "03:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247581,
+            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
+            "match_name": "Elche CF vs FC Barcelona",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "FC Barcelona",
+            "startTime": "01:00:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -135,18 +134,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247581,
-            "title": "Elche CF vs FC Barcelona (LALIGA 2026-27)",
-            "match_name": "Elche CF vs FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "FC Barcelona",
-            "startTime": "01:00:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248512,
             "title": "Someshwar Warriors vs Baragaddi Kings (Uttarkashi T20 League 2026)",
@@ -168,18 +155,6 @@
             "team_1": "Rawain Royals",
             "team_2": "Taknor Tigers",
             "startTime": "06:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248150,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "12:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -267,18 +242,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248429,
-            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "Bangladesh HP-XI vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Victoria Academy",
-            "startTime": "10:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248395,
             "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
@@ -288,6 +251,18 @@
             "team_1": "Granada",
             "team_2": "RCD Mallorca",
             "startTime": "01:00:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248429,
+            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+            "match_name": "Bangladesh HP-XI vs Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Victoria Academy",
+            "startTime": "10:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
