@@ -2,22 +2,61 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:31:59 PM 23-08-2026",
+    "last_update_time": "02:27:50 PM 23-08-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "title": "Taknor Tigers vs Baukh Night Riders (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
+            "team_1": "Taknor Tigers",
+            "team_2": "Baukh Night Riders",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Taknor Tigers vs Baukh Night Riders",
+            "match_id": 4248510,
+            "startTime": "01:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248510/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Hobart Hurricanes Academy",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Bangladesh HP-XI",
             "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Hobart Hurricanes Academy",
+            "match_name": "Hobart Hurricanes Academy vs Bangladesh HP-XI",
             "match_id": 4248436,
             "startTime": "01:00:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248436/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Central Delhi Queens vs East Delhi Riders Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
+            "team_1": "Central Delhi Queens",
+            "team_2": "East Delhi Riders Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "Central Delhi Queens vs East Delhi Riders Women",
+            "match_id": 4247552,
+            "startTime": "01:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247552/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "title": "Feature Race vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Zandvoort",
+            "event_name": "F1 ACADEMY NETHERLANDS 2026",
+            "match_name": "Feature Race",
+            "match_id": 139695,
+            "startTime": "02:00:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139695/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -54,18 +93,6 @@
             "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
             "match_id": 4248348,
             "startTime": "07:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Taknor Tigers vs Baukh Night Riders (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
-            "team_1": "Taknor Tigers",
-            "team_2": "Baukh Night Riders",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Taknor Tigers vs Baukh Night Riders",
-            "match_id": 4248510,
-            "startTime": "01:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -154,18 +181,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Central Delhi Queens vs East Delhi Riders Women (Women's Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
-            "team_1": "Central Delhi Queens",
-            "team_2": "East Delhi Riders Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "match_name": "Central Delhi Queens vs East Delhi Riders Women",
-            "match_id": 4247552,
-            "startTime": "01:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
             "team_1": "Kashi Rudras",
@@ -189,15 +204,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Zandvoort (F1 ACADEMY NETHERLANDS 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Zandvoort",
-            "event_name": "F1 ACADEMY NETHERLANDS 2026",
-            "match_name": "Feature Race",
-            "match_id": 139695,
-            "startTime": "02:00:00 PM 23-08-2026"
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "New Delhi Tigers",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
+            "match_id": 4248003,
+            "startTime": "07:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+            "team_1": "Noida Kings",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
+            "match_id": 4248353,
+            "startTime": "07:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,18 +324,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "New Delhi Tigers",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
-            "match_id": 4248003,
-            "startTime": "07:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "title": "Men's Finals vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -330,18 +345,6 @@
             "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
             "match_id": 4248299,
             "startTime": "04:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-            "team_1": "Noida Kings",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
-            "match_id": 4248353,
-            "startTime": "07:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
