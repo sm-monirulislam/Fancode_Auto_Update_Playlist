@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:45:34 PM 23-08-2026",
+    "last_update_time": "12:27:00 AM 24-08-2026",
     "total_matches": 39,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248002_ENG",
-            "title": "Delhi Premier League, 2026 [English]",
-            "match_name": "North Delhi Strikers vs Outer Delhi Warriors [English]",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Outer Delhi Warriors",
-            "startTime": "07:00:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248002_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -83,6 +70,32 @@
             "team_2": "Bellerive Country Club - St. Louis, Missouri",
             "startTime": "09:30:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248413_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248148_ENG",
+            "title": "ATP Masters Cincinnati Open 2026 [English]",
+            "match_name": "Doubles Finals [English]",
+            "event_name": "ATP Masters Cincinnati Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "team_1": "Doubles Finals",
+            "team_2": "Cincinnati, United States",
+            "startTime": "11:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248148_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4248528_ENG",
+            "title": "US Women’s Senior Open 2026 [English]",
+            "match_name": "Day 2 [English]",
+            "event_name": "US Women’s Senior Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
+            "team_1": "Day 2",
+            "team_2": "Barton Hills Country Club",
+            "startTime": "11:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248528_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -159,26 +172,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": 4248148,
-            "title": "Doubles Finals vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "match_name": "Doubles Finals",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "Doubles Finals",
-            "team_2": "Cincinnati, United States",
-            "startTime": "11:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": 4248528,
-            "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
-            "match_name": "Day 2",
-            "event_name": "US Women’s Senior Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
-            "team_1": "Day 2",
-            "team_2": "Barton Hills Country Club",
-            "startTime": "11:30:00 PM 23-08-2026"
+            "match_id": 4248150,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "12:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -231,18 +232,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": 4248150,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "12:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
             "match_id": 4248149,
             "title": "Men's Finals vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "match_name": "Men's Finals",
@@ -290,6 +279,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248395,
+            "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
+            "match_name": "Granada vs RCD Mallorca",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+            "team_1": "Granada",
+            "team_2": "RCD Mallorca",
+            "startTime": "01:00:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4247553,
             "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
@@ -311,18 +312,6 @@
             "team_1": "Hobart Hurricanes Academy",
             "team_2": "Nepal",
             "startTime": "03:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248395,
-            "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Granada vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
-            "team_1": "Granada",
-            "team_2": "RCD Mallorca",
-            "startTime": "01:00:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -478,6 +467,18 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248497_53016_IPT_LEI_fc-web.jpg",
             "team_1": "Ipswich Town F.C.",
             "team_2": "Leicester City F.C.",
+            "startTime": "12:15:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248498,
+            "title": "Plymouth Argyle vs Coventry City F.C. (Carabao Cup 2026-27)",
+            "match_name": "Plymouth Argyle vs Coventry City F.C.",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248498_53016_PLY_CVC_fc-web.jpg",
+            "team_1": "Plymouth Argyle",
+            "team_2": "Coventry City F.C.",
             "startTime": "12:15:00 AM 26-08-2026"
         }
     ]

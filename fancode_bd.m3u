@@ -2,11 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:45:34 PM 23-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 12:27:00 AM 24-08-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Cricket",North Delhi Strikers vs Outer Delhi Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248002_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]
@@ -17,3 +15,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4247584_ENG/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248417_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",World Feed - Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248413_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Doubles Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248148_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png" group-title="Golf",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248528_ENG/index.m3u8
