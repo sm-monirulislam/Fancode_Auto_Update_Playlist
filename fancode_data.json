@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:14:08 AM 23-08-2026",
+    "last_update_time": "08:43:52 AM 23-08-2026",
     "total_matches": 37,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-            "team_1": "World Feed 2",
-            "team_2": "Cincinnati, United States",
-            "event_name": "ATP Masters Cincinnati Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 4248143,
-            "startTime": "03:30:00 AM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248143/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -347,18 +334,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
-            "team_1": "Day 2",
-            "team_2": "Barton Hills Country Club",
-            "event_name": "US Women’s Senior Open 2026",
-            "match_name": "Day 2",
-            "match_id": 4248528,
-            "startTime": "01:30:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
@@ -368,6 +343,18 @@
             "match_name": "Kashi Rudras vs Lucknow Falcons",
             "match_id": 4248352,
             "startTime": "03:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
+            "team_1": "Day 2",
+            "team_2": "Barton Hills Country Club",
+            "event_name": "US Women’s Senior Open 2026",
+            "match_name": "Day 2",
+            "match_id": 4248528,
+            "startTime": "01:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -384,18 +371,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Hyderabad Kingsmen",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Northern Territory Strike vs Hyderabad Kingsmen",
-            "match_id": 4248430,
-            "startTime": "06:00:00 AM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Someshwar Warriors vs Baragaddi Kings (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
             "team_1": "Someshwar Warriors",
@@ -404,6 +379,18 @@
             "match_name": "Someshwar Warriors vs Baragaddi Kings",
             "match_id": 4248512,
             "startTime": "01:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Hyderabad Kingsmen",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Northern Territory Strike vs Hyderabad Kingsmen",
+            "match_id": 4248430,
+            "startTime": "06:00:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +439,18 @@
             "match_name": "Rawain Royals vs Taknor Tigers",
             "match_id": 4248513,
             "startTime": "06:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+            "team_1": "Central Delhi Queens",
+            "team_2": "South Delhi Superstarz Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
+            "match_id": 4247553,
+            "startTime": "01:30:00 PM 24-08-2026"
         }
     ]
 }
