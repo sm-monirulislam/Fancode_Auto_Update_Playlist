@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:31:07 PM 23-08-2026",
-    "total_matches": 38,
-    "live_match": 7,
+    "last_update_time": "08:21:30 PM 23-08-2026",
+    "total_matches": 39,
+    "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "title": "Noida Kings vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-            "team_1": "Noida Kings",
-            "team_2": "Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Lucknow Falcons",
-            "match_id": 4248342,
-            "startTime": "03:00:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248342/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,6 +22,19 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "title": "Meerut Mavericks vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+            "team_1": "Meerut Mavericks",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
+            "match_id": 4248348,
+            "startTime": "07:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248348/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "title": "Baragaddi Kings vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
             "team_1": "Baragaddi Kings",
@@ -44,19 +44,6 @@
             "match_id": 4248511,
             "startTime": "06:00:00 PM 23-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248511/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
-            "team_1": "East Bengal FC Women",
-            "team_2": "Sabah FA Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "East Bengal FC Women vs Sabah FA Women",
-            "match_id": 4248496,
-            "startTime": "05:30:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248496/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -99,15 +86,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Meerut Mavericks vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions",
-            "match_id": 4248348,
-            "startTime": "07:30:00 PM 23-08-2026"
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Villarreal CF (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Villarreal CF",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "Atletico de Madrid vs Villarreal CF",
+            "match_id": 4247578,
+            "startTime": "08:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -124,13 +111,13 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Atletico de Madrid vs Villarreal CF (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Villarreal CF",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "Atletico de Madrid vs Villarreal CF",
-            "match_id": 4247578,
+            "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
+            "team_1": "Eibar",
+            "team_2": "Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "match_name": "Eibar vs Real Valladolid",
+            "match_id": 4248394,
             "startTime": "08:30:00 PM 23-08-2026"
         },
         {
@@ -172,6 +159,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+            "team_1": "Noida Kings",
+            "team_2": "Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
+            "match_id": 4248353,
+            "startTime": "07:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "title": "Someshwar Warriors vs Baragaddi Kings (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
             "team_1": "Someshwar Warriors",
@@ -184,30 +183,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-            "team_1": "Noida Kings",
-            "team_2": "Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
-            "match_id": 4248353,
-            "startTime": "07:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Eibar vs Real Valladolid (LALIGA Hypermotion 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "Real Valladolid",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "match_name": "Eibar vs Real Valladolid",
-            "match_id": 4248394,
-            "startTime": "08:30:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
             "team_1": "Rawain Royals",
@@ -216,6 +191,18 @@
             "match_name": "Rawain Royals vs Taknor Tigers",
             "match_id": 4248513,
             "startTime": "06:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
+            "team_1": "Neom SC",
+            "team_2": "Al Qadisiyah",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Neom SC vs Al Qadisiyah",
+            "match_id": 4248275,
+            "startTime": "10:10:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -304,14 +291,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
-            "team_1": "Neom SC",
-            "team_2": "Al Qadisiyah",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Neom SC vs Al Qadisiyah",
-            "match_id": 4248275,
-            "startTime": "10:10:00 PM 24-08-2026"
+            "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Levante",
+            "event_name": "LALIGA 2026-27",
+            "match_name": "CA Osasuna vs Levante",
+            "match_id": 4247579,
+            "startTime": "11:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -328,14 +315,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Levante",
-            "event_name": "LALIGA 2026-27",
-            "match_name": "CA Osasuna vs Levante",
-            "match_id": 4247579,
-            "startTime": "11:00:00 PM 24-08-2026"
+            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Hazem FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Ittihad vs Al-Hazem FC",
+            "match_id": 4248276,
+            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -348,18 +335,6 @@
             "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
             "match_id": 4247553,
             "startTime": "01:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Hazem FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Al-Ittihad vs Al-Hazem FC",
-            "match_id": 4248276,
-            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -468,6 +443,42 @@
             "match_name": "Purani Dilli-6 vs East Delhi Riders",
             "match_id": 4248004,
             "startTime": "07:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Lucknow Falcons vs Kashi Rudras",
+            "match_id": 4248354,
+            "startTime": "07:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "East Delhi Riders Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787120909655.png",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "North Delhi Strikers Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "match_name": "East Delhi Riders Women vs North Delhi Strikers Women",
+            "match_id": 4247554,
+            "startTime": "01:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Baragaddi Kings",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Baragaddi Kings",
+            "match_id": 4248515,
+            "startTime": "06:00:00 PM 25-08-2026"
         }
     ]
 }
