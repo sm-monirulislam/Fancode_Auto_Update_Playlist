@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:20:02 AM 24-08-2026",
+    "last_update_time": "03:45:38 AM 24-08-2026",
     "total_matches": 37,
     "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247581_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Elche CF vs FC Barcelona [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "FC Barcelona",
-            "startTime": "01:00:00 AM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247581_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -83,6 +70,19 @@
             "team_2": "Cincinnati, United States",
             "startTime": "02:00:00 AM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248149_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247581_ENG",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Elche CF vs FC Barcelona [English]",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "FC Barcelona",
+            "startTime": "01:00:00 AM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247581_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",

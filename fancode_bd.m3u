@@ -2,11 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:20:02 AM 24-08-2026 (BD Time)
+# Last Updated: 03:45:38 AM 24-08-2026 (BD Time)
 # Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png" group-title="Football",Elche CF vs FC Barcelona [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247581_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248417_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",World Feed - Day 4 [English]
@@ -17,3 +15,5 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248528_ENG/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248150_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",Men's Finals [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248149_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png" group-title="Football",Elche CF vs FC Barcelona [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247581_ENG/index.m3u8
