@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:49:58 PM 23-08-2026",
+    "last_update_time": "05:19:29 PM 23-08-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -34,6 +34,19 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Football",
+            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Burnley",
+            "event_name": "EFL Championship 2026-27",
+            "match_name": "West Bromwich Albion F.C. vs Burnley",
+            "match_id": 4247475,
+            "startTime": "04:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247475/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Cricket",
             "title": "Hobart Hurricanes Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
@@ -60,16 +73,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Motorsports",
-            "title": "Second Race vs Monza (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Second Race",
-            "team_2": "Monza",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Second Race",
-            "match_id": 143617,
-            "startTime": "03:15:00 PM 23-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/143617/index.m3u8"
+            "event_category": "Formula 1",
+            "title": "Race vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
+            "team_1": "Race",
+            "team_2": "Circuit Zandvoort",
+            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
+            "match_name": "Race",
+            "match_id": 139481,
+            "startTime": "06:30:00 PM 23-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139481/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -98,14 +111,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Burnley (EFL Championship 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Burnley",
-            "event_name": "EFL Championship 2026-27",
-            "match_name": "West Bromwich Albion F.C. vs Burnley",
-            "match_id": 4247475,
-            "startTime": "04:30:00 PM 23-08-2026"
+            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Sabah FA Women",
+            "event_name": "AFC Women's Champions League Qualifier 2026-27",
+            "match_name": "East Bengal FC Women vs Sabah FA Women",
+            "match_id": 4248496,
+            "startTime": "05:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -118,18 +131,6 @@
             "match_name": "Baragaddi Kings vs Bhagirathi Giants",
             "match_id": 4248511,
             "startTime": "06:00:00 PM 23-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "title": "East Bengal FC Women vs Sabah FA Women (AFC Women's Champions League Qualifier 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png",
-            "team_1": "East Bengal FC Women",
-            "team_2": "Sabah FA Women",
-            "event_name": "AFC Women's Champions League Qualifier 2026-27",
-            "match_name": "East Bengal FC Women vs Sabah FA Women",
-            "match_id": 4248496,
-            "startTime": "05:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -238,18 +239,6 @@
             "match_name": "Rawain Royals vs Taknor Tigers",
             "match_id": 4248513,
             "startTime": "06:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "title": "Race vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
-            "team_1": "Race",
-            "team_2": "Circuit Zandvoort",
-            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
-            "match_name": "Race",
-            "match_id": 139481,
-            "startTime": "06:30:00 PM 23-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +455,18 @@
             "match_name": "ATP 250 - Winston-Salem Open 2026",
             "match_id": 4248151,
             "startTime": "10:00:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Australian Capital Territory",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Northern Territory Strike vs Australian Capital Territory",
+            "match_id": 4248434,
+            "startTime": "06:00:00 AM 25-08-2026"
         }
     ]
 }
