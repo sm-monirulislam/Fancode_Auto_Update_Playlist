@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:19:44 AM 24-08-2026",
+    "last_update_time": "04:47:32 AM 24-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "team_2": "Cincinnati, United States",
             "startTime": "02:00:00 AM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248149_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248299_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248299_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -127,18 +140,6 @@
             "team_1": "Al-Ittihad",
             "team_2": "Al-Hazem FC",
             "startTime": "11:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248299,
-            "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "04:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
