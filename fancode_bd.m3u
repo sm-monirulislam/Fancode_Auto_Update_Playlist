@@ -2,20 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:47:08 PM 23-08-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 10:22:54 PM 23-08-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Cricket",North Delhi Strikers vs Outer Delhi Warriors English
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Cricket",North Delhi Strikers vs Outer Delhi Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248002_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions Hindi
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions Bhojpuri
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Cricket",Meerut Mavericks vs Gaur Gorakhpur Lions [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Cricket",Baragaddi Kings vs Bhagirathi Giants English
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Cricket",Baragaddi Kings vs Bhagirathi Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248511_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png" group-title="Football",Atletico de Madrid vs Villarreal CF English
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png" group-title="Football",Atletico de Madrid vs Villarreal CF [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247578_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png" group-title="Football",Eibar vs Real Valladolid English
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png" group-title="Football",Eibar vs Real Valladolid [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248394_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 4 English
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",Main Feed - Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248417_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Golf",World Feed - Day 4 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248413_ENG/index.m3u8
