@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:28:36 AM 25-08-2026",
-    "total_matches": 36,
+    "last_update_time": "03:00:58 AM 25-08-2026",
+    "total_matches": 37,
     "live_match": 3,
     "matches": [
         {
@@ -439,6 +439,18 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247571_53004_RM_RS_FC-Web.png",
             "team_1": "Real Madrid",
             "team_2": "Real Sociedad",
+            "startTime": "12:30:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248506,
+            "title": "Preston North End F.C. vs Everton (Carabao Cup 2026-27)",
+            "match_name": "Preston North End F.C. vs Everton",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248506_53016_PST_EVE_fc-web.jpg",
+            "team_1": "Preston North End F.C.",
+            "team_2": "Everton",
             "startTime": "12:30:00 AM 27-08-2026"
         }
     ]
