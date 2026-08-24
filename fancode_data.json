@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:35:33 PM 24-08-2026",
+    "last_update_time": "11:29:12 PM 24-08-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -59,16 +59,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248275_ENG/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
-            "match_id": 4247579,
-            "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
-            "match_name": "CA Osasuna vs Levante",
+            "match_id": "4247579_ENG",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "CA Osasuna vs Levante [English]",
             "event_name": "LALIGA 2026-27",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
             "team_1": "CA Osasuna",
             "team_2": "Levante",
-            "startTime": "11:00:00 PM 24-08-2026"
+            "startTime": "11:00:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247579_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -81,6 +82,18 @@
             "team_1": "Kanpur Superstars",
             "team_2": "Meerut Mavericks",
             "startTime": "03:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248276,
+            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ittihad vs Al-Hazem FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Hazem FC",
+            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -109,18 +122,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": 4248276,
-            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ittihad vs Al-Hazem FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Hazem FC",
-            "startTime": "11:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": 4247587,
             "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
             "match_name": "Málaga vs Deportivo de La Coruna",
@@ -144,6 +145,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248515,
+            "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
+            "match_name": "Rawain Royals vs Baragaddi Kings",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Baragaddi Kings",
+            "startTime": "06:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248395,
             "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
@@ -156,15 +169,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248515,
-            "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
-            "match_name": "Rawain Royals vs Baragaddi Kings",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Baragaddi Kings",
-            "startTime": "06:00:00 PM 25-08-2026"
+            "event_category": "Tennis",
+            "match_id": 4248151,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -285,18 +298,6 @@
             "team_1": "Nottingham Forest",
             "team_2": "Leeds United",
             "startTime": "12:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248151,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
