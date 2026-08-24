@@ -2,10 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:53:59 PM 24-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 03:45:33 PM 24-08-2026 (BD Time)
+# Live Match : 5
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" group-title="Cricket",Lucknow Falcons vs Kashi Rudras [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248352_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" group-title="Cricket",Lucknow Falcons vs Kashi Rudras [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248352_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg" group-title="Cricket",Someshwar Warriors vs Baragaddi Kings [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248512_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" group-title="Cricket",Central Delhi Queens vs South Delhi Superstarz Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg" group-title="Cricket",Hobart Hurricanes Academy vs Nepal [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248444_ENG/index.m3u8

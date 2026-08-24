@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:53:59 PM 24-08-2026",
-    "total_matches": 37,
-    "live_match": 2,
+    "last_update_time": "03:45:33 PM 24-08-2026",
+    "total_matches": 39,
+    "live_match": 5,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248352_HIN",
+            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
+            "match_name": "Lucknow Falcons vs Kashi Rudras [Hindi]",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kashi Rudras",
+            "startTime": "03:00:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248352_HIN/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248352_BHO",
+            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
+            "match_name": "Lucknow Falcons vs Kashi Rudras [Bhojpuri]",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kashi Rudras",
+            "startTime": "03:00:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248352_BHO/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -33,16 +59,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": 4248352,
-            "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Kashi Rudras vs Lucknow Falcons",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Lucknow Falcons",
-            "startTime": "03:00:00 PM 24-08-2026"
+            "match_id": "4248444_ENG",
+            "title": "Top End T20 Series, 2026 [English]",
+            "match_name": "Hobart Hurricanes Academy vs Nepal [English]",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "startTime": "03:00:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248444_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -155,18 +182,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248444,
-            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
-            "match_name": "Hobart Hurricanes Academy vs Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Nepal",
-            "startTime": "03:00:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248514,
             "title": "Baukh Night Riders vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "match_name": "Baukh Night Riders vs Bhagirathi Giants",
@@ -202,18 +217,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248151,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248515,
             "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
@@ -223,6 +226,18 @@
             "team_1": "Rawain Royals",
             "team_2": "Baragaddi Kings",
             "startTime": "06:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": 4248151,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +466,18 @@
             "team_1": "Gaur Gorakhpur Lions",
             "team_2": "Kanpur Superstars",
             "startTime": "03:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248516,
+            "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "match_name": "Taknor Tigers vs Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+            "team_1": "Taknor Tigers",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 26-08-2026"
         }
     ]
 }
