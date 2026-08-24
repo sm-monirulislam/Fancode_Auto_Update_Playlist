@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:55:05 AM 25-08-2026",
-    "total_matches": 37,
-    "live_match": 4,
+    "last_update_time": "02:28:36 AM 25-08-2026",
+    "total_matches": 36,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248276_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al-Ittihad vs Al-Hazem FC [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Hazem FC",
-            "startTime": "11:30:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248276_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
