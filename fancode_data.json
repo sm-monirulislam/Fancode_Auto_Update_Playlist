@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:53:08 AM 24-08-2026",
+    "last_update_time": "10:42:18 AM 24-08-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248430_ENG",
-            "title": "Top End T20 Series, 2026 [English]",
-            "match_name": "Northern Territory Strike vs Hyderabad Kingsmen [English]",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Hyderabad Kingsmen",
-            "startTime": "06:00:00 AM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248430_ENG/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -129,6 +116,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248429,
+            "title": "Victoria Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
+            "match_name": "Victoria Academy vs Bangladesh HP-XI",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Victoria Academy",
+            "team_2": "Bangladesh HP-XI",
+            "startTime": "10:30:00 AM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248395,
             "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
@@ -138,18 +137,6 @@
             "team_1": "Granada",
             "team_2": "RCD Mallorca",
             "startTime": "01:00:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248429,
-            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "Bangladesh HP-XI vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Victoria Academy",
-            "startTime": "10:30:00 AM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -238,18 +225,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248440,
-            "title": "Hyderabad Kingsmen vs New Zealand A (Top End T20 Series, 2026)",
-            "match_name": "Hyderabad Kingsmen vs New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
-            "team_1": "Hyderabad Kingsmen",
-            "team_2": "New Zealand A",
-            "startTime": "10:30:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248354,
             "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "match_name": "Lucknow Falcons vs Kashi Rudras",
@@ -258,6 +233,18 @@
             "team_1": "Lucknow Falcons",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248440,
+            "title": "Hyderabad Kingsmen vs New Zealand A (Top End T20 Series, 2026)",
+            "match_name": "Hyderabad Kingsmen vs New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+            "team_1": "Hyderabad Kingsmen",
+            "team_2": "New Zealand A",
+            "startTime": "10:30:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -450,6 +437,18 @@
             "team_1": "New Zealand A",
             "team_2": "Victoria Academy",
             "startTime": "06:00:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248001,
+            "title": "TBC vs TBC (Delhi Premier League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "01:30:00 PM 26-08-2026"
         }
     ]
 }
