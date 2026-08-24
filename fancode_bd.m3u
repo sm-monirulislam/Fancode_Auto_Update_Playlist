@@ -2,16 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:40:00 PM 24-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 09:37:28 PM 24-08-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" group-title="Cricket",South Delhi Superstarz vs New Delhi Tigers [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" group-title="Cricket",New Delhi Tigers vs South Delhi Superstarz [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248003_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Noida Kings vs Gaur Gorakhpur Lions [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Gaur Gorakhpur Lions vs Noida Kings [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248353_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Noida Kings vs Gaur Gorakhpur Lions [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Gaur Gorakhpur Lions vs Noida Kings [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248353_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg" group-title="Cricket",Rawain Royals vs Taknor Tigers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248513_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" group-title="Cricket",South Delhi Superstarz Women vs Central Delhi Queens [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8
