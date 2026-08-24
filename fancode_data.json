@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:10:02 AM 25-08-2026",
+    "last_update_time": "01:55:05 AM 25-08-2026",
     "total_matches": 37,
     "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247579_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "CA Osasuna vs Levante [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Levante",
-            "startTime": "11:00:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247579_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -44,6 +31,19 @@
             "team_2": "Deportivo de La Coruna",
             "startTime": "01:00:00 AM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247587_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248395_ENG",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Granada vs RCD Mallorca [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+            "team_1": "Granada",
+            "team_2": "RCD Mallorca",
+            "startTime": "01:00:00 AM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248395_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -93,18 +93,6 @@
             "team_1": "Lucknow Falcons",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248395,
-            "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Granada vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
-            "team_1": "Granada",
-            "team_2": "RCD Mallorca",
-            "startTime": "01:00:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -453,6 +441,18 @@
             "team_1": "Tottenham Hotspur",
             "team_2": "Charlton Athletic F.C",
             "startTime": "12:15:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247571,
+            "title": "Real Madrid vs Real Sociedad (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Real Sociedad",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247571_53004_RM_RS_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Real Sociedad",
+            "startTime": "12:30:00 AM 27-08-2026"
         }
     ]
 }

@@ -2,14 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:10:02 AM 25-08-2026 (BD Time)
+# Last Updated: 01:55:05 AM 25-08-2026 (BD Time)
 # Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="Football",CA Osasuna vs Levante [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247579_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png" group-title="Football",Al-Ittihad vs Al-Hazem FC [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248276_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png" group-title="Football",Málaga vs Deportivo de La Coruna [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247587_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png" group-title="Football",Granada vs RCD Mallorca [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248395_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248151_ENG/index.m3u8
