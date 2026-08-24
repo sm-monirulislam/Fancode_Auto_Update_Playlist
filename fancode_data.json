@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:55:29 PM 24-08-2026",
+    "last_update_time": "01:57:31 PM 24-08-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248512_ENG",
+            "title": "Uttarkashi T20 League 2026 [English]",
+            "match_name": "Someshwar Warriors vs Baragaddi Kings [English]",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
+            "team_1": "Someshwar Warriors",
+            "team_2": "Baragaddi Kings",
+            "startTime": "01:30:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248512_ENG/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -18,6 +31,19 @@
             "team_2": "Bangladesh HP-XI",
             "startTime": "10:30:00 AM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248429_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4247553_ENG",
+            "title": "Women's Delhi Premier League, 2026 [English]",
+            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women [English]",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png",
+            "team_1": "Central Delhi Queens",
+            "team_2": "South Delhi Superstarz Women",
+            "startTime": "01:30:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -54,18 +80,6 @@
             "team_1": "Noida Kings",
             "team_2": "Gaur Gorakhpur Lions",
             "startTime": "07:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248512,
-            "title": "Someshwar Warriors vs Baragaddi Kings (Uttarkashi T20 League 2026)",
-            "match_name": "Someshwar Warriors vs Baragaddi Kings",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
-            "team_1": "Someshwar Warriors",
-            "team_2": "Baragaddi Kings",
-            "startTime": "01:30:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -166,14 +180,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4247553,
-            "title": "Central Delhi Queens vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
-            "match_name": "Central Delhi Queens vs South Delhi Superstarz Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
-            "team_1": "Central Delhi Queens",
-            "team_2": "South Delhi Superstarz Women",
-            "startTime": "01:30:00 PM 24-08-2026"
+            "match_id": 4248004,
+            "title": "Purani Dilli-6 vs East Delhi Riders (Delhi Premier League, 2026)",
+            "match_name": "Purani Dilli-6 vs East Delhi Riders",
+            "event_name": "Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
+            "team_1": "Purani Dilli-6",
+            "team_2": "East Delhi Riders",
+            "startTime": "07:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -202,14 +216,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248004,
-            "title": "Purani Dilli-6 vs East Delhi Riders (Delhi Premier League, 2026)",
-            "match_name": "Purani Dilli-6 vs East Delhi Riders",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "East Delhi Riders",
-            "startTime": "07:00:00 PM 25-08-2026"
+            "match_id": 4248354,
+            "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Lucknow Falcons vs Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -222,18 +236,6 @@
             "team_1": "Northern Territory Strike",
             "team_2": "Australian Capital Territory",
             "startTime": "06:00:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248354,
-            "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Lucknow Falcons vs Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,7 +268,7 @@
             "title": "East Delhi Riders Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
             "match_name": "East Delhi Riders Women vs North Delhi Strikers Women",
             "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787120909655.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
             "team_1": "East Delhi Riders Women",
             "team_2": "North Delhi Strikers Women",
             "startTime": "01:30:00 PM 25-08-2026"

@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:55:29 PM 24-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 01:57:31 PM 24-08-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg" group-title="Cricket",Someshwar Warriors vs Baragaddi Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248512_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg" group-title="Cricket",Victoria Academy vs Bangladesh HP-XI [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248429_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" group-title="Cricket",Central Delhi Queens vs South Delhi Superstarz Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8
