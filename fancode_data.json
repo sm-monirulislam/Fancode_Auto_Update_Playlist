@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:50:32 PM 24-08-2026",
-    "total_matches": 39,
+    "last_update_time": "08:40:00 PM 24-08-2026",
+    "total_matches": 40,
     "live_match": 5,
     "matches": [
         {
@@ -146,18 +146,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248514,
-            "title": "Baukh Night Riders vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "match_name": "Baukh Night Riders vs Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
-            "team_1": "Baukh Night Riders",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248354,
             "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "match_name": "Lucknow Falcons vs Kashi Rudras",
@@ -166,6 +154,18 @@
             "team_1": "Lucknow Falcons",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248514,
+            "title": "Baukh Night Riders vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "match_name": "Baukh Night Riders vs Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
+            "team_1": "Baukh Night Riders",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -265,18 +265,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248433,
-            "title": "Adelaide Strikers Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
-            "match_name": "Adelaide Strikers Academy vs Bangladesh HP-XI",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Bangladesh HP-XI",
-            "startTime": "03:00:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248497,
             "title": "Ipswich Town F.C. vs Leicester City F.C. (Carabao Cup 2026-27)",
@@ -334,6 +322,18 @@
             "team_1": "Stoke City F.C.",
             "team_2": "Hull City",
             "startTime": "12:15:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248433,
+            "title": "Adelaide Strikers Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Bangladesh HP-XI",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Bangladesh HP-XI",
+            "startTime": "03:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -478,6 +478,18 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248517,
+            "title": "Someshwar Warriors vs Baukh Night Riders (Uttarkashi T20 League 2026)",
+            "match_name": "Someshwar Warriors vs Baukh Night Riders",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
+            "team_1": "Someshwar Warriors",
+            "team_2": "Baukh Night Riders",
+            "startTime": "06:00:00 PM 26-08-2026"
         }
     ]
 }
