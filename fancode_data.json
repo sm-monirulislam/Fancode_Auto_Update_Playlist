@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:26:48 PM 24-08-2026",
+    "last_update_time": "05:55:54 PM 24-08-2026",
     "total_matches": 39,
     "live_match": 5,
     "matches": [
@@ -109,6 +109,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248355,
+            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Kanpur Superstars vs Meerut Mavericks",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Meerut Mavericks",
+            "startTime": "03:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248275,
             "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
@@ -154,18 +166,6 @@
             "team_1": "Málaga",
             "team_2": "Deportivo de La Coruna",
             "startTime": "01:00:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248355,
-            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Kanpur Superstars vs Meerut Mavericks",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Meerut Mavericks",
-            "startTime": "03:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
