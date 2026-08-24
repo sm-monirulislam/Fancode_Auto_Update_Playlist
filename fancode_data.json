@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:53:38 AM 25-08-2026",
+    "last_update_time": "04:24:07 AM 25-08-2026",
     "total_matches": 37,
-    "live_match": 3,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248395_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Granada vs RCD Mallorca [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
-            "team_1": "Granada",
-            "team_2": "RCD Mallorca",
-            "startTime": "01:00:00 AM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248395_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -31,19 +18,6 @@
             "team_2": "Winston-Salem, United States",
             "startTime": "11:30:00 PM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248151_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247587_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Málaga vs Deportivo de La Coruna [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
-            "team_1": "Málaga",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "01:00:00 AM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247587_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,18 +262,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248295,
-            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Barbados Tridents",
-            "startTime": "04:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248001,
             "title": "TBC vs TBC (Delhi Premier League, 2026)",
             "match_name": "TBC vs TBC",
@@ -308,6 +270,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "01:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248295,
+            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Barbados Tridents",
+            "startTime": "04:30:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +426,30 @@
             "team_1": "Preston North End F.C.",
             "team_2": "Everton",
             "startTime": "12:30:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": 4248153,
+            "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "ATP 250 - Winston-Salem Open 2026",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "ATP 250 - Winston-Salem Open 2026",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "10:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248298,
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 27-08-2026"
         }
     ]
 }
