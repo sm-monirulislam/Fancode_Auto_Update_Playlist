@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:37:28 PM 24-08-2026",
+    "last_update_time": "10:35:33 PM 24-08-2026",
     "total_matches": 40,
     "live_match": 4,
     "matches": [
@@ -47,40 +47,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248513_ENG",
-            "title": "Uttarkashi T20 League 2026 [English]",
-            "match_name": "Rawain Royals vs Taknor Tigers [English]",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Taknor Tigers",
-            "startTime": "06:00:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248513_ENG/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248355,
-            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Kanpur Superstars vs Meerut Mavericks",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Meerut Mavericks",
-            "startTime": "03:00:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": 4248275,
-            "title": "Neom SC vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
-            "match_name": "Neom SC vs Al Qadisiyah",
+            "match_id": "4248275_ENG",
+            "title": "Roshn Saudi League 2026-2027 [English]",
+            "match_name": "Neom SC vs Al Qadisiyah [English]",
             "event_name": "Roshn Saudi League 2026-2027",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
             "team_1": "Neom SC",
             "team_2": "Al Qadisiyah",
-            "startTime": "10:10:00 PM 24-08-2026"
+            "startTime": "10:10:00 PM 24-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248275_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -96,27 +72,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248276,
-            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ittihad vs Al-Hazem FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Hazem FC",
-            "startTime": "11:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247587,
-            "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Málaga vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
-            "team_1": "Málaga",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "01:00:00 AM 25-08-2026"
+            "event_category": "Cricket",
+            "match_id": 4248355,
+            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Kanpur Superstars vs Meerut Mavericks",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Meerut Mavericks",
+            "startTime": "03:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -141,6 +105,30 @@
             "team_1": "Lucknow Falcons",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248276,
+            "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ittihad vs Al-Hazem FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Hazem FC",
+            "startTime": "11:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247587,
+            "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
+            "match_name": "Málaga vs Deportivo de La Coruna",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
+            "team_1": "Málaga",
+            "team_2": "Deportivo de La Coruna",
+            "startTime": "01:00:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -201,42 +189,6 @@
             "team_1": "Al-Ettifaq",
             "team_2": "Al-Nassr FC",
             "startTime": "11:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248151,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 24-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248434,
-            "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2026)",
-            "match_name": "Northern Territory Strike vs Australian Capital Territory",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Australian Capital Territory",
-            "startTime": "06:00:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248440,
-            "title": "Hyderabad Kingsmen Academy vs New Zealand A (Top End T20 Series, 2026)",
-            "match_name": "Hyderabad Kingsmen Academy vs New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
-            "team_1": "Hyderabad Kingsmen Academy",
-            "team_2": "New Zealand A",
-            "startTime": "10:30:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -333,6 +285,42 @@
             "team_1": "Nottingham Forest",
             "team_2": "Leeds United",
             "startTime": "12:30:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": 4248151,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 24-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248434,
+            "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2026)",
+            "match_name": "Northern Territory Strike vs Australian Capital Territory",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Australian Capital Territory",
+            "startTime": "06:00:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248440,
+            "title": "Hyderabad Kingsmen Academy vs New Zealand A (Top End T20 Series, 2026)",
+            "match_name": "Hyderabad Kingsmen Academy vs New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+            "team_1": "Hyderabad Kingsmen Academy",
+            "team_2": "New Zealand A",
+            "startTime": "10:30:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +477,18 @@
             "team_1": "Australian Capital Territory",
             "team_2": "Nepal A",
             "startTime": "03:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248504,
+            "title": "Newcastle United vs West Bromwich Albion F.C. (Carabao Cup 2026-27)",
+            "match_name": "Newcastle United vs West Bromwich Albion F.C.",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248504_53016_NEW_WBA_fc-web.jpg",
+            "team_1": "Newcastle United",
+            "team_2": "West Bromwich Albion F.C.",
+            "startTime": "12:15:00 AM 27-08-2026"
         }
     ]
 }
