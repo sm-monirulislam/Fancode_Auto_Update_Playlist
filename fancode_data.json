@@ -2,62 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:44 AM 25-08-2026",
-    "total_matches": 40,
-    "live_match": 7,
+    "last_update_time": "01:10:02 AM 25-08-2026",
+    "total_matches": 37,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248003_ENG",
-            "title": "Delhi Premier League, 2026 [English]",
-            "match_name": "New Delhi Tigers vs South Delhi Superstarz [English]",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
-            "team_1": "New Delhi Tigers",
-            "team_2": "South Delhi Superstarz",
-            "startTime": "07:00:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248003_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248353_HIN",
-            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Gaur Gorakhpur Lions vs Noida Kings [Hindi]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Noida Kings",
-            "startTime": "07:30:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248353_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248353_BHO",
-            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Gaur Gorakhpur Lions vs Noida Kings [Bhojpuri]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Noida Kings",
-            "startTime": "07:30:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248353_BHO/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248275_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Neom SC vs Al Qadisiyah [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
-            "team_1": "Neom SC",
-            "team_2": "Al Qadisiyah",
-            "startTime": "10:10:00 PM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248275_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -83,6 +31,19 @@
             "team_2": "Al-Hazem FC",
             "startTime": "11:30:00 PM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248276_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247587_ENG",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Málaga vs Deportivo de La Coruna [English]",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
+            "team_1": "Málaga",
+            "team_2": "Deportivo de La Coruna",
+            "startTime": "01:00:00 AM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247587_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -136,13 +97,13 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": 4247587,
-            "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Málaga vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
-            "team_1": "Málaga",
-            "team_2": "Deportivo de La Coruna",
+            "match_id": 4248395,
+            "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
+            "match_name": "Granada vs RCD Mallorca",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+            "team_1": "Granada",
+            "team_2": "RCD Mallorca",
             "startTime": "01:00:00 AM 25-08-2026"
         },
         {
@@ -168,18 +129,6 @@
             "team_1": "Rawain Royals",
             "team_2": "Baragaddi Kings",
             "startTime": "06:00:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248395,
-            "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Granada vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
-            "team_1": "Granada",
-            "team_2": "RCD Mallorca",
-            "startTime": "01:00:00 AM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -376,18 +325,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248441,
-            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "New Zealand A vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-            "team_1": "New Zealand A",
-            "team_2": "Victoria Academy",
-            "startTime": "06:00:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248001,
             "title": "TBC vs TBC (Delhi Premier League, 2026)",
             "match_name": "TBC vs TBC",
@@ -396,6 +333,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "01:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248441,
+            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
+            "match_name": "New Zealand A vs Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+            "team_1": "New Zealand A",
+            "team_2": "Victoria Academy",
+            "startTime": "06:00:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +440,18 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248504_53016_NEW_WBA_fc-web.jpg",
             "team_1": "Newcastle United",
             "team_2": "West Bromwich Albion F.C.",
+            "startTime": "12:15:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248505,
+            "title": "Tottenham Hotspur vs Charlton Athletic F.C (Carabao Cup 2026-27)",
+            "match_name": "Tottenham Hotspur vs Charlton Athletic F.C",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248505_53016_TOT_CHL_fc-web.jpg",
+            "team_1": "Tottenham Hotspur",
+            "team_2": "Charlton Athletic F.C",
             "startTime": "12:15:00 AM 27-08-2026"
         }
     ]

@@ -2,20 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:44 AM 25-08-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 01:10:02 AM 25-08-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" group-title="Cricket",New Delhi Tigers vs South Delhi Superstarz [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248003_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Gaur Gorakhpur Lions vs Noida Kings [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248353_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket",Gaur Gorakhpur Lions vs Noida Kings [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248353_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png" group-title="Football",Neom SC vs Al Qadisiyah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248275_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="Football",CA Osasuna vs Levante [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247579_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png" group-title="Football",Al-Ittihad vs Al-Hazem FC [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248276_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png" group-title="Football",Málaga vs Deportivo de La Coruna [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247587_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248151_ENG/index.m3u8
