@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:57:31 PM 24-08-2026",
+    "last_update_time": "02:53:59 PM 24-08-2026",
     "total_matches": 37,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Baragaddi Kings",
             "startTime": "01:30:00 PM 24-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248512_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248429_ENG",
-            "title": "Top End T20 Series, 2026 [English]",
-            "match_name": "Victoria Academy vs Bangladesh HP-XI [English]",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Victoria Academy",
-            "team_2": "Bangladesh HP-XI",
-            "startTime": "10:30:00 AM 24-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248429_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -143,6 +130,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248355,
+            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Kanpur Superstars vs Meerut Mavericks",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Meerut Mavericks",
+            "startTime": "03:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248395,
             "title": "Granada vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
@@ -156,14 +155,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248355,
-            "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Kanpur Superstars vs Meerut Mavericks",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Meerut Mavericks",
-            "startTime": "03:00:00 PM 25-08-2026"
+            "match_id": 4248444,
+            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
+            "match_name": "Hobart Hurricanes Academy vs Nepal",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -192,14 +191,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248444,
-            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
-            "match_name": "Hobart Hurricanes Academy vs Nepal",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Nepal",
-            "startTime": "03:00:00 PM 24-08-2026"
+            "match_id": 4248354,
+            "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Lucknow Falcons vs Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -216,14 +215,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248354,
-            "title": "Lucknow Falcons vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Lucknow Falcons vs Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 25-08-2026"
+            "match_id": 4248515,
+            "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
+            "match_name": "Rawain Royals vs Baragaddi Kings",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Baragaddi Kings",
+            "startTime": "06:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -236,18 +235,6 @@
             "team_1": "Northern Territory Strike",
             "team_2": "Australian Capital Territory",
             "startTime": "06:00:00 AM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248515,
-            "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
-            "match_name": "Rawain Royals vs Baragaddi Kings",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Baragaddi Kings",
-            "startTime": "06:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -275,18 +262,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248433,
-            "title": "Adelaide Strikers Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
-            "match_name": "Adelaide Strikers Academy vs Bangladesh HP-XI",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Bangladesh HP-XI",
-            "startTime": "03:00:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248277,
             "title": "Abha vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
@@ -296,6 +271,18 @@
             "team_1": "Abha",
             "team_2": "Al Khaleej FC",
             "startTime": "09:35:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248433,
+            "title": "Adelaide Strikers Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Bangladesh HP-XI",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Bangladesh HP-XI",
+            "startTime": "03:00:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +439,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "01:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248357,
+            "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kanpur Superstars",
+            "startTime": "03:00:00 PM 26-08-2026"
         }
     ]
 }
