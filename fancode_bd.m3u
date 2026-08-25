@@ -2,10 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:40:20 PM 25-08-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 10:35:28 PM 25-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png" group-title="Cricket",Purani Dilli-6 vs East Delhi Riders [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png" group-title="Cricket",East Delhi Riders vs Purani Dilli-6 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248004_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" group-title="Cricket",Kashi Rudras vs Lucknow Falcons [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248354_HIN/index.m3u8
@@ -13,3 +13,5 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248354_HIN/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248354_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg" group-title="Cricket",Rawain Royals vs Baragaddi Kings [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248515_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248277_53025_ABC_AKH_FC-Web.png" group-title="Football",Abha vs Al Khaleej FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248277_ENG/index.m3u8

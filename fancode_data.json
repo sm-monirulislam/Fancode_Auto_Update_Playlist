@@ -2,20 +2,20 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:40:20 PM 25-08-2026",
+    "last_update_time": "10:35:28 PM 25-08-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4248004_ENG",
             "title": "Delhi Premier League, 2026 [English]",
-            "match_name": "Purani Dilli-6 vs East Delhi Riders [English]",
+            "match_name": "East Delhi Riders vs Purani Dilli-6 [English]",
             "event_name": "Delhi Premier League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "East Delhi Riders",
+            "team_1": "East Delhi Riders",
+            "team_2": "Purani Dilli-6",
             "startTime": "07:00:00 PM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248004_ENG/index.m3u8"
         },
@@ -59,16 +59,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248515_ENG/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
-            "match_id": 4248277,
-            "title": "Abha vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Abha vs Al Khaleej FC",
+            "match_id": "4248277_ENG",
+            "title": "Roshn Saudi League 2026-2027 [English]",
+            "match_name": "Abha vs Al Khaleej FC [English]",
             "event_name": "Roshn Saudi League 2026-2027",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248277_53025_ABC_AKH_FC-Web.png",
             "team_1": "Abha",
             "team_2": "Al Khaleej FC",
-            "startTime": "09:35:00 PM 25-08-2026"
+            "startTime": "09:35:00 PM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248277_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -93,6 +94,30 @@
             "team_1": "Gaur Gorakhpur Lions",
             "team_2": "Kanpur Superstars",
             "startTime": "03:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248005,
+            "title": "TBC vs TBC (Delhi Premier League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248356,
+            "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Noida Kings vs Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+            "team_1": "Noida Kings",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -205,30 +230,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248005,
-            "title": "TBC vs TBC (Delhi Premier League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248356,
-            "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Noida Kings vs Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248516,
             "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "match_name": "Taknor Tigers vs Bhagirathi Giants",
@@ -249,42 +250,6 @@
             "team_1": "Someshwar Warriors",
             "team_2": "Baukh Night Riders",
             "startTime": "06:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248152,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248295,
-            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Barbados Tridents",
-            "startTime": "04:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248441,
-            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "New Zealand A vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-            "team_1": "New Zealand A",
-            "team_2": "Victoria Academy",
-            "startTime": "06:00:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -312,15 +277,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248442,
-            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
-            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Hobart Hurricanes Academy",
-            "startTime": "10:30:00 AM 26-08-2026"
+            "event_category": "Tennis",
+            "match_id": 4248152,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -345,6 +310,42 @@
             "team_1": "Preston North End F.C.",
             "team_2": "Everton",
             "startTime": "12:30:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248295,
+            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Barbados Tridents",
+            "startTime": "04:30:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248441,
+            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
+            "match_name": "New Zealand A vs Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+            "team_1": "New Zealand A",
+            "team_2": "Victoria Academy",
+            "startTime": "06:00:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248442,
+            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Hobart Hurricanes Academy",
+            "startTime": "10:30:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
