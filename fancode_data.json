@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:42:10 PM 25-08-2026",
+    "last_update_time": "02:39:45 PM 25-08-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248514_ENG",
+            "title": "Uttarkashi T20 League 2026 [English]",
+            "match_name": "Baukh Night Riders vs Bhagirathi Giants [English]",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
+            "team_1": "Baukh Night Riders",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248514_ENG/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -18,6 +31,19 @@
             "team_2": "New Zealand A",
             "startTime": "10:30:00 AM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248440_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4247554_ENG",
+            "title": "Women's Delhi Premier League, 2026 [English]",
+            "match_name": "East Delhi Riders Women vs North Delhi Strikers Women [English]",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "North Delhi Strikers Women",
+            "startTime": "01:30:00 PM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247554_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -54,18 +80,6 @@
             "team_1": "Lucknow Falcons",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248514,
-            "title": "Baukh Night Riders vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "match_name": "Baukh Night Riders vs Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
-            "team_1": "Baukh Night Riders",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -214,18 +228,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4247554,
-            "title": "East Delhi Riders Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
-            "match_name": "East Delhi Riders Women vs North Delhi Strikers Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
-            "team_1": "East Delhi Riders Women",
-            "team_2": "North Delhi Strikers Women",
-            "startTime": "01:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248357,
             "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
             "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
@@ -234,18 +236,6 @@
             "team_1": "Gaur Gorakhpur Lions",
             "team_2": "Kanpur Superstars",
             "startTime": "03:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248516,
-            "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "match_name": "Taknor Tigers vs Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
-            "team_1": "Taknor Tigers",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -262,6 +252,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248516,
+            "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "match_name": "Taknor Tigers vs Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+            "team_1": "Taknor Tigers",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248005,
             "title": "TBC vs TBC (Delhi Premier League, 2026)",
             "match_name": "TBC vs TBC",
@@ -270,18 +272,6 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248152,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -294,6 +284,18 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": 4248152,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",

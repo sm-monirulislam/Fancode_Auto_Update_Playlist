@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:42:10 PM 25-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:39:45 PM 25-08-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg" group-title="Cricket",Baukh Night Riders vs Bhagirathi Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248514_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg" group-title="Cricket",Hyderabad Kingsmen Academy vs New Zealand A [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248440_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png" group-title="Cricket",East Delhi Riders Women vs North Delhi Strikers Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247554_ENG/index.m3u8
