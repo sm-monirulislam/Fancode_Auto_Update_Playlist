@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:49:07 PM 25-08-2026",
+    "last_update_time": "08:43:22 PM 25-08-2026",
     "total_matches": 40,
-    "live_match": 6,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248355_HIN",
-            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Meerut Mavericks vs Kanpur Superstars [Hindi]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Kanpur Superstars",
-            "startTime": "03:00:00 PM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248355_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248355_BHO",
-            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Meerut Mavericks vs Kanpur Superstars [Bhojpuri]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Kanpur Superstars",
-            "startTime": "03:00:00 PM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248355_BHO/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -50,11 +24,11 @@
             "event_category": "Cricket",
             "match_id": "4248354_HIN",
             "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Lucknow Falcons vs Kashi Rudras [Hindi]",
+            "match_name": "Kashi Rudras vs Lucknow Falcons [Hindi]",
             "event_name": "Uttar Pradesh T20 League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kashi Rudras",
+            "team_1": "Kashi Rudras",
+            "team_2": "Lucknow Falcons",
             "startTime": "07:30:00 PM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248354_HIN/index.m3u8"
         },
@@ -63,11 +37,11 @@
             "event_category": "Cricket",
             "match_id": "4248354_BHO",
             "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Lucknow Falcons vs Kashi Rudras [Bhojpuri]",
+            "match_name": "Kashi Rudras vs Lucknow Falcons [Bhojpuri]",
             "event_name": "Uttar Pradesh T20 League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kashi Rudras",
+            "team_1": "Kashi Rudras",
+            "team_2": "Lucknow Falcons",
             "startTime": "07:30:00 PM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248354_BHO/index.m3u8"
         },
@@ -243,18 +217,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248516,
-            "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "match_name": "Taknor Tigers vs Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
-            "team_1": "Taknor Tigers",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248356,
             "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "match_name": "Noida Kings vs Kashi Rudras",
@@ -263,6 +225,18 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248516,
+            "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "match_name": "Taknor Tigers vs Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+            "team_1": "Taknor Tigers",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -326,18 +300,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248439,
-            "title": "Australian Capital Territory vs Nepal A (Top End T20 Series, 2026)",
-            "match_name": "Australian Capital Territory vs Nepal A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Nepal A",
-            "startTime": "03:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248504,
             "title": "Newcastle United vs West Bromwich Albion F.C. (Carabao Cup 2026-27)",
@@ -383,6 +345,18 @@
             "team_1": "Preston North End F.C.",
             "team_2": "Everton",
             "startTime": "12:30:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248439,
+            "title": "Australian Capital Territory vs Nepal A (Top End T20 Series, 2026)",
+            "match_name": "Australian Capital Territory vs Nepal A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
+            "team_1": "Australian Capital Territory",
+            "team_2": "Nepal A",
+            "startTime": "03:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +465,30 @@
             "team_1": "Day 1",
             "team_2": "The K Club",
             "startTime": "07:30:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247570,
+            "title": "RC Celta vs CA Osasuna (LALIGA 2026-27)",
+            "match_name": "RC Celta vs CA Osasuna",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247570_53004_CEV_OSN_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "CA Osasuna",
+            "startTime": "12:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248507,
+            "title": "Chelsea vs Luton Town (Carabao Cup 2026-27)",
+            "match_name": "Chelsea vs Luton Town",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248507_53016_CHE_LUT_fc-web.jpg",
+            "team_1": "Chelsea",
+            "team_2": "Luton Town",
+            "startTime": "12:00:00 AM 28-08-2026"
         }
     ]
 }
