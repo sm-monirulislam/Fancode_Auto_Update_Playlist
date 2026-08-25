@@ -2,12 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:54:59 PM 25-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 06:43:26 PM 25-08-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" group-title="Cricket",Meerut Mavericks vs Kanpur Superstars [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248355_HIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" group-title="Cricket",Meerut Mavericks vs Kanpur Superstars [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248355_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg" group-title="Cricket",Rawain Royals vs Baragaddi Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248515_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg" group-title="Cricket",Adelaide Strikers Academy vs Bangladesh HP-XI [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248433_ENG/index.m3u8
