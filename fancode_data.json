@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:30:13 AM 26-08-2026",
+    "last_update_time": "03:55:37 AM 26-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Winston-Salem, United States",
             "startTime": "11:30:00 PM 25-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247572_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Valencia CF vs Real Betis [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Betis",
-            "startTime": "12:30:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247572_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -191,18 +178,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248295,
-            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Barbados Tridents",
-            "startTime": "04:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248438,
             "title": "Northern Territory Strike vs Victoria Academy (Top End T20 Series, 2026)",
             "match_name": "Northern Territory Strike vs Victoria Academy",
@@ -211,6 +186,18 @@
             "team_1": "Northern Territory Strike",
             "team_2": "Victoria Academy",
             "startTime": "06:00:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248295,
+            "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Barbados Tridents",
+            "startTime": "04:30:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +438,18 @@
             "team_1": "Rawain Royals",
             "team_2": "Baukh Night Riders",
             "startTime": "01:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248579,
+            "title": "Germany Women vs Sweden Women (Nordic Women's T20I Cup 2026)",
+            "match_name": "Germany Women vs Sweden Women",
+            "event_name": "Nordic Women's T20I Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+            "team_1": "Germany Women",
+            "team_2": "Sweden Women",
+            "startTime": "02:00:00 PM 28-08-2026"
         }
     ]
 }
