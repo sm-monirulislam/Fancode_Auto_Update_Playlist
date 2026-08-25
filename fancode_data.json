@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:35:28 PM 25-08-2026",
+    "last_update_time": "11:30:10 PM 25-08-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -47,19 +47,6 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248515_ENG",
-            "title": "Uttarkashi T20 League 2026 [English]",
-            "match_name": "Rawain Royals vs Baragaddi Kings [English]",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Baragaddi Kings",
-            "startTime": "06:00:00 PM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248515_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4248277_ENG",
             "title": "Roshn Saudi League 2026-2027 [English]",
@@ -97,6 +84,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248278,
+            "title": "Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ettifaq vs Al-Nassr FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248278_53025_ETT_ANF_FC-Web.png",
+            "team_1": "Al-Ettifaq",
+            "team_2": "Al-Nassr FC",
+            "startTime": "11:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248005,
             "title": "TBC vs TBC (Delhi Premier League, 2026)",
@@ -121,15 +120,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248278,
-            "title": "Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ettifaq vs Al-Nassr FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248278_53025_ETT_ANF_FC-Web.png",
-            "team_1": "Al-Ettifaq",
-            "team_2": "Al-Nassr FC",
-            "startTime": "11:30:00 PM 25-08-2026"
+            "event_category": "Cricket",
+            "match_id": 4248441,
+            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
+            "match_name": "New Zealand A vs Victoria Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+            "team_1": "New Zealand A",
+            "team_2": "Victoria Academy",
+            "startTime": "06:00:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -230,6 +229,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248442,
+            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Hobart Hurricanes Academy",
+            "startTime": "10:30:00 AM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248516,
             "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "match_name": "Taknor Tigers vs Bhagirathi Giants",
@@ -242,6 +253,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248439,
+            "title": "Australian Capital Territory vs Nepal A (Top End T20 Series, 2026)",
+            "match_name": "Australian Capital Territory vs Nepal A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
+            "team_1": "Australian Capital Territory",
+            "team_2": "Nepal A",
+            "startTime": "03:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248517,
             "title": "Someshwar Warriors vs Baukh Night Riders (Uttarkashi T20 League 2026)",
             "match_name": "Someshwar Warriors vs Baukh Night Riders",
@@ -250,6 +273,18 @@
             "team_1": "Someshwar Warriors",
             "team_2": "Baukh Night Riders",
             "startTime": "06:00:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": 4248152,
+            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -274,18 +309,6 @@
             "team_1": "Tottenham Hotspur",
             "team_2": "Charlton Athletic F.C",
             "startTime": "12:15:00 AM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": 4248152,
-            "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 25-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -325,42 +348,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248441,
-            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "New Zealand A vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-            "team_1": "New Zealand A",
-            "team_2": "Victoria Academy",
-            "startTime": "06:00:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248442,
-            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
-            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Hobart Hurricanes Academy",
-            "startTime": "10:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248439,
-            "title": "Australian Capital Territory vs Nepal A (Top End T20 Series, 2026)",
-            "match_name": "Australian Capital Territory vs Nepal A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Nepal A",
-            "startTime": "03:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": 4248153,
             "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
@@ -370,18 +357,6 @@
             "team_1": "ATP 250 - Winston-Salem Open 2026",
             "team_2": "Winston-Salem, United States",
             "startTime": "10:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248298,
-            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 27-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -398,18 +373,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248518,
-            "title": "Rawain Royals vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-            "match_name": "Rawain Royals vs Bhagirathi Giants",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248518_53041_RR_BG_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248447,
             "title": "Hyderabad Kingsmen Academy vs Nepal A (Top End T20 Series, 2026)",
             "match_name": "Hyderabad Kingsmen Academy vs Nepal A",
@@ -422,6 +385,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248298,
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248448,
             "title": "Bangladesh HP-XI vs New Zealand A (Top End T20 Series, 2026)",
             "match_name": "Bangladesh HP-XI vs New Zealand A",
@@ -430,6 +405,18 @@
             "team_1": "Bangladesh HP-XI",
             "team_2": "New Zealand A",
             "startTime": "01:00:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248518,
+            "title": "Rawain Royals vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+            "match_name": "Rawain Royals vs Bhagirathi Giants",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248518_53041_RR_BG_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Bhagirathi Giants",
+            "startTime": "01:30:00 PM 27-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,6 +477,18 @@
             "team_1": "Chelsea",
             "team_2": "Luton Town",
             "startTime": "12:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247569,
+            "title": "FC Barcelona vs Athletic Club (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Athletic Club",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Athletic Club",
+            "startTime": "12:30:00 AM 28-08-2026"
         }
     ]
 }
