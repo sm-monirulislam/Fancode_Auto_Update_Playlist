@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:47:34 AM 25-08-2026",
+    "last_update_time": "10:37:12 AM 25-08-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248434_ENG",
-            "title": "Top End T20 Series, 2026 [English]",
-            "match_name": "Australian Capital Territory vs Northern Territory Strike [English]",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Northern Territory Strike",
-            "startTime": "06:00:00 AM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248434_ENG/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -202,6 +189,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248440,
+            "title": "Hyderabad Kingsmen Academy vs New Zealand A (Top End T20 Series, 2026)",
+            "match_name": "Hyderabad Kingsmen Academy vs New Zealand A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+            "team_1": "Hyderabad Kingsmen Academy",
+            "team_2": "New Zealand A",
+            "startTime": "10:30:00 AM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248001,
             "title": "TBC vs TBC (Delhi Premier League, 2026)",
             "match_name": "TBC vs TBC",
@@ -214,14 +213,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248440,
-            "title": "Hyderabad Kingsmen Academy vs New Zealand A (Top End T20 Series, 2026)",
-            "match_name": "Hyderabad Kingsmen Academy vs New Zealand A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
-            "team_1": "Hyderabad Kingsmen Academy",
-            "team_2": "New Zealand A",
-            "startTime": "10:30:00 AM 25-08-2026"
+            "match_id": 4248357,
+            "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
+            "team_1": "Gaur Gorakhpur Lions",
+            "team_2": "Kanpur Superstars",
+            "startTime": "03:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -246,18 +245,6 @@
             "team_1": "Adelaide Strikers Academy",
             "team_2": "Bangladesh HP-XI",
             "startTime": "03:00:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248357,
-            "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kanpur Superstars",
-            "startTime": "03:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -322,18 +309,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248442,
-            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
-            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Hobart Hurricanes Academy",
-            "startTime": "10:30:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248356,
             "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
             "match_name": "Noida Kings vs Kashi Rudras",
@@ -342,6 +317,18 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248442,
+            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Hobart Hurricanes Academy",
+            "startTime": "10:30:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -450,6 +437,18 @@
             "team_1": "Northern Territory Strike",
             "team_2": "Victoria Academy",
             "startTime": "06:00:00 AM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248447,
+            "title": "Hyderabad Kingsmen Academy vs Nepal A (Top End T20 Series, 2026)",
+            "match_name": "Hyderabad Kingsmen Academy vs Nepal A",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248447_53036_HYK_NEP_fc-web_1787393618627.jpg",
+            "team_1": "Hyderabad Kingsmen Academy",
+            "team_2": "Nepal A",
+            "startTime": "09:00:00 AM 27-08-2026"
         }
     ]
 }
