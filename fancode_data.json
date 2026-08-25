@@ -2,48 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:56:21 AM 26-08-2026",
+    "last_update_time": "03:30:13 AM 26-08-2026",
     "total_matches": 37,
-    "live_match": 7,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248497_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Ipswich Town F.C. vs Leicester City F.C. [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248497_53016_IPT_LEI_fc-web.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Leicester City F.C.",
-            "startTime": "12:15:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248497_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248498_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Plymouth Argyle vs Coventry City F.C. [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248498_53016_PLY_CVC_fc-web.jpg",
-            "team_1": "Plymouth Argyle",
-            "team_2": "Coventry City F.C.",
-            "startTime": "12:15:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248498_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248501_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Stoke City F.C. vs Hull City [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248501_53016_STK_HUL_fc-web.jpg",
-            "team_1": "Stoke City F.C.",
-            "team_2": "Hull City",
-            "startTime": "12:15:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248501_ENG/index.m3u8"
+            "event_category": "Tennis",
+            "match_id": "4248152_ENG",
+            "title": "ATP 250 - Winston-Salem Open 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "World Feed",
+            "team_2": "Winston-Salem, United States",
+            "startTime": "11:30:00 PM 25-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -57,45 +31,6 @@
             "team_2": "Real Betis",
             "startTime": "12:30:00 AM 26-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247572_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248502_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Birmingham City F.C. vs Brentford [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248502_53016_BIR_BRE_fc-web.jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "Brentford",
-            "startTime": "12:30:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248502_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248503_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Nottingham Forest vs Leeds United [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248503_53016_NOT_LU_fc-web.jpg",
-            "team_1": "Nottingham Forest",
-            "team_2": "Leeds United",
-            "startTime": "12:30:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248503_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248152_ENG",
-            "title": "ATP 250 - Winston-Salem Open 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "World Feed",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "11:30:00 PM 25-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -456,6 +391,66 @@
             "team_1": "World Feed - Day 1",
             "team_2": "East Lake Golf Club - Atlanta, Georgia",
             "startTime": "10:30:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248446,
+            "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248446_53036_ACT_HHA_fc-web_1787393618578.jpg",
+            "team_1": "Australian Capital Territory",
+            "team_2": "Hobart Hurricanes Academy",
+            "startTime": "06:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248292,
+            "title": "St Kitts and Nevis Patriots vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "St Kitts and Nevis Patriots vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248453,
+            "title": "Adelaide Strikers Academy vs Hyderabad Kingsmen Academy (Top End T20 Series, 2026)",
+            "match_name": "Adelaide Strikers Academy vs Hyderabad Kingsmen Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248453_53036_ACA_HYK_fc-web_1787393618613.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Hyderabad Kingsmen Academy",
+            "startTime": "09:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248445,
+            "title": "Northern Territory Strike vs Bangladesh HP-XI (Top End T20 Series, 2026)",
+            "match_name": "Northern Territory Strike vs Bangladesh HP-XI",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Bangladesh HP-XI",
+            "startTime": "01:00:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248520,
+            "title": "Rawain Royals vs Baukh Night Riders (Uttarkashi T20 League 2026)",
+            "match_name": "Rawain Royals vs Baukh Night Riders",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248520_53041_RR_BNR_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Baukh Night Riders",
+            "startTime": "01:30:00 PM 28-08-2026"
         }
     ]
 }

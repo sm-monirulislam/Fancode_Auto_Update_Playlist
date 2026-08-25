@@ -2,20 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:56:21 AM 26-08-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 03:30:13 AM 26-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248497_53016_IPT_LEI_fc-web.jpg" group-title="Football",Ipswich Town F.C. vs Leicester City F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248497_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248498_53016_PLY_CVC_fc-web.jpg" group-title="Football",Plymouth Argyle vs Coventry City F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248498_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248501_53016_STK_HUL_fc-web.jpg" group-title="Football",Stoke City F.C. vs Hull City [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248501_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png" group-title="Football",Valencia CF vs Real Betis [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247572_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248502_53016_BIR_BRE_fc-web.jpg" group-title="Football",Birmingham City F.C. vs Brentford [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248502_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248503_53016_NOT_LU_fc-web.jpg" group-title="Football",Nottingham Forest vs Leeds United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248503_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png" group-title="Football",Valencia CF vs Real Betis [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247572_ENG/index.m3u8
