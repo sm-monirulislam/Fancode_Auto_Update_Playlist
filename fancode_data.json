@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:43:21 PM 25-08-2026",
+    "last_update_time": "01:42:10 PM 25-08-2026",
     "total_matches": 37,
     "live_match": 1,
     "matches": [
@@ -214,6 +214,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4247554,
+            "title": "East Delhi Riders Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
+            "match_name": "East Delhi Riders Women vs North Delhi Strikers Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "North Delhi Strikers Women",
+            "startTime": "01:30:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248357,
             "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
             "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
@@ -238,18 +250,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4247554,
-            "title": "East Delhi Riders Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
-            "match_name": "East Delhi Riders Women vs North Delhi Strikers Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
-            "team_1": "East Delhi Riders Women",
-            "team_2": "North Delhi Strikers Women",
-            "startTime": "01:30:00 PM 25-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248433,
             "title": "Adelaide Strikers Academy vs Bangladesh HP-XI (Top End T20 Series, 2026)",
             "match_name": "Adelaide Strikers Academy vs Bangladesh HP-XI",
@@ -258,6 +258,18 @@
             "team_1": "Adelaide Strikers Academy",
             "team_2": "Bangladesh HP-XI",
             "startTime": "03:00:00 PM 25-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248005,
+            "title": "TBC vs TBC (Delhi Premier League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -274,6 +286,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248356,
+            "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Noida Kings vs Kashi Rudras",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+            "team_1": "Noida Kings",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 26-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248295,
             "title": "Antigua & Barbuda Falcons vs Barbados Tridents (Caribbean Premier League, 2026)",
             "match_name": "Antigua & Barbuda Falcons vs Barbados Tridents",
@@ -286,18 +310,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248005,
-            "title": "TBC vs TBC (Delhi Premier League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248441,
             "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
             "match_name": "New Zealand A vs Victoria Academy",
@@ -306,18 +318,6 @@
             "team_1": "New Zealand A",
             "team_2": "Victoria Academy",
             "startTime": "06:00:00 AM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248356,
-            "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Noida Kings vs Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
