@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:12:36 AM 26-08-2026",
+    "last_update_time": "08:46:35 AM 26-08-2026",
     "total_matches": 37,
     "live_match": 3,
     "matches": [
@@ -228,18 +228,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248298,
-            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248448,
             "title": "Bangladesh HP-XI vs New Zealand A (Top End T20 Series, 2026)",
             "match_name": "Bangladesh HP-XI vs New Zealand A",
@@ -248,6 +236,18 @@
             "team_1": "Bangladesh HP-XI",
             "team_2": "New Zealand A",
             "startTime": "01:00:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248298,
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 27-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,18 +287,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": 4248323,
-            "title": "Day 1 vs The K Club (KPMG Women’s Irish Open 2026)",
-            "match_name": "Day 1",
-            "event_name": "KPMG Women’s Irish Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "The K Club",
-            "startTime": "07:30:00 PM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4247570,
             "title": "RC Celta vs CA Osasuna (LALIGA 2026-27)",
@@ -320,6 +308,18 @@
             "team_1": "Chelsea",
             "team_2": "Luton Town",
             "startTime": "12:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": 4248323,
+            "title": "Day 1 vs The K Club (KPMG Women’s Irish Open 2026)",
+            "match_name": "Day 1",
+            "event_name": "KPMG Women’s Irish Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "The K Club",
+            "startTime": "07:30:00 PM 27-08-2026"
         },
         {
             "status": "UPCOMING",
