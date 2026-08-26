@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:37:55 AM 26-08-2026",
+    "last_update_time": "11:32:43 AM 26-08-2026",
     "total_matches": 37,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-            "team_1": "New Zealand A",
-            "team_2": "Victoria Academy",
+            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Hobart Hurricanes Academy",
             "event_name": "Top End T20 Series, 2026",
-            "match_name": "New Zealand A vs Victoria Academy",
-            "match_id": 4248441,
-            "startTime": "06:00:00 AM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248441/index.m3u8"
+            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
+            "match_id": 4248442,
+            "startTime": "10:30:00 AM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248442/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -66,18 +66,6 @@
             "match_name": "Noida Kings vs Kashi Rudras",
             "match_id": 4248356,
             "startTime": "07:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Hobart Hurricanes Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Adelaide Strikers Academy vs Hobart Hurricanes Academy",
-            "match_id": 4248442,
-            "startTime": "10:30:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -201,18 +189,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "ATP 250 - Winston-Salem Open 2026",
-            "team_2": "Winston-Salem, United States",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "match_name": "ATP 250 - Winston-Salem Open 2026",
-            "match_id": 4248153,
-            "startTime": "10:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "title": "Rawain Royals vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248518_53041_RR_BG_FC-Web.jpg",
@@ -222,6 +198,18 @@
             "match_name": "Rawain Royals vs Bhagirathi Giants",
             "match_id": 4248518,
             "startTime": "01:30:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+            "team_1": "ATP 250 - Winston-Salem Open 2026",
+            "team_2": "Winston-Salem, United States",
+            "event_name": "ATP 250 - Winston-Salem Open 2026",
+            "match_name": "ATP 250 - Winston-Salem Open 2026",
+            "match_id": 4248153,
+            "startTime": "10:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -450,6 +438,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 4248006,
             "startTime": "07:00:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Noida Kings (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248341_53029_KAS_NOI_FC-Web_1786702851696.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Noida Kings",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Noida Kings",
+            "match_id": 4248341,
+            "startTime": "07:30:00 PM 28-08-2026"
         }
     ]
 }
