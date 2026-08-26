@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:41:03 PM 26-08-2026",
-    "total_matches": 36,
-    "live_match": 2,
+    "last_update_time": "03:39:28 PM 26-08-2026",
+    "total_matches": 38,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -22,6 +22,32 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "match_id": "4248357_HIN",
+            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
+            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Gaur Gorakhpur Lions",
+            "startTime": "03:00:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248357_HIN/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248357_BHO",
+            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
+            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Gaur Gorakhpur Lions",
+            "startTime": "03:00:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248357_BHO/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "match_id": "4248516_ENG",
             "title": "Uttarkashi T20 League 2026 [English]",
             "match_name": "Taknor Tigers vs Bhagirathi Giants [English]",
@@ -33,16 +59,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248516_ENG/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": 4248357,
-            "title": "Gaur Gorakhpur Lions vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
-            "team_1": "Gaur Gorakhpur Lions",
-            "team_2": "Kanpur Superstars",
-            "startTime": "03:00:00 PM 26-08-2026"
+            "match_id": "4248439_ENG",
+            "title": "Top End T20 Series, 2026 [English]",
+            "match_name": "Australian Capital Territory vs Nepal A [English]",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
+            "team_1": "Australian Capital Territory",
+            "team_2": "Nepal A",
+            "startTime": "03:00:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248439_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -67,18 +94,6 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248439,
-            "title": "Australian Capital Territory vs Nepal A (Top End T20 Series, 2026)",
-            "match_name": "Australian Capital Territory vs Nepal A",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Nepal A",
-            "startTime": "03:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -203,18 +218,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248298,
-            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248519,
             "title": "Taknor Tigers vs Someshwar Warriors (Uttarkashi T20 League 2026)",
             "match_name": "Taknor Tigers vs Someshwar Warriors",
@@ -223,6 +226,18 @@
             "team_1": "Taknor Tigers",
             "team_2": "Someshwar Warriors",
             "startTime": "06:00:00 PM 27-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248298,
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 27-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -250,18 +265,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4247557,
-            "title": "North Delhi Strikers Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
-            "match_name": "North Delhi Strikers Women vs Central Delhi Queens",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
-            "team_1": "North Delhi Strikers Women",
-            "team_2": "Central Delhi Queens",
-            "startTime": "07:00:00 PM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4247569,
             "title": "FC Barcelona vs Athletic Club (LALIGA 2026-27)",
@@ -283,6 +286,18 @@
             "team_1": "Fulham",
             "team_2": "AFC Wimbledon",
             "startTime": "12:30:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247557,
+            "title": "North Delhi Strikers Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
+            "match_name": "North Delhi Strikers Women vs Central Delhi Queens",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
+            "team_1": "North Delhi Strikers Women",
+            "team_2": "Central Delhi Queens",
+            "startTime": "07:00:00 PM 27-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -439,6 +454,18 @@
             "team_1": "Kashi Rudras",
             "team_2": "Noida Kings",
             "startTime": "07:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247556,
+            "title": "South Delhi Superstarz Women vs East Delhi Riders Women (Women's Delhi Premier League, 2026)",
+            "match_name": "South Delhi Superstarz Women vs East Delhi Riders Women",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
+            "team_1": "South Delhi Superstarz Women",
+            "team_2": "East Delhi Riders Women",
+            "startTime": "01:30:00 PM 28-08-2026"
         }
     ]
 }

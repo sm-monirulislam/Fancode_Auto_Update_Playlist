@@ -2,10 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:41:03 PM 26-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 03:39:28 PM 26-08-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248001_53005_CDK_SDS_FC-Web.png" group-title="Cricket",South Delhi Superstarz vs Central Delhi Kings [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248001_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" group-title="Cricket",Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248357_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" group-title="Cricket",Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248357_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg" group-title="Cricket",Taknor Tigers vs Bhagirathi Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248516_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg" group-title="Cricket",Australian Capital Territory vs Nepal A [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248439_ENG/index.m3u8
