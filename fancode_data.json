@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:49:49 AM 26-08-2026",
+    "last_update_time": "07:12:36 AM 26-08-2026",
     "total_matches": 37,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248441_ENG",
+            "title": "Top End T20 Series, 2026 [English]",
+            "match_name": "New Zealand A vs Victoria Academy [English]",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+            "team_1": "New Zealand A",
+            "team_2": "Victoria Academy",
+            "startTime": "06:00:00 AM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248441_ENG/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -79,18 +92,6 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248441,
-            "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-            "match_name": "New Zealand A vs Victoria Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-            "team_1": "New Zealand A",
-            "team_2": "Victoria Academy",
-            "startTime": "06:00:00 AM 26-08-2026"
         },
         {
             "status": "UPCOMING",
