@@ -2,8 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:44:01 PM 26-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:41:03 PM 26-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg" group-title="Cricket",Adelaide Strikers Academy vs Hobart Hurricanes Academy [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248442_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248001_53005_CDK_SDS_FC-Web.png" group-title="Cricket",South Delhi Superstarz vs Central Delhi Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248001_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg" group-title="Cricket",Taknor Tigers vs Bhagirathi Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248516_ENG/index.m3u8
