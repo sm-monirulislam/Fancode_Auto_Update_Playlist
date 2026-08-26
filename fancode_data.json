@@ -2,62 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:59:46 AM 27-08-2026",
+    "last_update_time": "03:46:16 AM 27-08-2026",
     "total_matches": 36,
-    "live_match": 5,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248504_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Newcastle United vs West Bromwich Albion F.C. [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248504_53016_NEW_WBA_fc-web.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "West Bromwich Albion F.C.",
-            "startTime": "12:15:00 AM 27-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248504_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248505_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Tottenham Hotspur vs Charlton Athletic F.C [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248505_53016_TOT_CHL_fc-web.jpg",
-            "team_1": "Tottenham Hotspur",
-            "team_2": "Charlton Athletic F.C",
-            "startTime": "12:15:00 AM 27-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248505_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247571_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Real Madrid vs Real Sociedad [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247571_53004_RM_RS_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Real Sociedad",
-            "startTime": "12:30:00 AM 27-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247571_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248506_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Preston North End F.C. vs Everton [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248506_53016_PST_EVE_fc-web.jpg",
-            "team_1": "Preston North End F.C.",
-            "team_2": "Everton",
-            "startTime": "12:30:00 AM 27-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248506_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -194,6 +142,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248446,
+            "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
+            "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
+            "event_name": "Top End T20 Series, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248446_53036_ACT_HHA_fc-web_1787393618578.jpg",
+            "team_1": "Australian Capital Territory",
+            "team_2": "Hobart Hurricanes Academy",
+            "startTime": "06:00:00 AM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4247557,
             "title": "North Delhi Strikers Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
             "match_name": "North Delhi Strikers Women vs Central Delhi Queens",
@@ -226,18 +186,6 @@
             "team_1": "Main Feed - Day 1",
             "team_2": "East Lake Golf Club - Atlanta, Georgia",
             "startTime": "08:30:00 PM 27-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248446,
-            "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2026)",
-            "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248446_53036_ACT_HHA_fc-web_1787393618578.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Hobart Hurricanes Academy",
-            "startTime": "06:00:00 AM 28-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -442,6 +390,54 @@
             "team_1": "Al Khaleej FC",
             "team_2": "Al Hilal SFC",
             "startTime": "11:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248649,
+            "title": "Al-Nassr FC vs Al-Taawoun FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Nassr FC vs Al-Taawoun FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786336466072.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Taawoun FC",
+            "startTime": "11:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": 4248324,
+            "title": "Day 2 vs The K Club (KPMG Women’s Irish Open 2026)",
+            "match_name": "Day 2",
+            "event_name": "KPMG Women’s Irish Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "The K Club",
+            "startTime": "07:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247476,
+            "title": "Wrexham A.F.C. vs Birmingham City F.C. (EFL Championship 2026-27)",
+            "match_name": "Wrexham A.F.C. vs Birmingham City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247476_52993_WRX_BIR_fc-web_1786657253804.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Birmingham City F.C.",
+            "startTime": "12:30:00 AM 29-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": 4248423,
+            "title": "Main Feed - Day 2 vs East Lake Golf Club - Atlanta, Georgia (TOUR Championship 2026)",
+            "match_name": "Main Feed - Day 2",
+            "event_name": "TOUR Championship 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "East Lake Golf Club - Atlanta, Georgia",
+            "startTime": "08:30:00 PM 28-08-2026"
         }
     ]
 }
