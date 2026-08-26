@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:58:48 PM 26-08-2026",
+    "last_update_time": "07:07:37 PM 26-08-2026",
     "total_matches": 39,
     "live_match": 5,
     "matches": [
@@ -48,19 +48,6 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248516_ENG",
-            "title": "Uttarkashi T20 League 2026 [English]",
-            "match_name": "Taknor Tigers vs Bhagirathi Giants [English]",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
-            "team_1": "Taknor Tigers",
-            "team_2": "Bhagirathi Giants",
-            "startTime": "01:30:00 PM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248516_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4248439_ENG",
             "title": "Top End T20 Series, 2026 [English]",
             "match_name": "Australian Capital Territory vs Nepal A [English]",
@@ -70,6 +57,19 @@
             "team_2": "Nepal A",
             "startTime": "03:00:00 PM 26-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248439_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248517_ENG",
+            "title": "Uttarkashi T20 League 2026 [English]",
+            "match_name": "Someshwar Warriors vs Baukh Night Riders [English]",
+            "event_name": "Uttarkashi T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
+            "team_1": "Someshwar Warriors",
+            "team_2": "Baukh Night Riders",
+            "startTime": "06:00:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248517_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -94,18 +94,6 @@
             "team_1": "Noida Kings",
             "team_2": "Kashi Rudras",
             "startTime": "07:30:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248517,
-            "title": "Someshwar Warriors vs Baukh Night Riders (Uttarkashi T20 League 2026)",
-            "match_name": "Someshwar Warriors vs Baukh Night Riders",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
-            "team_1": "Someshwar Warriors",
-            "team_2": "Baukh Night Riders",
-            "startTime": "06:00:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -442,6 +430,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248664,
+            "title": "Yalla Shabab Giants vs Mustafa Fragrance (Oman D50 2026)",
+            "match_name": "Yalla Shabab Giants vs Mustafa Fragrance",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Mustafa Fragrance",
+            "startTime": "04:00:00 PM 28-08-2026"
         },
         {
             "status": "UPCOMING",
