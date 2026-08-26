@@ -2,61 +2,48 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:07:37 PM 26-08-2026",
+    "last_update_time": "08:11:07 PM 26-08-2026",
     "total_matches": 39,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248001_ENG",
+            "match_id": "4248005_ENG",
             "title": "Delhi Premier League, 2026 [English]",
-            "match_name": "South Delhi Superstarz vs Central Delhi Kings [English]",
+            "match_name": "Outer Delhi Warriors vs Purani Dilli-6 [English]",
             "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248001_53005_CDK_SDS_FC-Web.png",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "Central Delhi Kings",
-            "startTime": "01:30:00 PM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248001_ENG/index.m3u8"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "Purani Dilli-6",
+            "startTime": "07:00:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248005_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248357_HIN",
+            "match_id": "4248356_HIN",
             "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]",
+            "match_name": "Noida Kings vs Kashi Rudras [Hindi]",
             "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Gaur Gorakhpur Lions",
-            "startTime": "03:00:00 PM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248357_HIN/index.m3u8"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+            "team_1": "Noida Kings",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248356_HIN/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248357_BHO",
+            "match_id": "4248356_BHO",
             "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]",
+            "match_name": "Noida Kings vs Kashi Rudras [Bhojpuri]",
             "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Gaur Gorakhpur Lions",
-            "startTime": "03:00:00 PM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248357_BHO/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248439_ENG",
-            "title": "Top End T20 Series, 2026 [English]",
-            "match_name": "Australian Capital Territory vs Nepal A [English]",
-            "event_name": "Top End T20 Series, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
-            "team_1": "Australian Capital Territory",
-            "team_2": "Nepal A",
-            "startTime": "03:00:00 PM 26-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248439_ENG/index.m3u8"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+            "team_1": "Noida Kings",
+            "team_2": "Kashi Rudras",
+            "startTime": "07:30:00 PM 26-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248356_BHO/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,30 +57,6 @@
             "team_2": "Baukh Night Riders",
             "startTime": "06:00:00 PM 26-08-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248517_ENG/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248005,
-            "title": "Purani Dilli-6 vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "match_name": "Purani Dilli-6 vs Outer Delhi Warriors",
-            "event_name": "Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "Outer Delhi Warriors",
-            "startTime": "07:00:00 PM 26-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248356,
-            "title": "Noida Kings vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Noida Kings vs Kashi Rudras",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 26-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -478,6 +441,42 @@
             "team_1": "Baragaddi Kings",
             "team_2": "Taknor Tigers",
             "startTime": "06:00:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248580,
+            "title": "Denmark Women vs Sweden Women (Nordic Women's T20I Cup 2026)",
+            "match_name": "Denmark Women vs Sweden Women",
+            "event_name": "Nordic Women's T20I Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+            "team_1": "Denmark Women",
+            "team_2": "Sweden Women",
+            "startTime": "08:00:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248457,
+            "title": "Namibia vs South Africa (South Africa and Zimbabwe tour of Namibia, 2026)",
+            "match_name": "Namibia vs South Africa",
+            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Namibia",
+            "team_2": "South Africa",
+            "startTime": "05:30:00 PM 28-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247595,
+            "title": "Racing Club de Santander vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247595_53004_RAC_ELC_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Elche CF",
+            "startTime": "10:30:00 PM 28-08-2026"
         }
     ]
 }
