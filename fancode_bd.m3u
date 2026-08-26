@@ -2,14 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:11:07 PM 26-08-2026 (BD Time)
+# Last Updated: 09:59:44 PM 26-08-2026 (BD Time)
 # Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" group-title="Cricket",Outer Delhi Warriors vs Purani Dilli-6 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248005_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Noida Kings vs Kashi Rudras [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Kashi Rudras vs Noida Kings [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248356_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Noida Kings vs Kashi Rudras [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Kashi Rudras vs Noida Kings [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248356_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg" group-title="Cricket",Someshwar Warriors vs Baukh Night Riders [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248517_ENG/index.m3u8
