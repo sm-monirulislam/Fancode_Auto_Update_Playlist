@@ -2,14 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:53:28 PM 26-08-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 12:59:46 AM 27-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" group-title="Cricket",Outer Delhi Warriors vs Purani Dilli-6 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248005_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Kashi Rudras vs Noida Kings [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248356_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" group-title="Cricket",Kashi Rudras vs Noida Kings [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248356_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg" group-title="Cricket",Someshwar Warriors vs Baukh Night Riders [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248517_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248504_53016_NEW_WBA_fc-web.jpg" group-title="Football",Newcastle United vs West Bromwich Albion F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248504_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248505_53016_TOT_CHL_fc-web.jpg" group-title="Football",Tottenham Hotspur vs Charlton Athletic F.C [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248505_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247571_53004_RM_RS_FC-Web.png" group-title="Football",Real Madrid vs Real Sociedad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247571_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248506_53016_PST_EVE_fc-web.jpg" group-title="Football",Preston North End F.C. vs Everton [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248506_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248153_ENG/index.m3u8
