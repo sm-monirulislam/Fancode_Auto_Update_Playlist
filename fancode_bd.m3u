@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:46:16 AM 27-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 08:56:08 AM 27-08-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248438_53036_NTS_VA_fc-web_1787393618683.jpg" group-title="Cricket",Victoria Academy vs Northern Territory Strike [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248438_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248153_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png" group-title="Cricket",Saint Lucia Kings vs Trinbago Knight Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248298_ENG/index.m3u8
