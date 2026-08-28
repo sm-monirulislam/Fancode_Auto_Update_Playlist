@@ -2,12 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:37:01 AM 28-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 03:40:32 PM 28-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248418_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248154_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png" group-title="Cricket",Jamaica Kingsmen vs St Kitts and Nevis Patriots [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248292_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg" group-title="Cricket",Northern Territory Strike vs Bangladesh HP-XI [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248445_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248520_53041_RR_BNR_FC-Web.jpg" group-title="Cricket",Rawain Royals vs Baukh Night Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248520_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Cricket",Germany Women vs Sweden Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248579_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="MotoGP",Aragon GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139963_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png" group-title="Cricket",South Delhi Superstarz Women vs East Delhi Riders Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247556_ENG/index.m3u8
