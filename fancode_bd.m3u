@@ -2,10 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:14:26 AM 29-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 04:18:41 PM 29-08-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248455_53036_HHA_NZ-A_fc-web_1787393618773.jpg" group-title="Cricket",Hobart Hurricanes Academy vs New Zealand A [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248455_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png" group-title="Cricket",Barbados Tridents vs Trinbago Knight Riders [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248301_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png" group-title="Cricket",Meerut Mavericks vs Lucknow Falcons [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248347_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png" group-title="Cricket",Meerut Mavericks vs Lucknow Falcons [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248347_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248454_53036_NEP_VA_fc-web_1787393619334.jpg" group-title="Cricket",Nepal A vs Victoria Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248454_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248522_53041_SW_BG_FC-Web.jpg" group-title="Cricket",Someshwar Warriors vs Bhagirathi Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248522_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Cricket",Germany Women vs Denmark Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248581_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="MotoGP",Aragon GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139964_ENG/index.m3u8
