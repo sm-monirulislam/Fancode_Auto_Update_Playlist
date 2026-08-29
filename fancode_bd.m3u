@@ -2,26 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:10:25 PM 29-08-2026 (BD Time)
-# Live Match : 10
+# Last Updated: 12:44:57 AM 30-08-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Kanpur Superstars vs Noida Kings [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Noida Kings vs Kanpur Superstars [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248345_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Kanpur Superstars vs Noida Kings [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Noida Kings vs Kanpur Superstars [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248345_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" group-title="Cricket",Royal Oman Stallions vs IAS Invincibles [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248665_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" group-title="Cricket",Baukh Night Riders vs Baragaddi Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248523_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Cricket",Germany Women vs Sweden Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248582_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247478_52993_CAR_SHF_fc-web_1786657253799.jpg" group-title="Football",Cardiff City vs Sheffield United F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247478_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247592_53004_LET_RB_FC-Web.png" group-title="Football",Levante vs Real Betis [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247592_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" group-title="Cricket",Zimbabwe vs South Africa
-https://fancode.sm-monirul-islam-rs.workers.dev/4248458/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" group-title="Golf",Day 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248325_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" group-title="Cricket",South Delhi Superstarz Women vs East Delhi Riders Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247560_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247593_53004_RS_ESL_FC-Web.png" group-title="Football",Real Sociedad vs RCD Espanyol [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247593_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248651_53025_AFF_ITT_FC-Web.png" group-title="Football",Al-Fateh SC vs Al-Ittihad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248651_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",Main Feed - Day 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248424_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248420_ENG/index.m3u8
