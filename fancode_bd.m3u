@@ -2,16 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:30:30 AM 30-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 05:53:27 AM 30-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png" group-title="Football",Sevilla FC vs Atletico de Madrid [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247588_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png" group-title="Football",Girona FC vs Las Palmas [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248399_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",Main Feed - Day 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248424_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 3 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248420_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",Men's Finals [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248156_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png" group-title="Cricket",Trinbago Knight Riders vs Jamaica Kingsmen [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248300_ENG/index.m3u8

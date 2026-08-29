@@ -2,49 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:30:30 AM 30-08-2026",
+    "last_update_time": "05:53:27 AM 30-08-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247588_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Sevilla FC vs Atletico de Madrid [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Atletico de Madrid",
-            "startTime": "01:00:00 AM 30-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247588_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248399_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Girona FC vs Las Palmas [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Las Palmas",
-            "startTime": "01:00:00 AM 30-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248399_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4248424_ENG",
-            "title": "TOUR Championship 2026 [English]",
-            "match_name": "Main Feed - Day 3 [English]",
-            "event_name": "TOUR Championship 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "East Lake Golf Club - Atlanta, Georgia",
-            "startTime": "09:30:00 PM 29-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248424_ENG/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -60,16 +21,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248156_ENG",
-            "title": "ATP 250 - Winston-Salem Open 2026 [English]",
-            "match_name": "Men's Finals [English]",
-            "event_name": "ATP 250 - Winston-Salem Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-            "team_1": "Men's Finals",
-            "team_2": "Winston-Salem, United States",
-            "startTime": "01:30:00 AM 30-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248156_ENG/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4248300_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Trinbago Knight Riders vs Jamaica Kingsmen [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 30-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248300_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -290,14 +251,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248300,
-            "title": "Trinbago Knight Riders vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 30-08-2026"
+            "match_id": 4248611,
+            "title": "Nepal vs Bahrain (ACC Men’s Premier Cup 2026)",
+            "match_name": "Nepal vs Bahrain",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Nepal",
+            "team_2": "Bahrain",
+            "startTime": "07:00:00 AM 31-08-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248612,
+            "title": "United Arab Emirates vs Qatar (ACC Men’s Premier Cup 2026)",
+            "match_name": "United Arab Emirates vs Qatar",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Qatar",
+            "startTime": "07:00:00 AM 31-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -334,30 +307,6 @@
             "team_1": "Day 4",
             "team_2": "The K Club",
             "startTime": "06:30:00 PM 30-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248611,
-            "title": "Nepal vs Bahrain (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs Bahrain",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "Bahrain",
-            "startTime": "07:00:00 AM 31-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248612,
-            "title": "United Arab Emirates vs Qatar (ACC Men’s Premier Cup 2026)",
-            "match_name": "United Arab Emirates vs Qatar",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Qatar",
-            "startTime": "07:00:00 AM 31-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +415,54 @@
             "team_1": "FC Barcelona",
             "team_2": "Rayo Vallecano",
             "startTime": "01:00:00 AM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248398,
+            "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "RC Celta Fortuna vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
+            "team_1": "RC Celta Fortuna",
+            "team_2": "Castellón",
+            "startTime": "01:00:00 AM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248307,
+            "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "02:30:00 AM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248613,
+            "title": "Malaysia vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
+            "match_name": "Malaysia vs Saudi Arabia",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Malaysia",
+            "team_2": "Saudi Arabia",
+            "startTime": "07:00:00 AM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248614,
+            "title": "Kuwait vs Singapore (ACC Men’s Premier Cup 2026)",
+            "match_name": "Kuwait vs Singapore",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Kuwait",
+            "team_2": "Singapore",
+            "startTime": "07:00:00 AM 01-09-2026"
         }
     ]
 }
