@@ -2,18 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:44:57 AM 30-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 03:30:30 AM 30-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Noida Kings vs Kanpur Superstars [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248345_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" group-title="Cricket",Noida Kings vs Kanpur Superstars [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248345_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247593_53004_RS_ESL_FC-Web.png" group-title="Football",Real Sociedad vs RCD Espanyol [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247593_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248651_53025_AFF_ITT_FC-Web.png" group-title="Football",Al-Fateh SC vs Al-Ittihad [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248651_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png" group-title="Football",Sevilla FC vs Atletico de Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247588_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png" group-title="Football",Girona FC vs Las Palmas [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248399_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",Main Feed - Day 3 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248424_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 3 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248420_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis",Men's Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248156_ENG/index.m3u8
