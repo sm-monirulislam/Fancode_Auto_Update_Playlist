@@ -2,10 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:53:27 AM 30-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 09:47:04 AM 30-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248420_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Cricket",Bangladesh HP-XI vs Victoria Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248451_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Cricket",New Zealand A vs Adelaide Strikers Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248449_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Oman vs Singapore [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248609_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Hong Kong, China vs Saudi Arabia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248610_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png" group-title="Cricket",Trinbago Knight Riders vs Jamaica Kingsmen [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248300_ENG/index.m3u8
