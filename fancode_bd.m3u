@@ -2,16 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:47:04 AM 30-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 03:45:01 PM 30-08-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Cricket",Bangladesh HP-XI vs Victoria Academy [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248451_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Cricket",New Zealand A vs Adelaide Strikers Academy [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248449_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png" group-title="Cricket",Lucknow Falcons vs Gaur Gorakhpur Lions [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248358_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png" group-title="Cricket",Lucknow Falcons vs Gaur Gorakhpur Lions [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248358_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Oman vs Singapore [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248609_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Hong Kong, China vs Saudi Arabia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248610_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png" group-title="Cricket",Trinbago Knight Riders vs Jamaica Kingsmen [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248300_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Victoria-CA-XI-vs-Adelaide-Strikers-Academy_FC-WEB.jpg" group-title="Cricket",Adelaide Strikers Academy vs Victoria Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248452_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Taknor3.jpg" group-title="Cricket",Taknor Tigers vs Bhagirathi Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248524_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247562_53003_CDQ_NDS-W_FC-Web_1787555685328.png" group-title="Cricket",Central Delhi Queens vs North Delhi Strikers Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247562_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="MotoGP",Aragon GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139965_ENG/index.m3u8
