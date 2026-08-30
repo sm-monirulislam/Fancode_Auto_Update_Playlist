@@ -2,22 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:41:00 PM 30-08-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 12:24:51 AM 31-08-2026 (BD Time)
+# Live Match : 10
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png" group-title="Cricket",Meerut Mavericks vs Noida Kings [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248351_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png" group-title="Cricket",Meerut Mavericks vs Noida Kings [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248351_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248007_53005_SDS_CDK_FC-Web.png" group-title="Cricket",Central Delhi Kings vs South Delhi Superstarz [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248007_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248666_53052_MAT_MUT_fc-Web.jpg" group-title="Cricket",Majees Titans vs Muscat Thunders [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248666_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Cricket",Denmark Women vs Germany Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248584_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",Baragaddi Kings vs Baukh Night Riders [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" group-title="Cricket",Baragaddi Kings vs Baukh Night Riders [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248525_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247591_53004_RM_MAG_FC-Web.png" group-title="Football",Real Madrid vs Málaga [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247591_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" group-title="Golf",Day 4 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248326_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247594_53004_COR_VAL_FC-Web.png" group-title="Football",Deportivo de La Coruna vs Valencia CF [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247594_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248652_53025_ALQ_ALF_FC-Web.png" group-title="Football",Al-Qadsiah FC vs Al Faisaly Saudi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248652_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248397_53017_CDZ_VLD_FC-Web.png" group-title="Football",Cádiz vs Real Valladolid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248397_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",Main Feed - Day 4 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248425_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf",World Feed - Day 4 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248421_ENG/index.m3u8
