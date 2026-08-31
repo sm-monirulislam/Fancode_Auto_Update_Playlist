@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:34:06 PM 31-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 11:53:34 PM 31-08-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg" group-title="Cricket",Mustafa Fragrance House Strikers vs Royal Oman Stallions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248667_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248346_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248346_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png" group-title="Football",CA Osasuna vs Getafe CF [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247597_ENG/index.m3u8
