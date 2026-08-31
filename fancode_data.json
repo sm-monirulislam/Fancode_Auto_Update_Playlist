@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:48:48 AM 31-08-2026",
-    "total_matches": 37,
-    "live_match": 2,
+    "last_update_time": "04:34:06 PM 31-08-2026",
+    "total_matches": 38,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248611_ENG",
-            "title": "ACC Men’s Premier Cup 2026 [English]",
-            "match_name": "Nepal vs Bahrain [English]",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "Bahrain",
-            "startTime": "07:00:00 AM 31-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248611_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248612_ENG",
-            "title": "ACC Men’s Premier Cup 2026 [English]",
-            "match_name": "United Arab Emirates vs Qatar [English]",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Qatar",
-            "startTime": "07:30:00 AM 31-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248612_ENG/index.m3u8"
+            "match_id": "4248667_ENG",
+            "title": "Oman D50 2026 [English]",
+            "match_name": "Mustafa Fragrance House Strikers vs Royal Oman Stallions [English]",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg",
+            "team_1": "Mustafa Fragrance House Strikers",
+            "team_2": "Royal Oman Stallions",
+            "startTime": "04:00:00 PM 31-08-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248667_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -43,30 +30,6 @@
             "team_1": "Kanpur Superstars",
             "team_2": "Lucknow Falcons",
             "startTime": "07:30:00 PM 31-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248526,
-            "title": "Baukh Night Riders vs Taknor Tigers (Uttarkashi T20 League 2026)",
-            "match_name": "Baukh Night Riders vs Taknor Tigers",
-            "event_name": "Uttarkashi T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
-            "team_1": "Baukh Night Riders",
-            "team_2": "Taknor Tigers",
-            "startTime": "11:00:00 AM 31-08-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248667,
-            "title": "Mustafa Fragrance House Strikers vs Royal Oman Stallions (Oman D50 2026)",
-            "match_name": "Mustafa Fragrance House Strikers vs Royal Oman Stallions",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg",
-            "team_1": "Mustafa Fragrance House Strikers",
-            "team_2": "Royal Oman Stallions",
-            "startTime": "04:00:00 PM 31-08-2026"
         },
         {
             "status": "UPCOMING",
@@ -87,21 +50,9 @@
             "title": "FC Barcelona vs Rayo Vallecano (LALIGA 2026-27)",
             "match_name": "FC Barcelona vs Rayo Vallecano",
             "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
             "team_1": "FC Barcelona",
             "team_2": "Rayo Vallecano",
-            "startTime": "01:00:00 AM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248398,
-            "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "RC Celta Fortuna vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
-            "team_1": "RC Celta Fortuna",
-            "team_2": "Castellón",
             "startTime": "01:00:00 AM 01-09-2026"
         },
         {
@@ -142,6 +93,42 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248398,
+            "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "RC Celta Fortuna vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
+            "team_1": "RC Celta Fortuna",
+            "team_2": "Castellón",
+            "startTime": "01:00:00 AM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248360,
+            "title": "Kanpur Superstars vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
+            "team_1": "Kanpur Superstars",
+            "team_2": "Gaur Gorakhpur Lions",
+            "startTime": "07:30:00 PM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248668,
+            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D50 2026)",
+            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Yalla Shabab Giants",
+            "startTime": "04:00:00 PM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248456,
             "title": "Namibia vs Zimbabwe (South Africa and Zimbabwe tour of Namibia, 2026)",
@@ -167,30 +154,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248668,
-            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D50 2026)",
-            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
-            "team_1": "IAS Invincibles",
-            "team_2": "Yalla Shabab Giants",
-            "startTime": "04:00:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248360,
-            "title": "Kanpur Superstars vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Kanpur Superstars vs Gaur Gorakhpur Lions",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
-            "team_1": "Kanpur Superstars",
-            "team_2": "Gaur Gorakhpur Lions",
-            "startTime": "07:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4247561,
             "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
             "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
@@ -199,6 +162,18 @@
             "team_1": "North Delhi Strikers Women",
             "team_2": "South Delhi Superstarz Women",
             "startTime": "01:30:00 PM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248653,
+            "title": "Al Hilal SFC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Hilal SFC vs Al-Ahli Saudi FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Ahli Saudi FC",
+            "startTime": "11:30:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -211,30 +186,6 @@
             "team_1": "Zimbabwe",
             "team_2": "South Africa",
             "startTime": "05:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248653,
-            "title": "Al Hilal SFC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Hilal SFC vs Al-Ahli Saudi FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ahli Saudi FC",
-            "startTime": "11:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4247564,
-            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
-            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png",
-            "team_1": "East Delhi Riders Women",
-            "team_2": "Central Delhi Queens",
-            "startTime": "07:00:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -259,6 +210,18 @@
             "team_1": "Stoke City F.C.",
             "team_2": "Norwich City F.C.",
             "startTime": "12:30:00 AM 02-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247564,
+            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
+            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "Central Delhi Queens",
+            "startTime": "07:00:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -310,18 +273,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4247563,
-            "title": "TBC vs TBC (Women's Delhi Premier League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "08:00:00 PM 02-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248532,
             "title": "VfL Osnabruck vs FC Bayern München (DFB Pokal 2026-27)",
@@ -331,6 +282,18 @@
             "team_1": "VfL Osnabruck",
             "team_2": "FC Bayern München",
             "startTime": "12:15:00 AM 03-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247563,
+            "title": "TBC vs TBC (Women's Delhi Premier League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "08:00:00 PM 02-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +414,54 @@
             "team_1": "Real Sociedad",
             "team_2": "RC Celta",
             "startTime": "12:30:00 AM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248619,
+            "title": "Saudi Arabia vs Bahrain (ACC Men’s Premier Cup 2026)",
+            "match_name": "Saudi Arabia vs Bahrain",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Saudi Arabia",
+            "team_2": "Bahrain",
+            "startTime": "07:00:00 AM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248620,
+            "title": "Singapore vs Qatar (ACC Men’s Premier Cup 2026)",
+            "match_name": "Singapore vs Qatar",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Singapore",
+            "team_2": "Qatar",
+            "startTime": "07:00:00 AM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248297,
+            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248671,
+            "title": "Yalla Shabab Giants vs Majees Titans (Oman D50 2026)",
+            "match_name": "Yalla Shabab Giants vs Majees Titans",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Majees Titans",
+            "startTime": "04:00:00 PM 04-09-2026"
         }
     ]
 }
