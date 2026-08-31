@@ -2,48 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:53:34 PM 31-08-2026",
-    "total_matches": 41,
-    "live_match": 3,
+    "last_update_time": "04:29:20 AM 01-09-2026",
+    "total_matches": 39,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248346_HIN",
-            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Lucknow Falcons vs Kanpur Superstars [Hindi]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kanpur Superstars",
-            "startTime": "07:30:00 PM 31-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248346_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248346_BHO",
-            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Lucknow Falcons vs Kanpur Superstars [Bhojpuri]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Kanpur Superstars",
-            "startTime": "07:30:00 PM 31-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248346_BHO/index.m3u8"
+            "match_id": "4248307_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "02:30:00 AM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248307_ENG/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247597_ENG",
+            "match_id": "4247590_ENG",
             "title": "LALIGA 2026-27 [English]",
-            "match_name": "CA Osasuna vs Getafe CF [English]",
+            "match_name": "FC Barcelona vs Rayo Vallecano [English]",
             "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Getafe CF",
-            "startTime": "11:00:00 PM 31-08-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247597_ENG/index.m3u8"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Rayo Vallecano",
+            "startTime": "01:00:00 AM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247590_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -95,18 +82,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247590,
-            "title": "FC Barcelona vs Rayo Vallecano (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Rayo Vallecano",
-            "startTime": "01:00:00 AM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248668,
             "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D50 2026)",
@@ -116,18 +91,6 @@
             "team_1": "IAS Invincibles",
             "team_2": "Yalla Shabab Giants",
             "startTime": "04:00:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248398,
-            "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "RC Celta Fortuna vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
-            "team_1": "RC Celta Fortuna",
-            "team_2": "Castellón",
-            "startTime": "01:00:00 AM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -168,18 +131,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248307,
-            "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "02:30:00 AM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4247561,
             "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
             "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
@@ -188,30 +139,6 @@
             "team_1": "North Delhi Strikers Women",
             "team_2": "South Delhi Superstarz Women",
             "startTime": "01:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248460,
-            "title": "Zimbabwe vs South Africa (South Africa and Zimbabwe tour of Namibia, 2026)",
-            "match_name": "Zimbabwe vs South Africa",
-            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "South Africa",
-            "startTime": "05:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4247564,
-            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
-            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png",
-            "team_1": "East Delhi Riders Women",
-            "team_2": "Central Delhi Queens",
-            "startTime": "07:00:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -236,6 +163,30 @@
             "team_1": "Hong Kong, China",
             "team_2": "Bahrain",
             "startTime": "07:00:00 AM 02-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248460,
+            "title": "Zimbabwe vs South Africa (South Africa and Zimbabwe tour of Namibia, 2026)",
+            "match_name": "Zimbabwe vs South Africa",
+            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "South Africa",
+            "startTime": "05:30:00 PM 01-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247564,
+            "title": "East Delhi Riders Women vs Central Delhi Queens (Women's Delhi Premier League, 2026)",
+            "match_name": "East Delhi Riders Women vs Central Delhi Queens",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png",
+            "team_1": "East Delhi Riders Women",
+            "team_2": "Central Delhi Queens",
+            "startTime": "07:00:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -500,6 +451,30 @@
             "team_1": "Selaqui Strikers",
             "team_2": "Herbertpur Knight Riders",
             "startTime": "09:00:00 AM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248671,
+            "title": "Yalla Shabab Giants vs Majees Titans (Oman D50 2026)",
+            "match_name": "Yalla Shabab Giants vs Majees Titans",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Majees Titans",
+            "startTime": "04:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139737,
+            "title": "Practice Session vs Monza (F3 MONZA 2026)",
+            "match_name": "Practice Session",
+            "event_name": "F3 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "12:05:00 PM 04-09-2026"
         }
     ]
 }

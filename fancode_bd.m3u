@@ -2,12 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:53:34 PM 31-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:29:20 AM 01-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248346_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Cricket",Lucknow Falcons vs Kanpur Superstars [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248346_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png" group-title="Football",CA Osasuna vs Getafe CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247597_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png" group-title="Cricket",Guyana Amazon Warriors vs Trinbago Knight Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248307_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png" group-title="Football",FC Barcelona vs Rayo Vallecano [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247590_ENG/index.m3u8
