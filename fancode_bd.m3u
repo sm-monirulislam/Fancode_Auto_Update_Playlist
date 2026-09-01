@@ -2,10 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:33:33 PM 01-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 06:21:50 PM 01-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Malaysia vs Saudi Arabia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248613_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Cricket",Kuwait vs Singapore [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248614_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png" group-title="Cricket",Kashi Rudras vs Meerut Mavericks [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248359_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png" group-title="Cricket",Kashi Rudras vs Meerut Mavericks [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248359_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg" group-title="Cricket",IAS Invincibles vs Yalla Shabab Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248668_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg" group-title="Cricket",South Africa vs Zimbabwe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248460_ENG/index.m3u8

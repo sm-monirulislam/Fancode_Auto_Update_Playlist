@@ -2,47 +2,61 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:33:33 PM 01-09-2026",
-    "total_matches": 39,
-    "live_match": 2,
+    "last_update_time": "06:21:50 PM 01-09-2026",
+    "total_matches": 40,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248613_ENG",
-            "title": "ACC Men’s Premier Cup 2026 [English]",
-            "match_name": "Malaysia vs Saudi Arabia [English]",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Malaysia",
-            "team_2": "Saudi Arabia",
-            "startTime": "07:00:00 AM 01-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248613_ENG/index.m3u8"
+            "match_id": "4248359_HIN",
+            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
+            "match_name": "Kashi Rudras vs Meerut Mavericks [Hindi]",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Meerut Mavericks",
+            "startTime": "03:00:00 PM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248359_HIN/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248614_ENG",
-            "title": "ACC Men’s Premier Cup 2026 [English]",
-            "match_name": "Kuwait vs Singapore [English]",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Kuwait",
-            "team_2": "Singapore",
-            "startTime": "07:00:00 AM 01-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248614_ENG/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248359,
-            "title": "Meerut Mavericks vs Kashi Rudras (Uttar Pradesh T20 League, 2026)",
-            "match_name": "Meerut Mavericks vs Kashi Rudras",
+            "match_id": "4248359_BHO",
+            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
+            "match_name": "Kashi Rudras vs Meerut Mavericks [Bhojpuri]",
             "event_name": "Uttar Pradesh T20 League, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
-            "team_1": "Meerut Mavericks",
-            "team_2": "Kashi Rudras",
-            "startTime": "03:00:00 PM 01-09-2026"
+            "team_1": "Kashi Rudras",
+            "team_2": "Meerut Mavericks",
+            "startTime": "03:00:00 PM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248359_BHO/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248668_ENG",
+            "title": "Oman D50 2026 [English]",
+            "match_name": "IAS Invincibles vs Yalla Shabab Giants [English]",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Yalla Shabab Giants",
+            "startTime": "04:00:00 PM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248668_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248460_ENG",
+            "title": "South Africa and Zimbabwe tour of Namibia, 2026 [English]",
+            "match_name": "South Africa vs Zimbabwe [English]",
+            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
+            "team_1": "South Africa",
+            "team_2": "Zimbabwe",
+            "startTime": "05:30:00 PM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248460_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -55,18 +69,6 @@
             "team_1": "Kanpur Superstars",
             "team_2": "Gaur Gorakhpur Lions",
             "startTime": "07:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248668,
-            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D50 2026)",
-            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
-            "team_1": "IAS Invincibles",
-            "team_2": "Yalla Shabab Giants",
-            "startTime": "04:00:00 PM 01-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -131,26 +133,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4247561,
-            "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Women's Delhi Premier League, 2026)",
-            "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247561_53003_NDS-W_SDS-W_FC-Web_1787555684584.png",
-            "team_1": "North Delhi Strikers Women",
-            "team_2": "South Delhi Superstarz Women",
-            "startTime": "01:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248460,
-            "title": "Zimbabwe vs South Africa (South Africa and Zimbabwe tour of Namibia, 2026)",
-            "match_name": "Zimbabwe vs South Africa",
-            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "South Africa",
-            "startTime": "05:30:00 PM 01-09-2026"
+            "match_id": 4248669,
+            "title": "Majees Titans vs Royal Oman Stallions (Oman D50 2026)",
+            "match_name": "Majees Titans vs Royal Oman Stallions",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248669_53052_MAT_ROS_fc-Web.jpg",
+            "team_1": "Majees Titans",
+            "team_2": "Royal Oman Stallions",
+            "startTime": "04:00:00 PM 02-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -163,18 +153,6 @@
             "team_1": "East Delhi Riders Women",
             "team_2": "Central Delhi Queens",
             "startTime": "07:00:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248669,
-            "title": "Majees Titans vs Royal Oman Stallions (Oman D50 2026)",
-            "match_name": "Majees Titans vs Royal Oman Stallions",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248669_53052_MAT_ROS_fc-Web.jpg",
-            "team_1": "Majees Titans",
-            "team_2": "Royal Oman Stallions",
-            "startTime": "04:00:00 PM 02-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -195,7 +173,7 @@
             "title": "Rishikesh Dragons vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
             "match_name": "Rishikesh Dragons vs Herbertpur Knight Riders",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg",
             "team_1": "Rishikesh Dragons",
             "team_2": "Herbertpur Knight Riders",
             "startTime": "07:30:00 PM 02-09-2026"
@@ -279,7 +257,7 @@
             "title": "Doiwala Kings vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
             "match_name": "Doiwala Kings vs Vikasnagar Dhamaka",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg",
             "team_1": "Doiwala Kings",
             "team_2": "Vikasnagar Dhamaka",
             "startTime": "09:00:00 AM 03-09-2026"
@@ -315,7 +293,7 @@
             "title": "Mussoorie Thunder vs Selaqui Strikers (Dehradun T20 League 2026)",
             "match_name": "Mussoorie Thunder vs Selaqui Strikers",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
             "team_1": "Mussoorie Thunder",
             "team_2": "Selaqui Strikers",
             "startTime": "03:30:00 PM 03-09-2026"
@@ -339,7 +317,7 @@
             "title": "Rishikesh Dragons vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
             "match_name": "Rishikesh Dragons vs Vikasnagar Dhamaka",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249066_53058_RD_VD_fc-Web_fc-webtvbg.jpg",
             "team_1": "Rishikesh Dragons",
             "team_2": "Vikasnagar Dhamaka",
             "startTime": "07:30:00 PM 03-09-2026"
@@ -423,7 +401,7 @@
             "title": "Selaqui Strikers vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
             "match_name": "Selaqui Strikers vs Herbertpur Knight Riders",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249067_53058_SS_HKR_fc-Web_fc-webtvbg.jpg",
             "team_1": "Selaqui Strikers",
             "team_2": "Herbertpur Knight Riders",
             "startTime": "09:00:00 AM 04-09-2026"
@@ -459,7 +437,7 @@
             "title": "Doiwala Kings vs Mussoorie Thunder (Dehradun T20 League 2026)",
             "match_name": "Doiwala Kings vs Mussoorie Thunder",
             "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
             "team_1": "Doiwala Kings",
             "team_2": "Mussoorie Thunder",
             "startTime": "03:30:00 PM 04-09-2026"
@@ -474,6 +452,42 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
             "team_1": "TBC",
             "team_2": "TBC",
+            "startTime": "07:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139646,
+            "title": "Practice Session vs Monza (F2 MONZA 2026)",
+            "match_name": "Practice Session",
+            "event_name": "F2 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "01:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": 139482,
+            "title": "Practice 1 vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
+            "match_name": "Practice 1",
+            "event_name": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
+            "team_1": "Practice 1",
+            "team_2": "Autodromo Nazionale Monza",
+            "startTime": "04:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249069,
+            "title": "Rishikesh Dragons vs Selaqui Strikers (Dehradun T20 League 2026)",
+            "match_name": "Rishikesh Dragons vs Selaqui Strikers",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Rishikesh Dragons",
+            "team_2": "Selaqui Strikers",
             "startTime": "07:30:00 PM 04-09-2026"
         }
     ]
