@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:22:09 AM 01-09-2026",
+    "last_update_time": "12:33:33 PM 01-09-2026",
     "total_matches": 39,
     "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248307_ENG",
-            "title": "Caribbean Premier League, 2026 [English]",
-            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders [English]",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "02:30:00 AM 01-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248307_ENG/index.m3u8"
+            "match_id": "4248613_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Malaysia vs Saudi Arabia [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Malaysia",
+            "team_2": "Saudi Arabia",
+            "startTime": "07:00:00 AM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248613_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248614_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Kuwait vs Singapore [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Kuwait",
+            "team_2": "Singapore",
+            "startTime": "07:00:00 AM 01-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248614_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -42,31 +55,6 @@
             "team_1": "Kanpur Superstars",
             "team_2": "Gaur Gorakhpur Lions",
             "startTime": "07:30:00 PM 01-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248613,
-            "title": "Malaysia vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Saudi Arabia",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Malaysia",
-            "team_2": "Saudi Arabia",
-            "startTime": "07:00:00 AM 01-09-2026"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248614_ENG",
-            "title": "ACC Men’s Premier Cup 2026 [English]",
-            "match_name": "Kuwait vs Singapore [English]",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Kuwait",
-            "team_2": "Singapore",
-            "startTime": "07:00:00 AM 01-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248614_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -179,18 +167,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248294,
-            "title": "St Kitts and Nevis Patriots vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "match_name": "St Kitts and Nevis Patriots vs Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
-            "team_1": "St Kitts and Nevis Patriots",
-            "team_2": "Barbados Tridents",
-            "startTime": "04:30:00 AM 02-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248669,
             "title": "Majees Titans vs Royal Oman Stallions (Oman D50 2026)",
             "match_name": "Majees Titans vs Royal Oman Stallions",
@@ -199,6 +175,18 @@
             "team_1": "Majees Titans",
             "team_2": "Royal Oman Stallions",
             "startTime": "04:00:00 PM 02-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248294,
+            "title": "St Kitts and Nevis Patriots vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "match_name": "St Kitts and Nevis Patriots vs Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Barbados Tridents",
+            "startTime": "04:30:00 AM 02-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -226,18 +214,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4247563,
-            "title": "TBC vs TBC (Women's Delhi Premier League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Women's Delhi Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "08:00:00 PM 02-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4247480,
             "title": "Burnley vs Middlesbrough F.C. (EFL Championship 2026-27)",
@@ -247,6 +223,18 @@
             "team_1": "Burnley",
             "team_2": "Middlesbrough F.C.",
             "startTime": "12:30:00 AM 03-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4247563,
+            "title": "TBC vs TBC (Women's Delhi Premier League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Women's Delhi Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "08:00:00 PM 02-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -387,7 +375,7 @@
             "title": "Real Sociedad vs RC Celta (LALIGA 2026-27)",
             "match_name": "Real Sociedad vs RC Celta",
             "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1788240399874/4247623_CASACARDS_APP.png",
             "team_1": "Real Sociedad",
             "team_2": "RC Celta",
             "startTime": "12:30:00 AM 04-09-2026"
@@ -475,6 +463,18 @@
             "team_1": "Doiwala Kings",
             "team_2": "Mussoorie Thunder",
             "startTime": "03:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248344,
+            "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 04-09-2026"
         }
     ]
 }
