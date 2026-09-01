@@ -2,16 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:49:18 PM 01-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 01:44:52 AM 02-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Cricket",Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248360_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Cricket",Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248360_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amritsar-Soormas-vs-Jalandhar-Warriors_fc-web1.jpg" group-title="Cricket",Amritsar Soormas vs Jalandhar Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249130_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg" group-title="Cricket",IAS Invincibles vs Yalla Shabab Giants [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248668_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png" group-title="Cricket",Central Delhi Queens vs East Delhi Riders Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247564_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png" group-title="Football",Al Hilal SFC vs Al-Ahli Saudi FC
+https://fancode.sm-monirul-islam-rs.workers.dev/4248653/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787136554687/4248531_CASACARDS_APP.png" group-title="Football",HEBC Hamburg vs Borussia Dortmund
+https://fancode.sm-monirul-islam-rs.workers.dev/4248531/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247479_52993_STK_NOR_fc-web_1786657253828.jpg" group-title="Football",Stoke City F.C. vs Norwich City F.C.
+https://fancode.sm-monirul-islam-rs.workers.dev/4247479/index.m3u8
