@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:46:45 PM 02-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 11:36:19 PM 02-09-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="Cricket",Fazilka Falcons vs Amritsar Soormas [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249118_HIN/index.m3u8
@@ -11,5 +11,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249118_HIN/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249118_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248669_53052_MAT_ROS_fc-Web.jpg" group-title="Cricket",Majees Titans vs Royal Oman Stallions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248669_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Rishikesh Dragons vs Herbertpur Knight Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249063_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247563_53003_NDS-W_SDS-W_FC-Web.png" group-title="Cricket",South Delhi Superstarz Women vs North Delhi Strikers Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247563_ENG/index.m3u8
