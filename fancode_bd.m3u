@@ -2,12 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:18:19 PM 02-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 07:46:45 PM 02-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249108_53065_MOK_LLN_fc-web_1788339743850.jpg" group-title="Cricket",Mohali Kings vs Ludhiana Lions
-https://fancode.sm-monirul-islam-rs.workers.dev/4249108/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png" group-title="Cricket",Oman vs Qatar
-https://fancode.sm-monirul-islam-rs.workers.dev/4248615/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png" group-title="Cricket",Hong Kong, China vs Bahrain
-https://fancode.sm-monirul-islam-rs.workers.dev/4248616/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="Cricket",Fazilka Falcons vs Amritsar Soormas [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249118_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="Cricket",Fazilka Falcons vs Amritsar Soormas [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249118_PUN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248669_53052_MAT_ROS_fc-Web.jpg" group-title="Cricket",Majees Titans vs Royal Oman Stallions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248669_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247563_53003_NDS-W_SDS-W_FC-Web.png" group-title="Cricket",South Delhi Superstarz Women vs North Delhi Strikers Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247563_ENG/index.m3u8
