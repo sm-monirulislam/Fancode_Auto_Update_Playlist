@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:31:52 AM 03-09-2026",
+    "last_update_time": "04:59:01 AM 03-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248532_ENG",
-            "title": "DFB Pokal 2026-27 [English]",
-            "match_name": "VfL Osnabruck vs FC Bayern Munich [English]",
-            "event_name": "DFB Pokal 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248532_53043_VFL_BAY_FC-WEB.png",
-            "team_1": "VfL Osnabruck",
-            "team_2": "FC Bayern Munich",
-            "startTime": "12:15:00 AM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248532_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247480_ENG",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Burnley vs Middlesbrough F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247480_52993_BUR_MIDD_fc-web_1786657253102.jpg",
-            "team_1": "Burnley",
-            "team_2": "Middlesbrough F.C.",
-            "startTime": "12:30:00 AM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247480_ENG/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4248305_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248305_53026_TKR_ABF_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "04:30:00 AM 03-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248305_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -179,30 +166,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248305,
-            "title": "Trinbago Knight Riders vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Antigua & Barbuda Falcons",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248305_53026_TKR_ABF_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Antigua & Barbuda Falcons",
-            "startTime": "04:30:00 AM 03-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248459,
-            "title": "Namibia vs Zimbabwe (South Africa and Zimbabwe tour of Namibia, 2026)",
-            "match_name": "Namibia vs Zimbabwe",
-            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg",
-            "team_1": "Namibia",
-            "team_2": "Zimbabwe",
-            "startTime": "05:30:00 PM 03-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4248619,
             "title": "Saudi Arabia vs Bahrain (ACC Men’s Premier Cup 2026)",
             "match_name": "Saudi Arabia vs Bahrain",
@@ -227,6 +190,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248459,
+            "title": "Namibia vs Zimbabwe (South Africa and Zimbabwe tour of Namibia, 2026)",
+            "match_name": "Namibia vs Zimbabwe",
+            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg",
+            "team_1": "Namibia",
+            "team_2": "Zimbabwe",
+            "startTime": "05:30:00 PM 03-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4249067,
             "title": "Selaqui Strikers vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
             "match_name": "Selaqui Strikers vs Herbertpur Knight Riders",
@@ -239,18 +214,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248297,
-            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
-            "team_1": "St Kitts and Nevis Patriots",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249123,
             "title": "Bathinda Royals vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
             "match_name": "Bathinda Royals vs Amritsar Soormas",
@@ -259,6 +222,18 @@
             "team_1": "Bathinda Royals",
             "team_2": "Amritsar Soormas",
             "startTime": "01:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248297,
+            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -286,18 +261,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139737,
-            "title": "Practice Session vs Monza (F3 MONZA 2026)",
-            "match_name": "Practice Session",
-            "event_name": "F3 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Monza",
-            "startTime": "12:05:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249125,
             "title": "Ludhiana Lions vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
@@ -307,6 +270,18 @@
             "team_1": "Ludhiana Lions",
             "team_2": "Jalandhar Warriors",
             "startTime": "07:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139737,
+            "title": "Practice Session vs Monza (F3 MONZA 2026)",
+            "match_name": "Practice Session",
+            "event_name": "F3 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "12:05:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +438,30 @@
             "team_1": "London City Lionesses",
             "team_2": "Manchester United Women",
             "startTime": "11:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248644,
+            "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Leganes",
+            "startTime": "12:00:00 AM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 4249096,
+            "title": "Practice Session vs Monza (Porsche Mobil 1 Supercup 2026)",
+            "match_name": "Practice Session",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "09:00:00 PM 04-09-2026"
         }
     ]
 }
