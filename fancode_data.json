@@ -2,62 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:06:52 AM 04-09-2026",
-    "total_matches": 38,
-    "live_match": 4,
+    "last_update_time": "03:48:40 AM 04-09-2026",
+    "total_matches": 36,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248349_HIN",
-            "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-            "match_name": "Noida Kings vs Kashi Rudras [Hindi]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248349_53029_KAS_NOI_FC-Web.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248349_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248349_BHO",
-            "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-            "match_name": "Noida Kings vs Kashi Rudras [Bhojpuri]",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248349_53029_KAS_NOI_FC-Web.png",
-            "team_1": "Noida Kings",
-            "team_2": "Kashi Rudras",
-            "startTime": "07:30:00 PM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248349_BHO/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248654_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Diriyah vs Al Qadisiyah [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248654_53025_DIR_ALQ_FC-Web.png",
-            "team_1": "Diriyah",
-            "team_2": "Al Qadisiyah",
-            "startTime": "11:30:00 PM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248654_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247623_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Real Sociedad vs RC Celta [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247623_53004_RS_CEV_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "RC Celta",
-            "startTime": "12:30:00 AM 04-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247623_ENG/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -288,30 +236,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139647,
-            "title": "Qualifying Session vs Monza (F2 MONZA 2026)",
-            "match_name": "Qualifying Session",
-            "event_name": "F2 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Monza",
-            "startTime": "06:25:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": 139483,
-            "title": "Practice 2 vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
-            "match_name": "Practice 2",
-            "event_name": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
-            "team_1": "Practice 2",
-            "team_2": "Autodromo Nazionale Monza",
-            "startTime": "07:30:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248644,
             "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
@@ -321,6 +245,18 @@
             "team_1": "Las Palmas",
             "team_2": "Leganes",
             "startTime": "12:00:00 AM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139647,
+            "title": "Qualifying Session vs Monza (F2 MONZA 2026)",
+            "match_name": "Qualifying Session",
+            "event_name": "F2 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Monza",
+            "startTime": "06:25:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -348,6 +284,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": 139483,
+            "title": "Practice 2 vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
+            "team_1": "Practice 2",
+            "team_2": "Autodromo Nazionale Monza",
+            "startTime": "07:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249070,
             "title": "Herbertpur Knight Riders vs Mussoorie Thunder (Dehradun T20 League 2026)",
@@ -361,18 +309,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248309,
-            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249117,
             "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
             "match_name": "Fazilka Falcons vs Bathinda Royals",
@@ -381,6 +317,18 @@
             "team_1": "Fazilka Falcons",
             "team_2": "Bathinda Royals",
             "startTime": "01:00:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248309,
+            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -465,6 +413,30 @@
             "team_1": "Chelsea F.C. Women",
             "team_2": "Aston Villa Women",
             "startTime": "05:00:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 143618,
+            "title": "Qualifying Session vs Monza (Porsche Mobil 1 Supercup 2026)",
+            "match_name": "Qualifying Session",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Monza",
+            "startTime": "02:20:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249072,
+            "title": "Vikasnagar Dhamaka vs Mussoorie Thunder (Dehradun T20 League 2026)",
+            "match_name": "Vikasnagar Dhamaka vs Mussoorie Thunder",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Vikasnagar Dhamaka",
+            "team_2": "Mussoorie Thunder",
+            "startTime": "07:30:00 PM 05-09-2026"
         }
     ]
 }
