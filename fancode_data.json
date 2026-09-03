@@ -2,22 +2,48 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:03:14 AM 03-09-2026",
+    "last_update_time": "12:10:00 PM 03-09-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248305_ENG",
-            "title": "Caribbean Premier League, 2026 [English]",
-            "match_name": "Antigua & Barbuda Falcons vs Trinbago Knight Riders [English]",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248305_53026_TKR_ABF_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "04:30:00 AM 03-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248305_ENG/index.m3u8"
+            "match_id": "4248617_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Kuwait vs United Arab Emirates [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "United Arab Emirates",
+            "startTime": "07:00:00 AM 03-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248617_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248618_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Malaysia vs Nepal [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png",
+            "team_1": "Malaysia",
+            "team_2": "Nepal",
+            "startTime": "07:00:00 AM 03-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248618_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249064_ENG",
+            "title": "Dehradun T20 League 2026 [English]",
+            "match_name": "Doiwala Kings vs Vikasnagar Dhamaka [English]",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Doiwala Kings",
+            "team_2": "Vikasnagar Dhamaka",
+            "startTime": "09:00:00 AM 03-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249064_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -38,7 +64,7 @@
             "title": "Meerut Mavericks vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "match_name": "Meerut Mavericks vs Lucknow Falcons",
             "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248329_53029_LCK_MER_FC-Web_1786702851437.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png",
             "team_1": "Meerut Mavericks",
             "team_2": "Lucknow Falcons",
             "startTime": "02:30:00 PM 03-09-2026"
@@ -62,46 +88,10 @@
             "title": "Kashi Rudras vs Noida Kings (Uttar Pradesh T20 League, 2026)",
             "match_name": "Kashi Rudras vs Noida Kings",
             "event_name": "Uttar Pradesh T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248349_53029_KAS_NOI_FC-Web.png",
             "team_1": "Kashi Rudras",
             "team_2": "Noida Kings",
             "startTime": "07:30:00 PM 03-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248617,
-            "title": "Kuwait vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
-            "match_name": "Kuwait vs United Arab Emirates",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
-            "team_1": "Kuwait",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:00:00 AM 03-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248618,
-            "title": "Malaysia vs Nepal (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Nepal",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png",
-            "team_1": "Malaysia",
-            "team_2": "Nepal",
-            "startTime": "07:00:00 AM 03-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249064,
-            "title": "Doiwala Kings vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
-            "match_name": "Doiwala Kings vs Vikasnagar Dhamaka",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Doiwala Kings",
-            "team_2": "Vikasnagar Dhamaka",
-            "startTime": "09:00:00 AM 03-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -190,6 +180,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4249123,
+            "title": "Bathinda Royals vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
+            "match_name": "Bathinda Royals vs Amritsar Soormas",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg",
+            "team_1": "Bathinda Royals",
+            "team_2": "Amritsar Soormas",
+            "startTime": "01:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4249067,
             "title": "Selaqui Strikers vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
             "match_name": "Selaqui Strikers vs Herbertpur Knight Riders",
@@ -214,14 +216,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4249123,
-            "title": "Bathinda Royals vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
-            "match_name": "Bathinda Royals vs Amritsar Soormas",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg",
-            "team_1": "Bathinda Royals",
-            "team_2": "Amritsar Soormas",
-            "startTime": "01:00:00 PM 04-09-2026"
+            "match_id": 4249068,
+            "title": "Doiwala Kings vs Mussoorie Thunder (Dehradun T20 League 2026)",
+            "match_name": "Doiwala Kings vs Mussoorie Thunder",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Doiwala Kings",
+            "team_2": "Mussoorie Thunder",
+            "startTime": "03:30:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -234,18 +236,6 @@
             "team_1": "St Kitts and Nevis Patriots",
             "team_2": "Saint Lucia Kings",
             "startTime": "04:30:00 AM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249068,
-            "title": "Doiwala Kings vs Mussoorie Thunder (Dehradun T20 League 2026)",
-            "match_name": "Doiwala Kings vs Mussoorie Thunder",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Doiwala Kings",
-            "team_2": "Mussoorie Thunder",
-            "startTime": "03:30:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,18 +287,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139646,
-            "title": "Practice Session vs Monza (F2 MONZA 2026)",
-            "match_name": "Practice Session",
-            "event_name": "F2 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Monza",
-            "startTime": "01:30:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249069,
             "title": "Rishikesh Dragons vs Selaqui Strikers (Dehradun T20 League 2026)",
@@ -318,6 +296,18 @@
             "team_1": "Rishikesh Dragons",
             "team_2": "Selaqui Strikers",
             "startTime": "07:30:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139646,
+            "title": "Practice Session vs Monza (F2 MONZA 2026)",
+            "match_name": "Practice Session",
+            "event_name": "F2 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "01:30:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +452,18 @@
             "team_1": "Practice Session",
             "team_2": "Monza",
             "startTime": "09:00:00 PM 04-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248621,
+            "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
+            "match_name": "Kuwait vs Oman",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "Oman",
+            "startTime": "07:00:00 AM 05-09-2026"
         }
     ]
 }
