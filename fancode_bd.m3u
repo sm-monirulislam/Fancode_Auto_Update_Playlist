@@ -2,18 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:49:28 PM 03-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 01:06:52 AM 04-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249124_53065_FAF_MOK_fc-web_1788345783982.jpg" group-title="Cricket",Mohali Kings vs Fazilka Falcons [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249124_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249124_53065_FAF_MOK_fc-web_1788345783982.jpg" group-title="Cricket",Mohali Kings vs Fazilka Falcons [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249124_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248349_53029_KAS_NOI_FC-Web.png" group-title="Cricket",Noida Kings vs Kashi Rudras [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248349_HIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248349_53029_KAS_NOI_FC-Web.png" group-title="Cricket",Noida Kings vs Kashi Rudras [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248349_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248670_53052_MF_MUT_fc-Web.jpg" group-title="Cricket",Mustafa Fragrance House Strikers vs Muscat Thunders [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248670_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249066_53058_RD_VD_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Rishikesh Dragons vs Vikasnagar Dhamaka [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249066_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248654_53025_DIR_ALQ_FC-Web.png" group-title="Football",Diriyah vs Al Qadisiyah [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248654_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247623_53004_RS_CEV_FC-Web.png" group-title="Football",Real Sociedad vs RC Celta [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247623_ENG/index.m3u8
