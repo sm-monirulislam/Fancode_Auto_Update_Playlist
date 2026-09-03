@@ -2,12 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:10:00 PM 03-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:30:55 PM 03-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png" group-title="Cricket",Kuwait vs United Arab Emirates [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248617_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png" group-title="Cricket",Malaysia vs Nepal [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248618_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Doiwala Kings vs Vikasnagar Dhamaka [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249064_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249114_53065_BHT_JLD_fc-web_1788345783965.jpg" group-title="Cricket",Jalandhar Warriors vs Bathinda Royals
+https://fancode.sm-monirul-islam-rs.workers.dev/4249114/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png" group-title="Cricket",Lucknow Falcons vs Meerut Mavericks
+https://fancode.sm-monirul-islam-rs.workers.dev/4248350/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Mussoorie Thunder vs Selaqui Strikers
+https://fancode.sm-monirul-islam-rs.workers.dev/4249065/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248670_53052_MF_MUT_fc-Web.jpg" group-title="Cricket",Mustafa Fragrance House Strikers vs Muscat Thunders
+https://fancode.sm-monirul-islam-rs.workers.dev/4248670/index.m3u8
