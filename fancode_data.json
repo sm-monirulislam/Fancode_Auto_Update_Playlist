@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:48:40 AM 04-09-2026",
+    "last_update_time": "05:47:27 AM 04-09-2026",
     "total_matches": 36,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248297_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 04-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248297_ENG/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -165,14 +178,38 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248297,
-            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
-            "team_1": "St Kitts and Nevis Patriots",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 04-09-2026"
+            "match_id": 4248621,
+            "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
+            "match_name": "Kuwait vs Oman",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "Oman",
+            "startTime": "07:00:00 AM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248622,
+            "title": "Malaysia vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
+            "match_name": "Malaysia vs Hong Kong, China",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
+            "team_1": "Malaysia",
+            "team_2": "Hong Kong, China",
+            "startTime": "07:00:00 AM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248644,
+            "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Leganes",
+            "startTime": "12:00:00 AM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -236,18 +273,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248644,
-            "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Leganes",
-            "startTime": "12:00:00 AM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": 139647,
             "title": "Qualifying Session vs Monza (F2 MONZA 2026)",
@@ -257,30 +282,6 @@
             "team_1": "Qualifying Session",
             "team_2": "Monza",
             "startTime": "06:25:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248621,
-            "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
-            "match_name": "Kuwait vs Oman",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
-            "team_1": "Kuwait",
-            "team_2": "Oman",
-            "startTime": "07:00:00 AM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248622,
-            "title": "Malaysia vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
-            "team_1": "Malaysia",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -332,18 +333,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 4249096,
-            "title": "Practice Session vs Monza (Porsche Mobil 1 Supercup 2026)",
-            "match_name": "Practice Session",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Monza",
-            "startTime": "09:00:00 PM 04-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249071,
             "title": "Rishikesh Dragons vs Doiwala Kings (Dehradun T20 League 2026)",
@@ -353,6 +342,18 @@
             "team_1": "Rishikesh Dragons",
             "team_2": "Doiwala Kings",
             "startTime": "02:30:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 4249096,
+            "title": "Practice Session vs Monza (Porsche Mobil 1 Supercup 2026)",
+            "match_name": "Practice Session",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Monza",
+            "startTime": "09:00:00 PM 04-09-2026"
         },
         {
             "status": "UPCOMING",
