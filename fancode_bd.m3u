@@ -2,14 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:50:16 PM 04-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 10:44:08 PM 04-09-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Doiwala Kings vs Mussoorie Thunder [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249068_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249125_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249125_PUN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248344_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248344_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg" group-title="Cricket",Yalla Shabab Giants vs Majees Titans [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248671_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248461_53037_NAM_SA_FC-WEB.jpg" group-title="Cricket",South Africa vs Namibia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248461_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" group-title="Motorsports",Qualifying Session [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139647_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Rishikesh Dragons vs Selaqui Strikers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249069_ENG/index.m3u8
