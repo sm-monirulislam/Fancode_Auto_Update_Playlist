@@ -2,18 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:44:08 PM 04-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 01:17:52 AM 05-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249125_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249125_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248344_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Cricket",Noida Kings vs Meerut Mavericks [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248344_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg" group-title="Cricket",Yalla Shabab Giants vs Majees Titans [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248671_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Rishikesh Dragons vs Selaqui Strikers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249069_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248655_53025_ASF_AHS_FC-Web_1788155166474.png" group-title="Football",Al-Shabab FC vs Al Hilal SFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248655_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248656_53025_AAS_ALR_FC-Web.png" group-title="Football",Al-Ahli Saudi FC vs Al-Riyadh SC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248656_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247599_53004_RB_RM_FC-Web.png" group-title="Football",Real Betis vs Real Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247599_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248463_53038_LCL_MUN-W_fc-web.jpg" group-title="Football",London City Lionesses vs Manchester United Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248463_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png" group-title="Football",Las Palmas vs Leganes
+https://fancode.sm-monirul-islam-rs.workers.dev/4248644/index.m3u8
