@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:39:08 AM 05-09-2026",
+    "last_update_time": "05:43:39 AM 05-09-2026",
     "total_matches": 37,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248309_ENG",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Jamaica Kingsmen vs Guyana Amazon Warriors [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248309_ENG/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -176,18 +189,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248464,
-            "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Aston Villa Women",
-            "startTime": "05:00:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249088,
             "title": "Barbados Tridents Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2026)",
@@ -225,6 +226,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": 4248464,
+            "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Aston Villa Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Aston Villa Women",
+            "startTime": "05:00:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": 4248645,
             "title": "Sporting de Gijón vs Girona FC (LALIGA Hypermotion 2026-27)",
             "match_name": "Sporting de Gijón vs Girona FC",
@@ -237,14 +250,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248309,
-            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 05-09-2026"
+            "match_id": 4248623,
+            "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
+            "match_name": "Nepal vs Saudi Arabia",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
+            "team_1": "Nepal",
+            "team_2": "Saudi Arabia",
+            "startTime": "07:00:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248624,
+            "title": "United Arab Emirates vs Singapore (ACC Men’s Premier Cup 2026)",
+            "match_name": "United Arab Emirates vs Singapore",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Singapore",
+            "startTime": "07:00:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -305,30 +330,6 @@
             "team_1": "Sprint Race",
             "team_2": "Monza",
             "startTime": "05:45:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248623,
-            "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs Saudi Arabia",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
-            "team_1": "Nepal",
-            "team_2": "Saudi Arabia",
-            "startTime": "07:00:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248624,
-            "title": "United Arab Emirates vs Singapore (ACC Men’s Premier Cup 2026)",
-            "match_name": "United Arab Emirates vs Singapore",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Singapore",
-            "startTime": "07:00:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -404,6 +405,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249109,
+            "title": "Ludhiana Lions vs Fazilka Falcons (Sher-E-Punjab T20, 2026)",
+            "match_name": "Ludhiana Lions vs Fazilka Falcons",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg",
+            "team_1": "Ludhiana Lions",
+            "team_2": "Fazilka Falcons",
+            "startTime": "07:00:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": 139740,
             "title": "Race vs Monza (F3 MONZA 2026)",
@@ -417,14 +430,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4249109,
-            "title": "Ludhiana Lions vs Fazilka Falcons (Sher-E-Punjab T20, 2026)",
-            "match_name": "Ludhiana Lions vs Fazilka Falcons",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg",
-            "team_1": "Ludhiana Lions",
-            "team_2": "Fazilka Falcons",
-            "startTime": "07:00:00 PM 06-09-2026"
+            "match_id": 4248361,
+            "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "08:00:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -436,18 +449,6 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg",
             "team_1": "Brighton and Hove Albion Women",
             "team_2": "Arsenal Women",
-            "startTime": "04:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248466,
-            "title": "Tottenham Hotspur Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs West Ham United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "West Ham United Women",
             "startTime": "04:30:00 PM 06-09-2026"
         }
     ]
