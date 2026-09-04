@@ -2,12 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:01:46 AM 04-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 02:08:22 PM 04-09-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg" group-title="Cricket",Amritsar Soormas vs Bathinda Royals [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249123_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg" group-title="Cricket",Amritsar Soormas vs Bathinda Royals [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249123_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" group-title="Cricket",Saudi Arabia vs Bahrain [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248619_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png" group-title="Cricket",Singapore vs Qatar [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248620_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png" group-title="Cricket",St Kitts and Nevis Patriots vs Saint Lucia Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248297_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" group-title="Motorsports",Practice Session [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139646_ENG/index.m3u8
