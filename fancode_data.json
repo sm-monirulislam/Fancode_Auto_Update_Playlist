@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:29:35 AM 06-09-2026",
+    "last_update_time": "05:12:26 AM 06-09-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249088_ENG",
-            "title": "Women's Caribbean Premier League, 2026 [English]",
-            "match_name": "Trinbago Knight Riders Women vs Barbados Tridents Women [English]",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249088_53061_BT-W_TKR-W_FC-Web_1788430037592.png",
-            "team_1": "Trinbago Knight Riders Women",
-            "team_2": "Barbados Tridents Women",
-            "startTime": "12:30:00 AM 06-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249088_ENG/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -178,6 +165,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": 4247604,
+            "title": "RCD Espanyol vs Sevilla FC (LALIGA 2026-27)",
+            "match_name": "RCD Espanyol vs Sevilla FC",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Sevilla FC",
+            "startTime": "12:30:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": 4248465,
             "title": "Brighton and Hove Albion Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
             "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
@@ -210,6 +209,18 @@
             "team_1": "Eibar",
             "team_2": "Granada",
             "startTime": "05:30:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248308,
+            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "05:30:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -250,18 +261,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": 4247604,
-            "title": "RCD Espanyol vs Sevilla FC (LALIGA 2026-27)",
-            "match_name": "RCD Espanyol vs Sevilla FC",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Sevilla FC",
-            "startTime": "12:30:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": 4248647,
             "title": "Almería vs Cádiz (LALIGA Hypermotion 2026-27)",
             "match_name": "Almería vs Cádiz",
@@ -274,14 +273,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248308,
-            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "05:30:00 AM 06-09-2026"
+            "match_id": 4248625,
+            "title": "Kuwait vs Qatar (ACC Men’s Premier Cup 2026)",
+            "match_name": "Kuwait vs Qatar",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "Qatar",
+            "startTime": "07:00:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248626,
+            "title": "Malaysia vs Bahrain (ACC Men’s Premier Cup 2026)",
+            "match_name": "Malaysia vs Bahrain",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png",
+            "team_1": "Malaysia",
+            "team_2": "Bahrain",
+            "startTime": "07:00:00 AM 07-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -354,30 +365,6 @@
             "team_1": "Race",
             "team_2": "Autodromo Nazionale Monza",
             "startTime": "06:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248625,
-            "title": "Kuwait vs Qatar (ACC Men’s Premier Cup 2026)",
-            "match_name": "Kuwait vs Qatar",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png",
-            "team_1": "Kuwait",
-            "team_2": "Qatar",
-            "startTime": "07:00:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248626,
-            "title": "Malaysia vs Bahrain (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Bahrain",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png",
-            "team_1": "Malaysia",
-            "team_2": "Bahrain",
-            "startTime": "07:00:00 AM 07-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +449,18 @@
             "team_1": "Herbertpur Knight Riders",
             "team_2": "Mussoorie Thunder",
             "startTime": "07:30:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247606,
+            "title": "Getafe CF vs RC Celta (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs RC Celta",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247606_53004_GEF_CEV_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "RC Celta",
+            "startTime": "10:30:00 PM 07-09-2026"
         }
     ]
 }
