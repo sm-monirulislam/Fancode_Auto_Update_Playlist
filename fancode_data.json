@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:43:39 AM 05-09-2026",
+    "last_update_time": "09:03:33 AM 05-09-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248621_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Kuwait vs Oman [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "Oman",
+            "startTime": "07:00:00 AM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248621_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248622_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Malaysia vs Hong Kong, China [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
+            "team_1": "Malaysia",
+            "team_2": "Hong Kong, China",
+            "startTime": "07:00:00 AM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248622_ENG/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -46,30 +72,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248621,
-            "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
-            "match_name": "Kuwait vs Oman",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
-            "team_1": "Kuwait",
-            "team_2": "Oman",
-            "startTime": "07:00:00 AM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248622,
-            "title": "Malaysia vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
-            "team_1": "Malaysia",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249070,
             "title": "Herbertpur Knight Riders vs Mussoorie Thunder (Dehradun T20 League 2026)",
             "match_name": "Herbertpur Knight Riders vs Mussoorie Thunder",
@@ -105,18 +107,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247481,
-            "title": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2026-27)",
-            "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247481_52993_PST_BLK_fc-web_1786657252996.jpg",
-            "team_1": "Preston North End F.C.",
-            "team_2": "Blackburn Rovers F.C.",
-            "startTime": "05:00:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249072,
             "title": "Vikasnagar Dhamaka vs Mussoorie Thunder (Dehradun T20 League 2026)",
@@ -126,6 +116,18 @@
             "team_1": "Vikasnagar Dhamaka",
             "team_2": "Mussoorie Thunder",
             "startTime": "07:30:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247481,
+            "title": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2026-27)",
+            "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247481_52993_PST_BLK_fc-web_1786657252996.jpg",
+            "team_1": "Preston North End F.C.",
+            "team_2": "Blackburn Rovers F.C.",
+            "startTime": "05:00:00 PM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -237,18 +239,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248645,
-            "title": "Sporting de Gijón vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "match_name": "Sporting de Gijón vs Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248645_53017_SG_GIR_FC-Web.png",
-            "team_1": "Sporting de Gijón",
-            "team_2": "Girona FC",
-            "startTime": "07:45:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4248623,
             "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
@@ -270,6 +260,42 @@
             "team_1": "United Arab Emirates",
             "team_2": "Singapore",
             "startTime": "07:00:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249073,
+            "title": "Doiwala Kings vs Rishikesh Dragons (Dehradun T20 League 2026)",
+            "match_name": "Doiwala Kings vs Rishikesh Dragons",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Doiwala Kings",
+            "team_2": "Rishikesh Dragons",
+            "startTime": "09:00:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248645,
+            "title": "Sporting de Gijón vs Girona FC (LALIGA Hypermotion 2026-27)",
+            "match_name": "Sporting de Gijón vs Girona FC",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248645_53017_SG_GIR_FC-Web.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "Girona FC",
+            "startTime": "07:45:00 PM 05-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249126,
+            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg",
+            "team_1": "Bathinda Royals",
+            "team_2": "Jalandhar Warriors",
+            "startTime": "01:00:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -342,30 +368,6 @@
             "team_1": "Qualifying",
             "team_2": "Autodromo Nazionale Monza",
             "startTime": "07:30:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249073,
-            "title": "Doiwala Kings vs Rishikesh Dragons (Dehradun T20 League 2026)",
-            "match_name": "Doiwala Kings vs Rishikesh Dragons",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Doiwala Kings",
-            "team_2": "Rishikesh Dragons",
-            "startTime": "09:00:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249126,
-            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-            "match_name": "Bathinda Royals vs Jalandhar Warriors",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg",
-            "team_1": "Bathinda Royals",
-            "team_2": "Jalandhar Warriors",
-            "startTime": "01:00:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",

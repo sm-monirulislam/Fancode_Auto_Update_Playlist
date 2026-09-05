@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:43:39 AM 05-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 09:03:33 AM 05-09-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png" group-title="Cricket",Kuwait vs Oman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248621_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png" group-title="Cricket",Malaysia vs Hong Kong, China [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248622_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png" group-title="Cricket",Jamaica Kingsmen vs Guyana Amazon Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248309_ENG/index.m3u8
