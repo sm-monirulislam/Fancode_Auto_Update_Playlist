@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:03:33 AM 05-09-2026",
-    "total_matches": 37,
-    "live_match": 3,
+    "last_update_time": "01:48:15 PM 05-09-2026",
+    "total_matches": 39,
+    "live_match": 6,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249117_HIN",
+            "title": "Sher-E-Punjab T20, 2026 [Hindi]",
+            "match_name": "Fazilka Falcons vs Bathinda Royals [Hindi]",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
+            "team_1": "Fazilka Falcons",
+            "team_2": "Bathinda Royals",
+            "startTime": "01:00:00 PM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249117_HIN/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249117_PUN",
+            "title": "Sher-E-Punjab T20, 2026 [Punjabi]",
+            "match_name": "Fazilka Falcons vs Bathinda Royals [Punjabi]",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
+            "team_1": "Fazilka Falcons",
+            "team_2": "Bathinda Royals",
+            "startTime": "01:00:00 PM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249117_PUN/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,27 +61,28 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248309_ENG",
-            "title": "Caribbean Premier League, 2026 [English]",
-            "match_name": "Jamaica Kingsmen vs Guyana Amazon Warriors [English]",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "04:30:00 AM 05-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248309_ENG/index.m3u8"
+            "match_id": "4249070_ENG",
+            "title": "Dehradun T20 League 2026 [English]",
+            "match_name": "Herbertpur Knight Riders vs Mussoorie Thunder [English]",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249070_53058_HKR_MT_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Herbertpur Knight Riders",
+            "team_2": "Mussoorie Thunder",
+            "startTime": "09:00:00 AM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249070_ENG/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249117,
-            "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
-            "match_name": "Fazilka Falcons vs Bathinda Royals",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
-            "team_1": "Fazilka Falcons",
-            "team_2": "Bathinda Royals",
-            "startTime": "01:00:00 PM 05-09-2026"
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139739_ENG",
+            "title": "F3 MONZA 2026 [English]",
+            "match_name": "Sprint Race [English]",
+            "event_name": "F3 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Monza",
+            "startTime": "01:00:00 PM 05-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139739_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -68,18 +95,6 @@
             "team_1": "Jalandhar Warriors",
             "team_2": "Mohali Kings",
             "startTime": "07:00:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249070,
-            "title": "Herbertpur Knight Riders vs Mussoorie Thunder (Dehradun T20 League 2026)",
-            "match_name": "Herbertpur Knight Riders vs Mussoorie Thunder",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249070_53058_HKR_MT_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Herbertpur Knight Riders",
-            "team_2": "Mussoorie Thunder",
-            "startTime": "09:00:00 AM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -179,18 +194,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248658,
-            "title": "Al-Ittihad vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ittihad vs Al-Nassr FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248658_53025_ITT_ANF_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Nassr FC",
-            "startTime": "11:30:00 PM 05-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249088,
             "title": "Barbados Tridents Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2026)",
@@ -200,6 +203,18 @@
             "team_1": "Barbados Tridents Women",
             "team_2": "Trinbago Knight Riders Women",
             "startTime": "12:30:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248658,
+            "title": "Al-Ittihad vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ittihad vs Al-Nassr FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248658_53025_ITT_ANF_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Nassr FC",
+            "startTime": "11:30:00 PM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -227,15 +242,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248464,
-            "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Aston Villa Women",
-            "startTime": "05:00:00 PM 05-09-2026"
+            "event_category": "Cricket",
+            "match_id": 4249126,
+            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg",
+            "team_1": "Bathinda Royals",
+            "team_2": "Jalandhar Warriors",
+            "startTime": "01:00:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -260,6 +275,18 @@
             "team_1": "United Arab Emirates",
             "team_2": "Singapore",
             "startTime": "07:00:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248464,
+            "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Aston Villa Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Aston Villa Women",
+            "startTime": "05:00:00 PM 05-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -288,26 +315,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4249126,
-            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-            "match_name": "Bathinda Royals vs Jalandhar Warriors",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg",
-            "team_1": "Bathinda Royals",
-            "team_2": "Jalandhar Warriors",
-            "startTime": "01:00:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139739,
-            "title": "Sprint Race vs Monza (F3 MONZA 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F3 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Monza",
-            "startTime": "01:00:00 PM 05-09-2026"
+            "match_id": 4249074,
+            "title": "Herbertpur Knight Riders vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
+            "match_name": "Herbertpur Knight Riders vs Vikasnagar Dhamaka",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249074_53058_HKR_VD_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Herbertpur Knight Riders",
+            "team_2": "Vikasnagar Dhamaka",
+            "startTime": "02:30:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -372,26 +387,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248308,
-            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "05:30:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249074,
-            "title": "Herbertpur Knight Riders vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
-            "match_name": "Herbertpur Knight Riders vs Vikasnagar Dhamaka",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249074_53058_HKR_VD_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Herbertpur Knight Riders",
-            "team_2": "Vikasnagar Dhamaka",
-            "startTime": "02:30:00 PM 06-09-2026"
+            "match_id": 4249109,
+            "title": "Ludhiana Lions vs Fazilka Falcons (Sher-E-Punjab T20, 2026)",
+            "match_name": "Ludhiana Lions vs Fazilka Falcons",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg",
+            "team_1": "Ludhiana Lions",
+            "team_2": "Fazilka Falcons",
+            "startTime": "07:00:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -408,26 +411,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4249109,
-            "title": "Ludhiana Lions vs Fazilka Falcons (Sher-E-Punjab T20, 2026)",
-            "match_name": "Ludhiana Lions vs Fazilka Falcons",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg",
-            "team_1": "Ludhiana Lions",
-            "team_2": "Fazilka Falcons",
-            "startTime": "07:00:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139740,
-            "title": "Race vs Monza (F3 MONZA 2026)",
-            "match_name": "Race",
-            "event_name": "F3 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
-            "team_1": "Race",
-            "team_2": "Monza",
-            "startTime": "11:45:00 AM 06-09-2026"
+            "match_id": 4248308,
+            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "05:30:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -452,6 +443,42 @@
             "team_1": "Brighton and Hove Albion Women",
             "team_2": "Arsenal Women",
             "startTime": "04:30:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248466,
+            "title": "Tottenham Hotspur Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Tottenham Hotspur Women vs West Ham United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "West Ham United Women",
+            "startTime": "04:30:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": 139740,
+            "title": "Race vs Monza (F3 MONZA 2026)",
+            "match_name": "Race",
+            "event_name": "F3 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+            "team_1": "Race",
+            "team_2": "Monza",
+            "startTime": "11:45:00 AM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249075,
+            "title": "Selaqui Strikers vs Doiwala Kings (Dehradun T20 League 2026)",
+            "match_name": "Selaqui Strikers vs Doiwala Kings",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Selaqui Strikers",
+            "team_2": "Doiwala Kings",
+            "startTime": "07:30:00 PM 06-09-2026"
         }
     ]
 }

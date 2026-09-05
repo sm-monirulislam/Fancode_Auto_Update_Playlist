@@ -2,12 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:03:33 AM 05-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 01:48:15 PM 05-09-2026 (BD Time)
+# Live Match : 6
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Cricket",Fazilka Falcons vs Bathinda Royals [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249117_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Cricket",Fazilka Falcons vs Bathinda Royals [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249117_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png" group-title="Cricket",Kuwait vs Oman [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248621_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png" group-title="Cricket",Malaysia vs Hong Kong, China [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248622_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png" group-title="Cricket",Jamaica Kingsmen vs Guyana Amazon Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248309_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249070_53058_HKR_MT_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Herbertpur Knight Riders vs Mussoorie Thunder [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249070_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg" group-title="Motorsports",Sprint Race [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139739_ENG/index.m3u8
