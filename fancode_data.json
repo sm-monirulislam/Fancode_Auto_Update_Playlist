@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:15:28 AM 06-09-2026",
+    "last_update_time": "03:29:35 AM 06-09-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,58 +18,6 @@
             "team_2": "Barbados Tridents Women",
             "startTime": "12:30:00 AM 06-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249088_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248658_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al-Ittihad vs Al-Nassr FC [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248658_53025_ITT_ANF_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Nassr FC",
-            "startTime": "11:30:00 PM 05-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248658_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247484_ENG",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Swansea City A.F.C. vs Wrexham A.F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247484_52993_SWA_WRX_fc-web_1786657253848.jpg",
-            "team_1": "Swansea City A.F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "startTime": "12:30:00 AM 06-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247484_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247603_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Villarreal CF vs Deportivo de La Coruna [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247603_53004_VIL_COR_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "12:30:00 AM 06-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247603_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247605_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Rayo Vallecano vs Racing Club de Santander [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247605_53004_RVL_RAC_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Racing Club de Santander",
-            "startTime": "10:00:00 PM 05-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247605_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -206,30 +154,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": 4248465,
-            "title": "Brighton and Hove Albion Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "Arsenal Women",
-            "startTime": "04:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248466,
-            "title": "Tottenham Hotspur Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs West Ham United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "West Ham United Women",
-            "startTime": "04:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": 4247598,
             "title": "Deportivo Alaves vs CA Osasuna (LALIGA 2026-27)",
             "match_name": "Deportivo Alaves vs CA Osasuna",
@@ -250,6 +174,30 @@
             "team_1": "Malaga",
             "team_2": "Levante",
             "startTime": "10:00:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248465,
+            "title": "Brighton and Hove Albion Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Arsenal Women",
+            "startTime": "04:30:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248466,
+            "title": "Tottenham Hotspur Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Tottenham Hotspur Women vs West Ham United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "West Ham United Women",
+            "startTime": "04:30:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -322,6 +270,18 @@
             "team_1": "Almería",
             "team_2": "Cádiz",
             "startTime": "12:30:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248308,
+            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "05:30:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -434,18 +394,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248311,
-            "title": "Barbados Tridents vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249113,
             "title": "Mohali Kings vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
             "match_name": "Mohali Kings vs Ludhiana Lions",
@@ -458,6 +406,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248311,
+            "title": "Barbados Tridents vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4249076,
             "title": "Vikasnagar Dhamaka vs Selaqui Strikers (Dehradun T20 League 2026)",
             "match_name": "Vikasnagar Dhamaka vs Selaqui Strikers",
@@ -466,6 +426,42 @@
             "team_1": "Vikasnagar Dhamaka",
             "team_2": "Selaqui Strikers",
             "startTime": "02:30:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248673,
+            "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D50 2026)",
+            "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg",
+            "team_1": "Royal Oman Stallions",
+            "team_2": "Yalla Shabab Giants",
+            "startTime": "04:00:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249116,
+            "title": "Jalandhar Warriors vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
+            "match_name": "Jalandhar Warriors vs Amritsar Soormas",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249116_53065_JLD_AMS_fc-web_1788345783916.jpg",
+            "team_1": "Jalandhar Warriors",
+            "team_2": "Amritsar Soormas",
+            "startTime": "07:00:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249077,
+            "title": "Herbertpur Knight Riders vs Mussoorie Thunder (Dehradun T20 League 2026)",
+            "match_name": "Herbertpur Knight Riders vs Mussoorie Thunder",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249077_53058_HKR_MT_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Herbertpur Knight Riders",
+            "team_2": "Mussoorie Thunder",
+            "startTime": "07:30:00 PM 07-09-2026"
         }
     ]
 }
