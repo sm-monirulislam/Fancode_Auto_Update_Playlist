@@ -2,20 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:39:12 PM 05-09-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 08:38:00 PM 05-09-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Cricket",Fazilka Falcons vs Bathinda Royals [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249117_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Cricket",Fazilka Falcons vs Bathinda Royals [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249117_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249071_53058_RD_DK_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Rishikesh Dragons vs Doiwala Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249071_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249110_53065_JLD_MOK_fc-web_1788345783971.jpg" group-title="Cricket",Jalandhar Warriors vs Mohali Kings [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249110_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249110_53065_JLD_MOK_fc-web_1788345783971.jpg" group-title="Cricket",Jalandhar Warriors vs Mohali Kings [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249110_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248672_53052_MUT_IAI_fc-Web.jpg" group-title="Cricket",Muscat Thunders vs IAS Invincibles [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248672_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247481_52993_PST_BLK_fc-web_1786657252996.jpg" group-title="Football",Preston North End F.C. vs Blackburn Rovers F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247481_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg" group-title="Football",Chelsea F.C. Women vs Aston Villa Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248464_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Practice 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139484_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Vikasnagar Dhamaka vs Mussoorie Thunder [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249072_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247483_52993_BUR_BRI_fc-web_1786657253148.jpg" group-title="Football",Burnley vs Bristol City F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247483_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247602_53004_ATH_ATM_FC-Web.png" group-title="Football",Athletic Club vs Atletico de Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247602_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248645_53017_SG_GIR_FC-Web.png" group-title="Football",Sporting de Gijón vs Girona FC
+https://fancode.sm-monirul-islam-rs.workers.dev/4248645/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Qualifying [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139485_ENG/index.m3u8
