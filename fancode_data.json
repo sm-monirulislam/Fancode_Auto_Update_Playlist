@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:12:26 AM 06-09-2026",
+    "last_update_time": "07:12:40 AM 06-09-2026",
     "total_matches": 38,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": 4248308,
+            "title": "Trinbago Knight Riders vs Barbados Tridents (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Barbados Tridents",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Barbados Tridents",
+            "startTime": "05:30:00 AM 06-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248308/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -212,18 +225,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248308,
-            "title": "Barbados Tridents vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "05:30:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248467,
             "title": "Charlton Athletic F.C Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
@@ -369,18 +370,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248302,
-            "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CPL_Web-match-card.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "12:30:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249113,
             "title": "Mohali Kings vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
             "match_name": "Mohali Kings vs Ludhiana Lions",
@@ -389,6 +378,18 @@
             "team_1": "Mohali Kings",
             "team_2": "Ludhiana Lions",
             "startTime": "01:00:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248302,
+            "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CPL_Web-match-card.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "St Kitts and Nevis Patriots",
+            "startTime": "12:30:00 AM 07-09-2026"
         },
         {
             "status": "UPCOMING",
