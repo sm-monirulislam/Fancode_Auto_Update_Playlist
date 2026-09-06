@@ -2,21 +2,31 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:13:49 PM 06-09-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 08:19:59 PM 06-09-2026 (BD Time)
+# Live Match : 14
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg" group-title="Cricket",Bathinda Royals vs Jalandhar Warriors [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249126_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249126_53065_BHT_JLD_fc-web_1788345784056.jpg" group-title="Cricket",Bathinda Royals vs Jalandhar Warriors [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249126_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249074_53058_HKR_VD_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Herbertpur Knight Riders vs Vikasnagar Dhamaka [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249074_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247486_52993_BIR_WOL_fc-web_1786657252993.jpg" group-title="Football",Birmingham City F.C. vs Wolverhampton Wanderers F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247486_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg" group-title="Football",Brighton and Hove Albion Women vs Arsenal Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248465_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg" group-title="Football",Tottenham Hotspur Women vs West Ham United Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248466_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg" group-title="Cricket",Fazilka Falcons vs Ludhiana Lions [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249109_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg" group-title="Cricket",Fazilka Falcons vs Ludhiana Lions [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249109_PUN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png" group-title="Cricket",Meerut Mavericks vs Lucknow Falcons [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248361_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png" group-title="Cricket",Meerut Mavericks vs Lucknow Falcons [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248361_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Selaqui Strikers vs Doiwala Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249075_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249089_53061_JE-W_GUY-W_FC-Web.png" group-title="Cricket",Guyana Amazon Warriors Women vs Jamaica Empress Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249089_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247601_53004_VAL_BAR_FC-Web.png" group-title="Football",Valencia CF vs FC Barcelona [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247601_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg" group-title="Football",Charlton Athletic F.C Women vs Liverpool Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248467_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg" group-title="Football",Crystal Palace Women vs Everton Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248468_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248469_53038_MCI-W_BIR-W_fc-web.jpg" group-title="Football",Manchester City Women vs Birmingham City F.C. Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248469_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" group-title="Cricket",South Africa vs Zimbabwe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248462_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Race [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/139486_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Race [Hindi]
