@@ -2,22 +2,61 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:12:40 AM 06-09-2026",
+    "last_update_time": "12:18:41 PM 06-09-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": 4248308,
-            "title": "Trinbago Knight Riders vs Barbados Tridents (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Barbados Tridents",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Barbados Tridents",
-            "startTime": "05:30:00 AM 06-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248308/index.m3u8"
+            "match_id": "4248623_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Nepal vs Saudi Arabia [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
+            "team_1": "Nepal",
+            "team_2": "Saudi Arabia",
+            "startTime": "07:00:00 AM 06-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248623_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248624_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "United Arab Emirates vs Singapore [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Singapore",
+            "startTime": "07:00:00 AM 06-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248624_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249073_ENG",
+            "title": "Dehradun T20 League 2026 [English]",
+            "match_name": "Doiwala Kings vs Rishikesh Dragons [English]",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Doiwala Kings",
+            "team_2": "Rishikesh Dragons",
+            "startTime": "09:00:00 AM 06-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249073_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139740_ENG",
+            "title": "F3 MONZA 2026 [English]",
+            "match_name": "Race [English]",
+            "event_name": "F3 MONZA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+            "team_1": "Race",
+            "team_2": "Monza",
+            "startTime": "11:45:00 AM 06-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139740_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -58,42 +97,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248623,
-            "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs Saudi Arabia",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
-            "team_1": "Nepal",
-            "team_2": "Saudi Arabia",
-            "startTime": "07:00:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248624,
-            "title": "United Arab Emirates vs Singapore (ACC Men’s Premier Cup 2026)",
-            "match_name": "United Arab Emirates vs Singapore",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Singapore",
-            "startTime": "07:00:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249073,
-            "title": "Doiwala Kings vs Rishikesh Dragons (Dehradun T20 League 2026)",
-            "match_name": "Doiwala Kings vs Rishikesh Dragons",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Doiwala Kings",
-            "team_2": "Rishikesh Dragons",
-            "startTime": "09:00:00 AM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249074,
             "title": "Herbertpur Knight Riders vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
             "match_name": "Herbertpur Knight Riders vs Vikasnagar Dhamaka",
@@ -102,18 +105,6 @@
             "team_1": "Herbertpur Knight Riders",
             "team_2": "Vikasnagar Dhamaka",
             "startTime": "02:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247486,
-            "title": "Birmingham City F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Birmingham City F.C. vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247486_52993_BIR_WOL_fc-web_1786657252993.jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "startTime": "04:30:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -138,6 +129,18 @@
             "team_1": "Jamaica Empress Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "07:30:00 PM 06-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4247486,
+            "title": "Birmingham City F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Birmingham City F.C. vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247486_52993_BIR_WOL_fc-web_1786657252993.jpg",
+            "team_1": "Birmingham City F.C.",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "startTime": "04:30:00 PM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -186,6 +189,30 @@
             "team_1": "RCD Espanyol",
             "team_2": "Sevilla FC",
             "startTime": "12:30:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248625,
+            "title": "Kuwait vs Qatar (ACC Men’s Premier Cup 2026)",
+            "match_name": "Kuwait vs Qatar",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png",
+            "team_1": "Kuwait",
+            "team_2": "Qatar",
+            "startTime": "07:00:00 AM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248626,
+            "title": "Malaysia vs Bahrain (ACC Men’s Premier Cup 2026)",
+            "match_name": "Malaysia vs Bahrain",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png",
+            "team_1": "Malaysia",
+            "team_2": "Bahrain",
+            "startTime": "07:00:00 AM 07-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -261,6 +288,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249113,
+            "title": "Mohali Kings vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
+            "match_name": "Mohali Kings vs Ludhiana Lions",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249113_53065_MOK_LLN_fc-web_1788345783977.jpg",
+            "team_1": "Mohali Kings",
+            "team_2": "Ludhiana Lions",
+            "startTime": "01:00:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248647,
             "title": "Almería vs Cádiz (LALIGA Hypermotion 2026-27)",
@@ -270,42 +309,6 @@
             "team_1": "Almería",
             "team_2": "Cádiz",
             "startTime": "12:30:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248625,
-            "title": "Kuwait vs Qatar (ACC Men’s Premier Cup 2026)",
-            "match_name": "Kuwait vs Qatar",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png",
-            "team_1": "Kuwait",
-            "team_2": "Qatar",
-            "startTime": "07:00:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248626,
-            "title": "Malaysia vs Bahrain (ACC Men’s Premier Cup 2026)",
-            "match_name": "Malaysia vs Bahrain",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png",
-            "team_1": "Malaysia",
-            "team_2": "Bahrain",
-            "startTime": "07:00:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": 139740,
-            "title": "Race vs Monza (F3 MONZA 2026)",
-            "match_name": "Race",
-            "event_name": "F3 MONZA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
-            "team_1": "Race",
-            "team_2": "Monza",
-            "startTime": "11:45:00 AM 06-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -357,6 +360,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249076,
+            "title": "Vikasnagar Dhamaka vs Selaqui Strikers (Dehradun T20 League 2026)",
+            "match_name": "Vikasnagar Dhamaka vs Selaqui Strikers",
+            "event_name": "Dehradun T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249076_53058_VD_SS_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Vikasnagar Dhamaka",
+            "team_2": "Selaqui Strikers",
+            "startTime": "02:30:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Formula 1",
             "match_id": 139486,
             "title": "Race vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
@@ -366,18 +381,6 @@
             "team_1": "Race",
             "team_2": "Autodromo Nazionale Monza",
             "startTime": "06:30:00 PM 06-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249113,
-            "title": "Mohali Kings vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
-            "match_name": "Mohali Kings vs Ludhiana Lions",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249113_53065_MOK_LLN_fc-web_1788345783977.jpg",
-            "team_1": "Mohali Kings",
-            "team_2": "Ludhiana Lions",
-            "startTime": "01:00:00 PM 07-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -402,18 +405,6 @@
             "team_1": "Barbados Tridents",
             "team_2": "Saint Lucia Kings",
             "startTime": "04:30:00 AM 07-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4249076,
-            "title": "Vikasnagar Dhamaka vs Selaqui Strikers (Dehradun T20 League 2026)",
-            "match_name": "Vikasnagar Dhamaka vs Selaqui Strikers",
-            "event_name": "Dehradun T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249076_53058_VD_SS_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Vikasnagar Dhamaka",
-            "team_2": "Selaqui Strikers",
-            "startTime": "02:30:00 PM 07-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +453,18 @@
             "team_1": "Getafe CF",
             "team_2": "RC Celta",
             "startTime": "10:30:00 PM 07-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": 4248659,
+            "title": "Al Hilal SFC vs Neom SC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Hilal SFC vs Neom SC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248659_53025_AHS_NEOM_FC-Web_1788155166489.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Neom SC",
+            "startTime": "11:30:00 PM 07-09-2026"
         }
     ]
 }
