@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:19:59 PM 06-09-2026 (BD Time)
-# Live Match : 14
+# Last Updated: 11:14:33 PM 06-09-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg" group-title="Cricket",Fazilka Falcons vs Ludhiana Lions [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249109_HIN/index.m3u8
@@ -17,19 +17,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248361_BHO/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249075_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249089_53061_JE-W_GUY-W_FC-Web.png" group-title="Cricket",Guyana Amazon Warriors Women vs Jamaica Empress Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249089_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247601_53004_VAL_BAR_FC-Web.png" group-title="Football",Valencia CF vs FC Barcelona [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247601_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg" group-title="Football",Charlton Athletic F.C Women vs Liverpool Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248467_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg" group-title="Football",Crystal Palace Women vs Everton Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248468_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248469_53038_MCI-W_BIR-W_fc-web.jpg" group-title="Football",Manchester City Women vs Birmingham City F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248469_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" group-title="Cricket",South Africa vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248462_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Race [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Race [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",Race [Tamil]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_TAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247598_53004_ALA_OSN_FC-Web.png" group-title="Football",Deportivo Alaves vs CA Osasuna [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247598_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247607_53004_MAG_LET_FC-Web.png" group-title="Football",Malaga vs Levante [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247607_ENG/index.m3u8
