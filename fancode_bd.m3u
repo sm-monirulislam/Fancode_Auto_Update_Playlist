@@ -2,8 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:16:01 AM 07-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 12:26:59 PM 07-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png" group-title="Cricket",Saint Lucia Kings vs Barbados Tridents [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248311_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png" group-title="Cricket",Kuwait vs Qatar [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248625_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png" group-title="Cricket",Malaysia vs Bahrain [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248626_ENG/index.m3u8
