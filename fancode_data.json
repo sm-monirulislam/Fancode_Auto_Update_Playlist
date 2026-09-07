@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:42:05 AM 08-09-2026",
+    "last_update_time": "05:59:45 AM 08-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247600_ENG",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Elche CF vs Real Sociedad [English]",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247600_53004_ELC_RS_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "Real Sociedad",
-            "startTime": "01:00:00 AM 08-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247600_ENG/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248159_ENG",
-            "title": "League One 2026-27 [English]",
-            "match_name": "Bromley vs AFC Wimbledon [English]",
-            "event_name": "League One 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248159_53014_BRO_WIM_fc-web.png",
-            "team_1": "Bromley",
-            "team_2": "AFC Wimbledon",
-            "startTime": "12:30:00 AM 08-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248159_ENG/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -463,6 +437,30 @@
             "team_1": "Rwanda",
             "team_2": "Sierra Leone",
             "startTime": "05:00:00 PM 10-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249112,
+            "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
+            "match_name": "Fazilka Falcons vs Bathinda Royals",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
+            "team_1": "Fazilka Falcons",
+            "team_2": "Bathinda Royals",
+            "startTime": "07:00:00 PM 10-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4249090,
+            "title": "Trinbago Knight Riders Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders Women vs Jamaica Empress Women",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249090_53061_TKR-W_JE-W_FC-Web.png",
+            "team_1": "Trinbago Knight Riders Women",
+            "team_2": "Jamaica Empress Women",
+            "startTime": "07:30:00 PM 10-09-2026"
         }
     ]
 }
