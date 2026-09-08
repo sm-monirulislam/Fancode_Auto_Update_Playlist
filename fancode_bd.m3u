@@ -2,14 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:29:16 PM 08-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 11:23:45 PM 08-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Jalandhar Warriors vs Ludhiana Lions [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249121_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Jalandhar Warriors vs Ludhiana Lions [Punjabi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249121_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="Cricket",IAS Invincibles vs Majees Titans [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248674_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249153_53067_KEN_SRL_FC-Web_1788856688301.jpg" group-title="Cricket",Kenya vs Sierra Leone [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249154_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Doiwala Kings vs Selaqui Strikers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249079_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248660_53025_ETT_ALF_FC-Web.png" group-title="Football",Al-Ettifaq vs Al Faisaly Saudi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248660_ENG/index.m3u8
