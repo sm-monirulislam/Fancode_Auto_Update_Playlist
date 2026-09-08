@@ -2,16 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:23:45 PM 08-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 02:05:28 AM 09-09-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Jalandhar Warriors vs Ludhiana Lions [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249121_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Cricket",Jalandhar Warriors vs Ludhiana Lions [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249121_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="Cricket",IAS Invincibles vs Majees Titans [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248674_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Doiwala Kings vs Selaqui Strikers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249079_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248660_53025_ETT_ALF_FC-Web.png" group-title="Football",Al-Ettifaq vs Al Faisaly Saudi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248660_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png" group-title="Football",Al-Qadsiah FC vs Al-Ahli Saudi FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248661_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png" group-title="Football",Al-Ittihad vs Al-Fayha FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248662_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249049_53016_CRY_MIDD_fc-web.jpg" group-title="Football",Crystal Palace vs Middlesbrough F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249049_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249050_53016_SUN_HUL_fc-web.jpg" group-title="Football",Sunderland vs Hull City [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249050_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249051_53016_BOU_LNC_fc-web.jpg" group-title="Football",Bournemouth vs Lincoln City F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249051_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247487_52993_BOL_WHU_fc-web_1786657253825.jpg" group-title="Football",Bolton Wanderers vs West Ham United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247487_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249052_53016_MLW_NEW_fc-web.jpg" group-title="Football",Millwall F.C. vs Newcastle United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249052_ENG/index.m3u8
