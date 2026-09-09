@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:57:34 PM 09-09-2026",
-    "total_matches": 40,
+    "last_update_time": "01:10:23 AM 10-09-2026",
+    "total_matches": 38,
     "live_match": 5,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249122_HIN",
-            "title": "Sher-E-Punjab T20, 2026 [Hindi]",
-            "match_name": "Bathinda Royals vs Mohali Kings [Hindi]",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
-            "team_1": "Bathinda Royals",
-            "team_2": "Mohali Kings",
-            "startTime": "07:00:00 PM 09-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249122_HIN/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249122_PUN",
-            "title": "Sher-E-Punjab T20, 2026 [Punjabi]",
-            "match_name": "Bathinda Royals vs Mohali Kings [Punjabi]",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
-            "team_1": "Bathinda Royals",
-            "team_2": "Mohali Kings",
-            "startTime": "07:00:00 PM 09-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249122_PUN/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -60,16 +34,42 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248635_ENG",
-            "title": "South Africa tour of Namibia, 2026 [English]",
-            "match_name": "South Africa vs Namibia [English]",
-            "event_name": "South Africa tour of Namibia, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
-            "team_1": "South Africa",
-            "team_2": "Namibia",
-            "startTime": "01:00:00 PM 09-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248635_ENG/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4248663_ENG",
+            "title": "Roshn Saudi League 2026-2027 [English]",
+            "match_name": "Al-Nassr FC vs Abha Club [English]",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Abha Club",
+            "startTime": "11:30:00 PM 09-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248663_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247488_ENG",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Charlton Athletic F.C vs Queens Park Rangers F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
+            "team_1": "Charlton Athletic F.C",
+            "team_2": "Queens Park Rangers F.C.",
+            "startTime": "12:30:00 AM 10-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247488_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249054_ENG",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Chelsea vs Leeds United [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg",
+            "team_1": "Chelsea",
+            "team_2": "Leeds United",
+            "startTime": "12:30:00 AM 10-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249054_ENG/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -94,42 +94,6 @@
             "team_1": "Fazilka Falcons",
             "team_2": "Bathinda Royals",
             "startTime": "07:00:00 PM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4248663,
-            "title": "Al-Nassr FC vs Abha Club (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Nassr FC vs Abha Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Abha Club",
-            "startTime": "11:30:00 PM 09-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4247488,
-            "title": "Charlton Athletic F.C vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
-            "match_name": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
-            "team_1": "Charlton Athletic F.C",
-            "team_2": "Queens Park Rangers F.C.",
-            "startTime": "12:30:00 AM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": 4249054,
-            "title": "Chelsea vs Leeds United (Carabao Cup 2026-27)",
-            "match_name": "Chelsea vs Leeds United",
-            "event_name": "Carabao Cup 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg",
-            "team_1": "Chelsea",
-            "team_2": "Leeds United",
-            "startTime": "12:30:00 AM 10-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -205,18 +169,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248304,
-            "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248304_53026_GUY_SLK_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Saint Lucia Kings",
-            "startTime": "04:30:00 AM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": 4248160,
             "title": "Stevenage vs Luton Town (League One 2026-27)",
@@ -226,6 +178,18 @@
             "team_1": "Stevenage",
             "team_2": "Luton Town",
             "startTime": "12:30:00 AM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248304,
+            "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248304_53026_GUY_SLK_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Saint Lucia Kings",
+            "startTime": "04:30:00 AM 10-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -289,18 +253,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": 139966,
-            "title": "Day 1 vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-            "match_name": "San Marino GP",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Day 1",
-            "team_2": "Misano World Circuit",
-            "startTime": "12:30:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": 4249115,
             "title": "Amritsar Soormas vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
@@ -310,6 +262,18 @@
             "team_1": "Amritsar Soormas",
             "team_2": "Ludhiana Lions",
             "startTime": "07:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": 139966,
+            "title": "Day 1 vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+            "match_name": "San Marino GP",
+            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team_1": "Day 1",
+            "team_2": "Misano World Circuit",
+            "startTime": "12:30:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,6 +454,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": 4248310,
+            "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "04:30:00 AM 12-09-2026"
         }
     ]
 }
