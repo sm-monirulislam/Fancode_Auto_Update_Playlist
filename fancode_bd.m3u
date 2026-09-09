@@ -2,12 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:42:51 PM 09-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 09:57:34 PM 09-09-2026 (BD Time)
+# Live Match : 5
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg" group-title="Cricket",Bathinda Royals vs Mohali Kings [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249122_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg" group-title="Cricket",Bathinda Royals vs Mohali Kings [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249122_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248675_53052_MUT_YSG_fc-Web.jpg" group-title="Cricket",Muscat Thunders vs Yalla Shabab Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248675_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249156_53067_KEN_RWA_FC-Web.png" group-title="Cricket",Kenya vs Rwanda [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249156_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg" group-title="Cricket",Mussoorie Thunder vs Selaqui Strikers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249080_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg" group-title="Cricket",South Africa vs Namibia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248635_ENG/index.m3u8
