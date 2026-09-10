@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:04 PM 10-09-2026",
+    "last_update_time": "06:00:53 PM 10-09-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4249128",
-            "title": "Sher-E-Punjab T20, 2026 [Hindi]",
-            "match_name": "Amritsar Soormas vs Jalandhar Warriors [Hindi]",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-            "team_1": "Amritsar Soormas",
-            "team_2": "Jalandhar Warriors",
-            "startTime": "01:00:00 PM 10-09-2026",
+            "title": "2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
+            "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249128/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4249158",
+            "title": "ILT20 Africa Continent Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249158_53067_RWA_SRL_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249158/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -47,18 +60,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249158",
-            "title": "Rwanda vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Rwanda vs Sierra Leone",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249158_53067_RWA_SRL_FC-Web.png",
-            "team_1": "Rwanda",
-            "team_2": "Sierra Leone",
-            "startTime": "05:00:00 PM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249090",
             "title": "Trinbago Knight Riders Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
             "match_name": "Trinbago Knight Riders Women vs Jamaica Empress Women",
@@ -67,18 +68,6 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Jamaica Empress Women",
             "startTime": "07:30:00 PM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248160",
-            "title": "Stevenage vs Luton Town (League One 2026-27)",
-            "match_name": "Stevenage vs Luton Town",
-            "event_name": "League One 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
-            "team_1": "Stevenage",
-            "team_2": "Luton Town",
-            "startTime": "12:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -91,6 +80,18 @@
             "team_1": "Uganda",
             "team_2": "Rwanda",
             "startTime": "01:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248160",
+            "title": "Stevenage vs Luton Town (League One 2026-27)",
+            "match_name": "Stevenage vs Luton Town",
+            "event_name": "League One 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
+            "team_1": "Stevenage",
+            "team_2": "Luton Town",
+            "startTime": "12:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,18 +143,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249081",
-            "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 1",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249132",
             "title": "Al Qadisiyah vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
@@ -163,6 +152,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al-Ettifaq",
             "startTime": "08:55:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249081",
+            "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 1",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 1",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
