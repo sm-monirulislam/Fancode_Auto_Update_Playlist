@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:07 AM 11-09-2026",
-    "total_matches": 39,
+    "last_update_time": "01:01:35 AM 11-09-2026",
+    "total_matches": 38,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "match_id": "4249112",
-            "title": "2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249112/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4248160",
+            "title": "League One 2026-27 [English]",
+            "match_name": "Stevenage vs Luton Town [English]",
+            "event_name": "League One 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
+            "team_1": "Stevenage",
+            "team_2": "Luton Town",
+            "startTime": "12:30:00 AM 11-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248160/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -30,18 +30,6 @@
             "team_1": "Amritsar Soormas",
             "team_2": "Ludhiana Lions",
             "startTime": "07:00:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248160",
-            "title": "Stevenage vs Luton Town (League One 2026-27)",
-            "match_name": "Stevenage vs Luton Town",
-            "event_name": "League One 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
-            "team_1": "Stevenage",
-            "team_2": "Luton Town",
-            "startTime": "12:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
