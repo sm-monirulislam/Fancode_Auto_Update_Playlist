@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:00:53 PM 10-09-2026",
-    "total_matches": 39,
-    "live_match": 3,
+    "last_update_time": "07:01:01 PM 10-09-2026",
+    "total_matches": 38,
+    "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4249128",
-            "title": "2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249128/index.m3u8"
-        },
         {
             "status": "LIVE",
             "match_id": "4249158",
@@ -83,18 +70,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248160",
-            "title": "Stevenage vs Luton Town (League One 2026-27)",
-            "match_name": "Stevenage vs Luton Town",
-            "event_name": "League One 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
-            "team_1": "Stevenage",
-            "team_2": "Luton Town",
-            "startTime": "12:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249115",
             "title": "Amritsar Soormas vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
@@ -104,6 +79,18 @@
             "team_1": "Amritsar Soormas",
             "team_2": "Ludhiana Lions",
             "startTime": "07:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248160",
+            "title": "Stevenage vs Luton Town (League One 2026-27)",
+            "match_name": "Stevenage vs Luton Town",
+            "event_name": "League One 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
+            "team_1": "Stevenage",
+            "team_2": "Luton Town",
+            "startTime": "12:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -131,18 +118,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248306",
-            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "04:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249132",
             "title": "Al Qadisiyah vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
@@ -152,6 +127,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al-Ettifaq",
             "startTime": "08:55:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248306",
+            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "St Kitts and Nevis Patriots",
+            "startTime": "04:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -215,18 +202,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4248638",
-            "title": "Free Practice 1 vs Sachsenring (DTM 2026)",
-            "match_name": "Free Practice 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Free Practice 1",
-            "team_2": "Sachsenring",
-            "startTime": "02:55:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249133",
             "title": "Al-Ahli Saudi FC vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
@@ -239,15 +214,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "139487",
-            "title": "Practice 1 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-            "match_name": "Practice 1",
-            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Circuito de Madring",
-            "startTime": "05:00:00 PM 11-09-2026"
+            "event_category": "Motorsports",
+            "match_id": "4248638",
+            "title": "Free Practice 1 vs Sachsenring (DTM 2026)",
+            "match_name": "Free Practice 1",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Free Practice 1",
+            "team_2": "Sachsenring",
+            "startTime": "02:55:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -272,6 +247,18 @@
             "team_1": "Sevilla FC",
             "team_2": "Valencia CF",
             "startTime": "12:30:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139487",
+            "title": "Practice 1 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
+            "match_name": "Practice 1",
+            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Circuito de Madring",
+            "startTime": "05:00:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
