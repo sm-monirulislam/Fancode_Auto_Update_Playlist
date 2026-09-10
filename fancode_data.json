@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:46 PM 10-09-2026",
+    "last_update_time": "01:00:57 PM 10-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -118,18 +118,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248306",
-            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "04:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248677",
             "title": "Muscat Thunders vs Royal Oman Stallions (Oman D50 2026)",
             "match_name": "Muscat Thunders vs Royal Oman Stallions",
@@ -150,6 +138,18 @@
             "team_1": "Amritsar Soormas",
             "team_2": "Ludhiana Lions",
             "startTime": "07:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248306",
+            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "St Kitts and Nevis Patriots",
+            "startTime": "04:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -225,18 +225,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4248638",
-            "title": "Free Practice 1 vs Sachsenring (DTM 2026)",
-            "match_name": "Free Practice 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Free Practice 1",
-            "team_2": "Sachsenring",
-            "startTime": "02:55:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249132",
             "title": "Al Qadisiyah vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
@@ -246,6 +234,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al-Ettifaq",
             "startTime": "08:55:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4248638",
+            "title": "Free Practice 1 vs Sachsenring (DTM 2026)",
+            "match_name": "Free Practice 1",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Free Practice 1",
+            "team_2": "Sachsenring",
+            "startTime": "02:55:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
