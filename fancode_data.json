@@ -2,34 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:57 PM 10-09-2026",
-    "total_matches": 38,
-    "live_match": 1,
+    "last_update_time": "02:00:47 PM 10-09-2026",
+    "total_matches": 39,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "match_id": "4248629",
-            "title": "ACC Men’s Premier Cup 2026",
+            "match_id": "4249128",
+            "title": "2026",
             "tournament": "Fancode-Cricket",
             "category": "Fancode-Cricket",
             "streamingStatus": "LIVE",
             "startTime": null,
             "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
             "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248629/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249128/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249128",
-            "title": "Amritsar Soormas vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-            "match_name": "Amritsar Soormas vs Jalandhar Warriors",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-            "team_1": "Amritsar Soormas",
-            "team_2": "Jalandhar Warriors",
-            "startTime": "01:00:00 PM 10-09-2026"
+            "status": "LIVE",
+            "match_id": "4249157",
+            "title": "ILT20 Africa Continent Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249157_53067_UGA_BOT_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249157/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -42,18 +43,6 @@
             "team_1": "Fazilka Falcons",
             "team_2": "Bathinda Royals",
             "startTime": "07:00:00 PM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249157",
-            "title": "Uganda vs Botswana (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Uganda vs Botswana",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249157_53067_UGA_BOT_FC-Web.png",
-            "team_1": "Uganda",
-            "team_2": "Botswana",
-            "startTime": "01:00:00 PM 10-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,18 +131,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248306",
-            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "04:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249160",
             "title": "Kenya vs Botswana (ILT20 Africa Continent Cup 2026)",
             "match_name": "Kenya vs Botswana",
@@ -162,6 +139,18 @@
             "team_1": "Kenya",
             "team_2": "Botswana",
             "startTime": "05:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248306",
+            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "St Kitts and Nevis Patriots",
+            "startTime": "04:30:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,18 +202,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139650",
-            "title": "Practice Session vs Madrid, Spain (F2 MADRID 2026)",
-            "match_name": "Practice Session",
-            "event_name": "F2 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Madrid, Spain",
-            "startTime": "02:35:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249132",
             "title": "Al Qadisiyah vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
@@ -234,6 +211,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al-Ettifaq",
             "startTime": "08:55:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139650",
+            "title": "Practice Session vs Madrid, Spain (F2 MADRID 2026)",
+            "match_name": "Practice Session",
+            "event_name": "F2 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Madrid, Spain",
+            "startTime": "02:35:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +451,30 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247490",
+            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
+            "match_name": "Derby County Football Club vs Birmingham City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Birmingham City F.C.",
+            "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247616",
+            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Deportivo Alaves",
+            "startTime": "05:30:00 PM 12-09-2026"
         }
     ]
 }
