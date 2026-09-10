@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:20:14 AM 11-09-2026",
+    "last_update_time": "05:01:14 AM 11-09-2026",
     "total_matches": 38,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "match_id": "4248306",
+            "title": "2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248306/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -80,18 +93,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248306",
-            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "04:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247489",
             "title": "West Ham United vs Wrexham A.F.C. (EFL Championship 2026-27)",
@@ -113,6 +114,30 @@
             "team_1": "Sevilla FC",
             "team_2": "Valencia CF",
             "startTime": "12:30:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248631",
+            "title": "Oman vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
+            "match_name": "Oman vs Hong Kong, China",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Oman",
+            "team_2": "Hong Kong, China",
+            "startTime": "07:00:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248632",
+            "title": "Nepal vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
+            "match_name": "Nepal vs United Arab Emirates",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
+            "startTime": "07:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -185,30 +210,6 @@
             "team_1": "Free Practice 1",
             "team_2": "Sachsenring",
             "startTime": "02:55:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248631",
-            "title": "Oman vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "Oman vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Oman",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248632",
-            "title": "Nepal vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs United Arab Emirates",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -404,18 +405,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249176",
-            "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
-            "match_name": "Coppa Shell Race 1",
-            "event_name": "Ferrari Challenge Series 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Coppa Shell Race 1",
-            "team_2": "Europe",
-            "startTime": "01:50:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248470",
             "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
@@ -425,6 +414,18 @@
             "team_1": "West Ham United Women",
             "team_2": "London City Lionesses",
             "startTime": "05:15:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249176",
+            "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
+            "match_name": "Coppa Shell Race 1",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Coppa Shell Race 1",
+            "team_2": "Europe",
+            "startTime": "01:50:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
