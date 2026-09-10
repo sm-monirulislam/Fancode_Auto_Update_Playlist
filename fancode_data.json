@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:53 AM 10-09-2026",
+    "last_update_time": "12:00:46 PM 10-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248629/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4248630",
-            "title": "ACC Men’s Premier Cup 2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248630/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -274,18 +261,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139651",
-            "title": "Qualifying Session vs Madrid, Spain (F2 MADRID 2026)",
-            "match_name": "Qualifying Session",
-            "event_name": "F2 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Madrid, Spain",
-            "startTime": "06:30:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249133",
             "title": "Al-Ahli Saudi FC vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
@@ -295,6 +270,18 @@
             "team_1": "Al-Ahli Saudi FC",
             "team_2": "Al-Hazem FC",
             "startTime": "11:30:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139651",
+            "title": "Qualifying Session vs Madrid, Spain (F2 MADRID 2026)",
+            "match_name": "Qualifying Session",
+            "event_name": "F2 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Madrid, Spain",
+            "startTime": "06:30:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +450,18 @@
             "team_1": "Botswana",
             "team_2": "Sierra Leone",
             "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249111",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 12-09-2026"
         }
     ]
 }
