@@ -2,10 +2,93 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:50:29 AM 10-09-2026",
-    "total_matches": 38,
-    "live_match": 1,
+    "last_update_time": "08:36:16 AM 10-09-2026",
+    "total_matches": 41,
+    "live_match": 6,
     "matches": [
+        {
+            "status": "LIVE",
+            "match_id": 4248629,
+            "title": "ACC Men’s Premier Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team": [],
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248629/english.m3u8"
+                }
+            ],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248629/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": 4248630,
+            "title": "ACC Men’s Premier Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team": [],
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248630/english.m3u8"
+                }
+            ],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248630/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": 4248304,
+            "title": "2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248304_53026_GUY_SLK_FC-Web.png",
+            "team": [],
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248304/english.m3u8"
+                }
+            ],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248304/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248629_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "Nepal vs Oman [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Nepal",
+            "team_2": "Oman",
+            "startTime": "07:00:00 AM 10-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248629_ENG/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248630_ENG",
+            "title": "ACC Men’s Premier Cup 2026 [English]",
+            "match_name": "United Arab Emirates vs Hong Kong, China [English]",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Hong Kong, China",
+            "startTime": "07:00:00 AM 10-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248630_ENG/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -42,30 +125,6 @@
             "team_1": "Fazilka Falcons",
             "team_2": "Bathinda Royals",
             "startTime": "07:00:00 PM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248629,
-            "title": "Nepal vs Oman (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs Oman",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "Oman",
-            "startTime": "07:00:00 AM 10-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": 4248630,
-            "title": "United Arab Emirates vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "United Arab Emirates vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 10-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -130,18 +189,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": 4248306,
-            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "St Kitts and Nevis Patriots",
-            "startTime": "04:30:00 AM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": 4249159,
             "title": "Uganda vs Rwanda (ILT20 Africa Continent Cup 2026)",
             "match_name": "Uganda vs Rwanda",
@@ -154,6 +201,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": 4248306,
+            "title": "Barbados Tridents vs St Kitts and Nevis Patriots (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs St Kitts and Nevis Patriots",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "St Kitts and Nevis Patriots",
+            "startTime": "04:30:00 AM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": 4248677,
             "title": "Muscat Thunders vs Royal Oman Stallions (Oman D50 2026)",
             "match_name": "Muscat Thunders vs Royal Oman Stallions",
@@ -162,18 +221,6 @@
             "team_1": "Muscat Thunders",
             "team_2": "Royal Oman Stallions",
             "startTime": "04:00:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": 4249081,
-            "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 1",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -198,6 +245,18 @@
             "team_1": "Kenya",
             "team_2": "Botswana",
             "startTime": "05:00:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": 4249081,
+            "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 1",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 1",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 11-09-2026"
         },
         {
             "status": "UPCOMING",
