@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:44:37 AM 12-09-2026",
+    "last_update_time": "05:01:16 AM 12-09-2026",
     "total_matches": 39,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248310",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 12-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248310/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -201,18 +214,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248470",
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247611",
             "title": "Real Madrid vs Rayo Vallecano (LALIGA 2026-27)",
             "match_name": "Real Madrid vs Rayo Vallecano",
@@ -224,15 +225,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248310",
-            "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "04:30:00 AM 12-09-2026"
+            "event_category": "Football",
+            "match_id": "4248470",
+            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:15:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -320,18 +321,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249174",
-            "title": "Race 1 vs Germany (DTM 2026)",
-            "match_name": "Race 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 1",
-            "team_2": "Germany",
-            "startTime": "04:45:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249146",
             "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
@@ -341,6 +330,18 @@
             "team_1": "Córdoba",
             "team_2": "Almería",
             "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249174",
+            "title": "Race 1 vs Germany (DTM 2026)",
+            "match_name": "Race 1",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 1",
+            "team_2": "Germany",
+            "startTime": "04:45:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -464,15 +465,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4248641",
-            "title": "Qualifying 2 vs Sachsenring (DTM 2026)",
-            "match_name": "Qualifying 2",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Qualifying 2",
-            "team_2": "Sachsenring",
-            "startTime": "12:25:00 PM 13-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4248491",
+            "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
+            "match_name": "India vs Afghanistan",
+            "event_name": "India Tour of Afghanistan, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "startTime": "07:30:00 PM 13-09-2026"
         }
     ]
 }
