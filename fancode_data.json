@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:08 PM 11-09-2026",
-    "total_matches": 40,
-    "live_match": 5,
+    "last_update_time": "11:49:06 PM 11-09-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4249115",
-            "title": "2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249115/index.m3u8"
-        },
         {
             "status": "LIVE",
             "match_id": "4249132",
@@ -34,29 +21,16 @@
         },
         {
             "status": "LIVE",
-            "match_id": "4249081",
-            "title": "The Solheim Cup 2026",
-            "tournament": "Fancode-Golf",
-            "category": "Fancode-Golf",
+            "match_id": "4249133",
+            "title": "Roshn Saudi League 2026-2027",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
             "streamingStatus": "LIVE",
             "startTime": null,
             "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png",
             "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249081/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "139742",
-            "title": "F3 MADRID 2026",
-            "tournament": "Fancode-Motorsports",
-            "category": "Fancode-Motorsports",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139742/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249133/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -97,15 +71,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249133",
-            "title": "Al-Ahli Saudi FC vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ahli Saudi FC vs Al-Hazem FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al-Hazem FC",
-            "startTime": "11:30:00 PM 11-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4248631",
+            "title": "Oman vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
+            "match_name": "Oman vs Hong Kong, China",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Oman",
+            "team_2": "Hong Kong, China",
+            "startTime": "07:00:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248632",
+            "title": "Nepal vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
+            "match_name": "Nepal vs United Arab Emirates",
+            "event_name": "ACC Men’s Premier Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
+            "startTime": "07:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -130,30 +116,6 @@
             "team_1": "Sevilla FC",
             "team_2": "Valencia CF",
             "startTime": "12:30:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248631",
-            "title": "Oman vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "Oman vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Oman",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248632",
-            "title": "Nepal vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs United Arab Emirates",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -254,18 +216,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248470",
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4249134",
             "title": "Al-Taawoun FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
             "match_name": "Al-Taawoun FC vs Al Hilal SFC",
@@ -274,6 +224,18 @@
             "team_1": "Al-Taawoun FC",
             "team_2": "Al Hilal SFC",
             "startTime": "09:20:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248470",
+            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:15:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -361,6 +323,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249145",
+            "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Las Palmas",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Cádiz",
+            "team_2": "Las Palmas",
+            "startTime": "07:45:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4248640",
             "title": "Qualifying 1 vs Sachsenring (DTM 2026)",
@@ -382,18 +356,6 @@
             "team_1": "Coppa Shell Race 1",
             "team_2": "Europe",
             "startTime": "01:50:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249145",
-            "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Las Palmas",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Cádiz",
-            "team_2": "Las Palmas",
-            "startTime": "07:45:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,6 +452,30 @@
             "team_1": "Feature Race 1",
             "team_2": "Madrid, Spain",
             "startTime": "09:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249146",
+            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+            "match_name": "Córdoba vs Almería",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Córdoba",
+            "team_2": "Almería",
+            "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
         }
     ]
 }
