@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:12 PM 11-09-2026",
+    "last_update_time": "08:03:55 PM 11-09-2026",
     "total_matches": 40,
     "live_match": 8,
     "matches": [
@@ -232,6 +232,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139488",
+            "title": "Practice 2 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Circuito de Madring",
+            "startTime": "08:30:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249162",
             "title": "Botswana vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
@@ -328,15 +340,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "139488",
-            "title": "Practice 2 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-            "match_name": "Practice 2",
-            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Circuito de Madring",
-            "startTime": "08:30:00 PM 11-09-2026"
+            "event_category": "Football",
+            "match_id": "4247612",
+            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Elche CF",
+            "startTime": "10:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -349,18 +361,6 @@
             "team_1": "Qualifying",
             "team_2": "Madrid, Spain",
             "startTime": "09:55:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247612",
-            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
-            "match_name": "Athletic Club vs Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Elche CF",
-            "startTime": "10:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
