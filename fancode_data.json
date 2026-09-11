@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:07 PM 11-09-2026",
-    "total_matches": 38,
-    "live_match": 2,
+    "last_update_time": "03:32:42 PM 11-09-2026",
+    "total_matches": 39,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -21,16 +21,68 @@
         },
         {
             "status": "LIVE",
-            "event_category": "MotoGP",
             "match_id": "139966",
-            "title": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA [English]",
-            "match_name": "San Marino GP [English]",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Day 1",
-            "team_2": "Misano World Circuit",
-            "startTime": "12:30:00 PM 11-09-2026",
+            "title": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "tournament": "Fancode-MotoGP",
+            "category": "Fancode-MotoGP",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139966/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "139650",
+            "title": "F2 MADRID 2026",
+            "tournament": "Fancode-Motorsports",
+            "category": "Fancode-Motorsports",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139650/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4248638",
+            "title": "DTM 2026",
+            "tournament": "Fancode-Motorsports",
+            "category": "Fancode-Motorsports",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248638/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249159",
+            "title": "ILT20 Africa Continent Cup 2026 [English]",
+            "match_name": "Uganda vs Rwanda [English]",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249159_53067_UGA_RWA_FC-Web.png",
+            "team_1": "Uganda",
+            "team_2": "Rwanda",
+            "startTime": "01:00:00 PM 11-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249159/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248633",
+            "title": "South Africa tour of Namibia, 2026 [English]",
+            "match_name": "South Africa vs Namibia [English]",
+            "event_name": "South Africa tour of Namibia, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
+            "team_1": "South Africa",
+            "team_2": "Namibia",
+            "startTime": "01:00:00 PM 11-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248633/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -43,18 +95,6 @@
             "team_1": "Amritsar Soormas",
             "team_2": "Ludhiana Lions",
             "startTime": "07:00:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249159",
-            "title": "Uganda vs Rwanda (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Uganda vs Rwanda",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249159_53067_UGA_RWA_FC-Web.png",
-            "team_1": "Uganda",
-            "team_2": "Rwanda",
-            "startTime": "01:00:00 PM 11-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -91,6 +131,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al-Ettifaq",
             "startTime": "08:55:00 PM 11-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249127",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "01:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -155,42 +207,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249127",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "01:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248633",
-            "title": "Namibia vs South Africa (South Africa tour of Namibia, 2026)",
-            "match_name": "Namibia vs South Africa",
-            "event_name": "South Africa tour of Namibia, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
-            "team_1": "Namibia",
-            "team_2": "South Africa",
-            "startTime": "01:00:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139741",
-            "title": "Practice Session vs Madrid, Spain (F3 MADRID 2026)",
-            "match_name": "Practice Session",
-            "event_name": "F3 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Madrid, Spain",
-            "startTime": "01:25:00 PM 11-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249161",
             "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
             "match_name": "Uganda vs Kenya",
@@ -202,27 +218,63 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139650",
-            "title": "Practice Session vs Madrid, Spain (F2 MADRID 2026)",
-            "match_name": "Practice Session",
-            "event_name": "F2 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Madrid, Spain",
-            "startTime": "02:35:00 PM 11-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249111",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4248638",
-            "title": "Free Practice 1 vs Sachsenring (DTM 2026)",
-            "match_name": "Free Practice 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Free Practice 1",
-            "team_2": "Sachsenring",
-            "startTime": "02:55:00 PM 11-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4248678",
+            "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D50 2026)",
+            "match_name": "Majees Titans vs Mustafa Fragrance House Strikers",
+            "event_name": "Oman D50 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
+            "team_1": "Majees Titans",
+            "team_2": "Mustafa Fragrance House Strikers",
+            "startTime": "04:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249162",
+            "title": "Botswana vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Botswana vs Sierra Leone",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
+            "team_1": "Botswana",
+            "team_2": "Sierra Leone",
+            "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247490",
+            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
+            "match_name": "Derby County Football Club vs Birmingham City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Birmingham City F.C.",
+            "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247616",
+            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Deportivo Alaves",
+            "startTime": "05:30:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,30 +339,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248678",
-            "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D50 2026)",
-            "match_name": "Majees Titans vs Mustafa Fragrance House Strikers",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
-            "team_1": "Majees Titans",
-            "team_2": "Mustafa Fragrance House Strikers",
-            "startTime": "04:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249111",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248310",
             "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
             "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
@@ -319,54 +347,6 @@
             "team_1": "Guyana Amazon Warriors",
             "team_2": "Trinbago Knight Riders",
             "startTime": "04:30:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249162",
-            "title": "Botswana vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Botswana vs Sierra Leone",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
-            "team_1": "Botswana",
-            "team_2": "Sierra Leone",
-            "startTime": "05:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247490",
-            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
-            "match_name": "Derby County Football Club vs Birmingham City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Birmingham City F.C.",
-            "startTime": "05:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247616",
-            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Racing Club de Santander vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-            "team_1": "Racing Club de Santander",
-            "team_2": "Deportivo Alaves",
-            "startTime": "05:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249082",
-            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 2",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -379,18 +359,6 @@
             "team_1": "West Ham United Women",
             "team_2": "London City Lionesses",
             "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "4248535",
-            "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-            "match_name": "San Marino GP",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Day 2",
-            "team_2": "Misano World Circuit Marco Simoncelli",
-            "startTime": "12:10:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -430,6 +398,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249082",
+            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 2",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "4248535",
+            "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+            "match_name": "San Marino GP",
+            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team_1": "Day 2",
+            "team_2": "Misano World Circuit Marco Simoncelli",
+            "startTime": "12:10:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4248640",
             "title": "Qualifying 1 vs Sachsenring (DTM 2026)",
@@ -454,6 +446,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249134",
+            "title": "Al-Taawoun FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Taawoun FC vs Al Hilal SFC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
+            "team_1": "Al-Taawoun FC",
+            "team_2": "Al Hilal SFC",
+            "startTime": "09:20:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "139743",
             "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
@@ -463,6 +467,18 @@
             "team_1": "Sprint Race",
             "team_2": "Madrid, Spain",
             "startTime": "02:35:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247612",
+            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Elche CF",
+            "startTime": "10:00:00 PM 12-09-2026"
         }
     ]
 }
