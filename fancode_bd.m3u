@@ -2,12 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:20 AM 12-09-2026 (BD Time)
+# Last Updated: 01:01:24 AM 12-09-2026 (BD Time)
 # Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249132_53025_ALQ_ETT_FC-Web.png" group-title="Fancode-Football",Roshn Saudi League 2026-2027
-https://fancode.sm-monirul-islam-rs.workers.dev/4249132/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png" group-title="Fancode-Football",Roshn Saudi League 2026-2027
 https://fancode.sm-monirul-islam-rs.workers.dev/4249133/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg" group-title="Cricket",Muscat Thunders vs Royal Oman Stallions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248677/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247489_52993_WHU_WRX_fc-web_1786657253853.jpg" group-title="Fancode-Football",EFL Championship 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4247489/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247608_53004_SEV_VAL_FC-Web.png" group-title="Fancode-Football",LALIGA 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4247608/index.m3u8
