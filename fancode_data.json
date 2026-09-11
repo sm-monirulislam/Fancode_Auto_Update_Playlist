@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:26 AM 11-09-2026",
+    "last_update_time": "08:01:19 AM 11-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -141,6 +141,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249127",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "01:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249081",
             "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
@@ -274,18 +286,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249127",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "01:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248310",
             "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
             "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
@@ -321,18 +321,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249082",
-            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 2",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249111",
             "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
@@ -342,6 +330,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249082",
+            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 2",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -369,18 +369,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "4248535",
-            "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-            "match_name": "San Marino GP",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Day 2",
-            "team_2": "Misano World Circuit Marco Simoncelli",
-            "startTime": "12:10:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247616",
             "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
@@ -390,6 +378,18 @@
             "team_1": "Racing Club de Santander",
             "team_2": "Deportivo Alaves",
             "startTime": "05:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "4248535",
+            "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+            "match_name": "San Marino GP",
+            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team_1": "Day 2",
+            "team_2": "Misano World Circuit Marco Simoncelli",
+            "startTime": "12:10:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -441,18 +441,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139743",
-            "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F3 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Madrid, Spain",
-            "startTime": "02:35:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247491",
             "title": "Watford F.C. vs Stoke City F.C. (EFL Championship 2026-27)",
@@ -462,6 +450,18 @@
             "team_1": "Watford F.C.",
             "team_2": "Stoke City F.C.",
             "startTime": "07:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139743",
+            "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
+            "match_name": "Sprint Race",
+            "event_name": "F3 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Madrid, Spain",
+            "startTime": "02:35:00 PM 12-09-2026"
         }
     ]
 }
