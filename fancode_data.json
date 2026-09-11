@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:24 AM 12-09-2026",
+    "last_update_time": "02:01:35 AM 12-09-2026",
     "total_matches": 39,
     "live_match": 3,
     "matches": [
@@ -263,18 +263,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248310",
-            "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "04:30:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249145",
             "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
@@ -284,6 +272,18 @@
             "team_1": "Cádiz",
             "team_2": "Las Palmas",
             "startTime": "07:45:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248310",
+            "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Trinbago Knight Riders",
+            "startTime": "04:30:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
