@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:13 AM 12-09-2026",
+    "last_update_time": "04:44:37 AM 12-09-2026",
     "total_matches": 39,
     "live_match": 0,
     "matches": [
@@ -188,18 +188,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248470",
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249092",
             "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
@@ -209,6 +197,18 @@
             "team_1": "Barbados Tridents Women",
             "team_2": "Jamaica Empress Women",
             "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248470",
+            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:15:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -224,6 +224,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248310",
+            "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249145",
             "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
@@ -233,18 +245,6 @@
             "team_1": "Cádiz",
             "team_2": "Las Palmas",
             "startTime": "07:45:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248310",
-            "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Trinbago Knight Riders",
-            "startTime": "04:30:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -332,18 +332,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139652",
-            "title": "Sprint Race vs Madrid, Spain (F2 MADRID 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F2 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Madrid, Spain",
-            "startTime": "05:45:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249146",
             "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
@@ -353,6 +341,18 @@
             "team_1": "Córdoba",
             "team_2": "Almería",
             "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139652",
+            "title": "Sprint Race vs Madrid, Spain (F2 MADRID 2026)",
+            "match_name": "Sprint Race",
+            "event_name": "F2 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Madrid, Spain",
+            "startTime": "05:45:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
