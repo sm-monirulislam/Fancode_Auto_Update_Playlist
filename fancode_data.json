@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:01:34 AM 12-09-2026",
+    "last_update_time": "04:01:13 AM 12-09-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4247489",
-            "title": "EFL Championship 2026-27",
-            "tournament": "Fancode-Football",
-            "category": "Fancode-Football",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247489_52993_WHU_WRX_fc-web_1786657253853.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247489/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4247608",
-            "title": "LALIGA 2026-27",
-            "tournament": "Fancode-Football",
-            "category": "Fancode-Football",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247608_53004_SEV_VAL_FC-Web.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247608/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -203,18 +177,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248470",
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4249135",
             "title": "Al Khaleej FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
             "match_name": "Al Khaleej FC vs Al-Nassr FC",
@@ -223,6 +185,18 @@
             "team_1": "Al Khaleej FC",
             "team_2": "Al-Nassr FC",
             "startTime": "11:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248470",
+            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:15:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -370,6 +344,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249146",
+            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+            "match_name": "Córdoba vs Almería",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Córdoba",
+            "team_2": "Almería",
+            "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4248642",
             "title": "Race 1 vs Sachsenring (DTM 2026)",
@@ -403,18 +389,6 @@
             "team_1": "Qualifying",
             "team_2": "Circuito de Madring",
             "startTime": "07:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249146",
-            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-            "match_name": "Córdoba vs Almería",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Córdoba",
-            "team_2": "Almería",
-            "startTime": "12:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -475,6 +449,30 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249164",
+            "title": "Botswana vs Rwanda (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Botswana vs Rwanda",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249164_53067_BOT_RWA_FC-Web.png",
+            "team_1": "Botswana",
+            "team_2": "Rwanda",
+            "startTime": "05:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4248641",
+            "title": "Qualifying 2 vs Sachsenring (DTM 2026)",
+            "match_name": "Qualifying 2",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Qualifying 2",
+            "team_2": "Sachsenring",
+            "startTime": "12:25:00 PM 13-09-2026"
         }
     ]
 }
