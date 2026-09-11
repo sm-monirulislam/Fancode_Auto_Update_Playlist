@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:01:28 AM 11-09-2026",
+    "last_update_time": "10:01:18 AM 11-09-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4248306",
-            "title": "2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248306/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -345,18 +332,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249082",
-            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 2",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247490",
             "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
@@ -366,6 +341,18 @@
             "team_1": "Derby County Football Club",
             "team_2": "Birmingham City F.C.",
             "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249082",
+            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 2",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +449,18 @@
             "team_1": "CA Osasuna",
             "team_2": "RCD Espanyol",
             "startTime": "07:45:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139743",
+            "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
+            "match_name": "Sprint Race",
+            "event_name": "F3 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Madrid, Spain",
+            "startTime": "02:35:00 PM 12-09-2026"
         }
     ]
 }
