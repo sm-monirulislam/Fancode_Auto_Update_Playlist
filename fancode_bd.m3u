@@ -2,8 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:47 PM 11-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 01:01:07 PM 11-09-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode-Golf",The Solheim Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249081/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="MotoGP",San Marino GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139966/index.m3u8
