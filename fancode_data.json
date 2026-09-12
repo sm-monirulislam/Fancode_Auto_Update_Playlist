@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:30 PM 12-09-2026",
+    "last_update_time": "02:01:57 PM 12-09-2026",
     "total_matches": 39,
-    "live_match": 3,
+    "live_match": 6,
     "matches": [
+        {
+            "status": "LIVE",
+            "match_id": "4249127",
+            "title": "2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8"
+        },
         {
             "status": "LIVE",
             "match_id": "4248632",
@@ -18,6 +31,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4249161",
+            "title": "ILT20 Africa Continent Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249161/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -46,16 +72,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249127",
-            "title": "Mohali Kings vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
-            "match_name": "Mohali Kings vs Amritsar Soormas",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg",
-            "team_1": "Mohali Kings",
-            "team_2": "Amritsar Soormas",
-            "startTime": "01:00:00 PM 12-09-2026"
+            "status": "LIVE",
+            "match_id": "4248640",
+            "title": "DTM 2026",
+            "tournament": "Fancode-Motorsports",
+            "category": "Fancode-Motorsports",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248640/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -68,18 +95,6 @@
             "team_1": "Ludhiana Lions",
             "team_2": "Jalandhar Warriors",
             "startTime": "07:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249161",
-            "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Uganda vs Kenya",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
-            "team_1": "Uganda",
-            "team_2": "Kenya",
-            "startTime": "01:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -179,18 +194,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247612",
-            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
-            "match_name": "Athletic Club vs Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Elche CF",
-            "startTime": "10:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249092",
             "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
@@ -200,6 +203,18 @@
             "team_1": "Barbados Tridents Women",
             "team_2": "Jamaica Empress Women",
             "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247612",
+            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Elche CF",
+            "startTime": "10:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -264,14 +279,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Motorsports",
-            "match_id": "4248640",
-            "title": "Qualifying 1 vs Sachsenring (DTM 2026)",
-            "match_name": "Qualifying 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Qualifying 1",
-            "team_2": "Sachsenring",
-            "startTime": "01:20:00 PM 12-09-2026"
+            "match_id": "4249176",
+            "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
+            "match_name": "Coppa Shell Race 1",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Coppa Shell Race 1",
+            "team_2": "Europe",
+            "startTime": "01:50:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,15 +302,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249176",
-            "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
-            "match_name": "Coppa Shell Race 1",
-            "event_name": "Ferrari Challenge Series 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Coppa Shell Race 1",
-            "team_2": "Europe",
-            "startTime": "01:50:00 PM 12-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249129",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -396,26 +411,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249129",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248312",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "05:30:00 AM 13-09-2026"
+            "match_id": "4248491",
+            "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
+            "match_name": "India vs Afghanistan",
+            "event_name": "India Tour of Afghanistan, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "startTime": "07:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -432,18 +435,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248491",
-            "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
-            "match_name": "India vs Afghanistan",
-            "event_name": "India Tour of Afghanistan, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "startTime": "07:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249164",
             "title": "Botswana vs Rwanda (ILT20 Africa Continent Cup 2026)",
             "match_name": "Botswana vs Rwanda",
@@ -452,6 +443,18 @@
             "team_1": "Botswana",
             "team_2": "Rwanda",
             "startTime": "05:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
