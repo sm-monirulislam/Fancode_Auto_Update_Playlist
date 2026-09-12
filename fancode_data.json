@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:38 AM 12-09-2026",
+    "last_update_time": "11:24:58 AM 12-09-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249082",
+            "title": "The Solheim Cup 2026 [English]",
+            "match_name": "Day 2 [English]",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Bernardus Golf",
+            "startTime": "11:00:00 AM 12-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -223,18 +236,6 @@
             "team_1": "West Ham United Women",
             "team_2": "London City Lionesses",
             "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249082",
-            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 2",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Bernardus Golf",
-            "startTime": "11:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
