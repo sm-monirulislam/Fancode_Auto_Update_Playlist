@@ -2,18 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:01:19 PM 12-09-2026 (BD Time)
+# Last Updated: 05:01:20 PM 12-09-2026 (BD Time)
 # Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode-Cricket",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode-Cricket",ACC Men’s Premier Cup 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png" group-title="Fancode-Cricket",ILT20 Africa Continent Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249161/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode-Golf",The Solheim Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode-MotoGP",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
 https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg" group-title="Fancode-Motorsports",F3 MADRID 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/139743/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg" group-title="Fancode-Formula 1",F1 TAG HEUER GRAN PREMIO DE ESPANA 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/139489/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg" group-title="Cricket",Majees Titans vs Mustafa Fragrance House Strikers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248678/index.m3u8
