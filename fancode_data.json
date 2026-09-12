@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:56 PM 12-09-2026",
-    "total_matches": 39,
-    "live_match": 7,
+    "last_update_time": "12:01:19 AM 13-09-2026",
+    "total_matches": 41,
+    "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4249111",
-            "title": "2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249111/index.m3u8"
-        },
         {
             "status": "LIVE",
             "match_id": "4249091",
@@ -86,16 +73,40 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249135",
+            "title": "Roshn Saudi League 2026-2027 [English]",
+            "match_name": "Al Khaleej FC vs Al-Nassr FC [English]",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
+            "team_1": "Al Khaleej FC",
+            "team_2": "Al-Nassr FC",
+            "startTime": "11:30:00 PM 12-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249135/index.m3u8"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248678",
-            "title": "Oman D50 2026 [English]",
-            "match_name": "Majees Titans vs Mustafa Fragrance House Strikers [English]",
-            "event_name": "Oman D50 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
-            "team_1": "Majees Titans",
-            "team_2": "Mustafa Fragrance House Strikers",
-            "startTime": "04:00:00 PM 12-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248678/index.m3u8"
+            "match_id": "4249092",
+            "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents Women vs Jamaica Empress Women",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
+            "team_1": "Barbados Tridents Women",
+            "team_2": "Jamaica Empress Women",
+            "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247611",
+            "title": "Real Madrid vs Rayo Vallecano (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Rayo Vallecano",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Rayo Vallecano",
+            "startTime": "12:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -123,38 +134,14 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249092",
-            "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents Women vs Jamaica Empress Women",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
-            "team_1": "Barbados Tridents Women",
-            "team_2": "Jamaica Empress Women",
-            "startTime": "12:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249135",
-            "title": "Al Khaleej FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Khaleej FC vs Al-Nassr FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
-            "team_1": "Al Khaleej FC",
-            "team_2": "Al-Nassr FC",
-            "startTime": "11:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247611",
-            "title": "Real Madrid vs Rayo Vallecano (LALIGA 2026-27)",
-            "match_name": "Real Madrid vs Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Rayo Vallecano",
+            "match_id": "4249146",
+            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+            "match_name": "Córdoba vs Almería",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
+            "team_1": "Córdoba",
+            "team_2": "Almería",
             "startTime": "12:30:00 AM 13-09-2026"
         },
         {
@@ -196,18 +183,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249146",
-            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-            "match_name": "Córdoba vs Almería",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
-            "team_1": "Córdoba",
-            "team_2": "Almería",
-            "startTime": "12:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247609",
             "title": "RC Celta vs Malaga (LALIGA 2026-27)",
             "match_name": "RC Celta vs Malaga",
@@ -244,6 +219,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247613",
+            "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Deportivo de La Coruna",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Deportivo de La Coruna",
+            "startTime": "10:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4248472",
             "title": "Birmingham City F.C. Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Brighton and Hove Albion Women",
@@ -276,18 +263,6 @@
             "team_1": "Liverpool Women",
             "team_2": "Tottenham Hotspur Women",
             "startTime": "06:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247613",
-            "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Getafe CF vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "10:00:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -339,18 +314,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248312",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "05:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248476",
             "title": "Aston Villa Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
@@ -363,6 +326,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4248641",
             "title": "Qualifying 2 vs Sachsenring (DTM 2026)",
@@ -372,6 +347,18 @@
             "team_1": "Qualifying 2",
             "team_2": "Sachsenring",
             "startTime": "12:25:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249148",
+            "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Tenerife vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
+            "team_1": "Tenerife",
+            "team_2": "Leganes",
+            "startTime": "12:30:00 AM 14-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -435,18 +422,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249148",
-            "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Leganes",
-            "startTime": "12:30:00 AM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4249175",
             "title": "Race 2 vs Germany (DTM 2026)",
@@ -480,6 +455,54 @@
             "team_1": "Race",
             "team_2": "Circuito de Madring",
             "startTime": "06:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249185",
+            "title": "F1 Kids 2026 vs Spain (F1 Kids 2026)",
+            "match_name": "F1 Kids 2026",
+            "event_name": "F1 Kids 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Spain",
+            "startTime": "06:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4248643",
+            "title": "Race 2 vs Sachsenring (DTM 2026)",
+            "match_name": "Race 2",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Sachsenring",
+            "startTime": "06:35:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249184",
+            "title": "Feature Race 2 vs Madrid (F3 MADRID 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F3 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+            "team_1": "Feature Race 2",
+            "team_2": "Madrid",
+            "startTime": "01:15:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248313",
+            "title": "Barbados Tridents vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 14-09-2026"
         }
     ]
 }
