@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:35:10 AM 13-09-2026",
-    "total_matches": 38,
-    "live_match": 4,
+    "last_update_time": "01:01:54 AM 13-09-2026",
+    "total_matches": 39,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -47,6 +47,19 @@
         },
         {
             "status": "LIVE",
+            "match_id": "4249146",
+            "title": "LALIGA Hypermotion 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249146/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "match_id": "4247612",
             "title": "LALIGA 2026-27",
             "tournament": "Fancode-Football",
@@ -81,18 +94,6 @@
             "team_1": "India",
             "team_2": "Afghanistan",
             "startTime": "07:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249146",
-            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-            "match_name": "Córdoba vs Almería",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
-            "team_1": "Córdoba",
-            "team_2": "Almería",
-            "startTime": "12:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -216,18 +217,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248475",
-            "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Arsenal Women vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Crystal Palace Women",
-            "startTime": "07:15:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249093",
             "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
@@ -237,6 +226,18 @@
             "team_1": "Guyana Amazon Warriors Women",
             "team_2": "Barbados Tridents Women",
             "startTime": "11:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248475",
+            "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Crystal Palace Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Crystal Palace Women",
+            "startTime": "07:15:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -276,18 +277,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248312",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "05:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249148",
             "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
@@ -297,6 +286,18 @@
             "team_1": "Tenerife",
             "team_2": "Leganes",
             "startTime": "12:30:00 AM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -465,6 +466,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "04:00:00 PM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248680",
+            "title": "PFC Neftchi vs Air Force SC (AFC Champions League Elite 2026-27)",
+            "match_name": "PFC Neftchi vs Air Force SC",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
+            "team_1": "PFC Neftchi",
+            "team_2": "Air Force SC",
+            "startTime": "07:15:00 PM 14-09-2026"
         }
     ]
 }
