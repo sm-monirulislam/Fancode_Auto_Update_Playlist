@@ -2,28 +2,24 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:01:22 PM 12-09-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 10:01:58 PM 12-09-2026 (BD Time)
+# Live Match : 9
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode-Cricket",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249111/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png" group-title="Fancode-Cricket",ILT20 Africa Continent Cup 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4249162/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="Fancode-Cricket",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249091/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg" group-title="Fancode-Football",EFL Championship 2026-27
 https://fancode.sm-monirul-islam-rs.workers.dev/4247491/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png" group-title="Fancode-Football",LALIGA 2026-27
 https://fancode.sm-monirul-islam-rs.workers.dev/4247617/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png" group-title="Fancode-Football",Roshn Saudi League 2026-2027
+https://fancode.sm-monirul-islam-rs.workers.dev/4249134/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249145_53017_CDZ_LAP_FC-Web_1789220877838.png" group-title="Fancode-Football",LALIGA Hypermotion 2026-27
 https://fancode.sm-monirul-islam-rs.workers.dev/4249145/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode-Golf",The Solheim Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode-MotoGP",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
-https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode-Motorsports",Ferrari Challenge Series 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4249177/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg" group-title="Fancode-Formula 1",F1 TAG HEUER GRAN PREMIO DE ESPANA 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/139490/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg" group-title="Cricket",Majees Titans vs Mustafa Fragrance House Strikers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248678/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg" group-title="Motorsports",Feature Race 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139744/index.m3u8

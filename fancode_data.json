@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:01:22 PM 12-09-2026",
+    "last_update_time": "10:01:58 PM 12-09-2026",
     "total_matches": 39,
-    "live_match": 11,
+    "live_match": 9,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249111/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4249162",
-            "title": "ILT20 Africa Continent Cup 2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249162/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -73,6 +60,19 @@
         },
         {
             "status": "LIVE",
+            "match_id": "4249134",
+            "title": "Roshn Saudi League 2026-2027",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249134/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "match_id": "4249145",
             "title": "LALIGA Hypermotion 2026-27",
             "tournament": "Fancode-Football",
@@ -99,45 +99,6 @@
         },
         {
             "status": "LIVE",
-            "match_id": "4248535",
-            "title": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "tournament": "Fancode-MotoGP",
-            "category": "Fancode-MotoGP",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4249177",
-            "title": "Ferrari Challenge Series 2026",
-            "tournament": "Fancode-Motorsports",
-            "category": "Fancode-Motorsports",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249177/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "139490",
-            "title": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-            "tournament": "Fancode-Formula 1",
-            "category": "Fancode-Formula 1",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139490/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4248678",
             "title": "Oman D50 2026 [English]",
@@ -148,6 +109,31 @@
             "team_2": "Mustafa Fragrance House Strikers",
             "startTime": "04:00:00 PM 12-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248678/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139744",
+            "title": "F3 MADRID 2026 [English]",
+            "match_name": "Feature Race 1 [English]",
+            "event_name": "F3 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+            "team_1": "Feature Race 1",
+            "team_2": "Madrid, Spain",
+            "startTime": "09:30:00 PM 12-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139744/index.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247612",
+            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Elche CF",
+            "startTime": "10:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -163,27 +149,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249134",
-            "title": "Al-Taawoun FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Taawoun FC vs Al Hilal SFC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
-            "team_1": "Al-Taawoun FC",
-            "team_2": "Al Hilal SFC",
-            "startTime": "09:20:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247612",
-            "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
-            "match_name": "Athletic Club vs Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Elche CF",
-            "startTime": "10:00:00 PM 12-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249129",
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -208,18 +182,6 @@
             "team_1": "Real Madrid",
             "team_2": "Rayo Vallecano",
             "startTime": "12:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249129",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -356,18 +318,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248475",
-            "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Arsenal Women vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Crystal Palace Women",
-            "startTime": "07:15:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247613",
             "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
             "match_name": "Getafe CF vs Deportivo de La Coruna",
@@ -376,6 +326,18 @@
             "team_1": "Getafe CF",
             "team_2": "Deportivo de La Coruna",
             "startTime": "10:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248475",
+            "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Crystal Palace Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Crystal Palace Women",
+            "startTime": "07:15:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -391,15 +353,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139744",
-            "title": "Feature Race 1 vs Madrid, Spain (F3 MADRID 2026)",
-            "match_name": "Feature Race 1",
-            "event_name": "F3 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-            "team_1": "Feature Race 1",
-            "team_2": "Madrid, Spain",
-            "startTime": "09:30:00 PM 12-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249093",
+            "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors Women vs Barbados Tridents Women",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
+            "team_1": "Guyana Amazon Warriors Women",
+            "team_2": "Barbados Tridents Women",
+            "startTime": "11:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -415,15 +377,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249093",
-            "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors Women vs Barbados Tridents Women",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
-            "team_1": "Guyana Amazon Warriors Women",
-            "team_2": "Barbados Tridents Women",
-            "startTime": "11:30:00 PM 13-09-2026"
+            "event_category": "Football",
+            "match_id": "4247614",
+            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "Real Sociedad vs Atletico de Madrid",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Atletico de Madrid",
+            "startTime": "12:30:00 AM 14-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,6 +413,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248476",
+            "title": "Aston Villa Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Aston Villa Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248476_53038_AST-W_MCI-W_fc-web.jpg",
+            "team_1": "Aston Villa Women",
+            "team_2": "Manchester City Women",
+            "startTime": "11:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4249178",
             "title": "Coppa Shell Race 2 vs Europe (Ferrari Challenge Series 2026)",
@@ -463,18 +437,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247614",
-            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Atletico de Madrid",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "startTime": "12:30:00 AM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "MotoGP",
             "match_id": "139968",
             "title": "Race Day vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
@@ -484,6 +446,42 @@
             "team_1": "Race Day",
             "team_2": "Misano World Circuit",
             "startTime": "02:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249083",
+            "title": "Day 3 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 3",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Bernardus Golf",
+            "startTime": "02:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139653",
+            "title": "Feature Race vs Madrid, Spain (F2 MADRID 2026)",
+            "match_name": "Feature Race",
+            "event_name": "F2 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Madrid, Spain",
+            "startTime": "02:55:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249175",
+            "title": "Race 2 vs Germany (DTM 2026)",
+            "match_name": "Race 2",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Germany",
+            "startTime": "04:45:00 PM 13-09-2026"
         }
     ]
 }
