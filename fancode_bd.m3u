@@ -2,12 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:13:16 AM 13-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:01:43 AM 13-09-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png" group-title="Fancode-Cricket",2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png" group-title="Cricket",Barbados Tridents Women vs Jamaica Empress Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249092/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png" group-title="Fancode-Football",LALIGA Hypermotion 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4249146/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png" group-title="Fancode-Football",LALIGA 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4247611/index.m3u8
