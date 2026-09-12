@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:54 AM 13-09-2026",
-    "total_matches": 39,
-    "live_match": 5,
+    "last_update_time": "02:01:57 AM 13-09-2026",
+    "total_matches": 38,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -57,19 +57,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249146/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4247612",
-            "title": "LALIGA 2026-27",
-            "tournament": "Fancode-Football",
-            "category": "Fancode-Football",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247612/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -158,6 +145,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247613",
+            "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Deportivo de La Coruna",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Deportivo de La Coruna",
+            "startTime": "10:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4248471",
             "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
             "match_name": "Manchester United Women vs Chelsea F.C. Women",
@@ -169,15 +168,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247613",
-            "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Getafe CF vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "10:00:00 PM 13-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249093",
+            "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors Women vs Barbados Tridents Women",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
+            "team_1": "Guyana Amazon Warriors Women",
+            "team_2": "Barbados Tridents Women",
+            "startTime": "11:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -214,18 +213,6 @@
             "team_1": "Liverpool Women",
             "team_2": "Tottenham Hotspur Women",
             "startTime": "06:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249093",
-            "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors Women vs Barbados Tridents Women",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
-            "team_1": "Guyana Amazon Warriors Women",
-            "team_2": "Barbados Tridents Women",
-            "startTime": "11:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
