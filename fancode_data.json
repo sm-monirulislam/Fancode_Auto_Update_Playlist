@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:30:24 PM 12-09-2026",
+    "last_update_time": "04:01:19 PM 12-09-2026",
     "total_matches": 39,
-    "live_match": 7,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -70,19 +70,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4249176",
-            "title": "Ferrari Challenge Series 2026",
-            "tournament": "Fancode-Motorsports",
-            "category": "Fancode-Motorsports",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249176/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -291,6 +278,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139489",
+            "title": "Practice 3 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
+            "match_name": "Practice 3",
+            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+            "team_1": "Practice 3",
+            "team_2": "Circuito de Madring",
+            "startTime": "04:00:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249163",
             "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
@@ -351,15 +350,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "139489",
-            "title": "Practice 3 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-            "match_name": "Practice 3",
-            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-            "team_1": "Practice 3",
-            "team_2": "Circuito de Madring",
-            "startTime": "04:00:00 PM 12-09-2026"
+            "event_category": "Football",
+            "match_id": "4247609",
+            "title": "RC Celta vs Malaga (LALIGA 2026-27)",
+            "match_name": "RC Celta vs Malaga",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Malaga",
+            "startTime": "05:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -423,18 +422,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247609",
-            "title": "RC Celta vs Malaga (LALIGA 2026-27)",
-            "match_name": "RC Celta vs Malaga",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Malaga",
-            "startTime": "05:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "139744",
             "title": "Feature Race 1 vs Madrid, Spain (F3 MADRID 2026)",
@@ -444,6 +431,18 @@
             "team_1": "Feature Race 1",
             "team_2": "Madrid, Spain",
             "startTime": "09:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248471",
+            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Chelsea F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "04:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -460,18 +459,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248471",
-            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Chelsea F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "04:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247610",
             "title": "Levante vs FC Barcelona (LALIGA 2026-27)",
             "match_name": "Levante vs FC Barcelona",
@@ -480,6 +467,18 @@
             "team_1": "Levante",
             "team_2": "FC Barcelona",
             "startTime": "07:45:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248472",
+            "title": "Birmingham City F.C. Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Birmingham City F.C. Women vs Brighton and Hove Albion Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248472_53038_BIR-W_BHA-W_fc-web.jpg",
+            "team_1": "Birmingham City F.C. Women",
+            "team_2": "Brighton and Hove Albion Women",
+            "startTime": "06:30:00 PM 13-09-2026"
         }
     ]
 }

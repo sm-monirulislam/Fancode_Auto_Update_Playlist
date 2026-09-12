@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:30:24 PM 12-09-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 04:01:19 PM 12-09-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode-Cricket",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8
@@ -15,7 +15,5 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249161/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode-MotoGP",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
 https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode-Motorsports",Ferrari Challenge Series 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4249176/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg" group-title="Fancode-Motorsports",F3 MADRID 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/139743/index.m3u8
