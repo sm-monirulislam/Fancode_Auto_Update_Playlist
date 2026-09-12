@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:16 AM 12-09-2026",
+    "last_update_time": "06:01:11 AM 12-09-2026",
     "total_matches": 39,
     "live_match": 1,
     "matches": [
@@ -249,6 +249,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249146",
+            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+            "match_name": "Córdoba vs Almería",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Córdoba",
+            "team_2": "Almería",
+            "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249082",
             "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
@@ -318,18 +330,6 @@
             "team_1": "Practice 3",
             "team_2": "Circuito de Madring",
             "startTime": "04:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249146",
-            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-            "match_name": "Córdoba vs Almería",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Córdoba",
-            "team_2": "Almería",
-            "startTime": "12:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
