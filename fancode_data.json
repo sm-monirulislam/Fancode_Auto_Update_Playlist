@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:02:09 PM 12-09-2026",
+    "last_update_time": "01:01:30 PM 12-09-2026",
     "total_matches": 39,
     "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "match_id": "4248631",
-            "title": "ACC Men’s Premier Cup 2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248631/index.m3u8"
-        },
         {
             "status": "LIVE",
             "match_id": "4248632",
@@ -44,6 +31,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4248535",
+            "title": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "tournament": "Fancode-MotoGP",
+            "category": "Fancode-MotoGP",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -239,18 +239,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "4248535",
-            "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-            "match_name": "San Marino GP",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Day 2",
-            "team_2": "Misano World Circuit Marco Simoncelli",
-            "startTime": "12:10:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249145",
             "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
@@ -275,18 +263,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249163",
-            "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Sierra Leone vs Kenya",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
-            "team_1": "Sierra Leone",
-            "team_2": "Kenya",
-            "startTime": "01:00:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4248640",
             "title": "Qualifying 1 vs Sachsenring (DTM 2026)",
@@ -296,6 +272,18 @@
             "team_1": "Qualifying 1",
             "team_2": "Sachsenring",
             "startTime": "01:20:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249163",
+            "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Sierra Leone vs Kenya",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Kenya",
+            "startTime": "01:00:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -408,18 +396,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248312",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "05:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249129",
             "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
             "match_name": "TBC vs TBC",
@@ -428,6 +404,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -476,6 +464,18 @@
             "team_1": "RC Celta",
             "team_2": "Malaga",
             "startTime": "05:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248471",
+            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Chelsea F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "04:30:00 PM 13-09-2026"
         }
     ]
 }
