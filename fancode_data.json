@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:12 AM 12-09-2026",
+    "last_update_time": "08:01:20 AM 12-09-2026",
     "total_matches": 39,
-    "live_match": 1,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "match_id": "4248631",
+            "title": "ACC Men’s Premier Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248631/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4248632",
+            "title": "ACC Men’s Premier Cup 2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -42,30 +68,6 @@
             "team_1": "Ludhiana Lions",
             "team_2": "Jalandhar Warriors",
             "startTime": "07:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248631",
-            "title": "Oman vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-            "match_name": "Oman vs Hong Kong, China",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Oman",
-            "team_2": "Hong Kong, China",
-            "startTime": "07:00:00 AM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248632",
-            "title": "Nepal vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
-            "match_name": "Nepal vs United Arab Emirates",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:00:00 AM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -406,18 +408,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248312",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "05:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249163",
             "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
             "match_name": "Sierra Leone vs Kenya",
@@ -426,6 +416,18 @@
             "team_1": "Sierra Leone",
             "team_2": "Kenya",
             "startTime": "01:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248312",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "05:30:00 AM 13-09-2026"
         },
         {
             "status": "UPCOMING",
