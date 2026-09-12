@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:01:26 AM 12-09-2026",
+    "last_update_time": "10:01:34 AM 12-09-2026",
     "total_matches": 39,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248310",
-            "title": "Caribbean Premier League, 2026 [English]",
-            "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors [English]",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "04:30:00 AM 12-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248310/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -107,18 +94,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247490",
-            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
-            "match_name": "Derby County Football Club vs Birmingham City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Birmingham City F.C.",
-            "startTime": "05:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249091",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
@@ -128,6 +103,18 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "07:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247490",
+            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
+            "match_name": "Derby County Football Club vs Birmingham City F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Birmingham City F.C.",
+            "startTime": "05:00:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -191,18 +178,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249135",
-            "title": "Al Khaleej FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Khaleej FC vs Al-Nassr FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
-            "team_1": "Al Khaleej FC",
-            "team_2": "Al-Nassr FC",
-            "startTime": "11:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249092",
             "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
@@ -212,6 +187,18 @@
             "team_1": "Barbados Tridents Women",
             "team_2": "Jamaica Empress Women",
             "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249135",
+            "title": "Al Khaleej FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Khaleej FC vs Al-Nassr FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
+            "team_1": "Al Khaleej FC",
+            "team_2": "Al-Nassr FC",
+            "startTime": "11:30:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -431,18 +418,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247492",
-            "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Sheffield United F.C. vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "startTime": "04:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249129",
             "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
@@ -452,6 +427,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247492",
+            "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Sheffield United F.C. vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "startTime": "04:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -476,6 +463,18 @@
             "team_1": "India",
             "team_2": "Afghanistan",
             "startTime": "07:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247609",
+            "title": "RC Celta vs Malaga (LALIGA 2026-27)",
+            "match_name": "RC Celta vs Malaga",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Malaga",
+            "startTime": "05:30:00 PM 13-09-2026"
         }
     ]
 }
