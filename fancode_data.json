@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:01:53 AM 13-09-2026",
+    "last_update_time": "03:13:16 AM 13-09-2026",
     "total_matches": 38,
     "live_match": 3,
     "matches": [
@@ -21,19 +21,6 @@
         },
         {
             "status": "LIVE",
-            "match_id": "4247611",
-            "title": "LALIGA 2026-27",
-            "tournament": "Fancode-Football",
-            "category": "Fancode-Football",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247611/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "match_id": "4249146",
             "title": "LALIGA Hypermotion 2026-27",
             "tournament": "Fancode-Football",
@@ -44,6 +31,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249146/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4247611",
+            "title": "LALIGA 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247611/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -143,18 +143,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248471",
-            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Chelsea F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "04:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249093",
             "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
@@ -164,6 +152,18 @@
             "team_1": "Guyana Amazon Warriors Women",
             "team_2": "Barbados Tridents Women",
             "startTime": "11:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248471",
+            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Chelsea F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "04:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -216,18 +216,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249147",
-            "title": "Real Valladolid vs Real Oviedo (LALIGA Hypermotion 2026-27)",
-            "match_name": "Real Valladolid vs Real Oviedo",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249147_53017_VLD_RO_FC-Web.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Real Oviedo",
-            "startTime": "07:45:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247614",
             "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
             "match_name": "Real Sociedad vs Atletico de Madrid",
@@ -236,6 +224,18 @@
             "team_1": "Real Sociedad",
             "team_2": "Atletico de Madrid",
             "startTime": "12:30:00 AM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249147",
+            "title": "Real Valladolid vs Real Oviedo (LALIGA Hypermotion 2026-27)",
+            "match_name": "Real Valladolid vs Real Oviedo",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249147_53017_VLD_RO_FC-Web.png",
+            "team_1": "Real Valladolid",
+            "team_2": "Real Oviedo",
+            "startTime": "07:45:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
