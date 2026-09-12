@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:20 AM 12-09-2026",
+    "last_update_time": "09:01:26 AM 12-09-2026",
     "total_matches": 39,
     "live_match": 3,
     "matches": [
@@ -119,18 +119,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247616",
-            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Racing Club de Santander vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-            "team_1": "Racing Club de Santander",
-            "team_2": "Deportivo Alaves",
-            "startTime": "05:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249091",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
@@ -140,6 +128,18 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "07:30:00 PM 12-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247616",
+            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Deportivo Alaves",
+            "startTime": "05:30:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
