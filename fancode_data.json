@@ -2,34 +2,34 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:43 AM 13-09-2026",
+    "last_update_time": "05:01:40 AM 13-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4249092",
-            "title": "Women's Caribbean Premier League, 2026 [English]",
-            "match_name": "Barbados Tridents Women vs Jamaica Empress Women [English]",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
-            "team_1": "Barbados Tridents Women",
-            "team_2": "Jamaica Empress Women",
-            "startTime": "12:30:00 AM 13-09-2026",
+            "title": "2026",
+            "tournament": "Fancode-Cricket",
+            "category": "Fancode-Cricket",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
+            "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249092/index.m3u8"
         },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249129",
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Amritsar Soormas vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
+            "match_name": "Amritsar Soormas vs Ludhiana Lions",
             "event_name": "Sher-E-Punjab T20, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 13-09-2026"
+            "team_1": "Amritsar Soormas",
+            "team_2": "Ludhiana Lions",
+            "startTime": "06:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,6 +142,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247614",
+            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "Real Sociedad vs Atletico de Madrid",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Atletico de Madrid",
+            "startTime": "12:30:00 AM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4248472",
             "title": "Birmingham City F.C. Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Brighton and Hove Albion Women",
@@ -174,18 +186,6 @@
             "team_1": "Liverpool Women",
             "team_2": "Tottenham Hotspur Women",
             "startTime": "06:30:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247614",
-            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Atletico de Madrid",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "startTime": "12:30:00 AM 14-09-2026"
         },
         {
             "status": "UPCOMING",
