@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:01:57 PM 12-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 03:01:53 PM 12-09-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode-Cricket",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8
@@ -17,3 +17,5 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Fancode-Motorsports",DTM 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4248640/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode-Motorsports",Ferrari Challenge Series 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249176/index.m3u8
