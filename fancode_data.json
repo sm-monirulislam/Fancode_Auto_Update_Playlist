@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:20 PM 12-09-2026",
+    "last_update_time": "06:01:55 PM 12-09-2026",
     "total_matches": 39,
-    "live_match": 6,
+    "live_match": 10,
     "matches": [
         {
             "status": "LIVE",
@@ -21,16 +21,55 @@
         },
         {
             "status": "LIVE",
-            "match_id": "4249161",
+            "match_id": "4249162",
             "title": "ILT20 Africa Continent Cup 2026",
             "tournament": "Fancode-Cricket",
             "category": "Fancode-Cricket",
             "streamingStatus": "LIVE",
             "startTime": null,
             "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
             "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249161/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249162/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4247490",
+            "title": "EFL Championship 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247490/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4247616",
+            "title": "LALIGA 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247616/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4248470",
+            "title": "Barclays Women's Super League 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248470/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -73,6 +112,19 @@
         },
         {
             "status": "LIVE",
+            "match_id": "4249174",
+            "title": "DTM 2026",
+            "tournament": "Fancode-Motorsports",
+            "category": "Fancode-Motorsports",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249174/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4248678",
             "title": "Oman D50 2026 [English]",
@@ -99,42 +151,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249162",
-            "title": "Botswana vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Botswana vs Sierra Leone",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
-            "team_1": "Botswana",
-            "team_2": "Sierra Leone",
-            "startTime": "05:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247490",
-            "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
-            "match_name": "Derby County Football Club vs Birmingham City F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Birmingham City F.C.",
-            "startTime": "05:00:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248470",
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249091",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
             "match_name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
@@ -143,18 +159,6 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "07:30:00 PM 12-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247616",
-            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Racing Club de Santander vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-            "team_1": "Racing Club de Santander",
-            "team_2": "Deportivo Alaves",
-            "startTime": "05:30:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -254,18 +258,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249146",
-            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-            "match_name": "Córdoba vs Almería",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Córdoba",
-            "team_2": "Almería",
-            "startTime": "12:30:00 AM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249163",
             "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
@@ -278,15 +270,27 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249146",
+            "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+            "match_name": "Córdoba vs Almería",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Córdoba",
+            "team_2": "Almería",
+            "startTime": "12:30:00 AM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
-            "match_id": "4249174",
-            "title": "Race 1 vs Germany (DTM 2026)",
-            "match_name": "Race 1",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 1",
-            "team_2": "Germany",
-            "startTime": "04:45:00 PM 12-09-2026"
+            "match_id": "139652",
+            "title": "Sprint Race vs Madrid, Spain (F2 MADRID 2026)",
+            "match_name": "Sprint Race",
+            "event_name": "F2 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Madrid, Spain",
+            "startTime": "05:45:00 PM 12-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -362,15 +366,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139652",
-            "title": "Sprint Race vs Madrid, Spain (F2 MADRID 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F2 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Madrid, Spain",
-            "startTime": "05:45:00 PM 12-09-2026"
+            "event_category": "Football",
+            "match_id": "4247610",
+            "title": "Levante vs FC Barcelona (LALIGA 2026-27)",
+            "match_name": "Levante vs FC Barcelona",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247610_53004_LET_BAR_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "FC Barcelona",
+            "startTime": "07:45:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -435,18 +439,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4247610",
-            "title": "Levante vs FC Barcelona (LALIGA 2026-27)",
-            "match_name": "Levante vs FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247610_53004_LET_BAR_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "FC Barcelona",
-            "startTime": "07:45:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4248472",
             "title": "Birmingham City F.C. Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Brighton and Hove Albion Women",
@@ -479,6 +471,18 @@
             "team_1": "Liverpool Women",
             "team_2": "Tottenham Hotspur Women",
             "startTime": "06:30:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248475",
+            "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Crystal Palace Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Crystal Palace Women",
+            "startTime": "07:15:00 PM 13-09-2026"
         }
     ]
 }
