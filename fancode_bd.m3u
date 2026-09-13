@@ -2,6 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:32:48 PM 13-09-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 01:01:24 PM 13-09-2026 (BD Time)
+# Live Match : 2
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Motorsports",Qualifying 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248641/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="MotoGP",San Marino GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139968/index.m3u8

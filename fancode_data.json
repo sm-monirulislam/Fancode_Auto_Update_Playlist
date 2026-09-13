@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:32:48 PM 13-09-2026",
+    "last_update_time": "01:01:24 PM 13-09-2026",
     "total_matches": 38,
-    "live_match": 0,
+    "live_match": 2,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "4248641",
+            "title": "DTM 2026 [English]",
+            "match_name": "Qualifying 2 [English]",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Qualifying 2",
+            "team_2": "Sachsenring",
+            "startTime": "12:25:00 PM 13-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248641/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139968",
+            "title": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA [English]",
+            "match_name": "San Marino GP [English]",
+            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+            "team_1": "Race Day",
+            "team_2": "Misano World Circuit",
+            "startTime": "02:30:00 PM 13-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139968/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -224,18 +250,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4248641",
-            "title": "Qualifying 2 vs Sachsenring (DTM 2026)",
-            "match_name": "Qualifying 2",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Qualifying 2",
-            "team_2": "Sachsenring",
-            "startTime": "12:25:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248634",
             "title": "Namibia vs South Africa (South Africa tour of Namibia, 2026)",
@@ -269,18 +283,6 @@
             "team_1": "Coppa Shell Race 2",
             "team_2": "Europe",
             "startTime": "01:50:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139968",
-            "title": "Race Day vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-            "match_name": "San Marino GP",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-            "team_1": "Race Day",
-            "team_2": "Misano World Circuit",
-            "startTime": "02:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -369,18 +371,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248313",
-            "title": "Barbados Tridents vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Guyana Amazon Warriors",
-            "event_name": "Caribbean Premier League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Guyana Amazon Warriors",
-            "startTime": "04:30:00 AM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248679",
             "title": "TBC vs TBC (Oman D50 2026)",
             "match_name": "TBC vs TBC",
@@ -389,6 +379,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "04:00:00 PM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248313",
+            "title": "Barbados Tridents vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Guyana Amazon Warriors",
+            "event_name": "Caribbean Premier League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Guyana Amazon Warriors",
+            "startTime": "04:30:00 AM 14-09-2026"
         },
         {
             "status": "UPCOMING",
