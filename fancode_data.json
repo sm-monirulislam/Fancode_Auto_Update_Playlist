@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:02:05 AM 14-09-2026",
+    "last_update_time": "01:11:56 AM 14-09-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -49,27 +49,14 @@
             "status": "LIVE",
             "event_category": "Football",
             "match_id": "4249148",
-            "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs Leganes",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Tenerife vs Leganes [English]",
             "event_name": "LALIGA Hypermotion 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
             "team_1": "Tenerife",
             "team_2": "Leganes",
             "startTime": "12:30:00 AM 14-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247613",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Getafe CF vs Deportivo de La Coruna [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "10:00:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +453,18 @@
             "team_1": "Liverpool",
             "team_2": "Tottenham Hotspur",
             "startTime": "12:30:00 AM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247622",
+            "title": "Elche CF vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "Elche CF vs Real Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "Real Madrid",
+            "startTime": "01:00:00 AM 16-09-2026"
         }
     ]
 }
