@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:35 PM 13-09-2026",
+    "last_update_time": "05:01:14 PM 13-09-2026",
     "total_matches": 39,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
-            "match_id": "4249163",
-            "title": "ILT20 Africa Continent Cup 2026",
-            "tournament": "Fancode-Cricket",
-            "category": "Fancode-Cricket",
+            "match_id": "4247492",
+            "title": "EFL Championship 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
             "streamingStatus": "LIVE",
             "startTime": null,
             "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
             "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249163/index.m3u8"
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247492/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "match_id": "4248471",
+            "title": "Barclays Women's Super League 2026-27",
+            "tournament": "Fancode-Football",
+            "category": "Fancode-Football",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248471/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -31,19 +44,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
             "team": [],
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248634/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "match_id": "4249178",
-            "title": "Ferrari Challenge Series 2026",
-            "tournament": "Fancode-Motorsports",
-            "category": "Fancode-Motorsports",
-            "streamingStatus": "LIVE",
-            "startTime": null,
-            "startDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team": [],
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249178/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -85,6 +85,19 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139653/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "match_id": "139491",
+            "title": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+            "tournament": "Fancode-Formula 1",
+            "category": "Fancode-Formula 1",
+            "streamingStatus": "LIVE",
+            "startTime": null,
+            "startDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+            "team": [],
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139491/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249129",
@@ -103,7 +116,7 @@
             "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
             "match_name": "India vs Afghanistan",
             "event_name": "India Tour of Afghanistan, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
             "team_1": "India",
             "team_2": "Afghanistan",
             "startTime": "07:30:00 PM 13-09-2026"
@@ -119,18 +132,6 @@
             "team_1": "Botswana",
             "team_2": "Rwanda",
             "startTime": "05:00:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247492",
-            "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Sheffield United F.C. vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "startTime": "04:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -191,18 +192,6 @@
             "team_1": "Real Sociedad",
             "team_2": "Atletico de Madrid",
             "startTime": "12:30:00 AM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248471",
-            "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Chelsea F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "04:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -290,6 +279,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249175",
+            "title": "Race 2 vs Germany (DTM 2026)",
+            "match_name": "Race 2",
+            "event_name": "DTM 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "team_1": "Race 2",
+            "team_2": "Germany",
+            "startTime": "04:45:00 PM 13-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248679",
             "title": "TBC vs TBC (Oman D50 2026)",
@@ -303,18 +304,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Motorsports",
-            "match_id": "4249175",
-            "title": "Race 2 vs Germany (DTM 2026)",
-            "match_name": "Race 2",
-            "event_name": "DTM 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "team_1": "Race 2",
-            "team_2": "Germany",
-            "startTime": "04:45:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
             "match_id": "4249179",
             "title": "Trofoe Pirelli Race 2 vs Europe (Ferrari Challenge Series 2026)",
             "match_name": "Trofoe Pirelli Race 2",
@@ -323,18 +312,6 @@
             "team_1": "Trofoe Pirelli Race 2",
             "team_2": "Europe",
             "startTime": "06:15:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "139491",
-            "title": "Race vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-            "match_name": "Race",
-            "event_name": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-            "team_1": "Race",
-            "team_2": "Circuito de Madring",
-            "startTime": "06:30:00 PM 13-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -362,6 +339,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248680",
+            "title": "PFC Neftchi vs Air Force SC (AFC Champions League Elite 2026-27)",
+            "match_name": "PFC Neftchi vs Air Force SC",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
+            "team_1": "PFC Neftchi",
+            "team_2": "Air Force SC",
+            "startTime": "07:15:00 PM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248313",
             "title": "Barbados Tridents vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
@@ -374,15 +363,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248680",
-            "title": "PFC Neftchi vs Air Force SC (AFC Champions League Elite 2026-27)",
-            "match_name": "PFC Neftchi vs Air Force SC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
-            "team_1": "PFC Neftchi",
-            "team_2": "Air Force SC",
-            "startTime": "07:15:00 PM 14-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249241",
+            "title": "Desert Vipers Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Desert Vipers Development vs MI Emirates Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "src": "https://images.fancode.com/aig/match/v1789294242694/4249241_CASACARDS_APP.png",
+            "team_1": "Desert Vipers Development",
+            "team_2": "MI Emirates Development",
+            "startTime": "06:30:00 PM 14-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -443,6 +432,18 @@
             "team_1": "Al Qadisiyah",
             "team_2": "Al Wasl F.C.",
             "startTime": "11:45:00 PM 14-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249242",
+            "title": "Gulf Giants Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Gulf Giants Development vs Dubai Capitals Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "src": "https://images.fancode.com/aig/match/v1789294242693/4249242_CASACARDS_APP.png",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "10:30:00 PM 14-09-2026"
         },
         {
             "status": "UPCOMING",
