@@ -2,49 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:34:04 AM 14-09-2026",
-    "total_matches": 39,
-    "live_match": 3,
+    "last_update_time": "04:01:08 AM 14-09-2026",
+    "total_matches": 38,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249093",
-            "title": "Women's Caribbean Premier League, 2026 [English]",
-            "match_name": "Barbados Tridents Women vs Guyana Amazon Warriors Women [English]",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
-            "team_1": "Barbados Tridents Women",
-            "team_2": "Guyana Amazon Warriors Women",
-            "startTime": "11:30:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249093/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249148",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Tenerife vs Leganes [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Leganes",
-            "startTime": "12:30:00 AM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247614",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Real Sociedad vs Atletico de Madrid [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "startTime": "12:30:00 AM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -472,10 +433,34 @@
             "title": "Jeonbuk Motors vs Kashiwa Reysol (AFC Champions League Elite 2026-27)",
             "match_name": "Jeonbuk Motors vs Kashiwa Reysol",
             "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248694_53053_JNB_REY_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248694_53053_JNB_REY_fc-web.jpg",
             "team_1": "Jeonbuk Motors",
             "team_2": "Kashiwa Reysol",
             "startTime": "03:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248961",
+            "title": "Seoul vs Persib Bandung (AFC Champions League Two 2026-27)",
+            "match_name": "Seoul vs Persib Bandung",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248961_53057_SE_PER_fc-web_1789025066490.jpg",
+            "team_1": "Seoul",
+            "team_2": "Persib Bandung",
+            "startTime": "03:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249168",
+            "title": "Sierra Leone vs Rwanda (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Sierra Leone vs Rwanda",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249168_53067_SRL_RWA_FC-Web.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Rwanda",
+            "startTime": "05:00:00 PM 16-09-2026"
         }
     ]
 }
