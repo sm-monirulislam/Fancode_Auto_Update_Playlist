@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:18 AM 14-09-2026",
-    "total_matches": 39,
-    "live_match": 4,
+    "last_update_time": "01:02:05 AM 14-09-2026",
+    "total_matches": 38,
+    "live_match": 5,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249129",
-            "title": "Sher-E-Punjab T20, 2026 [Hindi]",
-            "match_name": "Ludhiana Lions vs Amritsar Soormas [Hindi]",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AmritsarSoormas_vs_LudhianaLions_fc-web.jpg",
-            "team_1": "Ludhiana Lions",
-            "team_2": "Amritsar Soormas",
-            "startTime": "06:30:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249129/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247613",
+            "match_id": "4247614",
             "title": "LALIGA 2026-27 [English]",
-            "match_name": "Getafe CF vs Deportivo de La Coruna [English]",
+            "match_name": "Real Sociedad vs Atletico de Madrid [English]",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Deportivo de La Coruna",
-            "startTime": "10:00:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Atletico de Madrid",
+            "startTime": "12:30:00 AM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -59,16 +46,30 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248476/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247614",
-            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Atletico de Madrid",
+            "match_id": "4249148",
+            "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Tenerife vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
+            "team_1": "Tenerife",
+            "team_2": "Leganes",
+            "startTime": "12:30:00 AM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247613",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Getafe CF vs Deportivo de La Coruna [English]",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "startTime": "12:30:00 AM 14-09-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Deportivo de La Coruna",
+            "startTime": "10:00:00 PM 13-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -81,18 +82,6 @@
             "team_1": "Yalla Shabab Giants",
             "team_2": "Royal Oman Stallions",
             "startTime": "04:00:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249148",
-            "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Leganes",
-            "startTime": "12:30:00 AM 14-09-2026"
         },
         {
             "status": "UPCOMING",
