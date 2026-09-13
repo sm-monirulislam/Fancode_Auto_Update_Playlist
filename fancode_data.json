@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:49:59 PM 13-09-2026",
+    "last_update_time": "11:01:28 PM 13-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -44,19 +44,6 @@
             "team_2": "Deportivo de La Coruna",
             "startTime": "10:00:00 PM 13-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247610",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Levante vs FC Barcelona [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247610_53004_LET_BAR_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "FC Barcelona",
-            "startTime": "07:45:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247610/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +475,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg",
             "team_1": "Ipswich Town F.C.",
             "team_2": "Arsenal",
+            "startTime": "12:30:00 AM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249061",
+            "title": "Liverpool vs Tottenham Hotspur (Carabao Cup 2026-27)",
+            "match_name": "Liverpool vs Tottenham Hotspur",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Tottenham Hotspur",
             "startTime": "12:30:00 AM 16-09-2026"
         }
     ]
