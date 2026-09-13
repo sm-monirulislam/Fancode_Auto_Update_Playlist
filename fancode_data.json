@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:01:29 AM 14-09-2026",
-    "total_matches": 38,
+    "last_update_time": "03:34:04 AM 14-09-2026",
+    "total_matches": 39,
     "live_match": 3,
     "matches": [
         {
@@ -22,19 +22,6 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247614",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Real Sociedad vs Atletico de Madrid [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "startTime": "12:30:00 AM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
             "match_id": "4249148",
             "title": "LALIGA Hypermotion 2026-27 [English]",
             "match_name": "Tenerife vs Leganes [English]",
@@ -44,6 +31,19 @@
             "team_2": "Leganes",
             "startTime": "12:30:00 AM 14-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247614",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Real Sociedad vs Atletico de Madrid [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Atletico de Madrid",
+            "startTime": "12:30:00 AM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -464,6 +464,18 @@
             "team_1": "Botswana",
             "team_2": "Uganda",
             "startTime": "01:00:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248694",
+            "title": "Jeonbuk Motors vs Kashiwa Reysol (AFC Champions League Elite 2026-27)",
+            "match_name": "Jeonbuk Motors vs Kashiwa Reysol",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248694_53053_JNB_REY_fc-web.jpg",
+            "team_1": "Jeonbuk Motors",
+            "team_2": "Kashiwa Reysol",
+            "startTime": "03:30:00 PM 16-09-2026"
         }
     ]
 }
