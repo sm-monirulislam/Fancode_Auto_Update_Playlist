@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:28 PM 13-09-2026",
-    "total_matches": 40,
-    "live_match": 3,
+    "last_update_time": "12:01:18 AM 14-09-2026",
+    "total_matches": 39,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -22,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4248491",
-            "title": "India Tour of Afghanistan, 2026 [English]",
-            "match_name": "Afghanistan vs India [English]",
-            "event_name": "India Tour of Afghanistan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "India",
-            "startTime": "07:30:00 PM 13-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248491/index.m3u8"
+            "match_id": "4249093",
+            "title": "Women's Caribbean Premier League, 2026 [English]",
+            "match_name": "Barbados Tridents Women vs Guyana Amazon Warriors Women [English]",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
+            "team_1": "Barbados Tridents Women",
+            "team_2": "Guyana Amazon Warriors Women",
+            "startTime": "11:30:00 PM 13-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249093/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -46,28 +46,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4248476",
-            "title": "Aston Villa Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Aston Villa Women vs Manchester City Women",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Aston Villa Women vs Manchester City Women [English]",
             "event_name": "Barclays Women's Super League 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248476_53038_AST-W_MCI-W_fc-web.jpg",
             "team_1": "Aston Villa Women",
             "team_2": "Manchester City Women",
-            "startTime": "11:00:00 PM 13-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249093",
-            "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors Women vs Barbados Tridents Women",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
-            "team_1": "Guyana Amazon Warriors Women",
-            "team_2": "Barbados Tridents Women",
-            "startTime": "11:30:00 PM 13-09-2026"
+            "startTime": "11:00:00 PM 13-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248476/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -85,12 +74,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248679",
-            "title": "TBC vs TBC (Oman D50 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Yalla Shabab Giants vs Royal Oman Stallions (Oman D50 2026)",
+            "match_name": "Yalla Shabab Giants vs Royal Oman Stallions",
             "event_name": "Oman D50 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Royal Oman Stallions",
             "startTime": "04:00:00 PM 14-09-2026"
         },
         {

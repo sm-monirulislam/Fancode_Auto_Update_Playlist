@@ -2,12 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:01:28 PM 13-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 12:01:18 AM 14-09-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AmritsarSoormas_vs_LudhianaLions_fc-web.jpg" group-title="Cricket",Ludhiana Lions vs Amritsar Soormas [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249129/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Cricket",Afghanistan vs India [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248491/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="Cricket",Barbados Tridents Women vs Guyana Amazon Warriors Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249093/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png" group-title="Football",Getafe CF vs Deportivo de La Coruna [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247613/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248476_53038_AST-W_MCI-W_fc-web.jpg" group-title="Football",Aston Villa Women vs Manchester City Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248476/index.m3u8
