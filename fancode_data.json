@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:00:28 PM 14-09-2026",
+    "last_update_time": "10:00:25 PM 14-09-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -58,6 +58,32 @@
             "startTime": "01:00:00 PM 15-09-2026"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248681",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Shabab Al Ahli vs Tractor [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248681_53053_SAA_TFC_fc-web.jpg",
+            "team_1": "Shabab Al Ahli",
+            "team_2": "Tractor",
+            "startTime": "09:30:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248681/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248682",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Al Shamal vs Al-Ittihad [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Shamal-vs-Al-Ittihad-Old-card.jpg",
+            "team_1": "Al Shamal",
+            "team_2": "Al-Ittihad",
+            "startTime": "09:30:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248682/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249242",
@@ -68,30 +94,6 @@
             "team_1": "Gulf Giants Development",
             "team_2": "Dubai Capitals Development",
             "startTime": "10:30:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248681",
-            "title": "Shabab Al Ahli vs Tractor (AFC Champions League Elite 2026-27)",
-            "match_name": "Shabab Al Ahli vs Tractor",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248681_53053_SAA_TFC_fc-web.jpg",
-            "team_1": "Shabab Al Ahli",
-            "team_2": "Tractor",
-            "startTime": "09:30:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248682",
-            "title": "Al Shamal vs Al-Ittihad (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Shamal vs Al-Ittihad",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Shamal-vs-Al-Ittihad-Old-card.jpg",
-            "team_1": "Al Shamal",
-            "team_2": "Al-Ittihad",
-            "startTime": "09:30:00 PM 14-09-2026"
         },
         {
             "status": "UPCOMING",
