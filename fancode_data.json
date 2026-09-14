@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:02:14 PM 14-09-2026",
+    "last_update_time": "03:34:48 PM 14-09-2026",
     "total_matches": 38,
     "live_match": 0,
     "matches": [
@@ -116,18 +116,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247615",
-            "title": "Villarreal CF vs Real Betis (LALIGA 2026-27)",
-            "match_name": "Villarreal CF vs Real Betis",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247615_53004_VIL_RB_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Real Betis",
-            "startTime": "12:30:00 AM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249098",
             "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
@@ -137,6 +125,18 @@
             "team_1": "Zimbabwe",
             "team_2": "Australia",
             "startTime": "01:00:00 PM 15-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247615",
+            "title": "Villarreal CF vs Real Betis (LALIGA 2026-27)",
+            "match_name": "Villarreal CF vs Real Betis",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247615_53004_VIL_RB_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Real Betis",
+            "startTime": "12:30:00 AM 15-09-2026"
         },
         {
             "status": "UPCOMING",
