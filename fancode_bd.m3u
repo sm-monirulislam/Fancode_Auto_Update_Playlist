@@ -2,14 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:00 AM 15-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 01:00:30 AM 15-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg" group-title="Cricket",Yalla Shabab Giants vs Royal Oman Stallions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248679/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png" group-title="Cricket",Gulf Giants Development vs Dubai Capitals Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249242/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248681_53053_SAA_TFC_fc-web.jpg" group-title="Football",Shabab Al Ahli vs Tractor [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248681/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Shamal-vs-Al-Ittihad-Old-card.jpg" group-title="Football",Al Shamal vs Al-Ittihad [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248682/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-vs-Pakhtakor-FC-Old-card.jpg" group-title="Football",Al-Ahli Saudi FC vs Pakhtakor Tashkent [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248683/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Esteghlal-FC-vs-Al-Sadd-SC--Old-card.jpg" group-title="Football",Esteghlal FC vs Al Sadd [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248684/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Qadsiah-FC-vs-Mehdi-Taremi--Old-card.jpg" group-title="Football",Al Qadisiyah vs Al Wasl F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248685/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247615_53004_VIL_RB_FC-Web.png" group-title="Football",Villarreal CF vs Real Betis [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247615/index.m3u8

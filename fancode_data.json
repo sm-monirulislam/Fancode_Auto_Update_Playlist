@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:00 AM 15-09-2026",
+    "last_update_time": "01:00:30 AM 15-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248679",
-            "title": "Oman D50 2026 [English]",
-            "match_name": "Yalla Shabab Giants vs Royal Oman Stallions [English]",
-            "event_name": "Oman D50 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg",
-            "team_1": "Yalla Shabab Giants",
-            "team_2": "Royal Oman Stallions",
-            "startTime": "04:00:00 PM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248679/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,28 +22,54 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248681",
+            "match_id": "4248683",
             "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Shabab Al Ahli vs Tractor [English]",
+            "match_name": "Al-Ahli Saudi FC vs Pakhtakor Tashkent [English]",
             "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248681_53053_SAA_TFC_fc-web.jpg",
-            "team_1": "Shabab Al Ahli",
-            "team_2": "Tractor",
-            "startTime": "09:30:00 PM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248681/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-vs-Pakhtakor-FC-Old-card.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Pakhtakor Tashkent",
+            "startTime": "11:45:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248683/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248682",
+            "match_id": "4248684",
             "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Al Shamal vs Al-Ittihad [English]",
+            "match_name": "Esteghlal FC vs Al Sadd [English]",
             "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Shamal-vs-Al-Ittihad-Old-card.jpg",
-            "team_1": "Al Shamal",
-            "team_2": "Al-Ittihad",
-            "startTime": "09:30:00 PM 14-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248682/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Esteghlal-FC-vs-Al-Sadd-SC--Old-card.jpg",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Sadd",
+            "startTime": "11:45:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248684/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248685",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Al Qadisiyah vs Al Wasl F.C. [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Qadsiah-FC-vs-Mehdi-Taremi--Old-card.jpg",
+            "team_1": "Al Qadisiyah",
+            "team_2": "Al Wasl F.C.",
+            "startTime": "11:45:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248685/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247615",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Villarreal CF vs Real Betis [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247615_53004_VIL_RB_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Real Betis",
+            "startTime": "12:30:00 AM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247615/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -72,42 +85,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248683",
-            "title": "Al-Ahli Saudi FC vs Pakhtakor Tashkent (AFC Champions League Elite 2026-27)",
-            "match_name": "Al-Ahli Saudi FC vs Pakhtakor Tashkent",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-vs-Pakhtakor-FC-Old-card.jpg",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Pakhtakor Tashkent",
-            "startTime": "11:45:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248684",
-            "title": "Esteghlal FC vs Al Sadd (AFC Champions League Elite 2026-27)",
-            "match_name": "Esteghlal FC vs Al Sadd",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Esteghlal-FC-vs-Al-Sadd-SC--Old-card.jpg",
-            "team_1": "Esteghlal FC",
-            "team_2": "Al Sadd",
-            "startTime": "11:45:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248685",
-            "title": "Al Qadisiyah vs Al Wasl F.C. (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Qadisiyah vs Al Wasl F.C.",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Qadsiah-FC-vs-Mehdi-Taremi--Old-card.jpg",
-            "team_1": "Al Qadisiyah",
-            "team_2": "Al Wasl F.C.",
-            "startTime": "11:45:00 PM 14-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248493",
             "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
@@ -117,18 +94,6 @@
             "team_1": "Afghanistan",
             "team_2": "India",
             "startTime": "07:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247615",
-            "title": "Villarreal CF vs Real Betis (LALIGA 2026-27)",
-            "match_name": "Villarreal CF vs Real Betis",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247615_53004_VIL_RB_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Real Betis",
-            "startTime": "12:30:00 AM 15-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +454,42 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248953",
+            "title": "Al Wahda vs Kuwait SC (AFC Champions League Two 2026-27)",
+            "match_name": "Al Wahda vs Kuwait SC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248953_53057_ALW_KSC_fc-web_1789025065232.jpg",
+            "team_1": "Al Wahda",
+            "team_2": "Kuwait SC",
+            "startTime": "09:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248954",
+            "title": "Al Khaldiya SC vs PFC Nasaf (AFC Champions League Two 2026-27)",
+            "match_name": "Al Khaldiya SC vs PFC Nasaf",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248954_53057_ALK_NAS_fc-web_1789025065277.jpg",
+            "team_1": "Al Khaldiya SC",
+            "team_2": "PFC Nasaf",
+            "startTime": "09:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248957",
+            "title": "Al-Nahda Club vs Al-Taawoun FC (AFC Champions League Two 2026-27)",
+            "match_name": "Al-Nahda Club vs Al-Taawoun FC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248957_53057_ALN_ALTW_fc-web_1789025065300.jpg",
+            "team_1": "Al-Nahda Club",
+            "team_2": "Al-Taawoun FC",
+            "startTime": "09:30:00 PM 16-09-2026"
         }
     ]
 }
