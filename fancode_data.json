@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:25 PM 14-09-2026",
-    "total_matches": 38,
-    "live_match": 2,
+    "last_update_time": "08:00:30 PM 14-09-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -33,16 +33,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249241/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4248680",
-            "title": "PFC Neftchi vs Air Force SC (AFC Champions League Elite 2026-27)",
-            "match_name": "PFC Neftchi vs Air Force SC",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "PFC Neftchi vs Air Force SC [English]",
             "event_name": "AFC Champions League Elite 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
             "team_1": "PFC Neftchi",
             "team_2": "Air Force SC",
-            "startTime": "07:15:00 PM 14-09-2026"
+            "startTime": "07:15:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248680/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +464,18 @@
             "team_1": "Sierra Leone",
             "team_2": "Rwanda",
             "startTime": "05:00:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248695",
+            "title": "Port FC vs Vissel Kobe (AFC Champions League Elite 2026-27)",
+            "match_name": "Port FC vs Vissel Kobe",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248695_53053_PFC_VIS_fc-web.jpg",
+            "team_1": "Port FC",
+            "team_2": "Vissel Kobe",
+            "startTime": "05:45:00 PM 16-09-2026"
         }
     ]
 }
