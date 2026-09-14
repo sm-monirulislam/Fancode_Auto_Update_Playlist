@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:10:05 PM 14-09-2026",
+    "last_update_time": "11:00:26 PM 14-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -26,11 +26,24 @@
             "title": "DP World ILT20 Development Tournament 2026 [English]",
             "match_name": "Desert Vipers Development vs MI Emirates Development [English]",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://images.fancode.com/aig/match/v1789388726902/4249241_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
             "team_1": "Desert Vipers Development",
             "team_2": "MI Emirates Development",
             "startTime": "06:30:00 PM 14-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249241/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249242",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Gulf Giants Development vs Dubai Capitals Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "10:30:00 PM 14-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249242/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -73,14 +86,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249242",
-            "title": "Gulf Giants Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Gulf Giants Development vs Dubai Capitals Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://images.fancode.com/aig/match/v1789294242693/4249242_CASACARDS_APP.png",
-            "team_1": "Gulf Giants Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "10:30:00 PM 14-09-2026"
+            "match_id": "4248493",
+            "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
+            "match_name": "Afghanistan vs India",
+            "event_name": "India Tour of Afghanistan, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "India",
+            "startTime": "07:30:00 PM 15-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -129,18 +142,6 @@
             "team_1": "Villarreal CF",
             "team_2": "Real Betis",
             "startTime": "12:30:00 AM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248493",
-            "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
-            "match_name": "Afghanistan vs India",
-            "event_name": "India Tour of Afghanistan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "India",
-            "startTime": "07:30:00 PM 15-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -245,7 +246,7 @@
             "title": "Dubai Capitals Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://images.fancode.com/aig/match/v1789294242670/4249243_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
             "team_1": "Dubai Capitals Development",
             "team_2": "Sharjah Warriorz Development",
             "startTime": "06:30:00 PM 15-09-2026"
@@ -293,7 +294,7 @@
             "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://images.fancode.com/aig/match/v1789294242699/4249244_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 15-09-2026"
@@ -485,7 +486,7 @@
             "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "src": "https://images.fancode.com/aig/match/v1789294242699/4249245_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 16-09-2026"
