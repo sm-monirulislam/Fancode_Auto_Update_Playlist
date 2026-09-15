@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:28 PM 15-09-2026",
-    "total_matches": 40,
-    "live_match": 5,
+    "last_update_time": "11:00:26 PM 15-09-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249098",
-            "title": "Australia tour of Zimbabwe, 2026 [English]",
-            "match_name": "Australia vs Zimbabwe [English]",
-            "event_name": "Australia tour of Zimbabwe, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-            "team_1": "Australia",
-            "team_2": "Zimbabwe",
-            "startTime": "01:00:00 PM 15-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249098/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -34,42 +21,29 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249243",
-            "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development [English]",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249243_53070_DCD_SWD_FC-Web.png",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "Sharjah Warriorz Development",
-            "startTime": "06:30:00 PM 15-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249243/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4248686",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Al Ain vs Al-Nassr FC [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Al-Nassr FC",
+            "startTime": "09:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248686/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248955",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Golgohar Sirjan SC vs Al Jazira [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248955_53057_GGS_ALJ_fc-web_1789025065269.jpg",
-            "team_1": "Golgohar Sirjan SC",
-            "team_2": "Al Jazira",
-            "startTime": "07:15:00 PM 15-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248955/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248956",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "FK Arkadag vs Al Muharraq [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248956_53057_ARK_ALM_fc-web_1789025066304.jpg",
-            "team_1": "FK Arkadag",
-            "team_2": "Al Muharraq",
-            "startTime": "07:15:00 PM 15-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248956/index.m3u8"
+            "match_id": "4247625",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Rayo Vallecano vs RCD Espanyol [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247625_53004_RVL_ESL_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "RCD Espanyol",
+            "startTime": "10:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247625/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -85,18 +59,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248686",
-            "title": "Al Ain vs Al-Nassr FC (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Ain vs Al-Nassr FC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg",
-            "team_1": "Al Ain",
-            "team_2": "Al-Nassr FC",
-            "startTime": "09:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249244",
             "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
@@ -105,18 +67,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249244_53070_ADK_MED_FC-Web.png",
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "MI Emirates Development",
-            "startTime": "10:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247625",
-            "title": "Rayo Vallecano vs RCD Espanyol (LALIGA 2026-27)",
-            "match_name": "Rayo Vallecano vs RCD Espanyol",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247625_53004_RVL_ESL_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "RCD Espanyol",
             "startTime": "10:30:00 PM 15-09-2026"
         },
         {
@@ -490,6 +440,42 @@
             "team_1": "Malaysia",
             "team_2": "United Arab Emirates",
             "startTime": "07:30:00 AM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248314",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249169",
+            "title": "Rwanda vs Uganda (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Rwanda vs Uganda",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
+            "team_1": "Rwanda",
+            "team_2": "Uganda",
+            "startTime": "01:00:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248963",
+            "title": "Lion City Sailors vs BG Pathum United (AFC Champions League Two 2026-27)",
+            "match_name": "Lion City Sailors vs BG Pathum United",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248963_53057_LIO_PNU_fc-web_1789025066501.jpg",
+            "team_1": "Lion City Sailors",
+            "team_2": "BG Pathum United",
+            "startTime": "03:30:00 PM 17-09-2026"
         }
     ]
 }
