@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:26 AM 16-09-2026",
+    "last_update_time": "02:00:26 AM 16-09-2026",
     "total_matches": 38,
-    "live_match": 5,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 15-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249244/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247625",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Rayo Vallecano vs RCD Espanyol [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247625_53004_RVL_ESL_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "RCD Espanyol",
-            "startTime": "10:30:00 PM 15-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247625/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -72,6 +59,58 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249055/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249056",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Reading vs Brentford [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg",
+            "team_1": "Reading",
+            "team_2": "Brentford",
+            "startTime": "12:30:00 AM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249056/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249057",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Ipswich Town F.C. vs Arsenal [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg",
+            "team_1": "Ipswich Town F.C.",
+            "team_2": "Arsenal",
+            "startTime": "12:30:00 AM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249057/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249061",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Liverpool vs Tottenham Hotspur [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Tottenham Hotspur",
+            "startTime": "12:30:00 AM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249061/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247622",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Elche CF vs Real Madrid [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "Real Madrid",
+            "startTime": "01:00:00 AM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247622/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249259",
@@ -82,54 +121,6 @@
             "team_1": "Malaysia",
             "team_2": "United Arab Emirates",
             "startTime": "07:30:00 AM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249056",
-            "title": "Reading vs Brentford (Carabao Cup 2026-27)",
-            "match_name": "Reading vs Brentford",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg",
-            "team_1": "Reading",
-            "team_2": "Brentford",
-            "startTime": "12:30:00 AM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249057",
-            "title": "Ipswich Town F.C. vs Arsenal (Carabao Cup 2026-27)",
-            "match_name": "Ipswich Town F.C. vs Arsenal",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Arsenal",
-            "startTime": "12:30:00 AM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249061",
-            "title": "Liverpool vs Tottenham Hotspur (Carabao Cup 2026-27)",
-            "match_name": "Liverpool vs Tottenham Hotspur",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
-            "team_1": "Liverpool",
-            "team_2": "Tottenham Hotspur",
-            "startTime": "12:30:00 AM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247622",
-            "title": "Elche CF vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Elche CF vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "Real Madrid",
-            "startTime": "01:00:00 AM 16-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -465,6 +456,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248964_53057_ADL_WTP_fc-web_1789025066327.jpg",
             "team_1": "Adelaide United",
             "team_2": "Tai Po FC",
+            "startTime": "03:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248965",
+            "title": "Machida Zelvia vs Preah Khan Reach Svay Rieng FC (AFC Champions League Two 2026-27)",
+            "match_name": "Machida Zelvia vs Preah Khan Reach Svay Rieng FC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248965_53057_MZ_PRK_fc-web_1789025065378.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Preah Khan Reach Svay Rieng FC",
             "startTime": "03:30:00 PM 17-09-2026"
         }
     ]
