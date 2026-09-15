@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:27 PM 15-09-2026",
+    "last_update_time": "04:00:28 PM 15-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -33,6 +33,58 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249165/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248688",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Kashima Antlers vs Newcastle Jets [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248688_53053_ANL_NJ_fc-web.jpg",
+            "team_1": "Kashima Antlers",
+            "team_2": "Newcastle Jets",
+            "startTime": "03:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248688/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248689",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Daejeon Hana Citizen FC vs Kyoto Sanga [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248689_53053_DAC_KYS_fc-web.jpg",
+            "team_1": "Daejeon Hana Citizen FC",
+            "team_2": "Kyoto Sanga",
+            "startTime": "03:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248689/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248690",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Gamba Osaka vs Cong An Ha Noi [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248690_53053_OSK_CAH_fc-web.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "Cong An Ha Noi",
+            "startTime": "03:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248690/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248691",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Ratchaburi vs Shanghai Port [English]",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248691_53053_RAT_SHG_fc-web.jpg",
+            "team_1": "Ratchaburi",
+            "team_2": "Shanghai Port",
+            "startTime": "03:30:00 PM 15-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248691/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248493",
@@ -51,7 +103,7 @@
             "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
             "match_name": "Malaysia vs United Arab Emirates",
             "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://images.fancode.com/aig/match/v1789384410195/4249259_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
             "team_1": "Malaysia",
             "team_2": "United Arab Emirates",
             "startTime": "07:30:00 AM 16-09-2026"
@@ -79,54 +131,6 @@
             "team_1": "Dubai Capitals Development",
             "team_2": "Sharjah Warriorz Development",
             "startTime": "06:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248688",
-            "title": "Kashima Antlers vs Newcastle Jets (AFC Champions League Elite 2026-27)",
-            "match_name": "Kashima Antlers vs Newcastle Jets",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248688_53053_ANL_NJ_fc-web.jpg",
-            "team_1": "Kashima Antlers",
-            "team_2": "Newcastle Jets",
-            "startTime": "03:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248689",
-            "title": "Daejeon Hana Citizen FC vs Kyoto Sanga (AFC Champions League Elite 2026-27)",
-            "match_name": "Daejeon Hana Citizen FC vs Kyoto Sanga",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248689_53053_DAC_KYS_fc-web.jpg",
-            "team_1": "Daejeon Hana Citizen FC",
-            "team_2": "Kyoto Sanga",
-            "startTime": "03:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248690",
-            "title": "Gamba Osaka vs Cong An Ha Noi (AFC Champions League Elite 2026-27)",
-            "match_name": "Gamba Osaka vs Cong An Ha Noi",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248690_53053_OSK_CAH_fc-web.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "Cong An Ha Noi",
-            "startTime": "03:30:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248691",
-            "title": "Ratchaburi vs Shanghai Port (AFC Champions League Elite 2026-27)",
-            "match_name": "Ratchaburi vs Shanghai Port",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248691_53053_RAT_SHG_fc-web.jpg",
-            "team_1": "Ratchaburi",
-            "team_2": "Shanghai Port",
-            "startTime": "03:30:00 PM 15-09-2026"
         },
         {
             "status": "UPCOMING",
