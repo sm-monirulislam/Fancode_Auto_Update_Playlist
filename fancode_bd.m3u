@@ -2,16 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:00:27 PM 15-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 08:00:26 PM 15-09-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Cricket",Australia vs Zimbabwe [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249098/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Cricket",Afghanistan vs India [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248493/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249166_53067_RWA_KEN_FC-Web.png" group-title="Cricket",Rwanda vs Kenya [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249166/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248688_53053_ANL_NJ_fc-web.jpg" group-title="Football",Kashima Antlers vs Newcastle Jets [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248688/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249243_53070_DCD_SWD_FC-Web.png" group-title="Cricket",Dubai Capitals Development vs Sharjah Warriorz Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249243/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248692_53053_JDT_BU_fc-web.jpg" group-title="Football",Johor Darul Ta'zim vs Buriram United [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248692/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248693_53053_BEI_PHG_fc-web.jpg" group-title="Football",Beijing Guoan vs Pohang Steelers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248693/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248955_53057_GGS_ALJ_fc-web_1789025065269.jpg" group-title="Football",Golgohar Sirjan SC vs Al Jazira [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248955/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248956_53057_ARK_ALM_fc-web_1789025066304.jpg" group-title="Football",FK Arkadag vs Al Muharraq [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248956/index.m3u8
