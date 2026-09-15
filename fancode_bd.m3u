@@ -2,15 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:24 PM 15-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 10:00:28 PM 15-09-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Cricket",Australia vs Zimbabwe [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249098/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Cricket",Afghanistan vs India [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248493/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249166_53067_RWA_KEN_FC-Web.png" group-title="Cricket",Rwanda vs Kenya [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249166/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249243_53070_DCD_SWD_FC-Web.png" group-title="Cricket",Dubai Capitals Development vs Sharjah Warriorz Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249243/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248955_53057_GGS_ALJ_fc-web_1789025065269.jpg" group-title="Football",Golgohar Sirjan SC vs Al Jazira [English]
