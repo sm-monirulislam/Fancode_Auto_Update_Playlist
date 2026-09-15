@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:25 PM 15-09-2026",
+    "last_update_time": "01:00:25 PM 15-09-2026",
     "total_matches": 40,
     "live_match": 0,
     "matches": [
@@ -45,6 +45,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249259",
+            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
+            "match_name": "Malaysia vs United Arab Emirates",
+            "event_name": "United Arab Emirates tour of Malaysia, 2026",
+            "image": "https://images.fancode.com/aig/match/v1789384410195/4249259_CASACARDS_APP.png",
+            "team_1": "Malaysia",
+            "team_2": "United Arab Emirates",
+            "startTime": "07:30:00 AM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249166",
             "title": "Rwanda vs Kenya (ILT20 Africa Continent Cup 2026)",
             "match_name": "Rwanda vs Kenya",
@@ -61,7 +73,7 @@
             "title": "Dubai Capitals Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249243_53070_DCD_SWD_FC-Web.png",
             "team_1": "Dubai Capitals Development",
             "team_2": "Sharjah Warriorz Development",
             "startTime": "06:30:00 PM 15-09-2026"
@@ -140,6 +152,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249244",
+            "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249244_53070_ADK_MED_FC-Web.png",
+            "team_1": "Abu Dhabi Knight Riders Development",
+            "team_2": "MI Emirates Development",
+            "startTime": "10:30:00 PM 15-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248955",
             "title": "Golgohar Sirjan SC vs Al Jazira (AFC Champions League Two 2026-27)",
@@ -161,18 +185,6 @@
             "team_1": "FK Arkadag",
             "team_2": "Al Muharraq",
             "startTime": "07:15:00 PM 15-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249244",
-            "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "Abu Dhabi Knight Riders Development",
-            "team_2": "MI Emirates Development",
-            "startTime": "10:30:00 PM 15-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -272,18 +284,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249259",
-            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
-            "match_name": "Malaysia vs United Arab Emirates",
-            "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://images.fancode.com/aig/match/v1789384410195/4249259_CASACARDS_APP.png",
-            "team_1": "Malaysia",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:30:00 AM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247622",
             "title": "Elche CF vs Real Madrid (LALIGA 2026-27)",
@@ -373,7 +373,7 @@
             "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png",
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 16-09-2026"
@@ -445,7 +445,7 @@
             "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png",
             "team_1": "Desert Vipers Development",
             "team_2": "Sharjah Warriorz Development",
             "startTime": "10:30:00 PM 16-09-2026"
