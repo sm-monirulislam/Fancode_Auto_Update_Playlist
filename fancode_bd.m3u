@@ -2,13 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:26 PM 16-09-2026 (BD Time)
+# Last Updated: 11:28:14 PM 16-09-2026 (BD Time)
 # Live Match : 9
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png" group-title="Cricket",Abu Dhabi Knight Riders Development vs Gulf Giants Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249245/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="Cricket",Barbados Tridents Women vs Guyana Amazon Warriors Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249094/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png" group-title="Cricket",Desert Vipers Development vs Sharjah Warriorz Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249246/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248953_53057_ALW_KSC_fc-web_1789025065232.jpg" group-title="Football",Al Wahda vs Kuwait SC [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248953/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248954_53057_ALK_NAS_fc-web_1789025065277.jpg" group-title="Football",Al Khaldiya SC vs PFC Nasaf [English]
@@ -21,5 +23,3 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248959/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4247618/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247621_53004_COR_SEV_FC-Web.png" group-title="Football",Deportivo de La Coruna vs Sevilla FC [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247621/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png" group-title="Cricket",Desert Vipers Development vs Sharjah Warriorz Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249246/index.m3u8
