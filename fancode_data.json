@@ -2,21 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:23 AM 16-09-2026",
+    "last_update_time": "09:00:22 AM 16-09-2026",
     "total_matches": 38,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249259",
-            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
-            "match_name": "Malaysia vs United Arab Emirates",
+            "title": "United Arab Emirates tour of Malaysia, 2026 [English]",
+            "match_name": "Malaysia vs United Arab Emirates [English]",
             "event_name": "United Arab Emirates tour of Malaysia, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
             "team_1": "Malaysia",
             "team_2": "United Arab Emirates",
-            "startTime": "07:30:00 AM 16-09-2026"
+            "startTime": "07:30:00 AM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249259/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -44,6 +45,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249245",
+            "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png",
+            "team_1": "Abu Dhabi Knight Riders Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248694",
             "title": "Jeonbuk Motors vs Kashiwa Reysol (AFC Champions League Elite 2026-27)",
@@ -65,18 +78,6 @@
             "team_1": "Seoul",
             "team_2": "Persib Bandung",
             "startTime": "03:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249245",
-            "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png",
-            "team_1": "Abu Dhabi Knight Riders Development",
-            "team_2": "Gulf Giants Development",
-            "startTime": "06:30:00 PM 16-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -113,6 +114,18 @@
             "team_1": "The Cong - Viettel FC",
             "team_2": "Melbourne Victory",
             "startTime": "05:45:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249246",
+            "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png",
+            "team_1": "Desert Vipers Development",
+            "team_2": "Sharjah Warriorz Development",
+            "startTime": "10:30:00 PM 16-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -164,18 +177,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249246",
-            "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png",
-            "team_1": "Desert Vipers Development",
-            "team_2": "Sharjah Warriorz Development",
-            "startTime": "10:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247618",
             "title": "Atletico de Madrid vs CA Osasuna (LALIGA 2026-27)",
@@ -197,6 +198,18 @@
             "team_1": "Deportivo de La Coruna",
             "team_2": "Sevilla FC",
             "startTime": "10:30:00 PM 16-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249260",
+            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
+            "match_name": "Malaysia vs United Arab Emirates",
+            "event_name": "United Arab Emirates tour of Malaysia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+            "team_1": "Malaysia",
+            "team_2": "United Arab Emirates",
+            "startTime": "07:30:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,14 +310,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249260",
-            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
-            "match_name": "Malaysia vs United Arab Emirates",
-            "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-            "team_1": "Malaysia",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:30:00 AM 17-09-2026"
+            "match_id": "4249169",
+            "title": "Rwanda vs Uganda (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Rwanda vs Uganda",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
+            "team_1": "Rwanda",
+            "team_2": "Uganda",
+            "startTime": "01:00:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -317,18 +330,6 @@
             "team_1": "Barbados Tridents",
             "team_2": "Jamaica Kingsmen",
             "startTime": "04:30:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249169",
-            "title": "Rwanda vs Uganda (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Rwanda vs Uganda",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
-            "team_1": "Rwanda",
-            "team_2": "Uganda",
-            "startTime": "01:00:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
