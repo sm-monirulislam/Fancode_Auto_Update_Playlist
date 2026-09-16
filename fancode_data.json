@@ -2,21 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:15:48 PM 16-09-2026",
-    "total_matches": 37,
-    "live_match": 0,
+    "last_update_time": "02:00:22 PM 16-09-2026",
+    "total_matches": 38,
+    "live_match": 1,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249167",
-            "title": "Botswana vs Uganda (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Botswana vs Uganda",
+            "title": "ILT20 Africa Continent Cup 2026 [English]",
+            "match_name": "Botswana vs Uganda [English]",
             "event_name": "ILT20 Africa Continent Cup 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png",
             "team_1": "Botswana",
             "team_2": "Uganda",
-            "startTime": "01:00:00 PM 16-09-2026"
+            "startTime": "01:00:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249167/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -345,18 +346,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248314",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248492",
             "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
             "match_name": "Afghanistan vs India",
@@ -377,6 +366,18 @@
             "team_1": "Botswana",
             "team_2": "Kenya",
             "startTime": "05:00:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248314",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -449,6 +450,18 @@
             "team_1": "Real Betis",
             "team_2": "Getafe CF",
             "startTime": "10:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249095",
+            "title": "Trinbago Knight Riders Women vs TBC (Women's Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders Women vs TBC",
+            "event_name": "Women's Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Trinbago Knight Riders Women",
+            "team_2": "TBC",
+            "startTime": "11:30:00 PM 17-09-2026"
         }
     ]
 }
