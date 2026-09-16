@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:23 AM 16-09-2026",
-    "total_matches": 38,
-    "live_match": 1,
+    "last_update_time": "12:00:23 PM 16-09-2026",
+    "total_matches": 37,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249259",
-            "title": "United Arab Emirates tour of Malaysia, 2026 [English]",
-            "match_name": "Malaysia vs United Arab Emirates [English]",
-            "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-            "team_1": "Malaysia",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:30:00 AM 16-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249259/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -370,18 +357,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249170",
-            "title": "Botswana vs Kenya (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Botswana vs Kenya",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
-            "team_1": "Botswana",
-            "team_2": "Kenya",
-            "startTime": "05:00:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4248492",
             "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
             "match_name": "Afghanistan vs India",
@@ -390,6 +365,18 @@
             "team_1": "Afghanistan",
             "team_2": "India",
             "startTime": "07:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249170",
+            "title": "Botswana vs Kenya (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Botswana vs Kenya",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
+            "team_1": "Botswana",
+            "team_2": "Kenya",
+            "startTime": "05:00:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
