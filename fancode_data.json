@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:26 AM 17-09-2026",
+    "last_update_time": "05:00:22 AM 17-09-2026",
     "total_matches": 39,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247626",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "FC Barcelona vs Racing Club de Santander [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247626_53004_BAR_RAC_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Racing Club de Santander",
-            "startTime": "01:00:00 AM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247626/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4248314",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248314/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -57,6 +57,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249170",
+            "title": "Botswana vs Kenya (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Botswana vs Kenya",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
+            "team_1": "Botswana",
+            "team_2": "Kenya",
+            "startTime": "05:00:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248963",
             "title": "Lion City Sailors vs BG Pathum United (AFC Champions League Two 2026-27)",
@@ -90,18 +102,6 @@
             "team_1": "Machida Zelvia",
             "team_2": "Preah Khan Reach Svay Rieng FC",
             "startTime": "03:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249170",
-            "title": "Botswana vs Kenya (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Botswana vs Kenya",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
-            "team_1": "Botswana",
-            "team_2": "Kenya",
-            "startTime": "05:00:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -198,18 +198,6 @@
             "team_1": "Manchester City",
             "team_2": "Norwich City F.C.",
             "startTime": "12:00:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248314",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -474,6 +462,18 @@
             "team_1": "CA Osasuna",
             "team_2": "Rayo Vallecano",
             "startTime": "05:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248478",
+            "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:00:00 PM 19-09-2026"
         }
     ]
 }
