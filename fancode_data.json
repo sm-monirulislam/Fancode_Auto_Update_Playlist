@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:26 PM 16-09-2026",
+    "last_update_time": "11:00:26 PM 16-09-2026",
     "total_matches": 39,
-    "live_match": 2,
+    "live_match": 9,
     "matches": [
         {
             "status": "LIVE",
@@ -33,6 +33,84 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249094/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248953",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al Wahda vs Kuwait SC [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248953_53057_ALW_KSC_fc-web_1789025065232.jpg",
+            "team_1": "Al Wahda",
+            "team_2": "Kuwait SC",
+            "startTime": "09:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248953/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248954",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al Khaldiya SC vs PFC Nasaf [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248954_53057_ALK_NAS_fc-web_1789025065277.jpg",
+            "team_1": "Al Khaldiya SC",
+            "team_2": "PFC Nasaf",
+            "startTime": "09:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248954/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248957",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al-Nahda Club vs Al-Taawoun FC [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248957_53057_ALN_ALTW_fc-web_1789025065300.jpg",
+            "team_1": "Al-Nahda Club",
+            "team_2": "Al-Taawoun FC",
+            "startTime": "09:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248957/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248959",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al Hussein vs East Bengal FC [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248959_53057_HUS_EBFC_fc-web_1789025065229.jpg",
+            "team_1": "Al Hussein",
+            "team_2": "East Bengal FC",
+            "startTime": "09:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248959/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247618",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Atletico de Madrid vs CA Osasuna [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247618_53004_ATM_OSN_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "CA Osasuna",
+            "startTime": "10:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247618/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247621",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Deportivo de La Coruna vs Sevilla FC [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247621_53004_COR_SEV_FC-Web.png",
+            "team_1": "Deportivo de La Coruna",
+            "team_2": "Sevilla FC",
+            "startTime": "10:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247621/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249260",
@@ -45,88 +123,29 @@
             "startTime": "07:30:00 AM 17-09-2026"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248953",
-            "title": "Al Wahda vs Kuwait SC (AFC Champions League Two 2026-27)",
-            "match_name": "Al Wahda vs Kuwait SC",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248953_53057_ALW_KSC_fc-web_1789025065232.jpg",
-            "team_1": "Al Wahda",
-            "team_2": "Kuwait SC",
-            "startTime": "09:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248954",
-            "title": "Al Khaldiya SC vs PFC Nasaf (AFC Champions League Two 2026-27)",
-            "match_name": "Al Khaldiya SC vs PFC Nasaf",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248954_53057_ALK_NAS_fc-web_1789025065277.jpg",
-            "team_1": "Al Khaldiya SC",
-            "team_2": "PFC Nasaf",
-            "startTime": "09:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248957",
-            "title": "Al-Nahda Club vs Al-Taawoun FC (AFC Champions League Two 2026-27)",
-            "match_name": "Al-Nahda Club vs Al-Taawoun FC",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248957_53057_ALN_ALTW_fc-web_1789025065300.jpg",
-            "team_1": "Al-Nahda Club",
-            "team_2": "Al-Taawoun FC",
-            "startTime": "09:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248959",
-            "title": "Al Hussein vs East Bengal FC (AFC Champions League Two 2026-27)",
-            "match_name": "Al Hussein vs East Bengal FC",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248959_53057_HUS_EBFC_fc-web_1789025065229.jpg",
-            "team_1": "Al Hussein",
-            "team_2": "East Bengal FC",
-            "startTime": "09:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249246",
-            "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Desert Vipers Development vs Sharjah Warriorz Development [English]",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png",
             "team_1": "Desert Vipers Development",
             "team_2": "Sharjah Warriorz Development",
-            "startTime": "10:30:00 PM 16-09-2026"
+            "startTime": "10:30:00 PM 16-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249246/index.m3u8"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247618",
-            "title": "Atletico de Madrid vs CA Osasuna (LALIGA 2026-27)",
-            "match_name": "Atletico de Madrid vs CA Osasuna",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247618_53004_ATM_OSN_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "CA Osasuna",
-            "startTime": "10:30:00 PM 16-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247621",
-            "title": "Deportivo de La Coruna vs Sevilla FC (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Sevilla FC",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247621_53004_COR_SEV_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Sevilla FC",
-            "startTime": "10:30:00 PM 16-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4248492",
+            "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
+            "match_name": "Afghanistan vs India",
+            "event_name": "India Tour of Afghanistan, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "India",
+            "startTime": "07:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -223,18 +242,6 @@
             "team_1": "FC Barcelona",
             "team_2": "Racing Club de Santander",
             "startTime": "01:00:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248492",
-            "title": "Afghanistan vs India (India Tour of Afghanistan, 2026)",
-            "match_name": "Afghanistan vs India",
-            "event_name": "India Tour of Afghanistan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "India",
-            "startTime": "07:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -382,18 +389,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248314",
-            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249062",
             "title": "Manchester City vs Norwich City F.C. (Carabao Cup 2026-27)",
@@ -403,6 +398,18 @@
             "team_1": "Manchester City",
             "team_2": "Norwich City F.C.",
             "startTime": "12:00:00 AM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248314",
+            "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Barbados Tridents vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+            "team_1": "Barbados Tridents",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
