@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:24 AM 17-09-2026",
+    "last_update_time": "02:00:25 AM 17-09-2026",
     "total_matches": 39,
     "live_match": 9,
     "matches": [
@@ -18,32 +18,6 @@
             "team_2": "Sharjah Warriorz Development",
             "startTime": "10:30:00 PM 16-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249246/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247618",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Atletico de Madrid vs CA Osasuna [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247618_53004_ATM_OSN_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "CA Osasuna",
-            "startTime": "10:30:00 PM 16-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247618/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247621",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Deportivo de La Coruna vs Sevilla FC [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247621_53004_COR_SEV_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Sevilla FC",
-            "startTime": "10:30:00 PM 16-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247621/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -124,6 +98,32 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249060/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247624",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Levante vs Athletic Club [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247624_53004_LET_ATH_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "Athletic Club",
+            "startTime": "01:00:00 AM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247624/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247626",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "FC Barcelona vs Racing Club de Santander [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247626_53004_BAR_RAC_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Racing Club de Santander",
+            "startTime": "01:00:00 AM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247626/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249260",
@@ -134,30 +134,6 @@
             "team_1": "Malaysia",
             "team_2": "United Arab Emirates",
             "startTime": "07:30:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247624",
-            "title": "Levante vs Athletic Club (LALIGA 2026-27)",
-            "match_name": "Levante vs Athletic Club",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247624_53004_LET_ATH_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Athletic Club",
-            "startTime": "01:00:00 AM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247626",
-            "title": "FC Barcelona vs Racing Club de Santander (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Racing Club de Santander",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247626_53004_BAR_RAC_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Racing Club de Santander",
-            "startTime": "01:00:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -307,12 +283,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249095",
-            "title": "Trinbago Knight Riders Women vs TBC (Women's Caribbean Premier League, 2026)",
-            "match_name": "Trinbago Knight Riders Women vs TBC",
+            "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
+            "match_name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
             "event_name": "Women's Caribbean Premier League, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Trinbago Knight Riders Women",
-            "team_2": "TBC",
+            "team_2": "Guyana Amazon Warriors Women",
             "startTime": "11:30:00 PM 17-09-2026"
         },
         {
@@ -482,6 +458,30 @@
             "team_1": "Bristol City F.C.",
             "team_2": "Watford F.C.",
             "startTime": "12:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247634",
+            "title": "RCD Espanyol vs Elche CF (LALIGA 2026-27)",
+            "match_name": "RCD Espanyol vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Elche CF",
+            "startTime": "12:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248477",
+            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester City Women vs Liverpool Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Liverpool Women",
+            "startTime": "11:30:00 PM 18-09-2026"
         }
     ]
 }
