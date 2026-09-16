@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:26 PM 16-09-2026",
-    "total_matches": 38,
+    "last_update_time": "05:00:24 PM 16-09-2026",
+    "total_matches": 39,
     "live_match": 3,
     "matches": [
         {
@@ -464,6 +464,18 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "TBC",
             "startTime": "11:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249062",
+            "title": "Manchester City vs Norwich City F.C. (Carabao Cup 2026-27)",
+            "match_name": "Manchester City vs Norwich City F.C.",
+            "event_name": "Carabao Cup 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg",
+            "team_1": "Manchester City",
+            "team_2": "Norwich City F.C.",
+            "startTime": "12:00:00 AM 18-09-2026"
         }
     ]
 }
