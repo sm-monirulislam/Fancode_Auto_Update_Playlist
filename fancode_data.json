@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:00:24 AM 17-09-2026",
+    "last_update_time": "10:00:25 AM 17-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Malaysia",
             "startTime": "07:30:00 AM 17-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249260/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248314",
-            "title": "Caribbean Premier League, 2026 [English]",
-            "match_name": "Barbados Tridents vs Jamaica Kingsmen [English]",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-            "team_1": "Barbados Tridents",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248314/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -70,6 +57,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249247",
+            "title": "MI Emirates Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "MI Emirates Development vs Dubai Capitals Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
+            "team_1": "MI Emirates Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "06:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248963",
             "title": "Lion City Sailors vs BG Pathum United (AFC Champions League Two 2026-27)",
@@ -103,18 +102,6 @@
             "team_1": "Machida Zelvia",
             "team_2": "Preah Khan Reach Svay Rieng FC",
             "startTime": "03:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249247",
-            "title": "MI Emirates Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "MI Emirates Development vs Dubai Capitals Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
-            "team_1": "MI Emirates Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "06:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -166,18 +153,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247620",
-            "title": "Real Betis vs Getafe CF (LALIGA 2026-27)",
-            "match_name": "Real Betis vs Getafe CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Getafe CF",
-            "startTime": "10:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249095",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
@@ -187,6 +162,18 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "11:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247620",
+            "title": "Real Betis vs Getafe CF (LALIGA 2026-27)",
+            "match_name": "Real Betis vs Getafe CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Getafe CF",
+            "startTime": "10:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -262,18 +249,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249100",
-            "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 1 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249171",
             "title": "Kenya vs Uganda (ILT20 Africa Continent Cup 2026)",
@@ -283,6 +258,18 @@
             "team_1": "Kenya",
             "team_2": "Uganda",
             "startTime": "01:00:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249100",
+            "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 1 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +474,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248479",
+            "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Birmingham City F.C. Women",
+            "startTime": "05:15:00 PM 19-09-2026"
         }
     ]
 }
