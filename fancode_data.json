@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:26 AM 17-09-2026",
-    "total_matches": 39,
-    "live_match": 1,
+    "last_update_time": "09:00:24 AM 17-09-2026",
+    "total_matches": 40,
+    "live_match": 2,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249260",
+            "title": "United Arab Emirates tour of Malaysia, 2026 [English]",
+            "match_name": "United Arab Emirates vs Malaysia [English]",
+            "event_name": "United Arab Emirates tour of Malaysia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Malaysia",
+            "startTime": "07:30:00 AM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249260/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -18,18 +31,6 @@
             "team_2": "Jamaica Kingsmen",
             "startTime": "04:30:00 AM 17-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248314/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249260",
-            "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
-            "match_name": "Malaysia vs United Arab Emirates",
-            "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-            "team_1": "Malaysia",
-            "team_2": "United Arab Emirates",
-            "startTime": "07:30:00 AM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -474,6 +475,18 @@
             "team_1": "Charlton Athletic F.C Women",
             "team_2": "London City Lionesses",
             "startTime": "05:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249249",
+            "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 19-09-2026"
         }
     ]
 }
