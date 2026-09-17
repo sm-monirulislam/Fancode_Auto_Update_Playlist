@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:11:18 PM 17-09-2026",
+    "last_update_time": "02:00:27 PM 17-09-2026",
     "total_matches": 39,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249169",
+            "title": "ILT20 Africa Continent Cup 2026 [English]",
+            "match_name": "Rwanda vs Uganda [English]",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
+            "team_1": "Rwanda",
+            "team_2": "Uganda",
+            "startTime": "01:00:00 PM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249169/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -17,18 +30,6 @@
             "team_1": "Afghanistan",
             "team_2": "India",
             "startTime": "07:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249169",
-            "title": "Rwanda vs Uganda (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Rwanda vs Uganda",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
-            "team_1": "Rwanda",
-            "team_2": "Uganda",
-            "startTime": "01:00:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -261,18 +262,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4248316",
-            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Antigua & Barbuda Falcons",
-            "startTime": "05:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249172",
             "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
             "match_name": "Sierra Leone vs Botswana",
@@ -281,6 +270,18 @@
             "team_1": "Sierra Leone",
             "team_2": "Botswana",
             "startTime": "05:00:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248316",
+            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Antigua & Barbuda Falcons",
+            "startTime": "05:30:00 AM 18-09-2026"
         },
         {
             "status": "UPCOMING",
