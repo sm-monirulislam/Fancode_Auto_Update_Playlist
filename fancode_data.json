@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:26 AM 18-09-2026",
-    "total_matches": 39,
+    "last_update_time": "01:00:24 AM 18-09-2026",
+    "total_matches": 38,
     "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4248492",
-            "title": "India Tour of Afghanistan, 2026 [English]",
-            "match_name": "India vs Afghanistan [English]",
-            "event_name": "India Tour of Afghanistan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "startTime": "07:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248492/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -59,6 +46,19 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247620/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249062",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Manchester City vs Norwich City F.C. [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg",
+            "team_1": "Manchester City",
+            "team_2": "Norwich City F.C.",
+            "startTime": "12:00:00 AM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249062/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249274",
@@ -85,18 +85,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249062",
-            "title": "Manchester City vs Norwich City F.C. (Carabao Cup 2026-27)",
-            "match_name": "Manchester City vs Norwich City F.C.",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg",
-            "team_1": "Manchester City",
-            "team_2": "Norwich City F.C.",
-            "startTime": "12:00:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247627",
             "title": "Malaga vs Villarreal CF (LALIGA 2026-27)",
             "match_name": "Malaga vs Villarreal CF",
@@ -105,6 +93,18 @@
             "team_1": "Malaga",
             "team_2": "Villarreal CF",
             "startTime": "01:00:00 AM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248161",
+            "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
+            "match_name": "AFC Wimbledon vs MK Dons",
+            "event_name": "League One 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+            "team_1": "AFC Wimbledon",
+            "team_2": "MK Dons",
+            "startTime": "12:30:00 AM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -132,14 +132,14 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248161",
-            "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
-            "match_name": "AFC Wimbledon vs MK Dons",
-            "event_name": "League One 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-            "team_1": "AFC Wimbledon",
-            "team_2": "MK Dons",
+            "event_category": "Golf",
+            "match_id": "4249100",
+            "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 1 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Asheville, North Carolina",
             "startTime": "12:30:00 AM 18-09-2026"
         },
         {
@@ -168,18 +168,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249100",
-            "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 1 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248477",
             "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
@@ -192,18 +180,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248316",
-            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Antigua & Barbuda Falcons",
-            "startTime": "05:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249149",
             "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
@@ -213,6 +189,18 @@
             "team_1": "Albacete",
             "team_2": "Córdoba",
             "startTime": "12:00:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248316",
+            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Antigua & Barbuda Falcons",
+            "startTime": "05:30:00 AM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -240,18 +228,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249101",
-            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249276",
             "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
@@ -261,6 +237,18 @@
             "team_1": "Queensland",
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249101",
+            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
