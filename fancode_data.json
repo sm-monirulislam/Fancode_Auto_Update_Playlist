@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:26 PM 17-09-2026",
+    "last_update_time": "11:00:25 PM 17-09-2026",
     "total_matches": 39,
-    "live_match": 3,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -22,15 +22,28 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249247",
+            "match_id": "4249248",
             "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "MI Emirates Development vs Dubai Capitals Development [English]",
+            "match_name": "Gulf Giants Development vs Desert Vipers Development [English]",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
-            "team_1": "MI Emirates Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "06:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249247/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Desert Vipers Development",
+            "startTime": "10:30:00 PM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249248/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247620",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Real Betis vs Getafe CF [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Getafe CF",
+            "startTime": "10:30:00 PM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247620/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -72,18 +85,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249248",
-            "title": "Gulf Giants Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Gulf Giants Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png",
-            "team_1": "Gulf Giants Development",
-            "team_2": "Desert Vipers Development",
-            "startTime": "10:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249095",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
             "match_name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
@@ -92,18 +93,6 @@
             "team_1": "Trinbago Knight Riders Women",
             "team_2": "Guyana Amazon Warriors Women",
             "startTime": "11:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247620",
-            "title": "Real Betis vs Getafe CF (LALIGA 2026-27)",
-            "match_name": "Real Betis vs Getafe CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Getafe CF",
-            "startTime": "10:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -143,6 +132,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249172",
+            "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Sierra Leone vs Botswana",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Botswana",
+            "startTime": "05:00:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248161",
             "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
@@ -155,15 +156,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249172",
-            "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Sierra Leone vs Botswana",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
-            "team_1": "Sierra Leone",
-            "team_2": "Botswana",
-            "startTime": "05:00:00 PM 18-09-2026"
+            "event_category": "Football",
+            "match_id": "4247493",
+            "title": "Bristol City F.C. vs Watford F.C. (EFL Championship 2026-27)",
+            "match_name": "Bristol City F.C. vs Watford F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg",
+            "team_1": "Bristol City F.C.",
+            "team_2": "Watford F.C.",
+            "startTime": "12:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247634",
+            "title": "RCD Espanyol vs Elche CF (LALIGA 2026-27)",
+            "match_name": "RCD Espanyol vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Elche CF",
+            "startTime": "12:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -192,26 +205,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4247493",
-            "title": "Bristol City F.C. vs Watford F.C. (EFL Championship 2026-27)",
-            "match_name": "Bristol City F.C. vs Watford F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg",
-            "team_1": "Bristol City F.C.",
-            "team_2": "Watford F.C.",
-            "startTime": "12:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247634",
-            "title": "RCD Espanyol vs Elche CF (LALIGA 2026-27)",
-            "match_name": "RCD Espanyol vs Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Elche CF",
-            "startTime": "12:30:00 AM 19-09-2026"
+            "match_id": "4248477",
+            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester City Women vs Liverpool Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Liverpool Women",
+            "startTime": "11:30:00 PM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -224,18 +225,6 @@
             "team_1": "Day 1",
             "team_2": "Spielberg",
             "startTime": "12:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248477",
-            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester City Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Liverpool Women",
-            "startTime": "11:30:00 PM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -475,6 +464,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png",
             "team_1": "Sevilla FC",
             "team_2": "FC Barcelona",
+            "startTime": "12:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249150",
+            "title": "Cádiz vs Girona FC (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Girona FC",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Girona FC",
             "startTime": "12:30:00 AM 20-09-2026"
         }
     ]
