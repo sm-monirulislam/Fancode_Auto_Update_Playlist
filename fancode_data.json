@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:24 AM 18-09-2026",
+    "last_update_time": "02:00:25 AM 18-09-2026",
     "total_matches": 38,
-    "live_match": 4,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -35,19 +35,6 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247620",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Real Betis vs Getafe CF [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Getafe CF",
-            "startTime": "10:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247620/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
             "match_id": "4249062",
             "title": "Carabao Cup 2026-27 [English]",
             "match_name": "Manchester City vs Norwich City F.C. [English]",
@@ -57,6 +44,45 @@
             "team_2": "Norwich City F.C.",
             "startTime": "12:00:00 AM 18-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249062/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247627",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Malaga vs Villarreal CF [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247627_53004_MAG_VIL_FC-Web.png",
+            "team_1": "Malaga",
+            "team_2": "Villarreal CF",
+            "startTime": "01:00:00 AM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247627/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4248161",
+            "title": "League One 2026-27 [English]",
+            "match_name": "AFC Wimbledon vs MK Dons [English]",
+            "event_name": "League One 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+            "team_1": "AFC Wimbledon",
+            "team_2": "MK Dons",
+            "startTime": "12:30:00 AM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248161/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249100",
+            "title": "Biltmore Championship in Asheville 2026 [English]",
+            "match_name": "Day 1 - World Feed [English]",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249100/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -84,30 +110,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247627",
-            "title": "Malaga vs Villarreal CF (LALIGA 2026-27)",
-            "match_name": "Malaga vs Villarreal CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247627_53004_MAG_VIL_FC-Web.png",
-            "team_1": "Malaga",
-            "team_2": "Villarreal CF",
-            "startTime": "01:00:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248161",
-            "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
-            "match_name": "AFC Wimbledon vs MK Dons",
-            "event_name": "League One 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-            "team_1": "AFC Wimbledon",
-            "team_2": "MK Dons",
-            "startTime": "12:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249171",
             "title": "Kenya vs Uganda (ILT20 Africa Continent Cup 2026)",
@@ -129,18 +131,6 @@
             "team_1": "Sierra Leone",
             "team_2": "Botswana",
             "startTime": "05:00:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249100",
-            "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 1 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -465,6 +455,18 @@
             "team_1": "Day 3 - World Feed",
             "team_2": "Asheville, North Carolina",
             "startTime": "10:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249273",
+            "title": "Western Australia vs Tasmania (One Day Cup, 2026/27)",
+            "match_name": "Western Australia vs Tasmania",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Tasmania",
+            "startTime": "11:30:00 AM 20-09-2026"
         }
     ]
 }
