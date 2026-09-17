@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:25 AM 18-09-2026",
+    "last_update_time": "05:00:31 AM 18-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249095",
-            "title": "Women's Caribbean Premier League, 2026 [English]",
-            "match_name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women [English]",
-            "event_name": "Women's Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png",
-            "team_1": "Trinbago Knight Riders Women",
-            "team_2": "Guyana Amazon Warriors Women",
-            "startTime": "11:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249095/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249100",
-            "title": "Biltmore Championship in Asheville 2026 [English]",
-            "match_name": "Day 1 - World Feed [English]",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 18-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249100/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -131,6 +105,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249276",
+            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "Queensland vs Victoria",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "startTime": "09:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4248316",
             "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
             "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
@@ -151,18 +137,6 @@
             "team_1": "Day 1",
             "team_2": "Spielberg",
             "startTime": "12:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249276",
-            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
-            "match_name": "Queensland vs Victoria",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "startTime": "09:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -214,18 +188,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139970",
-            "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
-            "match_name": "Day 2",
-            "event_name": "GRAND PRIX OF AUSTRIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Spielberg",
-            "startTime": "12:10:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247494",
             "title": "Millwall F.C. vs West Ham United (EFL Championship 2026-27)",
@@ -235,6 +197,18 @@
             "team_1": "Millwall F.C.",
             "team_2": "West Ham United",
             "startTime": "05:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139970",
+            "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
+            "match_name": "Day 2",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Spielberg",
+            "startTime": "12:10:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -334,18 +308,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249215",
-            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 1",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 1",
-            "team_2": "Sydney, Australia",
-            "startTime": "02:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249086",
             "title": "Day 3 vs La Sella Golf Resort (La Sella Open 2026)",
@@ -355,6 +317,18 @@
             "team_1": "Day 3",
             "team_2": "La Sella Golf Resort",
             "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249215",
+            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 1",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 1",
+            "team_2": "Sydney, Australia",
+            "startTime": "02:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +437,30 @@
             "team_1": "Desert Vipers Development",
             "team_2": "Abu Dhabi Knight Riders Development",
             "startTime": "06:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139971",
+            "title": "Race Day vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
+            "match_name": "Race",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Spielberg",
+            "startTime": "02:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:55:00 AM 20-09-2026"
         }
     ]
 }
