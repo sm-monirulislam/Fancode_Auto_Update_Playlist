@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:00:24 PM 17-09-2026",
+    "last_update_time": "06:41:41 PM 17-09-2026",
     "total_matches": 39,
-    "live_match": 7,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -18,45 +18,6 @@
             "team_2": "Kenya",
             "startTime": "05:00:00 PM 17-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249170/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248963",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Lion City Sailors vs BG Pathum United [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248963_53057_LIO_PNU_fc-web_1789025066501.jpg",
-            "team_1": "Lion City Sailors",
-            "team_2": "BG Pathum United",
-            "startTime": "03:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248963/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248964",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Adelaide United vs Tai Po FC [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248964_53057_ADL_WTP_fc-web_1789025066327.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Tai Po FC",
-            "startTime": "03:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248964/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248965",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Machida Zelvia vs Preah Khan Reach Svay Rieng FC [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248965_53057_MZ_PRK_fc-web_1789025065378.jpg",
-            "team_1": "Machida Zelvia",
-            "team_2": "Preah Khan Reach Svay Rieng FC",
-            "startTime": "03:30:00 PM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248965/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -112,6 +73,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249247",
+            "title": "MI Emirates Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "MI Emirates Development vs Dubai Capitals Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
+            "team_1": "MI Emirates Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "06:30:00 PM 17-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249274",
             "title": "Western Australia vs South Australia (One Day Cup, 2026/27)",
             "match_name": "Western Australia vs South Australia",
@@ -132,18 +105,6 @@
             "team_1": "Zimbabwe",
             "team_2": "Australia",
             "startTime": "01:00:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249247",
-            "title": "MI Emirates Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "MI Emirates Development vs Dubai Capitals Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
-            "team_1": "MI Emirates Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "06:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -480,6 +441,42 @@
             "team_1": "Wrexham A.F.C.",
             "team_2": "Southampton F.C.",
             "startTime": "07:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247635",
+            "title": "Athletic Club vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Deportivo Alaves",
+            "startTime": "07:45:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247630",
+            "title": "RC Celta vs Racing Club de Santander (LALIGA 2026-27)",
+            "match_name": "RC Celta vs Racing Club de Santander",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Racing Club de Santander",
+            "startTime": "10:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249250",
+            "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
+            "team_1": "Abu Dhabi Knight Riders Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "10:30:00 PM 19-09-2026"
         }
     ]
 }
