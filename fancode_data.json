@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:41:41 PM 17-09-2026",
+    "last_update_time": "07:00:26 PM 17-09-2026",
     "total_matches": 39,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,19 @@
             "team_2": "Kenya",
             "startTime": "05:00:00 PM 17-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249170/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249247",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "MI Emirates Development vs Dubai Capitals Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
+            "team_1": "MI Emirates Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "06:30:00 PM 17-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249247/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -69,18 +82,6 @@
             "team_1": "Afghanistan",
             "team_2": "India",
             "startTime": "07:30:00 PM 17-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249247",
-            "title": "MI Emirates Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "MI Emirates Development vs Dubai Capitals Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png",
-            "team_1": "MI Emirates Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "06:30:00 PM 17-09-2026"
         },
         {
             "status": "UPCOMING",

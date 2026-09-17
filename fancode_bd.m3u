@@ -2,11 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:41:41 PM 17-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 07:00:26 PM 17-09-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png" group-title="Cricket",Botswana vs Kenya [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249170/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249247_53070_MED_DCD_FC-Web.png" group-title="Cricket",MI Emirates Development vs Dubai Capitals Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249247/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248966_53057_SHN_TAM_fc-web_1789025066387.jpg" group-title="Football",Shanghai Shenhua vs Tampines Rovers FC [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248966/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248967_53057_KIT_GW_fc-web_1789025065270.jpg" group-title="Football",Kitchee SC vs Gangwon FC [English]
