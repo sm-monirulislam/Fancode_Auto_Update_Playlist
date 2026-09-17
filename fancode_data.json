@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:24 PM 17-09-2026",
-    "total_matches": 40,
-    "live_match": 1,
+    "last_update_time": "01:00:28 PM 17-09-2026",
+    "total_matches": 39,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249260",
-            "title": "United Arab Emirates tour of Malaysia, 2026 [English]",
-            "match_name": "United Arab Emirates vs Malaysia [English]",
-            "event_name": "United Arab Emirates tour of Malaysia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Malaysia",
-            "startTime": "07:30:00 AM 17-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249260/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -201,18 +188,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248161",
-            "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
-            "match_name": "AFC Wimbledon vs MK Dons",
-            "event_name": "League One 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-            "team_1": "AFC Wimbledon",
-            "team_2": "MK Dons",
-            "startTime": "12:30:00 AM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249099",
             "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
@@ -237,6 +212,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248161",
+            "title": "AFC Wimbledon vs MK Dons (League One 2026-27)",
+            "match_name": "AFC Wimbledon vs MK Dons",
+            "event_name": "League One 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+            "team_1": "AFC Wimbledon",
+            "team_2": "MK Dons",
+            "startTime": "12:30:00 AM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249171",
             "title": "Kenya vs Uganda (ILT20 Africa Continent Cup 2026)",
@@ -254,7 +241,7 @@
             "title": "Day 1 vs La Sella Golf Resort (La Sella Open 2026)",
             "match_name": "Day 1",
             "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
             "team_1": "Day 1",
             "team_2": "La Sella Golf Resort",
             "startTime": "07:30:00 PM 17-09-2026"
@@ -309,18 +296,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249085",
-            "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
-            "match_name": "Day 2",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "07:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247493",
             "title": "Bristol City F.C. vs Watford F.C. (EFL Championship 2026-27)",
@@ -342,6 +317,18 @@
             "team_1": "RCD Espanyol",
             "team_2": "Elche CF",
             "startTime": "12:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249085",
+            "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
+            "match_name": "Day 2",
+            "event_name": "La Sella Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "La Sella Golf Resort",
+            "startTime": "07:30:00 PM 18-09-2026"
         },
         {
             "status": "UPCOMING",
