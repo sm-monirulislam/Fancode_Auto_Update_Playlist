@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:41 PM 18-09-2026",
+    "last_update_time": "11:00:43 PM 18-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -57,30 +57,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248477",
-            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester City Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Liverpool Women",
-            "startTime": "11:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249149",
-            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Albacete vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
-            "team_1": "Albacete",
-            "team_2": "Córdoba",
-            "startTime": "12:00:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249173",
             "title": "TBC vs TBC (ILT20 Africa Continent Cup 2026)",
@@ -102,6 +78,30 @@
             "team_1": "Millwall F.C.",
             "team_2": "West Ham United",
             "startTime": "05:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248477",
+            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester City Women vs Liverpool Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Liverpool Women",
+            "startTime": "11:30:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249149",
+            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Albacete vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
+            "team_1": "Albacete",
+            "team_2": "Córdoba",
+            "startTime": "12:00:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -201,30 +201,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249101",
-            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248315",
-            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248480",
             "title": "Arsenal Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
@@ -246,6 +222,30 @@
             "team_1": "Sevilla FC",
             "team_2": "FC Barcelona",
             "startTime": "12:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249101",
+            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248315",
+            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
