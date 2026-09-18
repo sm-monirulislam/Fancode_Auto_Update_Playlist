@@ -2,21 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:19:14 PM 18-09-2026",
+    "last_update_time": "01:00:26 PM 18-09-2026",
     "total_matches": 39,
-    "live_match": 0,
+    "live_match": 2,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249274",
-            "title": "Western Australia vs South Australia (One Day Cup, 2026/27)",
-            "match_name": "Western Australia vs South Australia",
+            "title": "One Day Cup, 2026/27 [English]",
+            "match_name": "Western Australia vs South Australia [English]",
             "event_name": "One Day Cup, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249274_53072_WAU_SAU_FC-Web.jpg",
             "team_1": "Western Australia",
             "team_2": "South Australia",
-            "startTime": "11:30:00 AM 18-09-2026"
+            "startTime": "11:30:00 AM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249274/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139969",
+            "title": "GRAND PRIX OF AUSTRIA 2026 [English]",
+            "match_name": "Day 1 [English]",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Spielberg",
+            "startTime": "12:30:00 PM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139969/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -45,18 +59,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249172",
-            "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Sierra Leone vs Botswana",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
-            "team_1": "Sierra Leone",
-            "team_2": "Botswana",
-            "startTime": "05:00:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249276",
             "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
             "match_name": "Queensland vs Victoria",
@@ -65,6 +67,18 @@
             "team_1": "Queensland",
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249172",
+            "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Sierra Leone vs Botswana",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Botswana",
+            "startTime": "05:00:00 PM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -116,18 +130,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139969",
-            "title": "Day 1 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
-            "match_name": "Day 1",
-            "event_name": "GRAND PRIX OF AUSTRIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Spielberg",
-            "startTime": "12:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249085",
             "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
@@ -154,12 +156,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4248315",
-            "title": "TBC vs TBC (Caribbean Premier League, 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
             "event_name": "Caribbean Premier League, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Jamaica Kingsmen",
             "startTime": "04:30:00 AM 19-09-2026"
         },
         {
@@ -224,18 +226,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139970",
-            "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
-            "match_name": "Day 2",
-            "event_name": "GRAND PRIX OF AUSTRIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Spielberg",
-            "startTime": "12:10:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248479",
             "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
@@ -245,6 +235,18 @@
             "team_1": "Chelsea F.C. Women",
             "team_2": "Birmingham City F.C. Women",
             "startTime": "05:15:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139970",
+            "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
+            "match_name": "Day 2",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Spielberg",
+            "startTime": "12:10:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
