@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:40 AM 19-09-2026",
+    "last_update_time": "12:52:48 AM 19-09-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 5,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247493",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Bristol City F.C. vs Watford F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg",
+            "team_1": "Bristol City F.C.",
+            "team_2": "Watford F.C.",
+            "startTime": "12:30:00 AM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247493/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247634",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "RCD Espanyol vs Elche CF [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Elche CF",
+            "startTime": "12:30:00 AM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247634/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Football",
@@ -20,6 +46,32 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248477/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249149",
+            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Albacete vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
+            "team_1": "Albacete",
+            "team_2": "Córdoba",
+            "startTime": "12:00:00 AM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249149/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249101",
+            "title": "Biltmore Championship in Asheville 2026 [English]",
+            "match_name": "Day 2 - World Feed [English]",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249101/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249276",
@@ -30,42 +82,6 @@
             "team_1": "Queensland",
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249149",
-            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Albacete vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
-            "team_1": "Albacete",
-            "team_2": "Córdoba",
-            "startTime": "12:00:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247493",
-            "title": "Bristol City F.C. vs Watford F.C. (EFL Championship 2026-27)",
-            "match_name": "Bristol City F.C. vs Watford F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg",
-            "team_1": "Bristol City F.C.",
-            "team_2": "Watford F.C.",
-            "startTime": "12:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247634",
-            "title": "RCD Espanyol vs Elche CF (LALIGA 2026-27)",
-            "match_name": "RCD Espanyol vs Elche CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Elche CF",
-            "startTime": "12:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -154,18 +170,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248479",
-            "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Birmingham City F.C. Women",
-            "startTime": "05:15:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247630",
             "title": "RC Celta vs Racing Club de Santander (LALIGA 2026-27)",
             "match_name": "RC Celta vs Racing Club de Santander",
@@ -174,6 +178,18 @@
             "team_1": "RC Celta",
             "team_2": "Racing Club de Santander",
             "startTime": "10:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248479",
+            "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Birmingham City F.C. Women",
+            "startTime": "05:15:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,15 +229,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249101",
-            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 19-09-2026"
+            "event_category": "Football",
+            "match_id": "4249150",
+            "title": "Cádiz vs Girona FC (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Girona FC",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Girona FC",
+            "startTime": "12:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -246,18 +262,6 @@
             "team_1": "Day 2",
             "team_2": "Spielberg",
             "startTime": "12:10:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249150",
-            "title": "Cádiz vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Girona FC",
-            "startTime": "12:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
