@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:22 PM 18-09-2026",
+    "last_update_time": "05:37:05 PM 18-09-2026",
     "total_matches": 39,
     "live_match": 4,
     "matches": [
@@ -35,15 +35,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249171",
+            "match_id": "4249172",
             "title": "ILT20 Africa Continent Cup 2026 [English]",
-            "match_name": "Kenya vs Uganda [English]",
+            "match_name": "Sierra Leone vs Botswana [English]",
             "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249171_53067_KEN_UGA_FC-Web.png",
-            "team_1": "Kenya",
-            "team_2": "Uganda",
-            "startTime": "01:00:00 PM 18-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249171/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Botswana",
+            "startTime": "05:00:00 PM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249172/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -57,18 +57,6 @@
             "team_2": "Spielberg",
             "startTime": "12:30:00 PM 18-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139969/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249172",
-            "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Sierra Leone vs Botswana",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
-            "team_1": "Sierra Leone",
-            "team_2": "Botswana",
-            "startTime": "05:00:00 PM 18-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -180,6 +168,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248478",
+            "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:00:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247497",
+            "title": "Wrexham A.F.C. vs Southampton F.C. (EFL Championship 2026-27)",
+            "match_name": "Wrexham A.F.C. vs Southampton F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Southampton F.C.",
+            "startTime": "07:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249085",
             "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
@@ -189,6 +201,18 @@
             "team_1": "Day 2",
             "team_2": "La Sella Golf Resort",
             "startTime": "07:30:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248479",
+            "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Birmingham City F.C. Women",
+            "startTime": "05:15:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -205,14 +229,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248478",
-            "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "Charlton Athletic F.C Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:00:00 PM 19-09-2026"
+            "match_id": "4247635",
+            "title": "Athletic Club vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Deportivo Alaves",
+            "startTime": "07:45:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -225,42 +249,6 @@
             "team_1": "Guyana Amazon Warriors",
             "team_2": "Jamaica Kingsmen",
             "startTime": "04:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248479",
-            "title": "Chelsea F.C. Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Birmingham City F.C. Women",
-            "startTime": "05:15:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247497",
-            "title": "Wrexham A.F.C. vs Southampton F.C. (EFL Championship 2026-27)",
-            "match_name": "Wrexham A.F.C. vs Southampton F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
-            "team_1": "Wrexham A.F.C.",
-            "team_2": "Southampton F.C.",
-            "startTime": "07:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247635",
-            "title": "Athletic Club vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Athletic Club vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Deportivo Alaves",
-            "startTime": "07:45:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -476,6 +464,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248482_53038_CP-W_TOT-W_fc-web.jpg",
             "team_1": "Crystal Palace Women",
             "team_2": "Tottenham Hotspur Women",
+            "startTime": "06:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248483",
+            "title": "West Ham United Women vs Everton Women (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs Everton Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248483_53038_WHU-W_EVE-W_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "Everton Women",
             "startTime": "06:30:00 PM 20-09-2026"
         }
     ]
