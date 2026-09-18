@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:24 PM 18-09-2026",
+    "last_update_time": "05:00:22 PM 18-09-2026",
     "total_matches": 39,
     "live_match": 4,
     "matches": [
@@ -61,18 +61,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249276",
-            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
-            "match_name": "Queensland vs Victoria",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "startTime": "09:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249172",
             "title": "Sierra Leone vs Botswana (ILT20 Africa Continent Cup 2026)",
             "match_name": "Sierra Leone vs Botswana",
@@ -81,6 +69,18 @@
             "team_1": "Sierra Leone",
             "team_2": "Botswana",
             "startTime": "05:00:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249276",
+            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "Queensland vs Victoria",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "startTime": "09:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -168,6 +168,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249249",
+            "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249085",
             "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
@@ -192,15 +204,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249249",
-            "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Gulf Giants Development",
-            "startTime": "06:30:00 PM 19-09-2026"
+            "event_category": "Football",
+            "match_id": "4248478",
+            "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "London City Lionesses",
+            "startTime": "05:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,18 +225,6 @@
             "team_1": "Guyana Amazon Warriors",
             "team_2": "Jamaica Kingsmen",
             "startTime": "04:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248478",
-            "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "Charlton Athletic F.C Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -312,18 +312,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249086",
-            "title": "Day 3 vs La Sella Golf Resort (La Sella Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "06:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247628",
             "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
@@ -333,6 +321,18 @@
             "team_1": "Sevilla FC",
             "team_2": "FC Barcelona",
             "startTime": "12:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249086",
+            "title": "Day 3 vs La Sella Golf Resort (La Sella Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "La Sella Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "La Sella Golf Resort",
+            "startTime": "06:30:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
