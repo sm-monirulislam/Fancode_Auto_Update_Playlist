@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:00 AM 18-09-2026",
-    "total_matches": 38,
+    "last_update_time": "09:00:24 AM 18-09-2026",
+    "total_matches": 39,
     "live_match": 1,
     "matches": [
         {
@@ -93,6 +93,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249276",
+            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "Queensland vs Victoria",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "startTime": "09:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248477",
             "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
@@ -114,18 +126,6 @@
             "team_1": "Albacete",
             "team_2": "Córdoba",
             "startTime": "12:00:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249276",
-            "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
-            "match_name": "Queensland vs Victoria",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "startTime": "09:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +462,18 @@
             "team_1": "Race 2",
             "team_2": "Sydney, Australia",
             "startTime": "10:55:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248481",
+            "title": "Brighton and Hove Albion Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Brighton and Hove Albion Women vs Aston Villa Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248481_53038_BHA-W_AST-W_fc-web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Aston Villa Women",
+            "startTime": "06:30:00 PM 20-09-2026"
         }
     ]
 }
