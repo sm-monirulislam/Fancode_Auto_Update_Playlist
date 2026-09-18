@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:25:32 AM 19-09-2026",
+    "last_update_time": "04:00:40 AM 19-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247634",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "RCD Espanyol vs Elche CF [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Elche CF",
-            "startTime": "12:30:00 AM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247634/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -70,18 +57,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247636",
-            "title": "CA Osasuna vs Rayo Vallecano (LALIGA 2026-27)",
-            "match_name": "CA Osasuna vs Rayo Vallecano",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Rayo Vallecano",
-            "startTime": "05:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249249",
             "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
@@ -91,6 +66,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247636",
+            "title": "CA Osasuna vs Rayo Vallecano (LALIGA 2026-27)",
+            "match_name": "CA Osasuna vs Rayo Vallecano",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Rayo Vallecano",
+            "startTime": "05:30:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -118,18 +105,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247630",
-            "title": "RC Celta vs Racing Club de Santander (LALIGA 2026-27)",
-            "match_name": "RC Celta vs Racing Club de Santander",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Racing Club de Santander",
-            "startTime": "10:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249250",
             "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
@@ -139,6 +114,18 @@
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "Dubai Capitals Development",
             "startTime": "10:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247630",
+            "title": "RC Celta vs Racing Club de Santander (LALIGA 2026-27)",
+            "match_name": "RC Celta vs Racing Club de Santander",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Racing Club de Santander",
+            "startTime": "10:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +449,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
             "team_1": "Valencia CF",
             "team_2": "Real Sociedad",
+            "startTime": "12:30:00 AM 21-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249152",
+            "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Granada",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Granada",
             "startTime": "12:30:00 AM 21-09-2026"
         }
     ]
