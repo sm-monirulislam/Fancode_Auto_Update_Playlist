@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:43 PM 18-09-2026",
+    "last_update_time": "12:00:40 AM 19-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249085",
-            "title": "La Sella Open 2026 [English]",
-            "match_name": "Day 2 [English]",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "07:30:00 PM 18-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249085/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4248477",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Manchester City Women vs Liverpool Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Liverpool Women",
+            "startTime": "11:30:00 PM 18-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248477/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -30,6 +30,18 @@
             "team_1": "Queensland",
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249149",
+            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Albacete vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
+            "team_1": "Albacete",
+            "team_2": "Córdoba",
+            "startTime": "12:00:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -78,30 +90,6 @@
             "team_1": "Millwall F.C.",
             "team_2": "West Ham United",
             "startTime": "05:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248477",
-            "title": "Manchester City Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester City Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Liverpool Women",
-            "startTime": "11:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249149",
-            "title": "Albacete vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Albacete vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png",
-            "team_1": "Albacete",
-            "team_2": "Córdoba",
-            "startTime": "12:00:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -202,18 +190,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248480",
-            "title": "Arsenal Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Arsenal Women vs Manchester United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248480_53038_ARS-W_MUN-W_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Manchester United Women",
-            "startTime": "10:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247628",
             "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
             "match_name": "Sevilla FC vs FC Barcelona",
@@ -222,6 +198,18 @@
             "team_1": "Sevilla FC",
             "team_2": "FC Barcelona",
             "startTime": "12:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248480",
+            "title": "Arsenal Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Manchester United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248480_53038_ARS-W_MUN-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Manchester United Women",
+            "startTime": "10:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -462,6 +450,18 @@
             "team_1": "Villarreal CF",
             "team_2": "Levante",
             "startTime": "10:00:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249252",
+            "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs MI Emirates Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "MI Emirates Development",
+            "startTime": "10:30:00 PM 20-09-2026"
         }
     ]
 }
