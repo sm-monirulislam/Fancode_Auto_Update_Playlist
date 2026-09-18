@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:28 PM 18-09-2026",
+    "last_update_time": "04:00:24 PM 18-09-2026",
     "total_matches": 39,
     "live_match": 4,
     "matches": [
@@ -65,7 +65,7 @@
             "title": "Queensland vs Victoria (One Day Cup, 2026/27)",
             "match_name": "Queensland vs Victoria",
             "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg",
             "team_1": "Queensland",
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026"
@@ -132,18 +132,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249085",
-            "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
-            "match_name": "Day 2",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "07:30:00 PM 18-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249173",
             "title": "TBC vs TBC (ILT20 Africa Continent Cup 2026)",
@@ -168,18 +156,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249101",
-            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "12:30:00 AM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247636",
             "title": "CA Osasuna vs Rayo Vallecano (LALIGA 2026-27)",
@@ -192,15 +168,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248315",
-            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 19-09-2026"
+            "event_category": "Golf",
+            "match_id": "4249085",
+            "title": "Day 2 vs La Sella Golf Resort (La Sella Open 2026)",
+            "match_name": "Day 2",
+            "event_name": "La Sella Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "La Sella Golf Resort",
+            "startTime": "07:30:00 PM 18-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249101",
+            "title": "Day 2 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "12:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,6 +201,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4248315",
+            "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+            "match_name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -336,18 +336,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249215",
-            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 1",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 1",
-            "team_2": "Sydney, Australia",
-            "startTime": "02:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249150",
             "title": "Cádiz vs Girona FC (LALIGA Hypermotion 2026-27)",
@@ -357,6 +345,18 @@
             "team_1": "Cádiz",
             "team_2": "Girona FC",
             "startTime": "12:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249215",
+            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 1",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 1",
+            "team_2": "Sydney, Australia",
+            "startTime": "02:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -377,7 +377,7 @@
             "title": "Western Australia vs Tasmania (One Day Cup, 2026/27)",
             "match_name": "Western Australia vs Tasmania",
             "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
             "team_1": "Western Australia",
             "team_2": "Tasmania",
             "startTime": "11:30:00 AM 20-09-2026"
