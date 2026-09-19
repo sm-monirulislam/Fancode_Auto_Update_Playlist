@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:42 AM 19-09-2026",
+    "last_update_time": "12:00:44 PM 19-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -129,6 +129,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249273",
+            "title": "Western Australia vs Tasmania (One Day Cup, 2026/27)",
+            "match_name": "Western Australia vs Tasmania",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Tasmania",
+            "startTime": "11:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248478",
             "title": "Charlton Athletic F.C Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
@@ -150,18 +162,6 @@
             "team_1": "Chelsea F.C. Women",
             "team_2": "Birmingham City F.C. Women",
             "startTime": "05:15:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249273",
-            "title": "Western Australia vs Tasmania (One Day Cup, 2026/27)",
-            "match_name": "Western Australia vs Tasmania",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Tasmania",
-            "startTime": "11:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -189,18 +189,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249097",
-            "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
-            "match_name": "Zimbabwe vs Australia",
-            "event_name": "Australia tour of Zimbabwe, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Australia",
-            "startTime": "01:00:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "MotoGP",
             "match_id": "139970",
             "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
@@ -210,6 +198,18 @@
             "team_1": "Day 2",
             "team_2": "Spielberg",
             "startTime": "12:10:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249097",
+            "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
+            "match_name": "Zimbabwe vs Australia",
+            "event_name": "Australia tour of Zimbabwe, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+            "team_1": "Zimbabwe",
+            "team_2": "Australia",
+            "startTime": "01:00:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -369,18 +369,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249252",
             "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
@@ -390,6 +378,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
