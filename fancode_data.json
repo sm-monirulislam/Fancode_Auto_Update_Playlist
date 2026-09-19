@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:45 AM 20-09-2026",
-    "total_matches": 39,
-    "live_match": 4,
+    "last_update_time": "01:00:40 AM 20-09-2026",
+    "total_matches": 40,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -22,28 +22,28 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247630",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "RC Celta vs Racing Club de Santander [English]",
+            "match_id": "4247628",
+            "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
+            "match_name": "Sevilla FC vs FC Barcelona",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Racing Club de Santander",
-            "startTime": "10:00:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247630/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "FC Barcelona",
+            "startTime": "12:30:00 AM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247628/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248480",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Arsenal Women vs Manchester United Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248480_53038_ARS-W_MUN-W_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Manchester United Women",
-            "startTime": "10:00:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248480/index.m3u8"
+            "match_id": "4249150",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Cádiz vs Girona FC [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Girona FC",
+            "startTime": "12:30:00 AM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249150/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -57,6 +57,19 @@
             "team_2": "Asheville, North Carolina",
             "startTime": "10:30:00 PM 19-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249102/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247630",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "RC Celta vs Racing Club de Santander [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Racing Club de Santander",
+            "startTime": "10:00:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247630/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -81,18 +94,6 @@
             "team_1": "Zimbabwe",
             "team_2": "Australia",
             "startTime": "01:00:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247628",
-            "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
-            "match_name": "Sevilla FC vs FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "FC Barcelona",
-            "startTime": "12:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -141,18 +142,6 @@
             "team_1": "Desert Vipers Development",
             "team_2": "Abu Dhabi Knight Riders Development",
             "startTime": "06:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249150",
-            "title": "Cádiz vs Girona FC (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Girona FC",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Girona FC",
-            "startTime": "12:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -264,18 +253,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249152",
             "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
@@ -285,6 +262,18 @@
             "team_1": "Leganes",
             "team_2": "Granada",
             "startTime": "12:30:00 AM 21-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -477,6 +466,30 @@
             "team_1": "Inter Women",
             "team_2": "BK Häcken Women",
             "startTime": "10:15:00 PM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249470",
+            "title": "Arsenal Women vs HB Køge Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Arsenal Women vs HB Køge Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "HB Køge Women",
+            "startTime": "12:30:00 AM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249471",
+            "title": "Juventus Women vs Benfica Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Juventus Women vs Benfica Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Juventus Women",
+            "team_2": "Benfica Women",
+            "startTime": "12:30:00 AM 23-09-2026"
         }
     ]
 }
