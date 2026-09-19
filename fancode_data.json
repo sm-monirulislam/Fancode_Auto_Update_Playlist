@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:39:15 PM 19-09-2026",
+    "last_update_time": "09:00:38 PM 19-09-2026",
     "total_matches": 39,
-    "live_match": 7,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -83,19 +83,6 @@
             "team_2": "La Sella Golf Resort",
             "startTime": "06:30:00 PM 19-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249086/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247636",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "CA Osasuna vs Rayo Vallecano [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Rayo Vallecano",
-            "startTime": "05:30:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247636/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -339,6 +326,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247633",
+            "title": "Valencia CF vs Real Sociedad (LALIGA 2026-27)",
+            "match_name": "Valencia CF vs Real Sociedad",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Real Sociedad",
+            "startTime": "12:30:00 AM 21-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "MotoGP",
             "match_id": "139971",
             "title": "Race Day vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
@@ -352,13 +351,13 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4247633",
-            "title": "Valencia CF vs Real Sociedad (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Real Sociedad",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Sociedad",
+            "match_id": "4249152",
+            "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Granada",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Granada",
             "startTime": "12:30:00 AM 21-09-2026"
         },
         {
@@ -372,18 +371,6 @@
             "team_1": "Day 4",
             "team_2": "La Sella Golf Resort",
             "startTime": "06:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249152",
-            "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Granada",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Granada",
-            "startTime": "12:30:00 AM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -480,6 +467,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "Abu Dhabi Knight Riders Development",
             "startTime": "10:30:00 PM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249468",
+            "title": "Bayern Munich Women vs Manchester City Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Bayern Munich Women vs Manchester City Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Bayern Munich Women",
+            "team_2": "Manchester City Women",
+            "startTime": "10:15:00 PM 22-09-2026"
         }
     ]
 }
