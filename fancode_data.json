@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:39 PM 19-09-2026",
-    "total_matches": 40,
+    "last_update_time": "04:00:40 PM 19-09-2026",
+    "total_matches": 41,
     "live_match": 3,
     "matches": [
         {
@@ -155,18 +155,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247628",
-            "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
-            "match_name": "Sevilla FC vs FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "FC Barcelona",
-            "startTime": "12:30:00 AM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249097",
             "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
@@ -176,6 +164,18 @@
             "team_1": "Zimbabwe",
             "team_2": "Australia",
             "startTime": "01:00:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247628",
+            "title": "Sevilla FC vs FC Barcelona (LALIGA 2026-27)",
+            "match_name": "Sevilla FC vs FC Barcelona",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "FC Barcelona",
+            "startTime": "12:30:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -239,6 +239,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247629",
+            "title": "Getafe CF vs Malaga (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Malaga",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247629_53004_GEF_MAG_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Malaga",
+            "startTime": "05:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249086",
             "title": "Day 3 vs La Sella Golf Resort (La Sella Open 2026)",
@@ -263,18 +275,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247629",
-            "title": "Getafe CF vs Malaga (LALIGA 2026-27)",
-            "match_name": "Getafe CF vs Malaga",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247629_53004_GEF_MAG_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Malaga",
-            "startTime": "05:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249251",
             "title": "Desert Vipers Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
@@ -287,18 +287,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247637",
             "title": "Atletico de Madrid vs Real Madrid (LALIGA 2026-27)",
@@ -308,6 +296,18 @@
             "team_1": "Atletico de Madrid",
             "team_2": "Real Madrid",
             "startTime": "07:45:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +487,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
             "team_1": "Japan",
             "team_2": "India",
+            "startTime": "09:30:00 AM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249277",
+            "title": "Queensland vs New South Wales (One Day Cup, 2026/27)",
+            "match_name": "Queensland vs New South Wales",
+            "event_name": "One Day Cup, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249277_53072_QUN_NSW_FC-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "New South Wales",
             "startTime": "09:30:00 AM 22-09-2026"
         }
     ]
