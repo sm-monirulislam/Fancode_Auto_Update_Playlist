@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:40 PM 19-09-2026",
+    "last_update_time": "08:00:40 PM 19-09-2026",
     "total_matches": 39,
     "live_match": 8,
     "matches": [
@@ -21,16 +21,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247494",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Millwall F.C. vs West Ham United [English]",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247494_52993_MLW_WHU_fc-web_1786657253865.jpg",
-            "team_1": "Millwall F.C.",
-            "team_2": "West Ham United",
-            "startTime": "05:00:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247494/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4249249",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249249/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -48,15 +48,28 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248478",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Charlton Athletic F.C Women vs London City Lionesses [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "London City Lionesses",
-            "startTime": "05:00:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248478/index.m3u8"
+            "match_id": "4247497",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Wrexham A.F.C. vs Southampton F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Southampton F.C.",
+            "startTime": "07:30:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247497/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247635",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Athletic Club vs Deportivo Alaves [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Deportivo Alaves",
+            "startTime": "07:45:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247635/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,19 +111,6 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249086/index.m3u8"
         },
         {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249249",
-            "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development [English]",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Gulf Giants Development",
-            "startTime": "06:30:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249249/index.m3u8"
-        },
-        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249273",
@@ -145,30 +145,6 @@
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "Dubai Capitals Development",
             "startTime": "10:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247497",
-            "title": "Wrexham A.F.C. vs Southampton F.C. (EFL Championship 2026-27)",
-            "match_name": "Wrexham A.F.C. vs Southampton F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
-            "team_1": "Wrexham A.F.C.",
-            "team_2": "Southampton F.C.",
-            "startTime": "07:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247635",
-            "title": "Athletic Club vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Athletic Club vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Deportivo Alaves",
-            "startTime": "07:45:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -340,18 +316,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249252",
             "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
@@ -361,6 +325,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -481,6 +457,30 @@
             "team_1": "Queensland",
             "team_2": "New South Wales",
             "startTime": "09:30:00 AM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249522",
+            "title": "Mohammedan SC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohammedan SC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Mohammedan SC",
+            "team_2": "East Bengal FC",
+            "startTime": "03:00:00 PM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249254",
+            "title": "MI Emirates Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "MI Emirates Development vs Gulf Giants Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249254_53070_MED_GGD_FC-Web.png",
+            "team_1": "MI Emirates Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 22-09-2026"
         }
     ]
 }
