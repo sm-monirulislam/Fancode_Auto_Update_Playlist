@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:29:07 AM 19-09-2026",
+    "last_update_time": "06:00:46 AM 19-09-2026",
     "total_matches": 38,
     "live_match": 1,
     "matches": [
@@ -45,18 +45,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247494",
-            "title": "Millwall F.C. vs West Ham United (EFL Championship 2026-27)",
-            "match_name": "Millwall F.C. vs West Ham United",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247494_52993_MLW_WHU_fc-web_1786657253865.jpg",
-            "team_1": "Millwall F.C.",
-            "team_2": "West Ham United",
-            "startTime": "05:00:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249249",
             "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
@@ -66,6 +54,18 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247494",
+            "title": "Millwall F.C. vs West Ham United (EFL Championship 2026-27)",
+            "match_name": "Millwall F.C. vs West Ham United",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247494_52993_MLW_WHU_fc-web_1786657253865.jpg",
+            "team_1": "Millwall F.C.",
+            "team_2": "West Ham United",
+            "startTime": "05:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
