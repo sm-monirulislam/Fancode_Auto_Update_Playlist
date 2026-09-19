@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:40 AM 20-09-2026",
-    "total_matches": 40,
-    "live_match": 5,
+    "last_update_time": "02:00:39 AM 20-09-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -44,32 +44,6 @@
             "team_2": "Girona FC",
             "startTime": "12:30:00 AM 20-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249150/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249102",
-            "title": "Biltmore Championship in Asheville 2026 [English]",
-            "match_name": "Day 3 - World Feed [English]",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249102/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247630",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "RC Celta vs Racing Club de Santander [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Racing Club de Santander",
-            "startTime": "10:00:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247630/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -486,9 +460,21 @@
             "title": "Juventus Women vs Benfica Women (UEFA Women's Champions League 2026-27)",
             "match_name": "Juventus Women vs Benfica Women",
             "event_name": "UEFA Women's Champions League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Juventus Women",
             "team_2": "Benfica Women",
+            "startTime": "12:30:00 AM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249472",
+            "title": "Real Madrid Women vs Paris Saint-Germain Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Real Madrid Women vs Paris Saint-Germain Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Real Madrid Women",
+            "team_2": "Paris Saint-Germain Women",
             "startTime": "12:30:00 AM 23-09-2026"
         }
     ]
