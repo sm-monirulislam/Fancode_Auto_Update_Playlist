@@ -2,10 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:25:19 PM 19-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 06:00:39 PM 19-09-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg" group-title="Cricket",Queensland vs Victoria [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249276/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png" group-title="Cricket",Kenya vs Uganda [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249173/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247494_52993_MLW_WHU_fc-web_1786657253865.jpg" group-title="Football",Millwall F.C. vs West Ham United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247494/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png" group-title="Football",CA Osasuna vs Rayo Vallecano [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247636/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248478_53038_CHL-W_LCL_fc-web.jpg" group-title="Football",Charlton Athletic F.C Women vs London City Lionesses [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248478/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg" group-title="Football",Chelsea F.C. Women vs Birmingham City F.C. Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248479/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg" group-title="MotoGP",Day 2 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/139970/index.m3u8
