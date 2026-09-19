@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:00:39 PM 19-09-2026",
-    "total_matches": 40,
-    "live_match": 7,
+    "last_update_time": "07:00:40 PM 19-09-2026",
+    "total_matches": 39,
+    "live_match": 8,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249276",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "Queensland vs Victoria [English]",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "startTime": "09:30:00 AM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249276/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -98,6 +85,32 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139970/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249086",
+            "title": "La Sella Open 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "La Sella Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "La Sella Golf Resort",
+            "startTime": "06:30:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249086/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249249",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Gulf Giants Development",
+            "startTime": "06:30:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249249/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249273",
@@ -120,18 +133,6 @@
             "team_1": "Zimbabwe",
             "team_2": "Australia",
             "startTime": "01:00:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249249",
-            "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249249_53070_SWD_GGD_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Gulf Giants Development",
-            "startTime": "06:30:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -267,30 +268,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249086",
-            "title": "Day 3 vs La Sella Golf Resort (La Sella Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "06:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249102",
-            "title": "Day 3 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248481",
             "title": "Brighton and Hove Albion Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
@@ -327,15 +304,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
+            "event_category": "Golf",
+            "match_id": "4249102",
+            "title": "Day 3 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "10:30:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -360,6 +337,18 @@
             "team_1": "Villarreal CF",
             "team_2": "Levante",
             "startTime": "10:00:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
