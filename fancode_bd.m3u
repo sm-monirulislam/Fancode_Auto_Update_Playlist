@@ -2,10 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:40 PM 19-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 03:00:39 PM 19-09-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg" group-title="Cricket",Queensland vs Victoria [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249276/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg" group-title="MotoGP",Day 2 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/139970/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Motorsports",Race 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249215/index.m3u8
