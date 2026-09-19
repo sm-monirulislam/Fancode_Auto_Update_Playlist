@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:40 PM 19-09-2026",
+    "last_update_time": "08:39:15 PM 19-09-2026",
     "total_matches": 39,
-    "live_match": 8,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
@@ -35,19 +35,6 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247636",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "CA Osasuna vs Rayo Vallecano [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Rayo Vallecano",
-            "startTime": "05:30:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247636/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
             "match_id": "4247497",
             "title": "EFL Championship 2026-27 [English]",
             "match_name": "Wrexham A.F.C. vs Southampton F.C. [English]",
@@ -70,19 +57,6 @@
             "team_2": "Deportivo Alaves",
             "startTime": "07:45:00 PM 19-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247635/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248479",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Chelsea F.C. Women vs Birmingham City F.C. Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Birmingham City F.C. Women",
-            "startTime": "05:15:00 PM 19-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248479/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -109,6 +83,19 @@
             "team_2": "La Sella Golf Resort",
             "startTime": "06:30:00 PM 19-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249086/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247636",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "CA Osasuna vs Rayo Vallecano [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Rayo Vallecano",
+            "startTime": "05:30:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247636/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -280,18 +267,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249102",
-            "title": "Day 3 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247631",
             "title": "Deportivo de La Coruna vs Real Betis (LALIGA 2026-27)",
@@ -328,6 +303,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249102",
+            "title": "Day 3 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "10:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4249216",
             "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
@@ -340,18 +327,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139971",
-            "title": "Race Day vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
-            "match_name": "Race",
-            "event_name": "GRAND PRIX OF AUSTRIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-            "team_1": "Race Day",
-            "team_2": "Spielberg",
-            "startTime": "02:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249151",
             "title": "Almería vs RC Celta Fortuna (LALIGA Hypermotion 2026-27)",
@@ -361,6 +336,18 @@
             "team_1": "Almería",
             "team_2": "RC Celta Fortuna",
             "startTime": "10:00:00 PM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139971",
+            "title": "Race Day vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
+            "match_name": "Race",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Spielberg",
+            "startTime": "02:30:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -481,6 +468,18 @@
             "team_1": "MI Emirates Development",
             "team_2": "Gulf Giants Development",
             "startTime": "06:30:00 PM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249255",
+            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
+            "startTime": "10:30:00 PM 22-09-2026"
         }
     ]
 }
