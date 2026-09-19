@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:30:09 PM 19-09-2026",
+    "last_update_time": "01:00:43 PM 19-09-2026",
     "total_matches": 39,
-    "live_match": 1,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,19 @@
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 19-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249276/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139970",
+            "title": "GRAND PRIX OF AUSTRIA 2026 [English]",
+            "match_name": "Day 2 [English]",
+            "event_name": "GRAND PRIX OF AUSTRIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Spielberg",
+            "startTime": "12:10:00 PM 19-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139970/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -69,6 +82,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249250",
+            "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
+            "team_1": "Abu Dhabi Knight Riders Development",
+            "team_2": "Dubai Capitals Development",
+            "startTime": "10:30:00 PM 19-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247497",
             "title": "Wrexham A.F.C. vs Southampton F.C. (EFL Championship 2026-27)",
@@ -90,18 +115,6 @@
             "team_1": "Athletic Club",
             "team_2": "Deportivo Alaves",
             "startTime": "07:45:00 PM 19-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249250",
-            "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
-            "team_1": "Abu Dhabi Knight Riders Development",
-            "team_2": "Dubai Capitals Development",
-            "startTime": "10:30:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -138,6 +151,18 @@
             "team_1": "Western Australia",
             "team_2": "Tasmania",
             "startTime": "11:30:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249097",
+            "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
+            "match_name": "Zimbabwe vs Australia",
+            "event_name": "Australia tour of Zimbabwe, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+            "team_1": "Zimbabwe",
+            "team_2": "Australia",
+            "startTime": "01:00:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -189,27 +214,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249097",
-            "title": "Zimbabwe vs Australia (Australia tour of Zimbabwe, 2026)",
-            "match_name": "Zimbabwe vs Australia",
-            "event_name": "Australia tour of Zimbabwe, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Australia",
-            "startTime": "01:00:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139970",
-            "title": "Day 2 vs Spielberg (GRAND PRIX OF AUSTRIA 2026)",
-            "match_name": "Day 2",
-            "event_name": "GRAND PRIX OF AUSTRIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Spielberg",
-            "startTime": "12:10:00 PM 19-09-2026"
+            "event_category": "Motorsports",
+            "match_id": "4249215",
+            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 1",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 1",
+            "team_2": "Sydney, Australia",
+            "startTime": "02:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +286,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247637",
             "title": "Atletico de Madrid vs Real Madrid (LALIGA 2026-27)",
@@ -282,18 +307,6 @@
             "team_1": "Atletico de Madrid",
             "team_2": "Real Madrid",
             "startTime": "07:45:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249215",
-            "title": "Race 1 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 1",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 1",
-            "team_2": "Sydney, Australia",
-            "startTime": "02:00:00 PM 19-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -378,18 +391,6 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
         },
         {
             "status": "UPCOMING",
