@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:21:48 AM 21-09-2026",
+    "last_update_time": "03:01:14 AM 21-09-2026",
     "total_matches": 37,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -44,19 +44,6 @@
             "team_2": "Granada",
             "startTime": "12:30:00 AM 21-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249152/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249103",
-            "title": "Biltmore Championship in Asheville 2026 [English]",
-            "match_name": "Day 4 - World Feed [English]",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -453,6 +440,18 @@
             "team_1": "Practice 1",
             "team_2": "Baku City Circuit",
             "startTime": "02:00:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139654",
+            "title": "F2 AZERBAIJAN 2025 vs Baku (F2 AZERBAIJAN 2025)",
+            "match_name": "F2 AZERBAIJAN 2025",
+            "event_name": "F2 AZERBAIJAN 2025",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F2 AZERBAIJAN 2025",
+            "team_2": "Baku",
+            "startTime": "11:30:00 AM 24-09-2026"
         }
     ]
 }
