@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:46 AM 21-09-2026",
+    "last_update_time": "01:00:38 AM 21-09-2026",
     "total_matches": 38,
     "live_match": 6,
     "matches": [
@@ -35,6 +35,32 @@
         {
             "status": "LIVE",
             "event_category": "Football",
+            "match_id": "4247633",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Valencia CF vs Real Sociedad [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Real Sociedad",
+            "startTime": "12:30:00 AM 21-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247633/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249103",
+            "title": "Biltmore Championship in Asheville 2026 [English]",
+            "match_name": "Day 4 - World Feed [English]",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "10:30:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
             "match_id": "4247631",
             "title": "LALIGA 2026-27 [English]",
             "match_name": "Deportivo de La Coruna vs Real Betis [English]",
@@ -59,32 +85,6 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247632/index.m3u8"
         },
         {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249151",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Almería vs RC Celta Fortuna [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249151_53017_ALM_CF_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "RC Celta Fortuna",
-            "startTime": "10:00:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249151/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249103",
-            "title": "Biltmore Championship in Asheville 2026 [English]",
-            "match_name": "Day 4 - World Feed [English]",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8"
-        },
-        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249572",
@@ -107,18 +107,6 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Sambalpur Warriors",
             "startTime": "07:30:00 PM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247633",
-            "title": "Valencia CF vs Real Sociedad (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Real Sociedad",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Sociedad",
-            "startTime": "12:30:00 AM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +454,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
             "team_1": "ATP 250 - Chengdu Open 2026",
             "team_2": "Chengdu, China",
+            "startTime": "09:00:00 AM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248545",
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 24-09-2026"
         }
     ]
