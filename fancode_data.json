@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:43 AM 20-09-2026",
-    "total_matches": 39,
+    "last_update_time": "11:00:40 AM 20-09-2026",
+    "total_matches": 40,
     "live_match": 0,
     "matches": [
         {
@@ -188,6 +188,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249216",
+            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
+            "match_name": "Race 2",
+            "event_name": "Ferrari Challenge Series 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+            "team_1": "Race 2",
+            "team_2": "Sydney, Australia",
+            "startTime": "10:50:00 AM 20-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249152",
             "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
@@ -200,15 +212,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "4249216",
-            "title": "Race 2 vs Sydney, Australia (Ferrari Challenge Series 2026)",
-            "match_name": "Race 2",
-            "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-            "team_1": "Race 2",
-            "team_2": "Sydney, Australia",
-            "startTime": "10:50:00 AM 20-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249572",
+            "title": "Keonjhar Miners vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Bhubaneshwar Tigers",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "02:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -245,18 +257,6 @@
             "team_1": "Day 4 - World Feed",
             "team_2": "Asheville, North Carolina",
             "startTime": "10:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249572",
-            "title": "Keonjhar Miners vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Bhubaneshwar Tigers",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "02:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -473,6 +473,18 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249576",
+            "title": "Rourkela Superstars vs Puri Titans (Odisha Pro T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Puri Titans",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Puri Titans",
+            "startTime": "02:30:00 PM 23-09-2026"
         }
     ]
 }
