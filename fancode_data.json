@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:40 PM 20-09-2026",
-    "total_matches": 40,
+    "last_update_time": "05:00:40 PM 20-09-2026",
+    "total_matches": 39,
     "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249273",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "Western Australia vs Tasmania [English]",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Tasmania",
-            "startTime": "11:30:00 AM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249273/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -31,6 +18,19 @@
             "team_2": "Australia",
             "startTime": "01:00:00 PM 20-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249097/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247498",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg",
+            "team_1": "Wolverhampton Wanderers F.C.",
+            "team_2": "West Bromwich Albion F.C.",
+            "startTime": "04:30:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247498/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -52,7 +52,7 @@
             "title": "Sambalpur Warriors vs Kataka Panthers (Odisha Pro T20 League 2026)",
             "match_name": "Sambalpur Warriors vs Kataka Panthers",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Sambalpur Warriors",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 20-09-2026"
@@ -80,18 +80,6 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247498",
-            "title": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C. (EFL Championship 2026-27)",
-            "match_name": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg",
-            "team_1": "Wolverhampton Wanderers F.C.",
-            "team_2": "West Bromwich Albion F.C.",
-            "startTime": "04:30:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -160,7 +148,7 @@
             "title": "Keonjhar Miners vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
             "match_name": "Keonjhar Miners vs Bhubaneshwar Tigers",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Keonjhar Miners",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "02:30:00 PM 21-09-2026"
@@ -232,7 +220,7 @@
             "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
             "match_name": "Rourkela Superstars vs Sambalpur Warriors",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Sambalpur Warriors",
             "startTime": "07:30:00 PM 21-09-2026"
@@ -316,7 +304,7 @@
             "title": "Puri Titans vs Kataka Panthers (Odisha Pro T20 League 2026)",
             "match_name": "Puri Titans vs Kataka Panthers",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Puri Titans",
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 22-09-2026"
@@ -328,7 +316,7 @@
             "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
             "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Sambalpur Warriors",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "07:30:00 PM 22-09-2026"
@@ -448,7 +436,7 @@
             "title": "Rourkela Superstars vs Puri Titans (Odisha Pro T20 League 2026)",
             "match_name": "Rourkela Superstars vs Puri Titans",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Puri Titans",
             "startTime": "02:30:00 PM 23-09-2026"
@@ -484,7 +472,7 @@
             "title": "Bhubaneshwar Tigers vs Kataka Panthers (Odisha Pro T20 League 2026)",
             "match_name": "Bhubaneshwar Tigers vs Kataka Panthers",
             "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 23-09-2026"
