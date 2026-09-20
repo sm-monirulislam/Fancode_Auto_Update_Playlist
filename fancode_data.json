@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:38 AM 21-09-2026",
-    "total_matches": 38,
-    "live_match": 6,
+    "last_update_time": "02:00:46 AM 21-09-2026",
+    "total_matches": 37,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249571",
-            "title": "Odisha Pro T20 League 2026 [English]",
-            "match_name": "Sambalpur Warriors vs Kataka Panthers [English]",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Kataka Panthers",
-            "startTime": "07:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249571/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -47,6 +34,19 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249152",
+            "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Granada",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Granada",
+            "startTime": "12:30:00 AM 21-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249152/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Golf",
             "match_id": "4249103",
             "title": "Biltmore Championship in Asheville 2026 [English]",
@@ -57,32 +57,6 @@
             "team_2": "Asheville, North Carolina",
             "startTime": "10:30:00 PM 20-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247631",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Deportivo de La Coruna vs Real Betis [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Real Betis",
-            "startTime": "10:00:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247631/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247632",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Villarreal CF vs Levante [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247632_53004_VIL_LET_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Levante",
-            "startTime": "10:00:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247632/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -107,18 +81,6 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Sambalpur Warriors",
             "startTime": "07:30:00 PM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249152",
-            "title": "Leganes vs Granada (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Granada",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Granada",
-            "startTime": "12:30:00 AM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -467,6 +429,30 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249579",
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "07:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139492",
+            "title": "Practice 1 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
+            "match_name": "Practice 1",
+            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Baku City Circuit",
+            "startTime": "02:00:00 PM 24-09-2026"
         }
     ]
 }
