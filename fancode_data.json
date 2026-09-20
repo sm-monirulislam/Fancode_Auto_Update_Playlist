@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:44 PM 20-09-2026",
+    "last_update_time": "08:00:43 PM 20-09-2026",
     "total_matches": 39,
-    "live_match": 9,
+    "live_match": 10,
     "matches": [
         {
             "status": "LIVE",
@@ -22,6 +22,19 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "match_id": "4249571",
+            "title": "Odisha Pro T20 League 2026 [English]",
+            "match_name": "Sambalpur Warriors vs Kataka Panthers [English]",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Kataka Panthers",
+            "startTime": "07:30:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249571/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "match_id": "4249251",
             "title": "DP World ILT20 Development Tournament 2026 [English]",
             "match_name": "Desert Vipers Development vs Abu Dhabi Knight Riders Development [English]",
@@ -35,19 +48,6 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4247498",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg",
-            "team_1": "Wolverhampton Wanderers F.C.",
-            "team_2": "West Bromwich Albion F.C.",
-            "startTime": "04:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247498/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
             "match_id": "4247629",
             "title": "LALIGA 2026-27 [English]",
             "match_name": "Getafe CF vs Malaga [English]",
@@ -57,6 +57,19 @@
             "team_2": "Malaga",
             "startTime": "05:30:00 PM 20-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247629/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4247637",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Atletico de Madrid vs Real Madrid [English]",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Real Madrid",
+            "startTime": "07:45:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247637/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -126,18 +139,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249571",
-            "title": "Sambalpur Warriors vs Kataka Panthers (Odisha Pro T20 League 2026)",
-            "match_name": "Sambalpur Warriors vs Kataka Panthers",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Kataka Panthers",
-            "startTime": "07:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249572",
             "title": "Keonjhar Miners vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
             "match_name": "Keonjhar Miners vs Bhubaneshwar Tigers",
@@ -158,18 +159,6 @@
             "team_1": "Sharjah Warriorz Development",
             "team_2": "MI Emirates Development",
             "startTime": "10:30:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247637",
-            "title": "Atletico de Madrid vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Atletico de Madrid vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Real Madrid",
-            "startTime": "07:45:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -209,6 +198,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249573",
+            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "07:30:00 PM 21-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249151",
             "title": "Almería vs RC Celta Fortuna (LALIGA Hypermotion 2026-27)",
@@ -230,18 +231,6 @@
             "team_1": "Leganes",
             "team_2": "Granada",
             "startTime": "12:30:00 AM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249573",
-            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -482,6 +471,18 @@
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249525",
+            "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giant vs Sreenidi Deccan FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "Sreenidi Deccan FC",
+            "startTime": "03:00:00 PM 23-09-2026"
         }
     ]
 }
