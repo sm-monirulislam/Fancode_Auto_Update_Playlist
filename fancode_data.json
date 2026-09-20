@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:50 PM 20-09-2026",
-    "total_matches": 39,
-    "live_match": 5,
+    "last_update_time": "11:00:39 PM 20-09-2026",
+    "total_matches": 38,
+    "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249097",
-            "title": "Australia tour of Zimbabwe, 2026 [English]",
-            "match_name": "Zimbabwe vs Australia [English]",
-            "event_name": "Australia tour of Zimbabwe, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Australia",
-            "startTime": "01:00:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249097/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,65 +22,67 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249251",
+            "match_id": "4249252",
             "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "Desert Vipers Development vs Abu Dhabi Knight Riders Development [English]",
+            "match_name": "Sharjah Warriorz Development vs MI Emirates Development [English]",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249251_53070_DVD_ADK_FC-Web.png",
-            "team_1": "Desert Vipers Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "startTime": "06:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249251/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "MI Emirates Development",
+            "startTime": "10:30:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249252/index.m3u8"
         },
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4247637",
-            "title": "LALIGA 2026-27 [English]",
-            "match_name": "Atletico de Madrid vs Real Madrid [English]",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Real Madrid",
-            "startTime": "07:45:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247637/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249087",
-            "title": "La Sella Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "La Sella Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-            "team_1": "Day 4",
-            "team_2": "La Sella Golf Resort",
-            "startTime": "06:30:00 PM 20-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249087/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247631",
-            "title": "Deportivo de La Coruna vs Real Betis (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Real Betis",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Deportivo de La Coruna vs Real Betis [English]",
             "event_name": "LALIGA 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png",
             "team_1": "Deportivo de La Coruna",
             "team_2": "Real Betis",
-            "startTime": "10:00:00 PM 20-09-2026"
+            "startTime": "10:00:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247631/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4247632",
-            "title": "Villarreal CF vs Levante (LALIGA 2026-27)",
-            "match_name": "Villarreal CF vs Levante",
+            "title": "LALIGA 2026-27 [English]",
+            "match_name": "Villarreal CF vs Levante [English]",
             "event_name": "LALIGA 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247632_53004_VIL_LET_FC-Web.png",
             "team_1": "Villarreal CF",
             "team_2": "Levante",
-            "startTime": "10:00:00 PM 20-09-2026"
+            "startTime": "10:00:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4247632/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249151",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Almería vs RC Celta Fortuna [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249151_53017_ALM_CF_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "RC Celta Fortuna",
+            "startTime": "10:00:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249151/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249103",
+            "title": "Biltmore Championship in Asheville 2026 [English]",
+            "match_name": "Day 4 - World Feed [English]",
+            "event_name": "Biltmore Championship in Asheville 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Asheville, North Carolina",
+            "startTime": "10:30:00 PM 20-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -109,27 +98,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249151",
-            "title": "Almería vs RC Celta Fortuna (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs RC Celta Fortuna",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249151_53017_ALM_CF_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "RC Celta Fortuna",
-            "startTime": "10:00:00 PM 20-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249252",
-            "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs MI Emirates Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "MI Emirates Development",
-            "startTime": "10:30:00 PM 20-09-2026"
+            "match_id": "4249573",
+            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "07:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,18 +119,6 @@
             "team_1": "Valencia CF",
             "team_2": "Real Sociedad",
             "startTime": "12:30:00 AM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249573",
-            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -178,18 +143,6 @@
             "team_1": "Dubai Capitals Development",
             "team_2": "Desert Vipers Development",
             "startTime": "08:30:00 PM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249103",
-            "title": "Day 4 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Biltmore Championship in Asheville 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Asheville, North Carolina",
-            "startTime": "10:30:00 PM 20-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -478,6 +431,42 @@
             "team_1": "Chelsea F.C. Women",
             "team_2": "Austria Wien Women",
             "startTime": "12:30:00 AM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249476",
+            "title": "Barcelona Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Barcelona Women vs Paris FC Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Barcelona Women",
+            "team_2": "Paris FC Women",
+            "startTime": "12:30:00 AM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249578",
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha Pro T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "02:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248538",
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "startTime": "09:00:00 AM 24-09-2026"
         }
     ]
 }
