@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:40 AM 21-09-2026",
+    "last_update_time": "04:36:28 AM 21-09-2026",
     "total_matches": 37,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4248317",
+            "title": "Caribbean Premier League, 2026 [English]",
+            "match_name": "Antigua & Barbuda Falcons vs Jamaica Kingsmen [English]",
+            "event_name": "Caribbean Premier League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248286_53026_JK_ABF_FC-Web_1786367986999.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Jamaica Kingsmen",
+            "startTime": "04:30:00 AM 21-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248317/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -41,18 +54,6 @@
             "team_1": "Dubai Capitals Development",
             "team_2": "Desert Vipers Development",
             "startTime": "08:30:00 PM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4248317",
-            "title": "Antigua & Barbuda Falcons vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-            "match_name": "Antigua & Barbuda Falcons vs Jamaica Kingsmen",
-            "event_name": "Caribbean Premier League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248286_53026_JK_ABF_FC-Web_1786367986999.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Jamaica Kingsmen",
-            "startTime": "04:30:00 AM 21-09-2026"
         },
         {
             "status": "UPCOMING",
