@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:14 AM 22-09-2026",
-    "total_matches": 39,
-    "live_match": 2,
+    "last_update_time": "12:16:22 AM 22-09-2026",
+    "total_matches": 38,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249573",
-            "title": "Odisha Pro T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors [English]",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 21-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249573/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
