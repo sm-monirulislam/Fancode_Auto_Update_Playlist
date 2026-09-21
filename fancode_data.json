@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:42 PM 21-09-2026",
+    "last_update_time": "06:00:45 PM 21-09-2026",
     "total_matches": 39,
     "live_match": 1,
     "matches": [
@@ -58,18 +58,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249253",
-            "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Dubai Capitals Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "Desert Vipers Development",
-            "startTime": "08:30:00 PM 21-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249574",
             "title": "Puri Titans vs Kataka Panthers (Odisha Pro T20 League 2026)",
             "match_name": "Puri Titans vs Kataka Panthers",
@@ -78,6 +66,18 @@
             "team_1": "Puri Titans",
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 22-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249253",
+            "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Dubai Capitals Development vs Desert Vipers Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
+            "team_1": "Dubai Capitals Development",
+            "team_2": "Desert Vipers Development",
+            "startTime": "08:30:00 PM 21-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -371,11 +371,11 @@
             "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "139654",
-            "title": "F2 AZERBAIJAN 2026 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "F2 AZERBAIJAN 2026",
+            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Practice",
             "event_name": "F2 AZERBAIJAN 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F2 AZERBAIJAN 2026",
+            "team_1": "Practice",
             "team_2": "Baku",
             "startTime": "11:30:00 AM 24-09-2026"
         },
@@ -407,11 +407,11 @@
             "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "139655",
-            "title": "F2 AZERBAIJAN 2026 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "F2 AZERBAIJAN 2026",
+            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Qualifying",
             "event_name": "F2 AZERBAIJAN 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F2 AZERBAIJAN 2026",
+            "team_1": "Qualifying",
             "team_2": "Baku",
             "startTime": "03:30:00 PM 24-09-2026"
         },
