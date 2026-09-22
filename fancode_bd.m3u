@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:01:19 PM 22-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 11:01:24 PM 22-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249254_53070_MED_GGD_FC-Web.png" group-title="Cricket",MI Emirates Development vs Gulf Giants Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249254/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png" group-title="Cricket",Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249255/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249468_53078_BAY-W_MCI-W_fc-web_1790067155235.jpg" group-title="Football",Bayern Munich Women vs Manchester City Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249468/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249469_53078_INT-W_BKH-W_fc-web_1790067154438.jpg" group-title="Football",Inter Women vs BK Häcken Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4249469/index.m3u8
