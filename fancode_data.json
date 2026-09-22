@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:15 PM 22-09-2026",
+    "last_update_time": "09:01:24 PM 22-09-2026",
     "total_matches": 36,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249575",
-            "title": "Odisha Pro T20 League 2026 [English]",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1789983233587.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "07:30:00 PM 22-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249575/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -439,6 +426,18 @@
             "team_1": "Sprint Race",
             "team_2": "Baku",
             "startTime": "09:45:00 AM 25-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249581",
+            "title": "Puri Titans vs Keonjhar Miners (Odisha Pro T20 League 2026)",
+            "match_name": "Puri Titans vs Keonjhar Miners",
+            "event_name": "Odisha Pro T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1789983232835.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Keonjhar Miners",
+            "startTime": "07:30:00 PM 25-09-2026"
         }
     ]
 }
