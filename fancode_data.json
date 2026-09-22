@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:01:14 PM 22-09-2026",
+    "last_update_time": "03:01:20 PM 22-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -33,16 +33,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249277/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249574",
-            "title": "Puri Titans vs Kataka Panthers (Odisha Pro T20 League 2026)",
-            "match_name": "Puri Titans vs Kataka Panthers",
+            "title": "Odisha Pro T20 League 2026 [English]",
+            "match_name": "Puri Titans vs Kataka Panthers [English]",
             "event_name": "Odisha Pro T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1789983233568.jpg",
             "team_1": "Puri Titans",
             "team_2": "Kataka Panthers",
-            "startTime": "02:30:00 PM 22-09-2026"
+            "startTime": "02:30:00 PM 22-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249574/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -190,6 +191,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249256",
+            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "06:30:00 PM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248537",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -211,18 +224,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 23-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249256",
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "06:30:00 PM 23-09-2026"
         },
         {
             "status": "UPCOMING",
