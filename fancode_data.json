@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:06 AM 23-09-2026",
-    "total_matches": 36,
-    "live_match": 1,
+    "last_update_time": "11:01:09 AM 23-09-2026",
+    "total_matches": 38,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,19 @@
             "team_2": "Tasmania",
             "startTime": "06:00:00 AM 23-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249275/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248537",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 1 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 1",
+            "team_2": "Chengdu, China",
+            "startTime": "10:30:00 AM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248537/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -138,18 +151,6 @@
             "team_1": "Keonjhar Miners",
             "team_2": "Sambalpur Warriors",
             "startTime": "02:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248537",
-            "title": "Day 1 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 1",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
-            "startTime": "10:30:00 AM 23-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -438,6 +439,30 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "02:30:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248540",
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "startTime": "09:00:00 AM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248547",
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "startTime": "09:00:00 AM 26-09-2026"
         }
     ]
 }
