@@ -2,13 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:01:16 PM 23-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 11:42:49 PM 23-09-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1790170352686.jpg" group-title="Cricket",Bhubaneshwar Tigers vs Kataka Panthers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249577/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web-1.png" group-title="Cricket",Gulf Giants Development vs Abu Dhabi Knight Riders Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249256/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web-2.png" group-title="Cricket",Sharjah Warriorz Development vs Desert Vipers Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249257/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg" group-title="Football",Oud-Heverlee Leuven Women vs Roma Women [English]
