@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:22 AM 24-09-2026",
+    "last_update_time": "01:01:21 AM 24-09-2026",
     "total_matches": 38,
-    "live_match": 4,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -59,13 +59,39 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249474/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249475",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Chelsea F.C. Women vs Austria Wien Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Austria Wien Women",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249475/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249476",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Barcelona Women vs Paris FC Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
+            "team_1": "Barcelona Women",
+            "team_2": "Paris FC Women",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249476/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249778",
             "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
             "match_name": "South Africa vs Australia",
             "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "01:30:00 PM 24-09-2026"
@@ -93,30 +119,6 @@
             "team_1": "Puri Titans",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "07:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249475",
-            "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Austria Wien Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Austria Wien Women",
-            "startTime": "12:30:00 AM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249476",
-            "title": "Barcelona Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Barcelona Women vs Paris FC Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
-            "team_1": "Barcelona Women",
-            "team_2": "Paris FC Women",
-            "startTime": "12:30:00 AM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -216,18 +218,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249104",
-            "title": "Day 1 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 1 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "12:30:00 AM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249278",
             "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
@@ -237,6 +227,18 @@
             "team_1": "Victoria",
             "team_2": "New South Wales",
             "startTime": "09:30:00 AM 25-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249104",
+            "title": "Day 1 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 1 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "startTime": "12:30:00 AM 25-09-2026"
         },
         {
             "status": "UPCOMING",

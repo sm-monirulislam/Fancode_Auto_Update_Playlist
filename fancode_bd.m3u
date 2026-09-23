@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:22 AM 24-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 01:01:21 AM 24-09-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1790170352686.jpg" group-title="Cricket",Bhubaneshwar Tigers vs Kataka Panthers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249577/index.m3u8
@@ -13,3 +13,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249257/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249473/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg" group-title="Football",Servette Women vs OL Lyonnes [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249474/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg" group-title="Football",Chelsea F.C. Women vs Austria Wien Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249475/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg" group-title="Football",Barcelona Women vs Paris FC Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249476/index.m3u8
