@@ -2,10 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:01:09 PM 23-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 03:01:10 PM 23-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg" group-title="Cricket",South Australia vs Tasmania [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249275/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg" group-title="Cricket",Rourkela Superstars vs Puri Titans [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249576/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" group-title="Tennis",Day 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248537/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" group-title="Tennis",Day 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248544/index.m3u8

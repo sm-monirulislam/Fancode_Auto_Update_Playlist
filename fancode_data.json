@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:01:09 PM 23-09-2026",
+    "last_update_time": "03:01:10 PM 23-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249275",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "South Australia vs Tasmania [English]",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "startTime": "06:00:00 AM 23-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249275/index.m3u8"
+            "match_id": "4249576",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Puri Titans",
+            "startTime": "02:30:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249576/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -33,16 +33,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248537/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249576",
-            "title": "Rourkela Superstars vs Puri Titans (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Puri Titans",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "startTime": "02:30:00 PM 23-09-2026"
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248544",
+            "title": "ATP 250 - Hangzhou Open 2026 [English]",
+            "match_name": "Day 1 [English]",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Hangzhou, China",
+            "startTime": "01:30:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248544/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -55,6 +56,18 @@
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Cuttack Panthers",
             "startTime": "07:30:00 PM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249525",
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "startTime": "03:00:00 PM 23-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -130,18 +143,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249525",
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "startTime": "03:00:00 PM 23-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249578",
             "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
@@ -151,18 +152,6 @@
             "team_1": "Keonjhar Miners",
             "team_2": "Sambalpur Warriors",
             "startTime": "02:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248544",
-            "title": "Day 1 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 1",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
-            "startTime": "01:30:00 PM 23-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -183,7 +172,7 @@
             "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
             "match_name": "Calcutta Customs Club vs East Bengal FC",
             "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
             "team_1": "Calcutta Customs Club",
             "team_2": "East Bengal FC",
             "startTime": "03:00:00 PM 24-09-2026"
@@ -243,7 +232,7 @@
             "title": "Practice 1 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 1",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 1",
             "team_2": "Baku City Circuit",
             "startTime": "02:00:00 PM 24-09-2026"
@@ -267,7 +256,7 @@
             "title": "Practice 2 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 2",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 2",
             "team_2": "Baku City Circuit",
             "startTime": "05:30:00 PM 24-09-2026"
@@ -363,7 +352,7 @@
             "title": "Practice 3 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 3",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 3",
             "team_2": "Baku City Circuit",
             "startTime": "02:00:00 PM 25-09-2026"
@@ -387,7 +376,7 @@
             "title": "Qualifying vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Qualifying",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Qualifying",
             "team_2": "Baku City Circuit",
             "startTime": "05:30:00 PM 25-09-2026"
@@ -463,6 +452,18 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249305",
+            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "event_name": "NCR T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Aravali Avengers",
+            "startTime": "05:00:00 PM 26-09-2026"
         }
     ]
 }
