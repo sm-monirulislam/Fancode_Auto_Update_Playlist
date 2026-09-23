@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:11 PM 23-09-2026",
-    "total_matches": 37,
+    "last_update_time": "09:01:32 PM 23-09-2026",
+    "total_matches": 38,
     "live_match": 2,
     "matches": [
         {
@@ -13,7 +13,7 @@
             "title": "Odisha T20 League 2026 [English]",
             "match_name": "Bhubaneshwar Tigers vs Kataka Panthers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://images.fancode.com/aig/match/v1790165015426/4249577_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1790170352686.jpg",
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 23-09-2026",
@@ -39,7 +39,7 @@
             "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Keonjhar Miners vs Sambalpur Warriors",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1790170352089.jpg",
             "team_1": "Keonjhar Miners",
             "team_2": "Sambalpur Warriors",
             "startTime": "02:30:00 PM 24-09-2026"
@@ -111,7 +111,7 @@
             "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Puri Titans vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
             "team_1": "Puri Titans",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "07:30:00 PM 24-09-2026"
@@ -243,7 +243,7 @@
             "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1789983232752.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 25-09-2026"
@@ -291,7 +291,7 @@
             "title": "Puri Titans vs Keonjhar Miners (Odisha T20 League 2026)",
             "match_name": "Puri Titans vs Keonjhar Miners",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1789983232835.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
             "team_1": "Puri Titans",
             "team_2": "Keonjhar Miners",
             "startTime": "07:30:00 PM 25-09-2026"
@@ -375,7 +375,7 @@
             "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1789983233592.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "02:30:00 PM 26-09-2026"
@@ -447,10 +447,22 @@
             "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
             "match_name": "Keonjhar Miners vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1789983232850.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
             "team_1": "Keonjhar Miners",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248484",
+            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "Manchester City Women",
+            "startTime": "06:00:00 PM 26-09-2026"
         }
     ]
 }
