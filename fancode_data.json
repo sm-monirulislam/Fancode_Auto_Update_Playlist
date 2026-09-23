@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:22 PM 23-09-2026",
+    "last_update_time": "11:01:16 PM 23-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -33,28 +33,43 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249256/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249257",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Desert Vipers Development",
+            "startTime": "10:30:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249257/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4249473",
-            "title": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Oud-Heverlee Leuven Women vs Roma Women",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Oud-Heverlee Leuven Women vs Roma Women [English]",
             "event_name": "UEFA Women's Champions League 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg",
             "team_1": "Oud-Heverlee Leuven Women",
             "team_2": "Roma Women",
-            "startTime": "10:15:00 PM 23-09-2026"
+            "startTime": "10:15:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249473/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4249474",
-            "title": "Servette Women vs OL Lyonnes (UEFA Women's Champions League 2026-27)",
-            "match_name": "Servette Women vs OL Lyonnes",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Servette Women vs OL Lyonnes [English]",
             "event_name": "UEFA Women's Champions League 2026-27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg",
             "team_1": "Servette Women",
             "team_2": "OL Lyonnes",
-            "startTime": "10:15:00 PM 23-09-2026"
+            "startTime": "10:15:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249474/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -71,14 +86,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249257",
-            "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Desert Vipers Development",
-            "startTime": "10:30:00 PM 23-09-2026"
+            "match_id": "4249778",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "01:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249579",
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "07:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -103,18 +130,6 @@
             "team_1": "Barcelona Women",
             "team_2": "Paris FC Women",
             "startTime": "12:30:00 AM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249579",
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "07:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -451,18 +466,6 @@
             "team_1": "Keonjhar Miners",
             "team_2": "Kataka Panthers",
             "startTime": "07:30:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248484",
-            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "Manchester City Women",
-            "startTime": "06:00:00 PM 26-09-2026"
         }
     ]
 }
