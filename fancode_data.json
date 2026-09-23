@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:18 PM 23-09-2026",
-    "total_matches": 38,
-    "live_match": 3,
+    "last_update_time": "08:01:11 PM 23-09-2026",
+    "total_matches": 37,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249576",
+            "match_id": "4249577",
             "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://images.fancode.com/aig/match/v1790165047477/4249576_CASACARDS_APP.png",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249576/index.m3u8"
+            "image": "https://images.fancode.com/aig/match/v1790165015426/4249577_CASACARDS_APP.png",
+            "team_1": "Bhubaneshwar Tigers",
+            "team_2": "Kataka Panthers",
+            "startTime": "07:30:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249577/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -31,31 +31,6 @@
             "team_2": "Abu Dhabi Knight Riders Development",
             "startTime": "06:30:00 PM 23-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249256/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248544",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
-            "startTime": "01:30:00 PM 23-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248544/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249577",
-            "title": "Bhubaneshwar Tigers vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://images.fancode.com/aig/match/v1790165015426/4249577_CASACARDS_APP.png",
-            "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Kataka Panthers",
-            "startTime": "07:30:00 PM 23-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -464,6 +439,18 @@
             "team_1": "Feature Race 2",
             "team_2": "Baku",
             "startTime": "12:30:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249583",
+            "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1789983232850.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Kataka Panthers",
+            "startTime": "07:30:00 PM 26-09-2026"
         }
     ]
 }
