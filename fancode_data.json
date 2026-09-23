@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:06 PM 23-09-2026",
+    "last_update_time": "06:01:10 PM 23-09-2026",
     "total_matches": 38,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Puri Titans",
             "startTime": "02:30:00 PM 23-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249576/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249525",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "startTime": "03:00:00 PM 23-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249525/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -56,6 +43,18 @@
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Cuttack Panthers",
             "startTime": "07:30:00 PM 23-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249578",
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "02:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -132,18 +131,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249578",
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "02:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249579",
             "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Puri Titans vs Bhubaneshwar Tigers",
@@ -164,6 +151,18 @@
             "team_1": "Calcutta Customs Club",
             "team_2": "East Bengal FC",
             "startTime": "03:00:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249258",
+            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "08:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -188,18 +187,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249258",
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "08:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -464,6 +451,18 @@
             "team_1": "Sreenidi Deccan FC",
             "team_2": "NorthEast United FC",
             "startTime": "03:00:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4249606",
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "startTime": "12:30:00 PM 26-09-2026"
         }
     ]
 }
