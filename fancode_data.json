@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:20 PM 23-09-2026",
+    "last_update_time": "01:01:11 PM 23-09-2026",
     "total_matches": 38,
     "live_match": 2,
     "matches": [
@@ -142,18 +142,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249578",
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "02:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248544",
             "title": "Day 1 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
@@ -166,15 +154,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249522",
-            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "East Bengal FC",
-            "startTime": "03:00:00 PM 24-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249578",
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "02:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -187,6 +175,18 @@
             "team_1": "Puri Titans",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "07:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249522",
+            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "East Bengal FC",
+            "startTime": "03:00:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
