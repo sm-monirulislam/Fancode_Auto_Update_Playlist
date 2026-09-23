@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:05 AM 24-09-2026",
-    "total_matches": 38,
-    "live_match": 1,
+    "last_update_time": "05:01:03 AM 24-09-2026",
+    "total_matches": 37,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249475",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Chelsea F.C. Women vs Austria Wien Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Austria Wien Women",
-            "startTime": "12:30:00 AM 24-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249475/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -81,6 +68,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249278",
+            "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
+            "match_name": "Victoria vs New South Wales",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "New South Wales",
+            "startTime": "09:30:00 AM 25-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248538",
             "title": "Day 2 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -138,18 +137,6 @@
             "team_1": "Qualifying",
             "team_2": "Baku",
             "startTime": "03:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249278",
-            "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
-            "match_name": "Victoria vs New South Wales",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "New South Wales",
-            "startTime": "09:30:00 AM 25-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -458,7 +445,7 @@
             "title": "Tenerife vs Cádiz (LALIGA Hypermotion 2026-27)",
             "match_name": "Tenerife vs Cádiz",
             "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
             "team_1": "Tenerife",
             "team_2": "Cádiz",
             "startTime": "10:00:00 PM 26-09-2026"
