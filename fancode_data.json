@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:01:10 PM 23-09-2026",
+    "last_update_time": "04:01:10 PM 23-09-2026",
     "total_matches": 38,
     "live_match": 3,
     "matches": [
@@ -21,16 +21,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248537",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
-            "startTime": "10:30:00 AM 23-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248537/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4249525",
+            "title": "IFA Shield 2026 [English]",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant [English]",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "startTime": "03:00:00 PM 23-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249525/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -56,18 +56,6 @@
             "team_1": "Bhubaneshwar Tigers",
             "team_2": "Cuttack Panthers",
             "startTime": "07:30:00 PM 23-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249525",
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "startTime": "03:00:00 PM 23-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -203,18 +191,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139654",
-            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Practice",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Baku",
-            "startTime": "11:30:00 AM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249258",
             "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
@@ -224,6 +200,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "08:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139654",
+            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Practice",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Baku",
+            "startTime": "11:30:00 AM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -460,10 +448,22 @@
             "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
             "match_name": "Yamuna Warriors vs Aravali Avengers",
             "event_name": "NCR T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
             "team_1": "Yamuna Warriors",
             "team_2": "Aravali Avengers",
             "startTime": "05:00:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249526",
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "startTime": "03:00:00 PM 26-09-2026"
         }
     ]
 }
