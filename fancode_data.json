@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:33 AM 25-09-2026",
-    "total_matches": 37,
+    "last_update_time": "02:00:38 AM 25-09-2026",
+    "total_matches": 38,
     "live_match": 2,
     "matches": [
         {
@@ -450,6 +450,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
             "team_1": "Birmingham City F.C. Women",
             "team_2": "Crystal Palace Women",
+            "startTime": "06:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248488",
+            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Liverpool Women vs Everton Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
+            "team_1": "Liverpool Women",
+            "team_2": "Everton Women",
             "startTime": "06:30:00 PM 27-09-2026"
         }
     ]
