@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:36 PM 24-09-2026",
-    "total_matches": 38,
-    "live_match": 4,
+    "last_update_time": "09:00:34 PM 24-09-2026",
+    "total_matches": 40,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -35,19 +35,6 @@
         {
             "status": "LIVE",
             "event_category": "Tennis",
-            "match_id": "4248538",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 2 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Chengdu, China",
-            "startTime": "10:30:00 AM 24-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248538/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
             "match_id": "4248545",
             "title": "ATP 250 - Hangzhou Open 2026 [English]",
             "match_name": "Day 2 [English]",
@@ -73,18 +60,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249580",
-            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Kataka Panthers",
-            "startTime": "02:30:00 PM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249258",
             "title": "Gulf Giants Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Gulf Giants Development vs Desert Vipers Development",
@@ -93,6 +68,18 @@
             "team_1": "Gulf Giants Development",
             "team_2": "Desert Vipers Development",
             "startTime": "08:30:00 PM 24-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249580",
+            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Kataka Panthers",
+            "startTime": "02:30:00 PM 25-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -284,7 +271,7 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
             "team_1": "Sreenidi Deccan FC",
             "team_2": "NorthEast United FC",
-            "startTime": "03:00:00 PM 26-09-2026"
+            "startTime": "02:30:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -464,7 +451,43 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
             "team_1": "Calcutta Customs Club",
             "team_2": "Punjab FC",
-            "startTime": "03:00:00 PM 27-09-2026"
+            "startTime": "02:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249585",
+            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Keonjhar Miners",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Keonjhar Miners",
+            "startTime": "07:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248486",
+            "title": "Manchester United Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs West Ham United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "West Ham United Women",
+            "startTime": "05:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248487",
+            "title": "Birmingham City F.C. Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Birmingham City F.C. Women vs Crystal Palace Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
+            "team_1": "Birmingham City F.C. Women",
+            "team_2": "Crystal Palace Women",
+            "startTime": "06:30:00 PM 27-09-2026"
         }
     ]
 }
