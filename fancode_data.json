@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:42 PM 24-09-2026",
-    "total_matches": 39,
-    "live_match": 3,
+    "last_update_time": "11:00:39 PM 24-09-2026",
+    "total_matches": 37,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249778",
-            "title": "Australia tour of South Africa, 2026 [English]",
-            "match_name": "South Africa vs Australia [English]",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "startTime": "01:30:00 PM 24-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249778/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249579",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "07:30:00 PM 24-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249579/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -143,18 +117,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139657",
-            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 1",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 1",
-            "team_2": "Baku",
-            "startTime": "03:45:00 PM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249269",
             "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
@@ -164,6 +126,18 @@
             "team_1": "Girona FC",
             "team_2": "Albacete",
             "startTime": "12:00:00 AM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139657",
+            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 1",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 1",
+            "team_2": "Baku",
+            "startTime": "03:45:00 PM 25-09-2026"
         },
         {
             "status": "UPCOMING",
