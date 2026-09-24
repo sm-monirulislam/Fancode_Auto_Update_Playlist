@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:14 PM 24-09-2026",
+    "last_update_time": "01:01:13 PM 24-09-2026",
     "total_matches": 38,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 24-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248545/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139654",
+            "title": "F2 AZERBAIJAN 2026 [English]",
+            "match_name": "Practice [English]",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Practice",
+            "team_2": "Baku",
+            "startTime": "11:30:00 AM 24-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139654/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -71,18 +84,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249258",
-            "title": "Gulf Giants Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Gulf Giants Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "Gulf Giants Development",
-            "team_2": "Desert Vipers Development",
-            "startTime": "08:30:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249278",
             "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
             "match_name": "Victoria vs New South Wales",
@@ -91,6 +92,18 @@
             "team_1": "Victoria",
             "team_2": "New South Wales",
             "startTime": "09:30:00 AM 25-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249258",
+            "title": "Gulf Giants Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Gulf Giants Development vs Desert Vipers Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Desert Vipers Development",
+            "startTime": "08:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -103,18 +116,6 @@
             "team_1": "Calcutta Customs Club",
             "team_2": "East Bengal FC",
             "startTime": "03:00:00 PM 24-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139654",
-            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Practice",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Practice",
-            "team_2": "Baku",
-            "startTime": "11:30:00 AM 24-09-2026"
         },
         {
             "status": "UPCOMING",
