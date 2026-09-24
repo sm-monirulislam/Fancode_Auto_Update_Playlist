@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:13 PM 24-09-2026",
+    "last_update_time": "02:00:34 PM 24-09-2026",
     "total_matches": 38,
     "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249778",
+            "title": "Australia tour of South Africa, 2026 [English]",
+            "match_name": "South Africa vs Australia [English]",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "01:30:00 PM 24-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249778/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Tennis",
@@ -31,31 +44,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 24-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248545/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Motorsports",
-            "match_id": "139654",
-            "title": "F2 AZERBAIJAN 2026 [English]",
-            "match_name": "Practice [English]",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Practice",
-            "team_2": "Baku",
-            "startTime": "11:30:00 AM 24-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139654/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249778",
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "startTime": "01:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -100,7 +88,7 @@
             "title": "Gulf Giants Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Gulf Giants Development vs Desert Vipers Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20-2026-Web_Final.png",
             "team_1": "Gulf Giants Development",
             "team_2": "Desert Vipers Development",
             "startTime": "08:30:00 PM 24-09-2026"
@@ -464,6 +452,18 @@
             "team_1": "Noida Ninjas",
             "team_2": "Faridabad Firebirds",
             "startTime": "01:00:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249779",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "01:30:00 PM 27-09-2026"
         }
     ]
 }
