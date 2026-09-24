@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:37 PM 24-09-2026",
+    "last_update_time": "05:00:34 PM 24-09-2026",
     "total_matches": 38,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -59,6 +59,19 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248545/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139655",
+            "title": "F2 AZERBAIJAN 2026 [English]",
+            "match_name": "Qualifying [English]",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Qualifying",
+            "team_2": "Baku",
+            "startTime": "03:30:00 PM 24-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139655/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249579",
@@ -105,18 +118,6 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139655",
-            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Qualifying",
-            "team_2": "Baku",
-            "startTime": "03:30:00 PM 24-09-2026"
         },
         {
             "status": "UPCOMING",
