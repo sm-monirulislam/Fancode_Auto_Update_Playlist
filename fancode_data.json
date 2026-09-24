@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:06 AM 24-09-2026",
+    "last_update_time": "09:01:03 AM 24-09-2026",
     "total_matches": 38,
     "live_match": 0,
     "matches": [
@@ -152,18 +152,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249104",
-            "title": "Day 1 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 1 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "12:30:00 AM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249580",
             "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
@@ -173,6 +161,18 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 25-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249104",
+            "title": "Day 1 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 1 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "startTime": "12:30:00 AM 25-09-2026"
         },
         {
             "status": "UPCOMING",
