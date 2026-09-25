@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:35 AM 25-09-2026",
+    "last_update_time": "06:00:33 AM 25-09-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249104",
-            "title": "Presidents Cup 2026 [English]",
-            "match_name": "Day 1 - World Feed [English]",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "12:30:00 AM 25-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249104/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -449,6 +436,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
             "team_1": "Liverpool Women",
             "team_2": "Everton Women",
+            "startTime": "06:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248489",
+            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "Aston Villa Women",
             "startTime": "06:30:00 PM 27-09-2026"
         }
     ]
