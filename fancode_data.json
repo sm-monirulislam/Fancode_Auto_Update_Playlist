@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:01:12 AM 26-09-2026",
+    "last_update_time": "03:01:14 AM 26-09-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249581",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Keonjhar Miners [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Keonjhar Miners",
-            "startTime": "07:30:00 PM 25-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249581/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249269",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Girona FC vs Albacete [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249269_53017_GIR_ALB_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Albacete",
-            "startTime": "12:00:00 AM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249269/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -488,6 +462,30 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:30:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249272",
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "startTime": "12:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249528",
+            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Queensland Fire",
+            "startTime": "05:00:00 AM 29-09-2026"
         }
     ]
 }
