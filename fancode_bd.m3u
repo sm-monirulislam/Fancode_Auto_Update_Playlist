@@ -2,10 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:14 AM 26-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 01:01:12 AM 26-09-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg" group-title="Cricket",Puri Titans vs Keonjhar Miners [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249581/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249269_53017_GIR_ALB_FC-Web.png" group-title="Football",Girona FC vs Albacete [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249269/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" group-title="Golf",Day 2 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249105/index.m3u8
