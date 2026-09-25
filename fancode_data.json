@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:26 AM 25-09-2026",
+    "last_update_time": "11:01:20 AM 25-09-2026",
     "total_matches": 37,
-    "live_match": 1,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,45 @@
             "team_2": "Victoria",
             "startTime": "09:30:00 AM 25-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249278/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249575",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249575/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Motorsports",
+            "match_id": "139656",
+            "title": "F2 AZERBAIJAN 2026 [English]",
+            "match_name": "Sprint Race [English]",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Sprint Race",
+            "team_2": "Baku",
+            "startTime": "09:45:00 AM 25-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139656/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248539",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Chengdu, China",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248539/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -45,18 +84,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139656",
-            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Sprint Race",
-            "team_2": "Baku",
-            "startTime": "09:45:00 AM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249269",
             "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
@@ -66,6 +93,18 @@
             "team_1": "Girona FC",
             "team_2": "Albacete",
             "startTime": "12:00:00 AM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248546",
+            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Hangzhou, China",
+            "startTime": "11:00:00 AM 25-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -90,30 +129,6 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "02:30:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248539",
-            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 3",
-            "team_2": "Chengdu, China",
-            "startTime": "10:30:00 AM 25-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248546",
-            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Hangzhou, China",
-            "startTime": "11:00:00 AM 25-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -177,6 +192,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249526",
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "startTime": "02:30:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248540",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -198,18 +225,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249526",
-            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "02:30:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -273,18 +288,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249106",
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "06:30:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248164",
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -306,6 +309,18 @@
             "team_1": "Tenerife",
             "team_2": "Cádiz",
             "startTime": "10:00:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249106",
+            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "startTime": "06:30:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -437,18 +452,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
             "team_1": "Liverpool Women",
             "team_2": "Everton Women",
-            "startTime": "06:30:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248489",
-            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
             "startTime": "06:30:00 PM 27-09-2026"
         }
     ]
