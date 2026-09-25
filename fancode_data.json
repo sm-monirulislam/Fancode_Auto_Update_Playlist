@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:25:00 AM 25-09-2026",
+    "last_update_time": "07:00:36 AM 25-09-2026",
     "total_matches": 37,
     "live_match": 0,
     "matches": [
@@ -128,6 +128,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249304",
+            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Gurugram Gladiators",
+            "startTime": "01:00:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249105",
             "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
@@ -141,18 +153,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249304",
-            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Gurugram Gladiators",
-            "startTime": "01:00:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249582",
             "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers",
@@ -161,6 +161,18 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "02:30:00 PM 26-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249305",
+            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Aravali Avengers",
+            "startTime": "05:00:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -185,18 +197,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249305",
-            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Aravali Avengers",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Aravali Avengers",
-            "startTime": "05:00:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
