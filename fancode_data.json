@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:16 PM 25-09-2026",
+    "last_update_time": "08:01:16 PM 25-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 25-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248546/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Formula 1",
-            "match_id": "139495",
-            "title": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 [English]",
-            "match_name": "Qualifying [English]",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Baku City Circuit",
-            "startTime": "05:30:00 PM 25-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139495/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +474,18 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249303",
+            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Noida Ninjas",
+            "startTime": "05:00:00 PM 28-09-2026"
         }
     ]
 }
