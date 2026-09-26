@@ -2,10 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:00:25 PM 26-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 02:00:25 PM 26-09-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg" group-title="Cricket",Delhi Dynamos vs Gurugram Gladiators [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249304/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" group-title="Tennis",Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248540/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" group-title="Tennis",Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248547/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png" group-title="Motorsports",Feature Race 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249606/index.m3u8
