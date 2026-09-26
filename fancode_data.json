@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:29 AM 26-09-2026",
+    "last_update_time": "12:00:25 PM 26-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "team_2": "Chengdu, China",
             "startTime": "10:30:00 AM 26-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248540/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248547",
+            "title": "ATP 250 - Hangzhou Open 2026 [English]",
+            "match_name": "Day 4 [English]",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Hangzhou, China",
+            "startTime": "11:00:00 AM 26-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248547/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -154,18 +167,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248547",
-            "title": "Day 4 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 4",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Hangzhou, China",
-            "startTime": "11:00:00 AM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249299",
             "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
@@ -199,6 +200,18 @@
             "team_1": "Rourkela Superstars",
             "team_2": "Keonjhar Miners",
             "startTime": "02:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249302",
+            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "05:00:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -238,18 +251,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249302",
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "startTime": "05:00:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249523",
             "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
@@ -259,6 +260,18 @@
             "team_1": "Calcutta Customs Club",
             "team_2": "Punjab FC",
             "startTime": "02:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249584",
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "07:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -283,18 +296,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249584",
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
