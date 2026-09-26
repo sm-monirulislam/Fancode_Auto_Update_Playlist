@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:23 PM 26-09-2026",
-    "total_matches": 40,
+    "last_update_time": "05:40:33 PM 26-09-2026",
+    "total_matches": 41,
     "live_match": 6,
     "matches": [
         {
@@ -31,19 +31,6 @@
             "team_2": "Kataka Panthers",
             "startTime": "02:30:00 PM 26-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249583/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249526",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249526/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -85,16 +72,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139496/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249305",
-            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Yamuna Warriors vs Aravali Avengers [English]",
             "event_name": "NCR T20 League, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
             "team_1": "Yamuna Warriors",
             "team_2": "Aravali Avengers",
-            "startTime": "05:00:00 PM 26-09-2026"
+            "startTime": "05:00:00 PM 26-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249305/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +479,30 @@
             "team_1": "Western Australia Women",
             "team_2": "Tasmania Women",
             "startTime": "11:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250039",
+            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Saranda Worriers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Saranda Worriers",
+            "startTime": "09:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249298",
+            "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Aravali Avengers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "01:00:00 PM 29-09-2026"
         }
     ]
 }
