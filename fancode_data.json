@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:24 PM 26-09-2026",
-    "total_matches": 40,
-    "live_match": 6,
+    "last_update_time": "08:00:23 PM 26-09-2026",
+    "total_matches": 41,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -57,19 +57,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 26-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248547/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Formula 1",
-            "match_id": "139496",
-            "title": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 [English]",
-            "match_name": "Race [English]",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-            "team_1": "Race",
-            "team_2": "Baku City Circuit",
-            "startTime": "04:30:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139496/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -158,6 +145,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249584",
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "startTime": "07:30:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248485",
             "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
@@ -191,18 +190,6 @@
             "team_1": "Tenerife",
             "team_2": "Cádiz",
             "startTime": "10:00:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249584",
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +478,30 @@
             "team_1": "ATP 250 - Chengdu Open 2026",
             "team_2": "Chengdu, China",
             "startTime": "09:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248550",
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "startTime": "09:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250040",
+            "title": "Kolhan King vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
+            "match_name": "Kolhan King vs Chaibasa Challengers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Kolhan King",
+            "team_2": "Chaibasa Challengers",
+            "startTime": "01:00:00 PM 29-09-2026"
         }
     ]
 }
