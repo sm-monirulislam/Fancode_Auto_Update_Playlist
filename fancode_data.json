@@ -2,48 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:23 PM 26-09-2026",
-    "total_matches": 41,
-    "live_match": 5,
+    "last_update_time": "09:00:26 PM 26-09-2026",
+    "total_matches": 40,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249583",
+            "match_id": "4249582",
             "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Keonjhar Miners vs Kataka Panthers [English]",
+            "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Kataka Panthers",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249583/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249305",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Yamuna Warriors vs Aravali Avengers [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Aravali Avengers",
-            "startTime": "05:00:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249305/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248484",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Charlton Athletic F.C Women vs Manchester City Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "Manchester City Women",
-            "startTime": "06:00:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248484/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "07:30:00 PM 26-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249582/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,18 +44,6 @@
             "team_2": "Chicago, Illinois",
             "startTime": "06:30:00 PM 26-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249106/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249582",
-            "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "07:30:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -253,6 +215,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248490",
+            "title": "Chelsea F.C. Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Chelsea F.C. Women vs Arsenal Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Arsenal Women",
+            "startTime": "09:00:00 PM 27-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248541",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -274,18 +248,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248490",
-            "title": "Chelsea F.C. Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Arsenal Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Arsenal Women",
-            "startTime": "09:00:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -498,10 +460,34 @@
             "title": "Kolhan King vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Chaibasa Challengers",
             "event_name": "West Singhbhum T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Kolhan King",
             "team_2": "Chaibasa Challengers",
             "startTime": "01:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249297",
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "05:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249527",
+            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "NorthEast United FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "startTime": "02:30:00 PM 29-09-2026"
         }
     ]
 }
