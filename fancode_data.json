@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:00:22 PM 26-09-2026",
+    "last_update_time": "11:00:19 PM 26-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -34,16 +34,29 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248547",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Hangzhou, China",
-            "startTime": "11:00:00 AM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248547/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4248164",
+            "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
+            "match_name": "Oldham Athletic vs Salford City",
+            "event_name": "League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+            "team_1": "Oldham Athletic",
+            "team_2": "Salford City",
+            "startTime": "10:00:00 PM 26-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248164/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249270",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Tenerife vs Cádiz [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
+            "team_1": "Tenerife",
+            "team_2": "Cádiz",
+            "startTime": "10:00:00 PM 26-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249270/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -117,30 +130,6 @@
             "team_1": "Capital Cruisers",
             "team_2": "Ghaziabad Giants",
             "startTime": "05:00:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248164",
-            "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
-            "match_name": "Oldham Athletic vs Salford City",
-            "event_name": "League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "Oldham Athletic",
-            "team_2": "Salford City",
-            "startTime": "10:00:00 PM 26-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249270",
-            "title": "Tenerife vs Cádiz (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs Cádiz",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Cádiz",
-            "startTime": "10:00:00 PM 26-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +478,18 @@
             "team_1": "NorthEast United FC",
             "team_2": "Mohun Bagan Super Giant",
             "startTime": "02:30:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249587",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 29-09-2026"
         }
     ]
 }
