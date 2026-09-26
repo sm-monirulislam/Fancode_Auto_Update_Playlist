@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:27 AM 27-09-2026",
+    "last_update_time": "01:00:37 AM 27-09-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,45 +18,6 @@
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "07:30:00 PM 26-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249582/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248485",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "London City Lionesses vs Brighton and Hove Albion Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg",
-            "team_1": "London City Lionesses",
-            "team_2": "Brighton and Hove Albion Women",
-            "startTime": "09:30:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248485/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248164",
-            "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
-            "match_name": "Oldham Athletic vs Salford City",
-            "event_name": "League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "Oldham Athletic",
-            "team_2": "Salford City",
-            "startTime": "10:00:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248164/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249270",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Tenerife vs Cádiz [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Cádiz",
-            "startTime": "10:00:00 PM 26-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249270/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -217,6 +178,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249271",
+            "title": "Real Oviedo vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Real Oviedo vs Sporting de Gijón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Sporting de Gijón",
+            "startTime": "12:30:00 AM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248541",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -238,18 +211,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249271",
-            "title": "Real Oviedo vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Real Oviedo vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sporting de Gijón",
-            "startTime": "12:30:00 AM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,6 +451,42 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:30:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249829",
+            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
+            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Warriors Women",
+            "startTime": "02:00:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249811",
+            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Brampton Blitz",
+            "startTime": "04:30:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249812",
+            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Toronto Sixers",
+            "startTime": "07:15:00 AM 30-09-2026"
         }
     ]
 }
