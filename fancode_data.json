@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:17 PM 27-09-2026",
+    "last_update_time": "06:00:22 PM 27-09-2026",
     "total_matches": 40,
     "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249299",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "01:00:00 PM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249299/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -47,16 +34,29 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249302",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "05:00:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249302/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4249523",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Calcutta Customs Club vs Punjab FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "Punjab FC",
-            "startTime": "02:30:00 PM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249523/index.m3u8"
+            "match_id": "4248486",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Manchester United Women vs West Ham United Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "West Ham United Women",
+            "startTime": "05:30:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248486/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,18 +83,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 27-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248548/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249302",
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "startTime": "05:00:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -134,15 +122,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248486",
-            "title": "Manchester United Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs West Ham United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "West Ham United Women",
-            "startTime": "05:30:00 PM 27-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249303",
+            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Noida Ninjas",
+            "startTime": "05:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -179,18 +167,6 @@
             "team_1": "Tottenham Hotspur Women",
             "team_2": "Aston Villa Women",
             "startTime": "06:30:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249303",
-            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Noida Ninjas",
-            "startTime": "05:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,6 +242,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250057",
+            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Ajman vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Ajman",
+            "team_2": "Fujairah",
+            "startTime": "06:45:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248542",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -287,18 +275,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250057",
-            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Ajman vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Ajman",
-            "team_2": "Fujairah",
-            "startTime": "06:45:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +467,30 @@
             "team_1": "Abu Dhabi",
             "team_2": "Emirates Blues",
             "startTime": "06:45:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250062",
+            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Dubai",
+            "startTime": "09:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250063",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Ajman",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "startTime": "11:15:00 PM 29-09-2026"
         }
     ]
 }
