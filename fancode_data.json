@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:35 AM 28-09-2026",
-    "total_matches": 40,
+    "last_update_time": "01:00:38 AM 28-09-2026",
+    "total_matches": 42,
     "live_match": 3,
     "matches": [
         {
@@ -488,6 +488,30 @@
             "team_1": "Yamuna Warriors",
             "team_2": "Ghaziabad Giants",
             "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249780",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
         }
     ]
 }
