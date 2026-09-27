@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:40 AM 28-09-2026",
+    "last_update_time": "05:00:40 AM 28-09-2026",
     "total_matches": 40,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4249107",
-            "title": "Presidents Cup 2026 [English]",
-            "match_name": "Day 4 - World Feed [English]",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "10:30:00 PM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249107/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -165,6 +152,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249529",
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248542",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -190,14 +189,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249529",
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
+            "match_id": "4249530",
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
             "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
-            "startTime": "09:30:00 AM 29-09-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "startTime": "11:30:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -210,18 +209,6 @@
             "team_1": "Manoharpur Lions",
             "team_2": "Saranda Worriers",
             "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249530",
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "startTime": "11:30:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +473,18 @@
             "team_1": "Emirates Blues",
             "team_2": "Fujairah",
             "startTime": "04:30:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248551",
+            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "ATP 500 - China Open 2026",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 500 - China Open 2026",
+            "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 30-09-2026"
         }
     ]
 }
