@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:30 AM 28-09-2026",
+    "last_update_time": "04:00:40 AM 28-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249271",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Real Oviedo vs Sporting de Gijón [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sporting de Gijón",
-            "startTime": "12:30:00 AM 28-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249271/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Golf",
@@ -487,6 +474,18 @@
             "team_1": "Punjab FC",
             "team_2": "East Bengal FC",
             "startTime": "02:30:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250064",
+            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
+            "startTime": "04:30:00 PM 30-09-2026"
         }
     ]
 }
