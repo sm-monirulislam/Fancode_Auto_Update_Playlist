@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:26 PM 27-09-2026",
+    "last_update_time": "05:00:17 PM 27-09-2026",
     "total_matches": 40,
     "live_match": 6,
     "matches": [
@@ -182,6 +182,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249303",
+            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Noida Ninjas",
+            "startTime": "05:00:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248490",
             "title": "Chelsea F.C. Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
@@ -203,18 +215,6 @@
             "team_1": "Real Oviedo",
             "team_2": "Sporting de Gijón",
             "startTime": "12:30:00 AM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249303",
-            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Noida Ninjas",
-            "startTime": "05:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -242,18 +242,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249107",
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "10:30:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250056",
             "title": "Sharjah vs Dubai (Emirates D10, 2026)",
@@ -263,6 +251,18 @@
             "team_1": "Sharjah",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249107",
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "startTime": "10:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
