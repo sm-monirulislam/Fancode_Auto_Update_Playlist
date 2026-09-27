@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:24 PM 27-09-2026",
+    "last_update_time": "02:00:36 PM 27-09-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249574",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Kataka Panthers [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Kataka Panthers",
-            "startTime": "10:30:00 AM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249574/index.m3u8"
+            "match_id": "4249299",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Noida Ninjas vs Faridabad Firebirds [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+            "team_1": "Noida Ninjas",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "01:00:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249299/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249779",
+            "title": "Australia tour of South Africa, 2026 [English]",
+            "match_name": "South Africa vs Australia [English]",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "01:30:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249779/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -44,30 +57,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 27-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248548/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249299",
-            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "01:00:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249779",
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "startTime": "01:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -119,18 +108,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249523",
-            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs Punjab FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "Punjab FC",
-            "startTime": "02:30:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249301",
             "title": "Yamuna Warriors vs Capital Cruisers (NCR T20 League, 2026)",
@@ -140,6 +117,18 @@
             "team_1": "Yamuna Warriors",
             "team_2": "Capital Cruisers",
             "startTime": "01:00:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249523",
+            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "startTime": "02:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -227,18 +216,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249107",
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "startTime": "10:30:00 PM 27-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250038",
             "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
@@ -248,6 +225,18 @@
             "team_1": "Kolhan King",
             "team_2": "Jagannathpur Tigers",
             "startTime": "01:00:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249107",
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "startTime": "10:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +477,18 @@
             "team_1": "Sharjah",
             "team_2": "Emirates Red",
             "startTime": "04:30:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250061",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "06:45:00 PM 29-09-2026"
         }
     ]
 }
