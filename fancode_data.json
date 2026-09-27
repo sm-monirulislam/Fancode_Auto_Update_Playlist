@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:00:36 PM 27-09-2026",
+    "last_update_time": "03:00:23 PM 27-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -34,6 +34,32 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249585",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Rourkela Superstars vs Keonjhar Miners [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Keonjhar Miners",
+            "startTime": "02:30:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249585/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249523",
+            "title": "IFA Shield 2026 [English]",
+            "match_name": "Calcutta Customs Club vs Punjab FC [English]",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "startTime": "02:30:00 PM 27-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249523/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Tennis",
             "match_id": "4248541",
             "title": "ATP 250 - Chengdu Open 2026 [English]",
@@ -57,18 +83,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "11:00:00 AM 27-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248548/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249585",
-            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Keonjhar Miners",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Keonjhar Miners",
-            "startTime": "02:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -117,18 +131,6 @@
             "team_1": "Yamuna Warriors",
             "team_2": "Capital Cruisers",
             "startTime": "01:00:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249523",
-            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs Punjab FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "Punjab FC",
-            "startTime": "02:30:00 PM 27-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +230,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249586",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249107",
             "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
@@ -241,14 +255,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249586",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:30:00 PM 28-09-2026"
+            "match_id": "4250056",
+            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "startTime": "04:30:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -273,18 +287,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250056",
-            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
-            "startTime": "04:30:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
