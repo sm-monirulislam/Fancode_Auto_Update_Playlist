@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:00:40 AM 28-09-2026",
-    "total_matches": 42,
-    "live_match": 3,
+    "last_update_time": "02:17:32 AM 28-09-2026",
+    "total_matches": 40,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249584",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Sambalpur Warriors [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "07:30:00 PM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249584/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4248490",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Chelsea F.C. Women vs Arsenal Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Arsenal Women",
-            "startTime": "09:00:00 PM 27-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248490/index.m3u8"
+            "match_id": "4249271",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Real Oviedo vs Sporting de Gijón [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Sporting de Gijón",
+            "startTime": "12:30:00 AM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249271/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -124,22 +111,10 @@
             "title": "Sharjah vs Dubai (Emirates D10, 2026)",
             "match_name": "Sharjah vs Dubai",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg",
             "team_1": "Sharjah",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249271",
-            "title": "Real Oviedo vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Real Oviedo vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sporting de Gijón",
-            "startTime": "12:30:00 AM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -148,7 +123,7 @@
             "title": "Ajman vs Fujairah (Emirates D10, 2026)",
             "match_name": "Ajman vs Fujairah",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250057_53103_AJM_FUJ_FC-Web.jpg",
             "team_1": "Ajman",
             "team_2": "Fujairah",
             "startTime": "06:45:00 PM 28-09-2026"
@@ -160,7 +135,7 @@
             "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Sharjah vs Emirates Blues",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250058_53103_SHA_EMB_FC-Web.jpg",
             "team_1": "Sharjah",
             "team_2": "Emirates Blues",
             "startTime": "09:00:00 PM 28-09-2026"
@@ -172,34 +147,10 @@
             "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Fujairah",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-Web.jpg",
             "team_1": "Emirates Red",
             "team_2": "Fujairah",
             "startTime": "11:15:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248542",
-            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "ATP 250 - Chengdu Open 2026",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "ATP 250 - Chengdu Open 2026",
-            "team_2": "Chengdu, China",
-            "startTime": "09:00:00 AM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248549",
-            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "ATP 250 - Hangzhou Open 2026",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "ATP 250 - Hangzhou Open 2026",
-            "team_2": "Hangzhou, China",
-            "startTime": "09:00:00 AM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -224,6 +175,30 @@
             "team_1": "Leganes",
             "team_2": "Castellón",
             "startTime": "12:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248542",
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "startTime": "09:00:00 AM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248549",
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "startTime": "09:00:00 AM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -496,7 +471,7 @@
             "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
             "match_name": "South Africa vs Australia",
             "event_name": "Australia tour of South Africa, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
@@ -508,7 +483,7 @@
             "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
             "match_name": "Punjab FC vs East Bengal FC",
             "event_name": "IFA Shield 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
             "team_1": "Punjab FC",
             "team_2": "East Bengal FC",
             "startTime": "02:30:00 PM 30-09-2026"
