@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:36 PM 28-09-2026",
+    "last_update_time": "06:00:30 PM 28-09-2026",
     "total_matches": 40,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "team_2": "Bhubaneshwar Tigers",
             "startTime": "04:30:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249579/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249303",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Delhi Dynamos vs Noida Ninjas [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Noida Ninjas",
+            "startTime": "05:00:00 PM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249303/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,18 +96,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "03:00:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248549/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249303",
-            "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Noida Ninjas",
-            "startTime": "05:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -343,7 +344,7 @@
             "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
             "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
             "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
             "team_1": "Toronto Sixers Women",
             "team_2": "Vancouver Warriors Women",
             "startTime": "02:00:00 AM 30-09-2026"
@@ -427,7 +428,7 @@
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
             "match_name": "ATP 500 - China Open 2026",
             "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
             "team_1": "ATP 500 - China Open 2026",
             "team_2": "Beijing, China",
             "startTime": "09:00:00 AM 30-09-2026"
@@ -439,7 +440,7 @@
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
             "match_name": "ATP 500 - China Open 2026",
             "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
             "team_1": "ATP 500 - China Open 2026",
             "team_2": "Beijing, China",
             "startTime": "09:00:00 AM 30-09-2026"
