@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:51:20 AM 28-09-2026",
+    "last_update_time": "08:00:28 AM 28-09-2026",
     "total_matches": 40,
     "live_match": 0,
     "matches": [
@@ -81,18 +81,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250056",
-            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
-            "startTime": "04:30:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249528",
             "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
             "match_name": "New South Wales Breakers vs Queensland Fire",
@@ -101,6 +89,18 @@
             "team_1": "New South Wales Breakers",
             "team_2": "Queensland Fire",
             "startTime": "05:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250056",
+            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "startTime": "04:30:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -140,18 +140,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249272",
-            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Castellón",
-            "startTime": "12:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249529",
             "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
@@ -161,6 +149,18 @@
             "team_1": "Victoria Women",
             "team_2": "South Australian Scorpions",
             "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249272",
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "startTime": "12:00:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -188,6 +188,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249298",
+            "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Aravali Avengers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "01:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248542",
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -209,18 +221,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249298",
-            "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Aravali Avengers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
-            "team_1": "Aravali Avengers",
-            "team_2": "Ghaziabad Giants",
-            "startTime": "01:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
