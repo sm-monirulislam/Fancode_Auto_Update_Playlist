@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:14:48 PM 28-09-2026",
+    "last_update_time": "03:00:38 PM 28-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,44 @@
             "team_2": "Sambalpur Warriors",
             "startTime": "01:30:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249578/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250038",
+            "title": "West Singhbhum T20 League 2026 [English]",
+            "match_name": "Kolhan King vs Jagannathpur Tigers [English]",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Kolhan King",
+            "team_2": "Jagannathpur Tigers",
+            "startTime": "02:00:00 PM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250038/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248542",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 6 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 6",
+            "team_2": "Chengdu, China",
+            "startTime": "02:30:00 PM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248542/index.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249579",
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "04:30:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -71,18 +109,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250038",
-            "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
-            "match_name": "Kolhan King vs Jagannathpur Tigers",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Kolhan King",
-            "team_2": "Jagannathpur Tigers",
-            "startTime": "02:00:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249529",
             "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
             "match_name": "Victoria Women vs South Australian Scorpions",
@@ -91,6 +117,18 @@
             "team_1": "Victoria Women",
             "team_2": "South Australian Scorpions",
             "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249530",
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "startTime": "11:30:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -143,18 +181,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249530",
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "startTime": "11:30:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249298",
             "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Aravali Avengers vs Ghaziabad Giants",
@@ -191,14 +217,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": "4248542",
-            "title": "Day 6 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_id": "4248549",
+            "title": "Day 6 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
             "match_name": "Day 6",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
             "team_1": "Day 6",
-            "team_2": "Chengdu, China",
-            "startTime": "02:30:00 PM 28-09-2026"
+            "team_2": "Hangzhou, China",
+            "startTime": "03:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -226,15 +252,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248549",
-            "title": "Day 6 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 6",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 6",
-            "team_2": "Hangzhou, China",
-            "startTime": "03:00:00 PM 28-09-2026"
+            "event_category": "Cricket",
+            "match_id": "4249586",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -250,18 +276,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249586",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:30:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249527",
             "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
@@ -271,6 +285,18 @@
             "team_1": "NorthEast United FC",
             "team_2": "Mohun Bagan Super Giant",
             "startTime": "02:30:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250061",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "06:45:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -295,18 +321,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250061",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "06:45:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -474,18 +488,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
             "team_1": "Yamuna Warriors",
             "team_2": "Ghaziabad Giants",
-            "startTime": "05:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249780",
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
         }
     ]
