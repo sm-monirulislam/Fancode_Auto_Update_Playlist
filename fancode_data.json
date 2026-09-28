@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:53:34 PM 28-09-2026",
-    "total_matches": 40,
+    "last_update_time": "11:00:37 PM 28-09-2026",
+    "total_matches": 41,
     "live_match": 2,
     "matches": [
         {
@@ -83,18 +83,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249297",
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "05:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250059",
             "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Fujairah",
@@ -103,6 +91,18 @@
             "team_1": "Emirates Red",
             "team_2": "Fujairah",
             "startTime": "11:15:00 PM 28-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249297",
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +487,18 @@
             "team_1": "Paris FC Women",
             "team_2": "Arsenal Women",
             "startTime": "10:15:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250067",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 30-09-2026"
         }
     ]
 }
