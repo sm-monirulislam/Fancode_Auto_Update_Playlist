@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:25 PM 28-09-2026",
+    "last_update_time": "01:00:46 PM 28-09-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -82,6 +82,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249529",
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250038",
             "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Jagannathpur Tigers",
@@ -130,18 +142,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249529",
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
-            "startTime": "09:30:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250059",
             "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Fujairah",
@@ -165,18 +165,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249272",
-            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Castellón",
-            "startTime": "12:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249298",
             "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
@@ -186,6 +174,18 @@
             "team_1": "Aravali Avengers",
             "team_2": "Ghaziabad Giants",
             "startTime": "01:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249272",
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "startTime": "12:00:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -346,18 +346,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249829",
-            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
-            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
-            "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Warriors Women",
-            "startTime": "02:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249811",
             "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
             "match_name": "White Rock Warriors vs Brampton Blitz",
@@ -366,6 +354,18 @@
             "team_1": "White Rock Warriors",
             "team_2": "Brampton Blitz",
             "startTime": "04:30:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249829",
+            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
+            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Warriors Women",
+            "startTime": "02:00:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
