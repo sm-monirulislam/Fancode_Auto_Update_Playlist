@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:30 AM 28-09-2026",
+    "last_update_time": "12:00:25 PM 28-09-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -89,7 +89,7 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
             "team_1": "Kolhan King",
             "team_2": "Jagannathpur Tigers",
-            "startTime": "01:00:00 PM 28-09-2026"
+            "startTime": "02:00:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -130,18 +130,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250059",
-            "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-Web.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Fujairah",
-            "startTime": "11:15:00 PM 28-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249529",
             "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
             "match_name": "Victoria Women vs South Australian Scorpions",
@@ -150,6 +138,18 @@
             "team_1": "Victoria Women",
             "team_2": "South Australian Scorpions",
             "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250059",
+            "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-Web.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Fujairah",
+            "startTime": "11:15:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -178,18 +178,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250039",
-            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
-            "match_name": "Manoharpur Lions vs Saranda Worriers",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Saranda Worriers",
-            "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249298",
             "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Aravali Avengers vs Ghaziabad Giants",
@@ -202,6 +190,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4250039",
+            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Saranda Worriers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Saranda Worriers",
+            "startTime": "09:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250040",
             "title": "Kolhan King vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Chaibasa Challengers",
@@ -210,6 +210,18 @@
             "team_1": "Kolhan King",
             "team_2": "Chaibasa Challengers",
             "startTime": "01:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249297",
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -238,14 +250,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249297",
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "05:00:00 PM 29-09-2026"
+            "match_id": "4250060",
+            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Emirates Red",
+            "startTime": "04:30:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -262,14 +274,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250060",
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Red",
-            "startTime": "04:30:00 PM 29-09-2026"
+            "match_id": "4249586",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -294,18 +306,6 @@
             "team_1": "ATP 250 - Hangzhou Open 2026",
             "team_2": "Hangzhou, China",
             "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249586",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:30:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
