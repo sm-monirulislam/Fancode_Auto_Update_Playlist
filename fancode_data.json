@@ -2,35 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:38 PM 28-09-2026",
+    "last_update_time": "05:00:36 PM 28-09-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249301",
             "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Yamuna Warriors vs Capital Cruisers [English]",
+            "match_name": "Capital Cruisers vs Yamuna Warriors [English]",
             "event_name": "NCR T20 League, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249301_53073_YAW_CRU_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Capital Cruisers",
+            "team_1": "Capital Cruisers",
+            "team_2": "Yamuna Warriors",
             "startTime": "01:00:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249301/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249578",
+            "match_id": "4249579",
             "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors [English]",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1790170352089.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "startTime": "01:30:00 PM 28-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249578/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
+            "startTime": "04:30:00 PM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249579/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -44,6 +44,19 @@
             "team_2": "Jagannathpur Tigers",
             "startTime": "02:00:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250038/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250056",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Sharjah vs Dubai [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "startTime": "04:30:00 PM 28-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250056/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,18 +83,6 @@
             "team_2": "Hangzhou, China",
             "startTime": "03:00:00 PM 28-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248549/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249579",
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "04:30:00 PM 28-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -146,14 +147,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250056",
-            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
-            "startTime": "04:30:00 PM 28-09-2026"
+            "match_id": "4249298",
+            "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Aravali Avengers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "01:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -182,18 +183,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249298",
-            "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Aravali Avengers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
-            "team_1": "Aravali Avengers",
-            "team_2": "Ghaziabad Giants",
-            "startTime": "01:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250059",
             "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Fujairah",
@@ -217,18 +206,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249272",
-            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Castellón",
-            "startTime": "12:00:00 AM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249297",
             "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
@@ -238,6 +215,18 @@
             "team_1": "Gurugram Gladiators",
             "team_2": "Faridabad Firebirds",
             "startTime": "05:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249272",
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "startTime": "12:00:00 AM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +478,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
             "team_1": "Yamuna Warriors",
             "team_2": "Ghaziabad Giants",
+            "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249780",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
         }
     ]
