@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:41 PM 29-09-2026",
-    "total_matches": 41,
+    "last_update_time": "07:01:40 PM 29-09-2026",
+    "total_matches": 40,
     "live_match": 6,
     "matches": [
         {
@@ -491,18 +491,6 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Manoharpur Lions",
             "startTime": "09:00:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249533",
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "startTime": "11:30:00 AM 01-10-2026"
         }
     ]
 }
