@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:09:57 AM 29-09-2026",
+    "last_update_time": "08:42:17 AM 29-09-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -94,18 +94,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249811",
-            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "White Rock Warriors vs Brampton Blitz",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
-            "team_1": "White Rock Warriors",
-            "team_2": "Brampton Blitz",
-            "startTime": "04:30:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250039",
             "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
             "match_name": "Manoharpur Lions vs Saranda Worriers",
@@ -114,6 +102,18 @@
             "team_1": "Manoharpur Lions",
             "team_2": "Saranda Worriers",
             "startTime": "09:00:00 AM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249811",
+            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Brampton Blitz",
+            "startTime": "04:30:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
