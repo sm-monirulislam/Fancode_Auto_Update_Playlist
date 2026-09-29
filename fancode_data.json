@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:41 PM 29-09-2026",
+    "last_update_time": "05:00:43 PM 29-09-2026",
     "total_matches": 40,
-    "live_match": 6,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -73,6 +73,19 @@
         },
         {
             "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250060",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Emirates Red vs Sharjah [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250060_53103_SHA_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Sharjah",
+            "startTime": "04:30:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250060/index.m3u8"
+        },
+        {
+            "status": "LIVE",
             "event_category": "Football",
             "match_id": "4249527",
             "title": "IFA Shield 2026 [English]",
@@ -83,6 +96,19 @@
             "team_2": "Mohun Bagan Super Giant",
             "startTime": "02:30:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249527/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248543",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Final [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Final",
+            "team_2": "Chengdu, China",
+            "startTime": "04:30:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248543/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -147,14 +173,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250060",
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250060_53103_SHA_EMR_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Red",
-            "startTime": "04:30:00 PM 29-09-2026"
+            "match_id": "4249300",
+            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "01:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -179,18 +205,6 @@
             "team_1": "Emirates Red",
             "team_2": "Dubai",
             "startTime": "09:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249300",
-            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "01:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,6 +280,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248550",
+            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Final",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Final",
+            "team_2": "Hangzhou, China",
+            "startTime": "05:00:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249587",
             "title": "TBC vs TBC (Odisha T20 League 2026)",
@@ -299,30 +325,6 @@
             "team_1": "Punjab FC",
             "team_2": "East Bengal FC",
             "startTime": "02:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248543",
-            "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Final",
-            "team_2": "Chengdu, China",
-            "startTime": "04:30:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248550",
-            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Hangzhou, China",
-            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
