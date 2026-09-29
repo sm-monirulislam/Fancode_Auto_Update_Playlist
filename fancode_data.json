@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:07:20 AM 30-09-2026",
-    "total_matches": 41,
+    "last_update_time": "03:00:48 AM 30-09-2026",
+    "total_matches": 40,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250063",
-            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "startTime": "11:15:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250063/index.m3u8"
+            "match_id": "4249829",
+            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
+            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Warriors Women",
+            "startTime": "02:00:00 AM 30-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249829/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -90,18 +90,6 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249829",
-            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
-            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
-            "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Warriors Women",
-            "startTime": "02:00:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -190,18 +178,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4249477",
             "title": "Roma Women vs Barcelona Women (UEFA Women's Champions League 2026-27)",
             "match_name": "Roma Women vs Barcelona Women",
@@ -234,6 +210,18 @@
             "team_1": "Paris FC Women",
             "team_2": "Arsenal Women",
             "startTime": "10:15:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,6 +285,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249816",
+            "title": "White Rock Warriors vs Mississauga Masters (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Mississauga Masters",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Mississauga Masters",
+            "startTime": "07:15:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248565",
             "title": "Kinoshita Group Show Court vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
@@ -342,18 +342,6 @@
             "team_1": "Lotus Court",
             "team_2": "Beijing, China",
             "startTime": "08:30:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249816",
-            "title": "White Rock Warriors vs Mississauga Masters (Canada Super 60, 2026)",
-            "match_name": "White Rock Warriors vs Mississauga Masters",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
-            "team_1": "White Rock Warriors",
-            "team_2": "Mississauga Masters",
-            "startTime": "07:15:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,13 +478,13 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4250068",
             "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "match_name": "Sharjah vs Abu Dhabi",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
             "team_1": "Sharjah",
             "team_2": "Abu Dhabi",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Sharjah vs Abu Dhabi",
-            "match_id": "4250068",
             "startTime": "04:30:00 PM 01-10-2026"
         }
     ]
