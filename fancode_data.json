@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:20 AM 30-09-2026",
+    "last_update_time": "01:00:39 AM 30-09-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249586",
-            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Bhubaneshwar Tigers",
-            "startTime": "07:30:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249586/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -178,18 +165,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250066",
             "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
@@ -199,6 +174,18 @@
             "team_1": "Sharjah",
             "team_2": "Emirates Blues",
             "startTime": "09:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +474,18 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249307",
+            "title": "Aravali Avengers vs Capital Cruisers (NCR T20 League, 2026)",
+            "match_name": "Aravali Avengers vs Capital Cruisers",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249307_53073_AAV_CRU_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Capital Cruisers",
+            "startTime": "05:00:00 PM 01-10-2026"
         }
     ]
 }
