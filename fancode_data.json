@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:41 AM 29-09-2026",
+    "last_update_time": "12:00:25 PM 29-09-2026",
     "total_matches": 40,
     "live_match": 2,
     "matches": [
@@ -190,6 +190,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249813",
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
+            "startTime": "11:15:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249527",
             "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
@@ -203,14 +215,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249813",
-            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Vancouver Anchors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "startTime": "11:15:00 AM 30-09-2026"
+            "match_id": "4249300",
+            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "01:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -223,18 +235,6 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Chakradharpur Royals",
             "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249300",
-            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "01:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -298,6 +298,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249587",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249524",
             "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
@@ -319,18 +331,6 @@
             "team_1": "Emirates Blues",
             "team_2": "Fujairah",
             "startTime": "04:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249587",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
