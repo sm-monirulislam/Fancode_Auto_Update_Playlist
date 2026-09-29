@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:50 PM 29-09-2026",
+    "last_update_time": "11:00:45 PM 29-09-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "team_2": "Dubai",
             "startTime": "09:00:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250062/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249527",
-            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "NorthEast United FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "startTime": "02:30:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249527/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -96,6 +83,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4250063",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Ajman",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "startTime": "11:15:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249296",
             "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Yamuna Warriors vs Ghaziabad Giants",
@@ -120,14 +119,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250063",
-            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "startTime": "11:15:00 PM 29-09-2026"
+            "match_id": "4249587",
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -140,18 +139,6 @@
             "team_1": "Toronto Sixers Women",
             "team_2": "Vancouver Warriors Women",
             "startTime": "02:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249587",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -227,6 +214,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249814",
+            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "Toronto Sixers vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
+            "team_1": "Toronto Sixers",
+            "team_2": "Brampton Blitz",
+            "startTime": "02:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249477",
             "title": "Roma Women vs Barcelona Women (UEFA Women's Champions League 2026-27)",
@@ -264,18 +263,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249814",
-            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "Toronto Sixers vs Brampton Blitz",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
-            "team_1": "Toronto Sixers",
-            "team_2": "Brampton Blitz",
-            "startTime": "02:00:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250067",
             "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Abu Dhabi vs Emirates Blues",
@@ -284,6 +271,30 @@
             "team_1": "Abu Dhabi",
             "team_2": "Emirates Blues",
             "startTime": "11:15:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249480",
+            "title": "OL Lyonnes vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "OL Lyonnes vs Chelsea F.C. Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249480_53078_OLY-W_CHE-W_fc-web.jpg",
+            "team_1": "OL Lyonnes",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "12:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249481",
+            "title": "Benfica Women vs Bayern Munich Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Benfica Women vs Bayern Munich Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249481_53078_BEN-W_BAY-W_fc-web.jpg",
+            "team_1": "Benfica Women",
+            "team_2": "Bayern Munich Women",
+            "startTime": "12:30:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -332,30 +343,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249480",
-            "title": "OL Lyonnes vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "OL Lyonnes vs Chelsea F.C. Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249480_53078_OLY-W_CHE-W_fc-web.jpg",
-            "team_1": "OL Lyonnes",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "12:30:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249481",
-            "title": "Benfica Women vs Bayern Munich Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Benfica Women vs Bayern Munich Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249481_53078_BEN-W_BAY-W_fc-web.jpg",
-            "team_1": "Benfica Women",
-            "team_2": "Bayern Munich Women",
-            "startTime": "12:30:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +474,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
             "team_1": "ATP 500 - China Open 2026",
             "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248566",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 01-10-2026"
         }
     ]
