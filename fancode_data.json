@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:31 AM 30-09-2026",
+    "last_update_time": "05:52:25 AM 30-09-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -94,6 +94,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249814",
+            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "Toronto Sixers vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
+            "team_1": "Toronto Sixers",
+            "team_2": "Brampton Blitz",
+            "startTime": "02:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250041",
             "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
@@ -114,18 +126,6 @@
             "team_1": "Kolhan King",
             "team_2": "Manoharpur Lions",
             "startTime": "01:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249814",
-            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "Toronto Sixers vs Brampton Blitz",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
-            "team_1": "Toronto Sixers",
-            "team_2": "Brampton Blitz",
-            "startTime": "02:00:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -177,6 +177,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249531",
+            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Queensland Fire",
+            "startTime": "05:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249477",
             "title": "Roma Women vs Barcelona Women (UEFA Women's Champions League 2026-27)",
@@ -225,30 +237,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249531",
-            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
-            "match_name": "New South Wales Breakers vs Queensland Fire",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Queensland Fire",
-            "startTime": "05:00:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249480",
             "title": "OL Lyonnes vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
@@ -270,6 +258,18 @@
             "team_1": "Benfica Women",
             "team_2": "Bayern Munich Women",
             "startTime": "12:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
