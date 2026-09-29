@@ -2,21 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:29 AM 29-09-2026",
+    "last_update_time": "06:00:31 AM 29-09-2026",
     "total_matches": 40,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249528",
-            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
-            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "title": "Women's National Cricket League, 2026/27 [English]",
+            "match_name": "Queensland Fire vs New South Wales Breakers [English]",
             "event_name": "Women's National Cricket League, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Queensland Fire",
-            "startTime": "05:00:00 AM 29-09-2026"
+            "team_1": "Queensland Fire",
+            "team_2": "New South Wales Breakers",
+            "startTime": "05:00:00 AM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249528/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -141,18 +142,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250062",
-            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "startTime": "09:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249811",
             "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
             "match_name": "White Rock Warriors vs Brampton Blitz",
@@ -161,6 +150,18 @@
             "team_1": "White Rock Warriors",
             "team_2": "Brampton Blitz",
             "startTime": "04:30:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250062",
+            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Dubai",
+            "startTime": "09:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -212,6 +213,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249813",
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
+            "startTime": "11:15:00 AM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248543",
             "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -233,18 +246,6 @@
             "team_1": "Final",
             "team_2": "Hangzhou, China",
             "startTime": "05:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249813",
-            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Vancouver Anchors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "startTime": "11:15:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -281,6 +282,30 @@
             "team_1": "Kolhan King",
             "team_2": "Manoharpur Lions",
             "startTime": "01:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249296",
+            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Ghaziabad Giants",
+            "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249780",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "05:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -329,30 +354,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249296",
-            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Ghaziabad Giants",
-            "startTime": "05:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249780",
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "startTime": "05:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
