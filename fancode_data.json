@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:41 PM 29-09-2026",
+    "last_update_time": "09:00:43 PM 29-09-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -37,11 +37,11 @@
             "event_category": "Cricket",
             "match_id": "4250061",
             "title": "Emirates D10, 2026 [English]",
-            "match_name": "Abu Dhabi vs Emirates Blues [English]",
+            "match_name": "Emirates Blues vs Abu Dhabi [English]",
             "event_name": "Emirates D10, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
+            "team_1": "Emirates Blues",
+            "team_2": "Abu Dhabi",
             "startTime": "06:45:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250061/index.m3u8"
         },
@@ -57,19 +57,6 @@
             "team_2": "Mohun Bagan Super Giant",
             "startTime": "02:30:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249527/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248550",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Final [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Hangzhou, China",
-            "startTime": "05:00:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248550/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -110,18 +97,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249300",
-            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "01:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250062",
             "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Dubai",
@@ -134,26 +109,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250063",
-            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "startTime": "11:15:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249829",
-            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
-            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
-            "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Warriors Women",
-            "startTime": "02:00:00 AM 30-09-2026"
+            "match_id": "4249300",
+            "title": "Delhi Dynamos vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "01:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -178,6 +141,30 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250063",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Ajman",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "startTime": "11:15:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249829",
+            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
+            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Warriors Women",
+            "startTime": "02:00:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -229,18 +216,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250065",
             "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
@@ -250,6 +225,18 @@
             "team_1": "Abu Dhabi",
             "team_2": "Dubai",
             "startTime": "06:45:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -301,6 +288,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249814",
+            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "Toronto Sixers vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
+            "team_1": "Toronto Sixers",
+            "team_2": "Brampton Blitz",
+            "startTime": "02:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250067",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248551",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -346,30 +357,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250067",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249814",
-            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "Toronto Sixers vs Brampton Blitz",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
-            "team_1": "Toronto Sixers",
-            "team_2": "Brampton Blitz",
-            "startTime": "02:00:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -490,6 +477,18 @@
             "team_1": "Vancouver Anchors Women",
             "team_2": "Toronto Sixers Women",
             "startTime": "11:15:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250044",
+            "title": "Chakradharpur Royals vs Saranda Warriors (West Singhbhum T20 League 2026)",
+            "match_name": "Chakradharpur Royals vs Saranda Warriors",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Chakradharpur Royals",
+            "team_2": "Saranda Warriors",
+            "startTime": "01:00:00 PM 01-10-2026"
         }
     ]
 }
