@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:02:56 PM 29-09-2026",
-    "total_matches": 40,
-    "live_match": 8,
+    "last_update_time": "07:00:41 PM 29-09-2026",
+    "total_matches": 41,
+    "live_match": 6,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249530",
-            "title": "Women's National Cricket League, 2026/27 [English]",
-            "match_name": "Tasmania Women vs Western Australia Women [English]",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "Western Australia Women",
-            "startTime": "11:30:00 AM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249530/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250102",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Odisha Cricket Association Blue vs Odisha Cricket Association Green [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Odisha Cricket Association Blue",
-            "team_2": "Odisha Cricket Association Green",
-            "startTime": "02:00:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250102/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -149,6 +123,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4250061",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "06:45:00 PM 29-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249813",
             "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
             "match_name": "Mississauga Masters vs Vancouver Anchors",
@@ -169,18 +155,6 @@
             "team_1": "Delhi Dynamos",
             "team_2": "Faridabad Firebirds",
             "startTime": "01:00:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250061",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "06:45:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -221,18 +195,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250041",
-            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
-            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Jagannathpur Tigers",
-            "team_2": "Chakradharpur Royals",
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249296",
             "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Yamuna Warriors vs Ghaziabad Giants",
@@ -253,6 +215,18 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "05:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250041",
+            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Chakradharpur Royals",
+            "startTime": "09:00:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -493,6 +467,42 @@
             "team_1": "White Rock Warriors",
             "team_2": "Mississauga Masters",
             "startTime": "07:15:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249532",
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "startTime": "09:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250043",
+            "title": "Jagannathpur Tigers vs Manoharpur Lions (West Singhbhum T20 League 2026)",
+            "match_name": "Jagannathpur Tigers vs Manoharpur Lions",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Manoharpur Lions",
+            "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249533",
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "startTime": "11:30:00 AM 01-10-2026"
         }
     ]
 }
