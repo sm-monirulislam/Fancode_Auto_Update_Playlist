@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:01:41 AM 30-09-2026",
+    "last_update_time": "04:00:38 AM 30-09-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -142,18 +142,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250065",
-            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250065_53103_ABD_DUB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "startTime": "06:45:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249814",
             "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
             "match_name": "Toronto Sixers vs Brampton Blitz",
@@ -162,6 +150,18 @@
             "team_1": "Toronto Sixers",
             "team_2": "Brampton Blitz",
             "startTime": "02:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250065",
+            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250065_53103_ABD_DUB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Dubai",
+            "startTime": "06:45:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,6 +213,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250067",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249524",
             "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
@@ -226,18 +238,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250067",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249815",
             "title": "Vancouver Anchors vs Montreal Royal Tigers (Canada Super 60, 2026)",
             "match_name": "Vancouver Anchors vs Montreal Royal Tigers",
@@ -246,6 +246,18 @@
             "team_1": "Vancouver Anchors",
             "team_2": "Montreal Royal Tigers",
             "startTime": "04:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249531",
+            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Queensland Fire",
+            "startTime": "05:00:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -270,18 +282,6 @@
             "team_1": "Benfica Women",
             "team_2": "Bayern Munich Women",
             "startTime": "12:30:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249531",
-            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
-            "match_name": "New South Wales Breakers vs Queensland Fire",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Queensland Fire",
-            "startTime": "05:00:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
