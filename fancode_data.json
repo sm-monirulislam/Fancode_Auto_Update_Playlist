@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:51:48 PM 29-09-2026",
+    "last_update_time": "03:00:27 PM 29-09-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -72,6 +72,19 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250040/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249527",
+            "title": "IFA Shield 2026 [English]",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant [English]",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "NorthEast United FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "startTime": "02:30:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249527/index.m3u8"
+        },
+        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249297",
@@ -118,18 +131,6 @@
             "team_1": "Montreal Royal Tigers",
             "team_2": "Toronto Sixers",
             "startTime": "07:15:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249527",
-            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "NorthEast United FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "startTime": "02:30:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -289,6 +290,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248543",
             "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -310,18 +323,6 @@
             "team_1": "Final",
             "team_2": "Hangzhou, China",
             "startTime": "05:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
