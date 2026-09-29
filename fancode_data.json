@@ -2,29 +2,16 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:22:32 PM 29-09-2026",
+    "last_update_time": "10:00:47 PM 29-09-2026",
     "total_matches": 40,
-    "live_match": 4,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249297",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "05:00:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249297/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4249586",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
             "team_1": "Sambalpur Warriors",
@@ -35,22 +22,22 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250061",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Emirates Blues vs Abu Dhabi [English]",
+            "match_id": "4250062",
+            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Dubai",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Abu Dhabi",
-            "startTime": "06:45:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250061/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Dubai",
+            "startTime": "09:00:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250062/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
             "match_id": "4249527",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant [English]",
+            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
             "event_name": "IFA Shield 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
             "team_1": "NorthEast United FC",
@@ -93,18 +80,6 @@
             "team_1": "Mississauga Masters",
             "team_2": "Vancouver Anchors",
             "startTime": "11:15:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250062",
-            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "startTime": "09:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -169,18 +144,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250041",
-            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
-            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Jagannathpur Tigers",
-            "team_2": "Chakradharpur Royals",
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249587",
             "title": "TBC vs TBC (Odisha T20 League 2026)",
             "match_name": "TBC vs TBC",
@@ -189,6 +152,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "07:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250041",
+            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Chakradharpur Royals",
+            "startTime": "09:00:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +464,30 @@
             "team_1": "Chakradharpur Royals",
             "team_2": "Saranda Warriors",
             "startTime": "01:00:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248552",
+            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "ATP 500 - China Open 2026",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "ATP 500 - China Open 2026",
+            "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248559",
+            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "ATP 500 - China Open 2026",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "ATP 500 - China Open 2026",
+            "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 01-10-2026"
         }
     ]
 }
