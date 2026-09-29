@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:25 PM 29-09-2026",
+    "last_update_time": "06:01:06 PM 29-09-2026",
     "total_matches": 40,
     "live_match": 8,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249529",
-            "title": "Women's National Cricket League, 2026/27 [English]",
-            "match_name": "South Australian Scorpions vs Victoria Women [English]",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "South Australian Scorpions",
-            "team_2": "Victoria Women",
-            "startTime": "09:30:00 AM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249529/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -35,19 +22,6 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249298",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Ghaziabad Giants vs Aravali Avengers [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
-            "team_1": "Ghaziabad Giants",
-            "team_2": "Aravali Avengers",
-            "startTime": "01:00:00 PM 29-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249298/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4250102",
             "title": "Odisha T20 League 2026 [English]",
             "match_name": "Odisha Cricket Association Blue vs Odisha Cricket Association Green [English]",
@@ -57,6 +31,19 @@
             "team_2": "Odisha Cricket Association Green",
             "startTime": "02:00:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250102/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249297",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "startTime": "05:00:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249297/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -100,6 +87,19 @@
         {
             "status": "LIVE",
             "event_category": "Tennis",
+            "match_id": "4248550",
+            "title": "ATP 250 - Hangzhou Open 2026 [English]",
+            "match_name": "Final [English]",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Final",
+            "team_2": "Hangzhou, China",
+            "startTime": "05:00:00 PM 29-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248550/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
             "match_id": "4248543",
             "title": "ATP 250 - Chengdu Open 2026 [English]",
             "match_name": "Final [English]",
@@ -109,18 +109,6 @@
             "team_2": "Chengdu, China",
             "startTime": "04:30:00 PM 29-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248543/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249297",
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
-            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -280,18 +268,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248550",
-            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Hangzhou, China",
-            "startTime": "05:00:00 PM 29-09-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249587",
             "title": "TBC vs TBC (Odisha T20 League 2026)",
@@ -340,6 +316,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250066",
+            "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250066_53103_SHA_EMB_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Emirates Blues",
+            "startTime": "09:00:00 PM 30-09-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248551",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -385,18 +373,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250066",
-            "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250066_53103_SHA_EMB_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Blues",
-            "startTime": "09:00:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -493,6 +469,30 @@
             "team_1": "Vancouver Anchors",
             "team_2": "Montreal Royal Tigers",
             "startTime": "04:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249531",
+            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Queensland Fire",
+            "startTime": "05:00:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249816",
+            "title": "White Rock Warriors vs Mississauga Masters (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Mississauga Masters",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Mississauga Masters",
+            "startTime": "07:15:00 AM 01-10-2026"
         }
     ]
 }
