@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:25 AM 30-09-2026",
+    "last_update_time": "12:00:36 PM 30-09-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 6,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249813",
+            "title": "Canada Super 60, 2026 [English]",
+            "match_name": "Mississauga Masters vs Vancouver Anchors [English]",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
+            "startTime": "11:15:00 AM 30-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249813/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -70,18 +83,6 @@
             "team_2": "Beijing, China",
             "startTime": "08:30:00 AM 30-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248558/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249813",
-            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Vancouver Anchors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "startTime": "11:15:00 AM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -230,6 +231,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249532",
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "startTime": "09:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250067",
             "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Abu Dhabi vs Emirates Blues",
@@ -302,14 +315,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249532",
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
+            "match_id": "4249533",
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
             "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
-            "startTime": "09:30:00 AM 01-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "startTime": "11:30:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -326,14 +339,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249533",
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "startTime": "11:30:00 AM 01-10-2026"
+            "match_id": "4249306",
+            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Noida Ninjas",
+            "startTime": "01:00:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -346,18 +359,6 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Manoharpur Lions",
             "startTime": "09:00:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249306",
-            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Noida Ninjas",
-            "startTime": "01:00:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
