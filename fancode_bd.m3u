@@ -2,19 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:01:22 AM 01-10-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 02:01:20 AM 01-10-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249780/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg" group-title="Cricket",Abu Dhabi vs Emirates Red [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250067/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249477_53078_ROM-W_BAR-W_fc-web.jpg" group-title="Football",Roma Women vs Barcelona Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249477/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249478_53078_BKH-W_JUV-W_fc-web.jpg" group-title="Football",BK Häcken Women vs Juventus Women
-https://fancode.sm-monirul-islam-rs.workers.dev/4249478/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249479_53078_PFC-W_ARS-W_fc-web.jpg" group-title="Football",Paris FC Women vs Arsenal Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249479/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249480_53078_OLY-W_CHE-W_fc-web.jpg" group-title="Football",OL Lyonnes vs Chelsea F.C. Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249481_53078_BEN-W_BAY-W_fc-web.jpg" group-title="Football",Benfica Women vs Bayern Munich Women [English]
