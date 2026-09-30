@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:39:50 PM 30-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 11:01:22 PM 30-09-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249780/index.m3u8
@@ -11,3 +11,9 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249780/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249587/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250066_53103_SHA_EMB_FC-WEB.jpg" group-title="Cricket",Sharjah vs Emirates Blues [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250066/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249477_53078_ROM-W_BAR-W_fc-web.jpg" group-title="Football",Roma Women vs Barcelona Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249477/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249478_53078_BKH-W_JUV-W_fc-web.jpg" group-title="Football",BK Häcken Women vs Juventus Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4249478/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249479_53078_PFC-W_ARS-W_fc-web.jpg" group-title="Football",Paris FC Women vs Arsenal Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249479/index.m3u8
