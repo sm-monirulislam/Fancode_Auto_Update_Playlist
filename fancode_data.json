@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:19 PM 30-09-2026",
-    "total_matches": 41,
-    "live_match": 4,
+    "last_update_time": "10:39:50 PM 30-09-2026",
+    "total_matches": 40,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249296",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Ghaziabad Giants vs Yamuna Warriors [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
-            "team_1": "Ghaziabad Giants",
-            "team_2": "Yamuna Warriors",
-            "startTime": "05:00:00 PM 30-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249296/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -336,6 +323,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249484",
+            "title": "Manchester City Women vs Real Madrid Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Manchester City Women vs Real Madrid Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249484_53078_MCI-W_RM-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Real Madrid Women",
+            "startTime": "12:30:00 AM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249485",
+            "title": "Paris Saint-Germain Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Paris Saint-Germain Women vs Oud-Heverlee Leuven Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249485_53078_PSG-W_OHL-W_fc-web.jpg",
+            "team_1": "Paris Saint-Germain Women",
+            "team_2": "Oud-Heverlee Leuven Women",
+            "startTime": "12:30:00 AM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248552",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -381,30 +392,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249484",
-            "title": "Manchester City Women vs Real Madrid Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Manchester City Women vs Real Madrid Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249484_53078_MCI-W_RM-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Real Madrid Women",
-            "startTime": "12:30:00 AM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249485",
-            "title": "Paris Saint-Germain Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Paris Saint-Germain Women vs Oud-Heverlee Leuven Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249485_53078_PSG-W_OHL-W_fc-web.jpg",
-            "team_1": "Paris Saint-Germain Women",
-            "team_2": "Oud-Heverlee Leuven Women",
-            "startTime": "12:30:00 AM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -497,7 +484,7 @@
             "title": "Day 1 vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
             "match_name": "Japan GP",
             "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
             "team_1": "Day 1",
             "team_2": "Motegi",
             "startTime": "05:30:00 AM 02-10-2026"
