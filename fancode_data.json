@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:38:18 PM 30-09-2026",
+    "last_update_time": "05:01:21 PM 30-09-2026",
     "total_matches": 40,
-    "live_match": 7,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -31,6 +31,19 @@
             "team_2": "Manoharpur Lions",
             "startTime": "01:00:00 PM 30-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250042/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250064",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Emirates Blues vs Fujairah [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250064_53103_EMB_FUJ_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
+            "startTime": "04:30:00 PM 30-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250064/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -128,7 +141,7 @@
             "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Keonjhar Miners vs Sambalpur Warriors",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg",
             "team_1": "Keonjhar Miners",
             "team_2": "Sambalpur Warriors",
             "startTime": "07:00:00 PM 30-09-2026"
@@ -180,18 +193,6 @@
             "team_1": "White Rock Warriors",
             "team_2": "Mississauga Masters",
             "startTime": "07:15:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250064",
-            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250064_53103_EMB_FUJ_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Fujairah",
-            "startTime": "04:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
