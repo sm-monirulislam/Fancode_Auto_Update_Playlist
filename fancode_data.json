@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:12:50 AM 01-10-2026",
+    "last_update_time": "04:01:28 AM 01-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,32 +18,6 @@
             "team_2": "Brampton Blitz",
             "startTime": "02:00:00 AM 01-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249814/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249480",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "OL Lyonnes vs Chelsea F.C. Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249480_53078_OLY-W_CHE-W_fc-web.jpg",
-            "team_1": "OL Lyonnes",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "12:30:00 AM 01-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249480/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249481",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Benfica Women vs Bayern Munich Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249481_53078_BEN-W_BAY-W_fc-web.jpg",
-            "team_1": "Benfica Women",
-            "team_2": "Bayern Munich Women",
-            "startTime": "12:30:00 AM 01-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249481/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +462,30 @@
             "team_1": "Practice 1",
             "team_2": "Malaysia",
             "startTime": "10:00:00 AM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250072",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Ajman",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "startTime": "04:30:00 PM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "4248242",
+            "title": "Practice 2 vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+            "team_1": "Practice 2",
+            "team_2": "Malaysia",
+            "startTime": "01:30:00 PM 02-10-2026"
         }
     ]
 }
