@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:02:30 PM 30-09-2026",
+    "last_update_time": "04:00:38 PM 30-09-2026",
     "total_matches": 40,
     "live_match": 7,
     "matches": [
@@ -244,6 +244,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249306",
+            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Noida Ninjas",
+            "startTime": "01:00:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250067",
             "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Abu Dhabi vs Emirates Blues",
@@ -316,18 +328,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249306",
-            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Noida Ninjas",
-            "startTime": "01:00:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250043",
             "title": "Jagannathpur Tigers vs Manoharpur Lions (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Manoharpur Lions",
@@ -352,18 +352,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250044",
-            "title": "Chakradharpur Royals vs Saranda Warriors (West Singhbhum T20 League 2026)",
-            "match_name": "Chakradharpur Royals vs Saranda Warriors",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Chakradharpur Royals",
-            "team_2": "Saranda Warriors",
-            "startTime": "01:00:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249307",
             "title": "Aravali Avengers vs Capital Cruisers (NCR T20 League, 2026)",
             "match_name": "Aravali Avengers vs Capital Cruisers",
@@ -372,6 +360,18 @@
             "team_1": "Aravali Avengers",
             "team_2": "Capital Cruisers",
             "startTime": "05:00:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250044",
+            "title": "Chakradharpur Royals vs Saranda Warriors (West Singhbhum T20 League 2026)",
+            "match_name": "Chakradharpur Royals vs Saranda Warriors",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Chakradharpur Royals",
+            "team_2": "Saranda Warriors",
+            "startTime": "01:00:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
