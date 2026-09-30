@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:40 AM 30-09-2026",
+    "last_update_time": "08:01:41 AM 30-09-2026",
     "total_matches": 40,
     "live_match": 3,
     "matches": [
@@ -18,6 +18,19 @@
             "team_2": "Toronto Sixers",
             "startTime": "07:15:00 AM 30-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249812/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248565",
+            "title": "Kinoshita Group Show Court vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "Kinoshita Group Show Court",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "Kinoshita Group Show Court",
+            "team_2": "Tokyo, Japan",
+            "startTime": "07:30:00 AM 30-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248565/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -285,19 +298,6 @@
             "startTime": "02:30:00 PM 30-09-2026"
         },
         {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248565",
-            "title": "Kinoshita Group Show Court vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "match_name": "Kinoshita Group Show Court",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Kinoshita Group Show Court",
-            "team_2": "Tokyo, Japan",
-            "startTime": "07:30:00 AM 30-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248565/index.m3u8"
-        },
-        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249532",
@@ -335,6 +335,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249306",
+            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Noida Ninjas",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Noida Ninjas",
+            "startTime": "01:00:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248551",
             "title": "Day 1 - World Feed vs Beijing, China (ATP 500 - China Open 2026)",
@@ -356,18 +368,6 @@
             "team_1": "Lotus Court",
             "team_2": "Beijing, China",
             "startTime": "08:30:00 AM 30-09-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249306",
-            "title": "Gurugram Gladiators vs Noida Ninjas (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Noida Ninjas",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249306_53073_GGL_NNJ_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Noida Ninjas",
-            "startTime": "01:00:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
