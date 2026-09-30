@@ -2,33 +2,20 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:02:03 PM 30-09-2026",
+    "last_update_time": "03:00:51 PM 30-09-2026",
     "total_matches": 40,
     "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249813",
-            "title": "Canada Super 60, 2026 [English]",
-            "match_name": "Mississauga Masters vs Vancouver Anchors [English]",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "startTime": "11:15:00 AM 30-09-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249813/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4249300",
             "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Delhi Dynamos vs Faridabad Firebirds [English]",
+            "match_name": "Faridabad Firebirds vs Delhi Dynamos [English]",
             "event_name": "NCR T20 League, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Faridabad Firebirds",
+            "team_1": "Faridabad Firebirds",
+            "team_2": "Delhi Dynamos",
             "startTime": "01:00:00 PM 30-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249300/index.m3u8"
         },
@@ -44,6 +31,19 @@
             "team_2": "Manoharpur Lions",
             "startTime": "01:00:00 PM 30-09-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250042/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249524",
+            "title": "IFA Shield 2026 [English]",
+            "match_name": "Punjab FC vs East Bengal FC [English]",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
+            "startTime": "02:30:00 PM 30-09-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249524/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -196,6 +196,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249533",
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "startTime": "11:30:00 AM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250064",
             "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
             "match_name": "Emirates Blues vs Fujairah",
@@ -279,18 +291,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249533",
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "startTime": "11:30:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249480",
             "title": "OL Lyonnes vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
@@ -324,18 +324,6 @@
             "team_1": "Gurugram Gladiators",
             "team_2": "Noida Ninjas",
             "startTime": "01:00:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249524",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
-            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "status": "UPCOMING",
@@ -399,6 +387,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250069",
+            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Dubai",
+            "startTime": "06:45:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248552",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -448,18 +448,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250069",
-            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
-            "startTime": "06:45:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250070",
             "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
             "match_name": "Abu Dhabi vs Fujairah",
@@ -492,6 +480,18 @@
             "team_1": "HB Køge Women",
             "team_2": "Servette Women",
             "startTime": "10:15:00 PM 01-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250071",
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250071_53103_AJM_DUB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "startTime": "11:15:00 PM 01-10-2026"
         }
     ]
 }
