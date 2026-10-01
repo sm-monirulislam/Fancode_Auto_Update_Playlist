@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:16 PM 01-10-2026",
+    "last_update_time": "11:00:54 PM 01-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,32 @@
             "team_2": "Abu Dhabi",
             "startTime": "09:00:00 PM 01-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250070/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249482",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Austria Wien Women vs Inter Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249482_53078_AW-W_INT-W_fc-web.jpg",
+            "team_1": "Austria Wien Women",
+            "team_2": "Inter Women",
+            "startTime": "10:15:00 PM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249482/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Football",
+            "match_id": "4249483",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "HB Køge Women vs Servette Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249483_53078_KOG-W_SVT-W_fc-web.jpg",
+            "team_1": "HB Køge Women",
+            "team_2": "Servette Women",
+            "startTime": "10:15:00 PM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249483/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -82,27 +108,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249482",
-            "title": "Austria Wien Women vs Inter Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Austria Wien Women vs Inter Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249482_53078_AW-W_INT-W_fc-web.jpg",
-            "team_1": "Austria Wien Women",
-            "team_2": "Inter Women",
-            "startTime": "10:15:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249483",
-            "title": "HB Køge Women vs Servette Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "HB Køge Women vs Servette Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249483_53078_KOG-W_SVT-W_fc-web.jpg",
-            "team_1": "HB Køge Women",
-            "team_2": "Servette Women",
-            "startTime": "10:15:00 PM 01-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250071",
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250071_53103_AJM_DUB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "startTime": "11:15:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -115,18 +129,6 @@
             "team_1": "Yamuna Warriors",
             "team_2": "Aravali Avengers",
             "startTime": "05:00:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250071",
-            "title": "Ajman vs Dubai (Emirates D10, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250071_53103_AJM_DUB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "startTime": "11:15:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -322,18 +324,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "4248242",
-            "title": "Practice 2 vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
-            "match_name": "Practice 2",
-            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-            "team_1": "Practice 2",
-            "team_2": "Malaysia",
-            "startTime": "01:30:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249820",
             "title": "Vancouver Anchors vs Toronto Sixers (Canada Super 60, 2026)",
@@ -355,6 +345,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "02:00:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "4248242",
+            "title": "Practice 2 vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+            "team_1": "Practice 2",
+            "team_2": "Malaysia",
+            "startTime": "01:30:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
