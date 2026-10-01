@@ -2,14 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:01:00 AM 02-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 04:00:30 AM 02-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249831_53100_VWW_VAW_fc-web.jpg" group-title="Cricket",Vancouver Warriors Women vs Vancouver Anchors Women [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249831_53100_VWW_VAW_fc-web.jpg" group-title="Cricket",Vancouver Anchors Women vs Vancouver Warriors Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249831/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249484_53078_MCI-W_RM-W_fc-web.jpg" group-title="Football",Manchester City Women vs Real Madrid Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249484/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249485_53078_PSG-W_OHL-W_fc-web.jpg" group-title="Football",Paris Saint-Germain Women vs Oud-Heverlee Leuven Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249485/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png" group-title="Golf",Featured Group - Day 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249701/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png" group-title="Golf",World Feed - Day 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249698/index.m3u8
