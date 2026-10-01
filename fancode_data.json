@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:23 AM 01-10-2026",
+    "last_update_time": "08:01:15 AM 01-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249815",
-            "title": "Canada Super 60, 2026 [English]",
-            "match_name": "Vancouver Anchors vs Montreal Royal Tigers [English]",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
-            "team_1": "Vancouver Anchors",
-            "team_2": "Montreal Royal Tigers",
-            "startTime": "04:30:00 AM 01-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249815/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -33,16 +20,43 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249531/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249816",
-            "title": "White Rock Warriors vs Mississauga Masters (Canada Super 60, 2026)",
-            "match_name": "White Rock Warriors vs Mississauga Masters",
+            "title": "Canada Super 60, 2026 [English]",
+            "match_name": "White Rock Warriors vs Mississauga Masters [English]",
             "event_name": "Canada Super 60, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
             "team_1": "White Rock Warriors",
             "team_2": "Mississauga Masters",
-            "startTime": "07:15:00 AM 01-10-2026"
+            "startTime": "07:15:00 AM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249816/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248566",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
+            "match_name": "Colosseum Court [English]",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "Colosseum Court",
+            "team_2": "Tokyo, Japan",
+            "startTime": "07:30:00 AM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248566/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248573",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
+            "match_name": "Day 2 - World Feed [English]",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Tokyo, Japan",
+            "startTime": "07:30:00 AM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248573/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -95,6 +109,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249817",
+            "title": "Vancouver Anchors vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "Vancouver Anchors vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
+            "team_1": "Vancouver Anchors",
+            "team_2": "Brampton Blitz",
+            "startTime": "04:30:00 AM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250043",
             "title": "Jagannathpur Tigers vs Manoharpur Lions (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Manoharpur Lions",
@@ -139,18 +165,6 @@
             "team_1": "Sharjah",
             "team_2": "Abu Dhabi",
             "startTime": "04:30:00 PM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249817",
-            "title": "Vancouver Anchors vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "Vancouver Anchors vs Brampton Blitz",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
-            "team_1": "Vancouver Anchors",
-            "team_2": "Brampton Blitz",
-            "startTime": "04:30:00 AM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -214,6 +228,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249818",
+            "title": "Toronto Sixers vs White Rock Warriors (Canada Super 60, 2026)",
+            "match_name": "Toronto Sixers vs White Rock Warriors",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249818_53099_TTS_WRW_FC-Web.png",
+            "team_1": "Toronto Sixers",
+            "team_2": "White Rock Warriors",
+            "startTime": "07:15:00 AM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249484",
             "title": "Manchester City Women vs Real Madrid Women (UEFA Women's Champions League 2026-27)",
@@ -251,18 +277,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249818",
-            "title": "Toronto Sixers vs White Rock Warriors (Canada Super 60, 2026)",
-            "match_name": "Toronto Sixers vs White Rock Warriors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249818_53099_TTS_WRW_FC-Web.png",
-            "team_1": "Toronto Sixers",
-            "team_2": "White Rock Warriors",
-            "startTime": "07:15:00 AM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249819",
             "title": "Montreal Royal Tigers vs Mississauga Masters (Canada Super 60, 2026)",
             "match_name": "Montreal Royal Tigers vs Mississauga Masters",
@@ -283,30 +297,6 @@
             "team_1": "Chaibasa Challengers",
             "team_2": "Manoharpur Lions",
             "startTime": "09:00:00 AM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248566",
-            "title": "Colosseum Court vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "match_name": "Colosseum Court",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Colosseum Court",
-            "team_2": "Tokyo, Japan",
-            "startTime": "07:30:00 AM 01-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248573",
-            "title": "Day 2 - World Feed vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Tokyo, Japan",
-            "startTime": "07:30:00 AM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -358,18 +348,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139972",
-            "title": "Day 1 vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
-            "match_name": "Japan GP",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Motegi",
-            "startTime": "05:30:00 AM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250046",
             "title": "Kolhan King vs Saranda Warriors (West Singhbhum T20 League 2026)",
@@ -379,6 +357,18 @@
             "team_1": "Kolhan King",
             "team_2": "Saranda Warriors",
             "startTime": "01:00:00 PM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139972",
+            "title": "Day 1 vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
+            "match_name": "Japan GP",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Motegi",
+            "startTime": "05:30:00 AM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -466,6 +456,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250073",
+            "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Fujairah",
+            "startTime": "06:45:00 PM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Formula 1",
             "match_id": "4248242",
             "title": "Practice 2 vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
@@ -479,14 +481,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250073",
-            "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Fujairah",
+            "match_id": "4250074",
+            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Dubai",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Fujairah",
-            "startTime": "06:45:00 PM 02-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Dubai",
+            "startTime": "09:00:00 PM 02-10-2026"
         }
     ]
 }
