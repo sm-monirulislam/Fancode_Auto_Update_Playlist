@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:10:20 PM 01-10-2026",
+    "last_update_time": "08:01:04 PM 01-10-2026",
     "total_matches": 40,
     "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249533",
-            "title": "Women's National Cricket League, 2026/27 [English]",
-            "match_name": "Tasmania Women vs Western Australia Women [English]",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "Western Australia Women",
-            "startTime": "11:30:00 AM 01-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249533/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -57,6 +44,19 @@
             "team_2": "Beijing, China",
             "startTime": "04:30:00 PM 01-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248559/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4249701",
+            "title": "Bank of Utah Championship 2026 [English]",
+            "match_name": "Featured Group - Day 1 [English]",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "Featured Group - Day 1",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "startTime": "07:30:00 PM 01-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249701/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -133,6 +133,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249305",
+            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Aravali Avengers",
+            "startTime": "05:00:00 PM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249831",
             "title": "Vancouver Warriors Women vs Vancouver Anchors Women (Canada Super 60 Women, 2026)",
             "match_name": "Vancouver Warriors Women vs Vancouver Anchors Women",
@@ -193,18 +205,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249305",
-            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Aravali Avengers",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Aravali Avengers",
-            "startTime": "05:00:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250045",
             "title": "Chaibasa Challengers vs Manoharpur Lions (West Singhbhum T20 League 2026)",
             "match_name": "Chaibasa Challengers vs Manoharpur Lions",
@@ -225,18 +225,6 @@
             "team_1": "Kolhan King",
             "team_2": "Saranda Warriors",
             "startTime": "01:00:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249701",
-            "title": "Featured Group - Day 1 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "Featured Group - Day 1",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "Featured Group - Day 1",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "startTime": "07:30:00 PM 01-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -489,6 +477,18 @@
             "team_1": "Day 2",
             "team_2": "Motegi",
             "startTime": "05:10:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249295",
+            "title": "TBC vs TBC (NCR T20 League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "01:00:00 PM 03-10-2026"
         }
     ]
 }
