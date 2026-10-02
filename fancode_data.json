@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:01:03 PM 02-10-2026",
+    "last_update_time": "10:29:29 PM 02-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249305",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Aravali Avengers vs Yamuna Warriors [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
-            "team_1": "Aravali Avengers",
-            "team_2": "Yamuna Warriors",
-            "startTime": "05:00:00 PM 02-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249305/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -227,18 +214,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248165",
-            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
-            "match_name": "Chesterfield vs Tranmere Rovers",
-            "event_name": "League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "Chesterfield",
-            "team_2": "Tranmere Rovers",
-            "startTime": "05:00:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250078",
             "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
@@ -248,6 +223,18 @@
             "team_1": "Ajman",
             "team_2": "Emirates Red",
             "startTime": "09:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248165",
+            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
+            "match_name": "Chesterfield vs Tranmere Rovers",
+            "event_name": "League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+            "team_1": "Chesterfield",
+            "team_2": "Tranmere Rovers",
+            "startTime": "05:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,6 +274,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249262",
+            "title": "Cádiz vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Leganes",
+            "startTime": "10:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249699",
             "title": "World Feed - Day 2 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
@@ -308,18 +307,6 @@
             "team_1": "Day 2",
             "team_2": "Motegi",
             "startTime": "05:10:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249262",
-            "title": "Cádiz vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Leganes",
-            "startTime": "10:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -481,6 +468,18 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248555",
+            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "ATP 500 - China Open 2026",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "ATP 500 - China Open 2026",
+            "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248562",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
             "match_name": "ATP 500 - China Open 2026",
             "event_name": "ATP 500 - China Open 2026",
