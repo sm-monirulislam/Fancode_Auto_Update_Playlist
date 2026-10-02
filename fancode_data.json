@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:36 PM 02-10-2026",
+    "last_update_time": "08:01:10 PM 02-10-2026",
     "total_matches": 40,
     "live_match": 3,
     "matches": [
@@ -22,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250072",
+            "match_id": "4250073",
             "title": "Emirates D10, 2026 [English]",
-            "match_name": "Ajman vs Abu Dhabi [English]",
+            "match_name": "Emirates Red vs Fujairah [English]",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
-            "startTime": "04:30:00 PM 02-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250072/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Fujairah",
+            "startTime": "06:45:00 PM 02-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250073/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -68,18 +68,6 @@
             "team_1": "Montreal Royal Tigers",
             "team_2": "White Rock Warriors",
             "startTime": "07:15:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250073",
-            "title": "Emirates Red vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Fujairah",
-            "startTime": "06:45:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -215,6 +203,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249702",
+            "title": "Featured Group - Day 2 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "Featured Group - Day 2",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "Featured Group - Day 2",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "startTime": "07:30:00 PM 02-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250076",
             "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
@@ -284,18 +284,6 @@
             "team_1": "Ajman",
             "team_2": "Emirates Red",
             "startTime": "09:00:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249702",
-            "title": "Featured Group - Day 2 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "Featured Group - Day 2",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "Featured Group - Day 2",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "startTime": "07:30:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -383,18 +371,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "4248244",
-            "title": "Qualifying vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-            "team_1": "Qualifying",
-            "team_2": "Malaysia",
-            "startTime": "01:30:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250079",
             "title": "Sharjah vs Dubai (Emirates D10, 2026)",
@@ -416,6 +392,18 @@
             "team_1": "White Rock Warriors",
             "team_2": "Vancouver Anchors",
             "startTime": "02:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "4248244",
+            "title": "Qualifying vs Malaysia (F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+            "team_1": "Qualifying",
+            "team_2": "Malaysia",
+            "startTime": "01:30:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +476,18 @@
             "team_1": "Brampton Blitz",
             "team_2": "Montreal Royal Tigers",
             "startTime": "11:15:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139974",
+            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
+            "match_name": "Japan GP",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Motegi",
+            "startTime": "07:30:00 AM 04-10-2026"
         }
     ]
 }
