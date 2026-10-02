@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:00:43 AM 02-10-2026",
+    "last_update_time": "06:01:01 AM 02-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -44,6 +44,19 @@
             "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
             "startTime": "02:30:00 AM 02-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249698/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139972",
+            "title": "MOTUL GRAND PRIX OF JAPAN 2026 [English]",
+            "match_name": "Japan GP [English]",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Motegi",
+            "startTime": "05:30:00 AM 02-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139972/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -144,18 +157,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250074",
-            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "startTime": "09:00:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249820",
             "title": "Vancouver Anchors vs Toronto Sixers (Canada Super 60, 2026)",
             "match_name": "Vancouver Anchors vs Toronto Sixers",
@@ -164,6 +165,18 @@
             "team_1": "Vancouver Anchors",
             "team_2": "Toronto Sixers",
             "startTime": "04:30:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250074",
+            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Dubai",
+            "startTime": "09:00:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -188,18 +201,6 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "02:00:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139972",
-            "title": "Day 1 vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
-            "match_name": "Japan GP",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Motegi",
-            "startTime": "05:30:00 AM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,18 +288,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248560",
-            "title": "Day 3 - World Feed vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Beijing, China",
-            "startTime": "04:30:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249822",
             "title": "Brampton Blitz vs Mississauga Masters (Canada Super 60, 2026)",
@@ -308,6 +297,18 @@
             "team_1": "Brampton Blitz",
             "team_2": "Mississauga Masters",
             "startTime": "11:15:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248560",
+            "title": "Day 3 - World Feed vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Beijing, China",
+            "startTime": "04:30:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -383,6 +384,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249221",
+            "title": "India Champions vs Australia Champions (World Championship of Legends, 2026)",
+            "match_name": "India Champions vs Australia Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
+            "team_1": "India Champions",
+            "team_2": "Australia Champions",
+            "startTime": "05:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249309",
+            "title": "TBC vs TBC (NCR T20 League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "05:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248554",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -428,30 +453,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249221",
-            "title": "India Champions vs Australia Champions (World Championship of Legends, 2026)",
-            "match_name": "India Champions vs Australia Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
-            "team_1": "India Champions",
-            "team_2": "Australia Champions",
-            "startTime": "05:00:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249309",
-            "title": "TBC vs TBC (NCR T20 League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "05:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
