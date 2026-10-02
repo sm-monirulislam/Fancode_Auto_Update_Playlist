@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:01:19 PM 02-10-2026",
+    "last_update_time": "06:00:53 PM 02-10-2026",
     "total_matches": 40,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
@@ -18,6 +18,19 @@
             "team_2": "Gurugram Gladiators",
             "startTime": "01:00:00 PM 02-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249304/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249305",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Aravali Avengers vs Yamuna Warriors [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Yamuna Warriors",
+            "startTime": "05:00:00 PM 02-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249305/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,18 +96,6 @@
             "team_2": "Beijing, China",
             "startTime": "04:30:00 PM 02-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250120/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249305",
-            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Aravali Avengers",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Aravali Avengers",
-            "startTime": "05:00:00 PM 02-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -302,6 +303,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248165",
+            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
+            "match_name": "Chesterfield vs Tranmere Rovers",
+            "event_name": "League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+            "team_1": "Chesterfield",
+            "team_2": "Tranmere Rovers",
+            "startTime": "05:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249702",
             "title": "Featured Group - Day 2 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
@@ -327,14 +340,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4248165",
-            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
-            "match_name": "Chesterfield vs Tranmere Rovers",
-            "event_name": "League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "Chesterfield",
-            "team_2": "Tranmere Rovers",
-            "startTime": "05:00:00 PM 03-10-2026"
+            "match_id": "4249186",
+            "title": "Manchester United Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Liverpool Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Liverpool Women",
+            "startTime": "06:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -350,15 +363,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249186",
-            "title": "Manchester United Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Liverpool Women",
-            "startTime": "06:00:00 PM 03-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250078",
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250078_53103_AJM_EMR_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "startTime": "09:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -419,18 +432,6 @@
             "team_1": "Practice 3",
             "team_2": "Malaysia",
             "startTime": "10:00:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250078",
-            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250078_53103_AJM_EMR_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Red",
-            "startTime": "09:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
