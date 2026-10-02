@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:01 PM 02-10-2026",
+    "last_update_time": "12:00:37 AM 03-10-2026",
     "total_matches": 40,
     "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250074",
+            "match_id": "4250075",
             "title": "Emirates D10, 2026 [English]",
-            "match_name": "Dubai vs Abu Dhabi [English]",
+            "match_name": "Sharjah vs Fujairah [English]",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
-            "team_1": "Dubai",
-            "team_2": "Abu Dhabi",
-            "startTime": "09:00:00 PM 02-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250074/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250075_53103_SHA_FUJ_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Fujairah",
+            "startTime": "11:15:00 PM 02-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250075/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,18 +83,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250075",
-            "title": "Sharjah vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250075_53103_SHA_FUJ_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Fujairah",
-            "startTime": "11:15:00 PM 02-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249221",
             "title": "India Champions vs Australia Champions (World Championship of Legends, 2026)",
             "match_name": "India Champions vs Australia Champions",
@@ -118,27 +106,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249832",
-            "title": "Toronto Sixers Women vs Vancouver Anchors Women (Canada Super 60 Women, 2026)",
-            "match_name": "Toronto Sixers Women vs Vancouver Anchors Women",
-            "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Anchors Women",
-            "startTime": "02:00:00 AM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250047",
-            "title": "Chaibasa Challengers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
-            "match_name": "Chaibasa Challengers vs Chakradharpur Royals",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Chaibasa Challengers",
-            "team_2": "Chakradharpur Royals",
-            "startTime": "09:00:00 AM 03-10-2026"
+            "event_category": "Football",
+            "match_id": "4249261",
+            "title": "Eldense vs Real Oviedo (LALIGA Hypermotion 2026-27)",
+            "match_name": "Eldense vs Real Oviedo",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249261_53017_ELD_RO_FC-Web.png",
+            "team_1": "Eldense",
+            "team_2": "Real Oviedo",
+            "startTime": "12:00:00 AM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -155,6 +131,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249832",
+            "title": "Toronto Sixers Women vs Vancouver Anchors Women (Canada Super 60 Women, 2026)",
+            "match_name": "Toronto Sixers Women vs Vancouver Anchors Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Anchors Women",
+            "startTime": "02:00:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249222",
             "title": "Pakistan Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
             "match_name": "Pakistan Champions vs Bangladesh Champions",
@@ -163,6 +151,18 @@
             "team_1": "Pakistan Champions",
             "team_2": "Bangladesh Champions",
             "startTime": "09:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250047",
+            "title": "Chaibasa Challengers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Chaibasa Challengers vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Chaibasa Challengers",
+            "team_2": "Chakradharpur Royals",
+            "startTime": "09:00:00 AM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -187,18 +187,6 @@
             "team_1": "Emirates Blues",
             "team_2": "Emirates Red",
             "startTime": "04:30:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249261",
-            "title": "Eldense vs Real Oviedo (LALIGA Hypermotion 2026-27)",
-            "match_name": "Eldense vs Real Oviedo",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249261_53017_ELD_RO_FC-Web.png",
-            "team_1": "Eldense",
-            "team_2": "Real Oviedo",
-            "startTime": "12:00:00 AM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -238,18 +226,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249186",
-            "title": "Manchester United Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Liverpool Women",
-            "startTime": "06:00:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249823",
             "title": "White Rock Warriors vs Vancouver Anchors (Canada Super 60, 2026)",
@@ -259,6 +235,18 @@
             "team_1": "White Rock Warriors",
             "team_2": "Vancouver Anchors",
             "startTime": "02:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249186",
+            "title": "Manchester United Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Liverpool Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Liverpool Women",
+            "startTime": "06:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +474,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
             "team_1": "ATP 500 - China Open 2026",
             "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248569",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 04-10-2026"
         }
     ]
