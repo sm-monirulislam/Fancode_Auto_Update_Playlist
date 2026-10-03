@@ -2,12 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:01:02 PM 03-10-2026 (BD Time)
+# Last Updated: 11:00:59 PM 03-10-2026 (BD Time)
 # Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Cricket",Ghaziabad Giants vs Faridabad Firebirds [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249309/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png" group-title="Cricket",Namibia vs United Arab Emirates [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249656/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250078_53103_AJM_EMR_FC-WEB.jpg" group-title="Cricket",Emirates Red vs Ajman [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250078/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png" group-title="Football",Cádiz vs Leganes [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249262/index.m3u8
