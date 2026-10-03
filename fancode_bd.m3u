@@ -2,20 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:08:49 PM 03-10-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 06:00:58 PM 03-10-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DelhiDynamosVSYamunaWarriors_fc-web.jpg" group-title="Cricket",Yamuna Warriors vs Delhi Dynamos [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249295/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png" group-title="Cricket",India Champions vs Australia Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249221/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Cricket",Saranda Warriors vs Jagannathpur Tigers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250048/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Cricket",Faridabad Firebirds vs Ghaziabad Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249309/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg" group-title="Cricket",Emirates Blues vs Emirates Red [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250076/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248568/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Football",Chesterfield vs Tranmere Rovers
+https://fancode.sm-monirul-islam-rs.workers.dev/4248165/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248554/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Tennis",Lotus Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248561/index.m3u8
