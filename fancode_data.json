@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:00 PM 03-10-2026",
+    "last_update_time": "01:00:30 PM 03-10-2026",
     "total_matches": 40,
-    "live_match": 7,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -85,19 +85,6 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248554/index.m3u8"
         },
         {
-            "status": "LIVE",
-            "event_category": "Formula 1",
-            "match_id": "4248243",
-            "title": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 [English]",
-            "match_name": "Practice 3 [English]",
-            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-            "team_1": "Practice 3",
-            "team_2": "Malaysia",
-            "startTime": "10:00:00 AM 03-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248243/index.m3u8"
-        },
-        {
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249295",
@@ -172,18 +159,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249824",
-            "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Toronto Sixers",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249824_53099_MGM_TTS_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Toronto Sixers",
-            "startTime": "04:45:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250048",
             "title": "Jagannathpur Tigers vs Saranda Warriors (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Saranda Warriors",
@@ -192,6 +167,18 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Saranda Warriors",
             "startTime": "01:00:00 PM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249824",
+            "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Toronto Sixers",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249824_53099_MGM_TTS_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Toronto Sixers",
+            "startTime": "04:45:00 AM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -255,6 +242,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249833",
+            "title": "Vancouver Warriors Women vs Toronto Sixers Women (Canada Super 60 Women, 2026)",
+            "match_name": "Vancouver Warriors Women vs Toronto Sixers Women",
+            "event_name": "Canada Super 60 Women, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Vancouver Warriors Women",
+            "team_2": "Toronto Sixers Women",
+            "startTime": "07:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248165",
             "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
@@ -276,18 +275,6 @@
             "team_1": "Manchester United Women",
             "team_2": "Liverpool Women",
             "startTime": "06:00:00 PM 03-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249833",
-            "title": "Vancouver Warriors Women vs Toronto Sixers Women (Canada Super 60 Women, 2026)",
-            "match_name": "Vancouver Warriors Women vs Toronto Sixers Women",
-            "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Vancouver Warriors Women",
-            "team_2": "Toronto Sixers Women",
-            "startTime": "07:00:00 AM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -491,6 +478,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Tottenham Hotspur Women",
             "team_2": "London City Lionesses",
+            "startTime": "06:30:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249188",
+            "title": "Aston Villa Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Aston Villa Women vs Crystal Palace Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Aston Villa Women",
+            "team_2": "Crystal Palace Women",
             "startTime": "06:30:00 PM 04-10-2026"
         }
     ]
