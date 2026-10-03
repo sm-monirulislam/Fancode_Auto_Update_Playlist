@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:46:25 AM 04-10-2026",
+    "last_update_time": "01:00:49 AM 04-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "team_2": "Dubai",
             "startTime": "11:15:00 PM 03-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250079/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249262",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Cádiz vs Leganes [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Leganes",
-            "startTime": "10:00:00 PM 03-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249262/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -251,18 +238,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249263",
-            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Real Valladolid",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Real Valladolid",
-            "startTime": "10:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249827",
             "title": "TBC vs TBC (Canada Super 60, 2026)",
@@ -275,15 +250,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249700",
-            "title": "Day 3 - World Feed vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "startTime": "02:30:00 AM 04-10-2026"
+            "event_category": "Football",
+            "match_id": "4249263",
+            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Real Valladolid",
+            "startTime": "10:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -296,6 +271,18 @@
             "team_1": "Girona FC",
             "team_2": "RCD Mallorca",
             "startTime": "12:30:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249700",
+            "title": "Day 3 - World Feed vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "startTime": "02:30:00 AM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -481,6 +468,18 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248570",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "team_2": "Tokyo, Japan",
+            "startTime": "09:00:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248577",
             "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
             "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
             "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
