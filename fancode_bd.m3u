@@ -2,16 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:58 PM 03-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 07:01:03 PM 03-10-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png" group-title="Cricket",India Champions vs Australia Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249221/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Cricket",Faridabad Firebirds vs Ghaziabad Giants [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Cricket",Ghaziabad Giants vs Faridabad Firebirds [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249309/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg" group-title="Cricket",Emirates Blues vs Emirates Red [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250076/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Football",Chesterfield vs Tranmere Rovers
 https://fancode.sm-monirul-islam-rs.workers.dev/4248165/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1791031433280/4249186_CASACARDS_APP.png" group-title="Football",Manchester United Women vs Liverpool Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249186/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248554/index.m3u8
