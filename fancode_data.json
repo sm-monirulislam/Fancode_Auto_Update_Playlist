@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:00:52 PM 03-10-2026",
+    "last_update_time": "05:00:58 PM 03-10-2026",
     "total_matches": 40,
-    "live_match": 5,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
@@ -22,6 +22,19 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "match_id": "4249221",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "India Champions vs Australia Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
+            "team_1": "India Champions",
+            "team_2": "Australia Champions",
+            "startTime": "05:00:00 PM 03-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249221/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "match_id": "4250048",
             "title": "West Singhbhum T20 League 2026 [English]",
             "match_name": "Saranda Warriors vs Jagannathpur Tigers [English]",
@@ -31,6 +44,19 @@
             "team_2": "Jagannathpur Tigers",
             "startTime": "01:00:00 PM 03-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250048/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250076",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Emirates Blues vs Emirates Red [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "startTime": "04:30:00 PM 03-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250076/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,18 +96,6 @@
             "team_2": "Beijing, China",
             "startTime": "02:30:00 PM 03-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248561/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249221",
-            "title": "India Champions vs Australia Champions (World Championship of Legends, 2026)",
-            "match_name": "India Champions vs Australia Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
-            "team_1": "India Champions",
-            "team_2": "Australia Champions",
-            "startTime": "05:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -157,15 +171,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250076",
-            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "startTime": "04:30:00 PM 03-10-2026"
+            "event_category": "Football",
+            "match_id": "4248165",
+            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
+            "match_name": "Chesterfield vs Tranmere Rovers",
+            "event_name": "League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+            "team_1": "Chesterfield",
+            "team_2": "Tranmere Rovers",
+            "startTime": "05:00:00 PM 03-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -210,7 +224,7 @@
             "title": "Vancouver Warriors Women vs Toronto Sixers Women (Canada Super 60 Women, 2026)",
             "match_name": "Vancouver Warriors Women vs Toronto Sixers Women",
             "event_name": "Canada Super 60 Women, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Vancouver-Warriors-Women-vs-Toronto-Sixers-Women_fc-web.jpg",
             "team_1": "Vancouver Warriors Women",
             "team_2": "Toronto Sixers Women",
             "startTime": "07:00:00 AM 04-10-2026"
@@ -229,15 +243,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248165",
-            "title": "Chesterfield vs Tranmere Rovers (League Two 2026-27)",
-            "match_name": "Chesterfield vs Tranmere Rovers",
-            "event_name": "League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-            "team_1": "Chesterfield",
-            "team_2": "Tranmere Rovers",
-            "startTime": "05:00:00 PM 03-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4249219",
+            "title": "South Africa Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "South Africa Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249219_53069_SAC_WIC_FC-Web_1790764440934.png",
+            "team_1": "South Africa Champions",
+            "team_2": "West Indies Champions",
+            "startTime": "05:00:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249308",
+            "title": "TBC vs TBC (NCR T20 League, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "05:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,30 +292,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249219",
-            "title": "South Africa Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "South Africa Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249219_53069_SAC_WIC_FC-Web_1790764440934.png",
-            "team_1": "South Africa Champions",
-            "team_2": "West Indies Champions",
-            "startTime": "05:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249308",
-            "title": "TBC vs TBC (NCR T20 League, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "05:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250050",
             "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Chaibasa Challengers",
@@ -313,18 +315,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249700",
-            "title": "World Feed - Day 3 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "World Feed - Day 3",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "startTime": "02:30:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249603",
             "title": "Mohun Bagan Super Giant vs Punjab FC (IFA Shield 2026)",
@@ -334,6 +324,18 @@
             "team_1": "Mohun Bagan Super Giant",
             "team_2": "Punjab FC",
             "startTime": "05:00:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249700",
+            "title": "World Feed - Day 3 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "World Feed - Day 3",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "World Feed - Day 3",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "startTime": "02:30:00 AM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -481,15 +483,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249263",
-            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Real Valladolid",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Real Valladolid",
-            "startTime": "10:00:00 PM 04-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4249826",
+            "title": "TBC vs TBC (Canada Super 60, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "02:00:00 AM 05-10-2026"
         }
     ]
 }
