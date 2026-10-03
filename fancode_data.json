@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:28 AM 03-10-2026",
+    "last_update_time": "08:00:58 AM 03-10-2026",
     "total_matches": 40,
     "live_match": 4,
     "matches": [
@@ -11,11 +11,11 @@
             "event_category": "Cricket",
             "match_id": "4249821",
             "title": "Canada Super 60, 2026 [English]",
-            "match_name": "Montreal Royal Tigers vs White Rock Warriors [English]",
+            "match_name": "White Rock Warriors vs Montreal Royal Tigers [English]",
             "event_name": "Canada Super 60, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249821_53099_MRT_WRW_FC-Web.png",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "White Rock Warriors",
+            "team_1": "White Rock Warriors",
+            "team_2": "Montreal Royal Tigers",
             "startTime": "07:15:00 AM 03-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249821/index.m3u8"
         },
@@ -264,6 +264,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248554",
+            "title": "World Feed vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "World Feed",
+            "team_2": "Beijing, China",
+            "startTime": "08:30:00 AM 03-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249262",
             "title": "Cádiz vs Leganes (LALIGA Hypermotion 2026-27)",
@@ -297,18 +309,6 @@
             "team_1": "Kolhan King",
             "team_2": "Chakradharpur Royals",
             "startTime": "09:00:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248554",
-            "title": "World Feed vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "World Feed",
-            "team_2": "Beijing, China",
-            "startTime": "08:30:00 AM 03-10-2026"
         },
         {
             "status": "UPCOMING",
