@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:00:56 PM 04-10-2026",
+    "last_update_time": "02:00:58 PM 04-10-2026",
     "total_matches": 40,
-    "live_match": 6,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
@@ -22,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250049",
+            "match_id": "4250050",
             "title": "West Singhbhum T20 League 2026 [English]",
-            "match_name": "Chakradharpur Royals vs Kolhan King [English]",
+            "match_name": "Jagannathpur Tigers vs Chaibasa Challengers [English]",
             "event_name": "West Singhbhum T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Chakradharpur Royals",
-            "team_2": "Kolhan King",
-            "startTime": "09:00:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250049/index.m3u8"
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Chaibasa Challengers",
+            "startTime": "01:00:00 PM 04-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250050/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -57,19 +57,6 @@
             "team_2": "Beijing, China",
             "startTime": "10:30:00 AM 04-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248555/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248576",
-            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
-            "match_name": "Doubles Semi-Final [English]",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Doubles Semi-Final",
-            "team_2": "Tokyo, Japan",
-            "startTime": "11:00:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248576/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -131,18 +118,6 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "02:00:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250050",
-            "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
-            "match_name": "Jagannathpur Tigers vs Chaibasa Challengers",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Jagannathpur Tigers",
-            "team_2": "Chaibasa Challengers",
-            "startTime": "01:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -278,6 +253,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250051",
+            "title": "Chakradharpur Royals vs Manoharpur Lions (West Singhbhum T20 League 2026)",
+            "match_name": "Chakradharpur Royals vs Manoharpur Lions",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Chakradharpur Royals",
+            "team_2": "Manoharpur Lions",
+            "startTime": "09:00:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249263",
             "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
@@ -302,15 +289,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250051",
-            "title": "Chakradharpur Royals vs Manoharpur Lions (West Singhbhum T20 League 2026)",
-            "match_name": "Chakradharpur Royals vs Manoharpur Lions",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Chakradharpur Royals",
-            "team_2": "Manoharpur Lions",
-            "startTime": "09:00:00 AM 05-10-2026"
+            "event_category": "Tennis",
+            "match_id": "4248562",
+            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "Lotus Court",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Lotus Court",
+            "team_2": "Beijing, China",
+            "startTime": "02:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -350,15 +337,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248562",
-            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Lotus Court",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "Lotus Court",
-            "team_2": "Beijing, China",
-            "startTime": "02:00:00 PM 04-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250080",
+            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Red vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250080_53103_EMR_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Dubai",
+            "startTime": "04:30:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -375,14 +362,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250080",
-            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Red vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250080_53103_EMR_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "startTime": "04:30:00 PM 05-10-2026"
+            "match_id": "4249657",
+            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs United Arab Emirates",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
+            "team_1": "USA",
+            "team_2": "United Arab Emirates",
+            "startTime": "08:30:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -435,18 +422,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249657",
-            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "USA",
-            "team_2": "United Arab Emirates",
-            "startTime": "08:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249217",
             "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
             "match_name": "Bangladesh Champions vs England Champions",
@@ -491,6 +466,30 @@
             "team_1": "Sharjah",
             "team_2": "Emirates Red",
             "startTime": "09:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250083",
+            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Ajman vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Fujairah",
+            "startTime": "11:15:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249721",
+            "title": "Qatar vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Qatar vs Thailand",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Qatar",
+            "team_2": "Thailand",
+            "startTime": "06:45:00 AM 06-10-2026"
         }
     ]
 }
