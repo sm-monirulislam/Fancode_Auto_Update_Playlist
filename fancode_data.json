@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:00:58 AM 05-10-2026",
+    "last_update_time": "02:20:12 AM 05-10-2026",
     "total_matches": 40,
     "live_match": 2,
     "matches": [
@@ -202,6 +202,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249703",
+            "title": "World Feed - Day 4 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "World Feed - Day 4",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "World Feed - Day 4",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "startTime": "02:30:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249604",
             "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
@@ -223,18 +235,6 @@
             "team_1": "Ajman",
             "team_2": "Fujairah",
             "startTime": "11:15:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4249703",
-            "title": "World Feed - Day 4 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "World Feed - Day 4",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "startTime": "02:30:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
