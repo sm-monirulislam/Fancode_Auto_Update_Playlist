@@ -2,22 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:45 PM 04-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 10:00:35 PM 04-10-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249219_53069_SAC_WIC_FC-Web_1790764440934.png" group-title="Cricket",South Africa Champions vs West Indies Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249219/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249308_53073_FFI_YAW_fc-web.jpg" group-title="Cricket",Yamuna Warriors vs Faridabad Firebirds [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249308/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249187_53038_TOT-W_LCL_fc-web.jpg" group-title="Football",Tottenham Hotspur Women vs London City Lionesses [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249187/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249188_53038_AST-W_CP-W_fc-web_1791063400713.jpg" group-title="Football",Aston Villa Women vs Crystal Palace Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249188/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249189_53038_BHA-W_CHL-W_fc-web_1791063400639.jpg" group-title="Football",Brighton and Hove Albion Women vs Charlton Athletic F.C Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249189/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249190_53038_EVE-W_BIR-W_fc-web_1791063400651.jpg" group-title="Football",Everton Women vs Birmingham City F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249190/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249191_53038_WHU-W_CHE-W_fc-web_1791063400627.jpg" group-title="Football",West Ham United Women vs Chelsea F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249191/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png" group-title="Cricket",India Champions vs England Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249223/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249192_53038_MCI-W_ARS-W_fc-web_1791063400709.jpg" group-title="Football",Manchester City Women vs Arsenal Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249192/index.m3u8
