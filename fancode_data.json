@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:01:11 AM 05-10-2026",
+    "last_update_time": "01:01:02 AM 05-10-2026",
     "total_matches": 40,
     "live_match": 2,
     "matches": [
@@ -22,15 +22,15 @@
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4249263",
-            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Real Valladolid",
+            "match_id": "4249264",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "Girona FC vs RCD Mallorca [English]",
             "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Real Valladolid",
-            "startTime": "10:00:00 PM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249263/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "RCD Mallorca",
+            "startTime": "12:30:00 AM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249264/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -95,6 +95,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249217",
+            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
+            "match_name": "Bangladesh Champions vs England Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "England Champions",
+            "startTime": "09:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249718",
             "title": "Bhutan vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
             "match_name": "Bhutan vs Myanmar",
@@ -115,18 +127,6 @@
             "team_1": "Bahrain",
             "team_2": "Thailand",
             "startTime": "06:45:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249217",
-            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "England Champions",
-            "startTime": "09:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -175,18 +175,6 @@
             "team_1": "Emirates Red",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249264",
-            "title": "Girona FC vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Girona FC vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "RCD Mallorca",
-            "startTime": "12:30:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +475,18 @@
             "team_1": "Abu Dhabi",
             "team_2": "Emirates Blues",
             "startTime": "11:15:00 PM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249662",
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "startTime": "05:00:00 AM 07-10-2026"
         }
     ]
 }
