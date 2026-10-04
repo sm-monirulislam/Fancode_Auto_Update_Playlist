@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:14:08 PM 04-10-2026",
+    "last_update_time": "01:00:37 PM 04-10-2026",
     "total_matches": 40,
-    "live_match": 7,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "team_2": "Kolhan King",
             "startTime": "09:00:00 AM 04-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250049/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "MotoGP",
-            "match_id": "139974",
-            "title": "MOTUL GRAND PRIX OF JAPAN 2026 [English]",
-            "match_name": "Japan GP [English]",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Race Day",
-            "team_2": "Motegi",
-            "startTime": "07:30:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139974/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -148,18 +135,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249827",
-            "title": "TBC vs TBC (Canada Super 60, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "04:30:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250050",
             "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Chaibasa Challengers",
@@ -168,6 +143,18 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Chaibasa Challengers",
             "startTime": "01:00:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249827",
+            "title": "TBC vs TBC (Canada Super 60, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "04:30:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -492,6 +479,18 @@
             "team_1": "East Bengal FC",
             "team_2": "NorthEast United FC",
             "startTime": "05:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250082",
+            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250082_53103_SHA_EMR_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Emirates Red",
+            "startTime": "09:00:00 PM 05-10-2026"
         }
     ]
 }
