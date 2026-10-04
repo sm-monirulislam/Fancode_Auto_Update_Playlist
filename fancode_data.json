@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:57 AM 05-10-2026",
+    "last_update_time": "04:00:46 AM 05-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "Toronto Sixers",
             "startTime": "02:00:00 AM 05-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249826/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249264",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Girona FC vs RCD Mallorca [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "RCD Mallorca",
-            "startTime": "12:30:00 AM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249264/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -263,18 +250,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248563",
-            "title": "World Feed 2 vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "World Feed 2",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "World Feed 2",
-            "team_2": "Beijing, China",
-            "startTime": "04:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249721",
             "title": "Qatar vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
@@ -284,6 +259,18 @@
             "team_1": "Qatar",
             "team_2": "Thailand",
             "startTime": "06:45:00 AM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248563",
+            "title": "World Feed 2 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "World Feed 2",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "World Feed 2",
+            "team_2": "Beijing, China",
+            "startTime": "04:30:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +475,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "01:00:00 PM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249224",
+            "title": "Australia Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs Bangladesh Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
+            "team_1": "Australia Champions",
+            "team_2": "Bangladesh Champions",
+            "startTime": "05:00:00 PM 07-10-2026"
         }
     ]
 }
