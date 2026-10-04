@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:55 AM 04-10-2026",
-    "total_matches": 41,
+    "last_update_time": "09:00:51 AM 04-10-2026",
+    "total_matches": 40,
     "live_match": 3,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249824",
-            "title": "Canada Super 60, 2026 [English]",
-            "match_name": "Mississauga Masters vs Toronto Sixers [English]",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249824_53099_MGM_TTS_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Toronto Sixers",
-            "startTime": "04:45:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249824/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -44,6 +31,19 @@
             "team_2": "Motegi",
             "startTime": "07:30:00 AM 04-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139974/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4248569",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "World Feed",
+            "team_2": "Tokyo, Japan",
+            "startTime": "07:30:00 AM 04-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248569/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -96,6 +96,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4250049",
+            "title": "Kolhan King vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Kolhan King vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+            "team_1": "Kolhan King",
+            "team_2": "Chakradharpur Royals",
+            "startTime": "09:00:00 AM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249826",
             "title": "TBC vs TBC (Canada Super 60, 2026)",
             "match_name": "TBC vs TBC",
@@ -120,18 +132,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250049",
-            "title": "Kolhan King vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
-            "match_name": "Kolhan King vs Chakradharpur Royals",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Kolhan King",
-            "team_2": "Chakradharpur Royals",
-            "startTime": "09:00:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250050",
             "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Jagannathpur Tigers vs Chaibasa Challengers",
@@ -140,6 +140,18 @@
             "team_1": "Jagannathpur Tigers",
             "team_2": "Chaibasa Challengers",
             "startTime": "01:00:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249828",
+            "title": "TBC vs TBC (Canada Super 60, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "09:00:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -227,18 +239,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248569",
-            "title": "World Feed vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "World Feed",
-            "team_2": "Tokyo, Japan",
-            "startTime": "07:30:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249263",
             "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
@@ -248,18 +248,6 @@
             "team_1": "Las Palmas",
             "team_2": "Real Valladolid",
             "startTime": "10:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249828",
-            "title": "TBC vs TBC (Canada Super 60, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "09:00:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -496,7 +484,7 @@
             "title": "Ajman vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Ajman vs Emirates Blues",
             "event_name": "Emirates D10, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg",
             "team_1": "Ajman",
             "team_2": "Emirates Blues",
             "startTime": "06:45:00 PM 05-10-2026"
