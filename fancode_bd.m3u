@@ -2,15 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:00:57 PM 04-10-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 09:00:45 PM 04-10-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249219_53069_SAC_WIC_FC-Web_1790764440934.png" group-title="Cricket",South Africa Champions vs West Indies Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249219/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249308_53073_FFI_YAW_fc-web.jpg" group-title="Cricket",Yamuna Warriors vs Faridabad Firebirds [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249308/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MM.png" group-title="Football",Mohun Bagan Super Giant vs Punjab FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249603/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249187_53038_TOT-W_LCL_fc-web.jpg" group-title="Football",Tottenham Hotspur Women vs London City Lionesses [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249187/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249188_53038_AST-W_CP-W_fc-web_1791063400713.jpg" group-title="Football",Aston Villa Women vs Crystal Palace Women [English]
@@ -21,5 +19,5 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249189/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249190/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249191_53038_WHU-W_CHE-W_fc-web_1791063400627.jpg" group-title="Football",West Ham United Women vs Chelsea F.C. Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249191/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATPChinaZverevvsDjokovic_FC-Web.jpg" group-title="Tennis",Zverev vs Djokovic [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248555/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png" group-title="Cricket",India Champions vs England Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249223/index.m3u8

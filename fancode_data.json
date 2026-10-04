@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:00:57 PM 04-10-2026",
+    "last_update_time": "09:00:45 PM 04-10-2026",
     "total_matches": 40,
-    "live_match": 9,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -31,19 +31,6 @@
             "team_2": "Faridabad Firebirds",
             "startTime": "05:00:00 PM 04-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249308/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249603",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Mohun Bagan Super Giant vs Punjab FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Punjab FC",
-            "startTime": "05:00:00 PM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249603/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -112,28 +99,16 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248555",
-            "title": "ATP 500 - China Open 2026 [English]",
-            "match_name": "Zverev vs Djokovic [English]",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATPChinaZverevvsDjokovic_FC-Web.jpg",
-            "team_1": "Zverev vs Djokovic",
-            "team_2": "Beijing, China",
-            "startTime": "10:30:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248555/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249223",
-            "title": "India Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "India Champions vs England Champions",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "India Champions vs England Champions [English]",
             "event_name": "World Championship of Legends, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
             "team_1": "India Champions",
             "team_2": "England Champions",
-            "startTime": "09:00:00 PM 04-10-2026"
+            "startTime": "09:00:00 PM 04-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249223/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -170,6 +145,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "09:00:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249192",
+            "title": "Manchester City Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester City Women vs Arsenal Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249192_53038_MCI-W_ARS-W_fc-web_1791063400709.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Arsenal Women",
+            "startTime": "09:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -245,15 +232,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249192",
-            "title": "Manchester City Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester City Women vs Arsenal Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249192_53038_MCI-W_ARS-W_fc-web_1791063400709.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Arsenal Women",
-            "startTime": "09:00:00 PM 04-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4249657",
+            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs United Arab Emirates",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
+            "team_1": "USA",
+            "team_2": "United Arab Emirates",
+            "startTime": "08:30:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,6 +253,18 @@
             "team_1": "Las Palmas",
             "team_2": "Real Valladolid",
             "startTime": "10:00:00 PM 04-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249217",
+            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
+            "match_name": "Bangladesh Champions vs England Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "England Champions",
+            "startTime": "09:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -282,18 +281,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249657",
-            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "USA",
-            "team_2": "United Arab Emirates",
-            "startTime": "08:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250080",
             "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Dubai",
@@ -302,18 +289,6 @@
             "team_1": "Emirates Red",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249217",
-            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "England Champions",
-            "startTime": "09:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -365,6 +340,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250083",
+            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Ajman vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Fujairah",
+            "startTime": "11:15:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248556",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -410,18 +397,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250083",
-            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Ajman vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Fujairah",
-            "startTime": "11:15:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -493,6 +468,30 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
             "team_1": "ATP 500 - China Open 2026",
             "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248564",
+            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "ATP 500 - China Open 2026",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "ATP 500 - China Open 2026",
+            "team_2": "Beijing, China",
+            "startTime": "09:00:00 AM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248571",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 06-10-2026"
         }
     ]
