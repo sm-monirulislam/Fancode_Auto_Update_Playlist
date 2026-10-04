@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:00:56 PM 04-10-2026",
+    "last_update_time": "12:14:08 PM 04-10-2026",
     "total_matches": 40,
     "live_match": 7,
     "matches": [
@@ -183,18 +183,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249603",
-            "title": "Mohun Bagan Super Giant vs Punjab FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giant vs Punjab FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Punjab FC",
-            "startTime": "05:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249718",
             "title": "Bhutan vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
@@ -216,6 +204,18 @@
             "team_1": "Bahrain",
             "team_2": "Thailand",
             "startTime": "06:45:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249603",
+            "title": "Mohun Bagan Super Giant vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "Punjab FC",
+            "startTime": "05:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -351,18 +351,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248562",
-            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Lotus Court",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "Lotus Court",
-            "team_2": "Beijing, China",
-            "startTime": "02:00:00 PM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249218",
             "title": "Australia Champions vs Pakistan Champions (World Championship of Legends, 2026)",
@@ -372,6 +360,18 @@
             "team_1": "Australia Champions",
             "team_2": "Pakistan Champions",
             "startTime": "05:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248562",
+            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "Lotus Court",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Lotus Court",
+            "team_2": "Beijing, China",
+            "startTime": "02:00:00 PM 04-10-2026"
         },
         {
             "status": "UPCOMING",
