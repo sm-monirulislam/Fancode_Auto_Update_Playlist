@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:00:55 PM 04-10-2026",
+    "last_update_time": "04:00:31 PM 04-10-2026",
     "total_matches": 40,
     "live_match": 6,
     "matches": [
@@ -362,6 +362,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249217",
+            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
+            "match_name": "Bangladesh Champions vs England Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "England Champions",
+            "startTime": "09:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4249703",
             "title": "World Feed - Day 4 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
@@ -375,18 +387,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249217",
-            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "England Champions",
-            "startTime": "09:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250081",
             "title": "Ajman vs Emirates Blues (Emirates D10, 2026)",
             "match_name": "Ajman vs Emirates Blues",
@@ -395,6 +395,18 @@
             "team_1": "Ajman",
             "team_2": "Emirates Blues",
             "startTime": "06:45:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249604",
+            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "East Bengal FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "East Bengal FC",
+            "team_2": "NorthEast United FC",
+            "startTime": "05:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -443,18 +455,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249604",
-            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "East Bengal FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "05:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
