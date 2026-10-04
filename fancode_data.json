@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:00:56 AM 04-10-2026",
+    "last_update_time": "06:00:43 AM 04-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249823",
+            "match_id": "4249824",
             "title": "Canada Super 60, 2026 [English]",
-            "match_name": "White Rock Warriors vs Vancouver Anchors [English]",
+            "match_name": "Mississauga Masters vs Toronto Sixers [English]",
             "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249823_53099_WRW_VAC_FC-Web.png",
-            "team_1": "White Rock Warriors",
-            "team_2": "Vancouver Anchors",
-            "startTime": "02:00:00 AM 04-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249823/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249824_53099_MGM_TTS_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Toronto Sixers",
+            "startTime": "04:45:00 AM 04-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249824/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -33,16 +33,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249700/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249824",
-            "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Toronto Sixers",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249824_53099_MGM_TTS_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Toronto Sixers",
-            "startTime": "04:45:00 AM 04-10-2026"
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139974",
+            "title": "MOTUL GRAND PRIX OF JAPAN 2026 [English]",
+            "match_name": "Japan GP [English]",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Motegi",
+            "startTime": "07:30:00 AM 04-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139974/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -95,6 +96,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249826",
+            "title": "TBC vs TBC (Canada Super 60, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "02:00:00 AM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249833",
             "title": "Vancouver Warriors Women vs Toronto Sixers Women (Canada Super 60 Women, 2026)",
             "match_name": "Vancouver Warriors Women vs Toronto Sixers Women",
@@ -115,18 +128,6 @@
             "team_1": "Kolhan King",
             "team_2": "Chakradharpur Royals",
             "startTime": "09:00:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249826",
-            "title": "TBC vs TBC (Canada Super 60, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "02:00:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -298,18 +299,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139974",
-            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
-            "match_name": "Japan GP",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Race Day",
-            "team_2": "Motegi",
-            "startTime": "07:30:00 AM 04-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248569",
             "title": "World Feed vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
@@ -418,6 +407,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249218",
+            "title": "Australia Champions vs Pakistan Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs Pakistan Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249218_53069_AAC_PNC_FC-Web_1790764440703.png",
+            "team_1": "Australia Champions",
+            "team_2": "Pakistan Champions",
+            "startTime": "05:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248556",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -467,18 +468,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249218",
-            "title": "Australia Champions vs Pakistan Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Pakistan Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249218_53069_AAC_PNC_FC-Web_1790764440703.png",
-            "team_1": "Australia Champions",
-            "team_2": "Pakistan Champions",
-            "startTime": "05:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250080",
             "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
             "match_name": "Emirates Red vs Dubai",
@@ -487,6 +476,18 @@
             "team_1": "Emirates Red",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249657",
+            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs United Arab Emirates",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
+            "team_1": "USA",
+            "team_2": "United Arab Emirates",
+            "startTime": "08:30:00 PM 05-10-2026"
         }
     ]
 }
