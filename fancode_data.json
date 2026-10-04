@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:01:00 PM 04-10-2026",
+    "last_update_time": "08:00:57 PM 04-10-2026",
     "total_matches": 40,
     "live_match": 9,
     "matches": [
@@ -174,6 +174,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249218",
+            "title": "Australia Champions vs Pakistan Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs Pakistan Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249218_53069_AAC_PNC_FC-Web_1790764440703.png",
+            "team_1": "Australia Champions",
+            "team_2": "Pakistan Champions",
+            "startTime": "05:00:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249718",
             "title": "Bhutan vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
             "match_name": "Bhutan vs Myanmar",
@@ -194,18 +206,6 @@
             "team_1": "Bahrain",
             "team_2": "Thailand",
             "startTime": "06:45:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249218",
-            "title": "Australia Champions vs Pakistan Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Pakistan Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249218_53069_AAC_PNC_FC-Web_1790764440703.png",
-            "team_1": "Australia Champions",
-            "team_2": "Pakistan Champions",
-            "startTime": "05:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
