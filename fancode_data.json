@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:01:05 PM 05-10-2026",
+    "last_update_time": "12:01:04 AM 06-10-2026",
     "total_matches": 40,
     "live_match": 3,
     "matches": [
@@ -35,27 +35,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250082",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Emirates Red vs Sharjah [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250082_53103_SHA_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Sharjah",
-            "startTime": "09:00:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250082/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250083",
-            "title": "Ajman vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Ajman vs Fujairah",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Ajman vs Fujairah [English]",
             "event_name": "Emirates D10, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
             "team_1": "Ajman",
             "team_2": "Fujairah",
-            "startTime": "11:15:00 PM 05-10-2026"
+            "startTime": "11:15:00 PM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250083/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -167,6 +155,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249662",
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "startTime": "05:00:00 AM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248557",
             "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
@@ -212,18 +212,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249662",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "startTime": "05:00:00 AM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +476,18 @@
             "team_1": "Day 1",
             "team_2": "New Korea Country Club",
             "startTime": "10:00:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249605",
+            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://images.fancode.com/aig/match/v1791216505737/4249605_CASACARDS_APP.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "East Bengal FC",
+            "startTime": "03:30:00 PM 08-10-2026"
         }
     ]
 }
