@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:27:36 PM 05-10-2026",
-    "total_matches": 40,
+    "last_update_time": "04:01:04 PM 05-10-2026",
+    "total_matches": 41,
     "live_match": 5,
     "matches": [
         {
@@ -490,6 +490,18 @@
             "team_1": "Ajman",
             "team_2": "Dubai",
             "startTime": "06:45:00 PM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249233",
+            "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "England Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
+            "startTime": "09:00:00 PM 07-10-2026"
         }
     ]
 }
