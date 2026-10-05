@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:52 PM 05-10-2026",
+    "last_update_time": "08:00:36 PM 05-10-2026",
     "total_matches": 40,
-    "live_match": 3,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250080",
+            "match_id": "4250081",
             "title": "Emirates D10, 2026 [English]",
-            "match_name": "Dubai vs Emirates Red [English]",
+            "match_name": "Emirates Blues vs Ajman [English]",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250080_53103_EMR_DUB_FC-WEB.jpg",
-            "team_1": "Dubai",
-            "team_2": "Emirates Red",
-            "startTime": "04:30:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250080/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249604",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "East Bengal FC vs NorthEast United FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "05:00:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249604/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Ajman",
+            "startTime": "06:45:00 PM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250081/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -68,18 +55,6 @@
             "team_1": "Bangladesh Champions",
             "team_2": "England Champions",
             "startTime": "09:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250081",
-            "title": "Ajman vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
-            "startTime": "06:45:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -263,12 +238,24 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250087",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Badminton",
             "match_id": "4250121",
             "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "BWF Arctic Open 2026",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
             "team_1": "BWF Arctic Open 2026",
             "team_2": "Vantaa, Finland",
             "startTime": "01:00:00 PM 06-10-2026"
@@ -280,22 +267,10 @@
             "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "BWF Arctic Open 2026",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
             "team_1": "BWF Arctic Open 2026",
             "team_2": "Vantaa, Finland",
             "startTime": "01:00:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250087",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -352,7 +327,7 @@
             "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "BWF Arctic Open 2026",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
             "team_1": "BWF Arctic Open 2026",
             "team_2": "Vantaa, Finland",
             "startTime": "01:00:00 PM 07-10-2026"
@@ -364,7 +339,7 @@
             "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "BWF Arctic Open 2026",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
             "team_1": "BWF Arctic Open 2026",
             "team_2": "Vantaa, Finland",
             "startTime": "01:00:00 PM 07-10-2026"
@@ -488,6 +463,30 @@
             "team_1": "New South Wales",
             "team_2": "Tasmania",
             "startTime": "05:00:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249664",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2026/27)",
+            "match_name": "Western Australia vs Queensland",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "startTime": "08:00:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249724",
+            "title": "Kuwait vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Kuwait vs Thailand",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Kuwait",
+            "team_2": "Thailand",
+            "startTime": "06:45:00 AM 08-10-2026"
         }
     ]
 }
