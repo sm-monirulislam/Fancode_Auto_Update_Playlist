@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:01:03 PM 05-10-2026",
+    "last_update_time": "09:01:01 PM 05-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249657",
+            "title": "ICC CWC League 2 USA, 2026 [English]",
+            "match_name": "United Arab Emirates vs USA [English]",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "USA",
+            "startTime": "08:30:00 PM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249657/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249217",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Bangladesh Champions vs England Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "England Champions",
+            "startTime": "09:00:00 PM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249217/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -18,43 +44,6 @@
             "team_2": "Ajman",
             "startTime": "06:45:00 PM 05-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250081/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4248563",
-            "title": "ATP 500 - China Open 2026 [English]",
-            "match_name": "Djokovic vs Medvedev [English]",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/NovakDjokovicvsDaniilMedvedev_FC-Web.png",
-            "team_1": "Djokovic vs Medvedev",
-            "team_2": "Beijing, China",
-            "startTime": "04:30:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248563/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249657",
-            "title": "USA vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "USA",
-            "team_2": "United Arab Emirates",
-            "startTime": "08:30:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249217",
-            "title": "Bangladesh Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "England Champions",
-            "startTime": "09:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -154,6 +143,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250085",
+            "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Red",
+            "startTime": "06:45:00 PM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249605",
             "title": "TBC vs TBC (IFA Shield 2026)",
@@ -167,18 +168,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250085",
-            "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Red",
-            "startTime": "06:45:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250086",
             "title": "Sharjah vs Fujairah (Emirates D10, 2026)",
             "match_name": "Sharjah vs Fujairah",
@@ -187,6 +176,18 @@
             "team_1": "Sharjah",
             "team_2": "Fujairah",
             "startTime": "09:00:00 PM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250087",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -235,18 +236,6 @@
             "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
             "team_2": "Tokyo, Japan",
             "startTime": "09:00:00 AM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250087",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +475,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
             "team_1": "Kuwait",
             "team_2": "Thailand",
+            "startTime": "06:45:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249725",
+            "title": "Bhutan vs Mongolia (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Bhutan vs Mongolia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bhutan",
+            "team_2": "Mongolia",
             "startTime": "06:45:00 AM 08-10-2026"
         }
     ]
