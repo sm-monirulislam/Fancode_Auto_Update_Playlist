@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:01:04 PM 05-10-2026",
+    "last_update_time": "05:00:44 PM 05-10-2026",
     "total_matches": 41,
-    "live_match": 5,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249720",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Kuwait vs Qatar [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Qatar",
-            "startTime": "11:30:00 AM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249720/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -63,10 +50,10 @@
             "event_category": "Tennis",
             "match_id": "4248570",
             "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
-            "match_name": "Alcaraz vs Munar [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Alcaraz-vs-Munar_FC-WEB.jpg",
-            "team_1": "Alcaraz vs Munar",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "World Feed",
             "team_2": "Tokyo, Japan",
             "startTime": "12:30:00 PM 05-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248570/index.m3u8"
@@ -106,6 +93,18 @@
             "team_1": "Emirates Red",
             "team_2": "Dubai",
             "startTime": "04:30:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249604",
+            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "East Bengal FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "East Bengal FC",
+            "team_2": "NorthEast United FC",
+            "startTime": "05:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -169,18 +168,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249604",
-            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "East Bengal FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "05:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249722",
             "title": "Bahrain vs Bhutan (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
@@ -217,6 +204,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248563",
+            "title": "Djokovic vs Medvedev vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "Djokovic vs Medvedev",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/NovakDjokovicvsDaniilMedvedev_FC-Web.png",
+            "team_1": "Djokovic vs Medvedev",
+            "team_2": "Beijing, China",
+            "startTime": "04:30:00 PM 05-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250054",
             "title": "TBC vs TBC (West Singhbhum T20 League 2026)",
@@ -250,18 +249,6 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "02:30:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248563",
-            "title": "Djokovic vs Medvedev vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Djokovic vs Medvedev",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/NovakDjokovicvsDaniilMedvedev_FC-Web.png",
-            "team_1": "Djokovic vs Medvedev",
-            "team_2": "Beijing, China",
-            "startTime": "04:30:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -498,9 +485,21 @@
             "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
             "match_name": "England Champions vs West Indies Champions",
             "event_name": "World Championship of Legends, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
             "team_1": "England Champions",
             "team_2": "West Indies Champions",
+            "startTime": "09:00:00 PM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250090",
+            "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Abu Dhabi",
+            "event_name": "Emirates D10, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Abu Dhabi",
             "startTime": "09:00:00 PM 07-10-2026"
         }
     ]
