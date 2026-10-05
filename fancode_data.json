@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:00:50 AM 05-10-2026",
+    "last_update_time": "08:00:59 AM 05-10-2026",
     "total_matches": 40,
-    "live_match": 1,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249827",
-            "title": "Canada Super 60, 2026 [English]",
-            "match_name": "Brampton Blitz vs Vancouver Anchors [English]",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249827_53099_VAC_BBZ_FC-Web.png",
-            "team_1": "Brampton Blitz",
-            "team_2": "Vancouver Anchors",
-            "startTime": "04:30:00 AM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249827/index.m3u8"
+            "match_id": "4249718",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Bhutan vs Myanmar [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bhutan",
+            "team_2": "Myanmar",
+            "startTime": "06:45:00 AM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249718/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249719",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Bahrain vs Thailand [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bahrain",
+            "team_2": "Thailand",
+            "startTime": "06:45:00 AM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249719/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -66,30 +79,6 @@
             "team_1": "Bangladesh Champions",
             "team_2": "England Champions",
             "startTime": "09:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249718",
-            "title": "Bhutan vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bhutan vs Myanmar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bhutan",
-            "team_2": "Myanmar",
-            "startTime": "06:45:00 AM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249719",
-            "title": "Bahrain vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bahrain vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Thailand",
-            "startTime": "06:45:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +475,18 @@
             "team_1": "USA",
             "team_2": "Namibia",
             "startTime": "08:30:00 PM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250089",
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "startTime": "06:45:00 PM 07-10-2026"
         }
     ]
 }
