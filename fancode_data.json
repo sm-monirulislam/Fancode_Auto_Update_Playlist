@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:00:48 AM 05-10-2026",
-    "total_matches": 41,
+    "last_update_time": "12:00:31 PM 05-10-2026",
+    "total_matches": 40,
     "live_match": 4,
     "matches": [
         {
@@ -22,19 +22,6 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249719",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Bahrain vs Thailand [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Thailand",
-            "startTime": "06:45:00 AM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249719/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4250051",
             "title": "West Singhbhum T20 League 2026 [English]",
             "match_name": "Chakradharpur Royals vs Manoharpur Lions [English]",
@@ -44,6 +31,19 @@
             "team_2": "Manoharpur Lions",
             "startTime": "09:00:00 AM 05-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250051/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249720",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Kuwait vs Qatar [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Kuwait",
+            "team_2": "Qatar",
+            "startTime": "11:30:00 AM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249720/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -93,18 +93,6 @@
             "team_1": "Bangladesh Champions",
             "team_2": "England Champions",
             "startTime": "09:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249720",
-            "title": "Kuwait vs Qatar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Kuwait vs Qatar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Qatar",
-            "startTime": "11:30:00 AM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -168,18 +156,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249604",
-            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "East Bengal FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
-            "startTime": "05:00:00 PM 05-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249721",
             "title": "Qatar vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
@@ -189,6 +165,18 @@
             "team_1": "Qatar",
             "team_2": "Thailand",
             "startTime": "06:45:00 AM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249604",
+            "title": "East Bengal FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "East Bengal FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "East Bengal FC",
+            "team_2": "NorthEast United FC",
+            "startTime": "05:00:00 PM 05-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -264,6 +252,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249220",
+            "title": "India Champions vs South Africa Champions (World Championship of Legends, 2026)",
+            "match_name": "India Champions vs South Africa Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
+            "team_1": "India Champions",
+            "team_2": "South Africa Champions",
+            "startTime": "05:00:00 PM 06-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248563",
             "title": "Djokovic vs Medvedev vs Beijing, China (ATP 500 - China Open 2026)",
@@ -277,14 +277,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249220",
-            "title": "India Champions vs South Africa Champions (World Championship of Legends, 2026)",
-            "match_name": "India Champions vs South Africa Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
-            "team_1": "India Champions",
-            "team_2": "South Africa Champions",
-            "startTime": "05:00:00 PM 06-10-2026"
+            "match_id": "4250084",
+            "title": "Sharjah vs Ajman (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Ajman",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250084_53103_SHA_AJM_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Ajman",
+            "startTime": "04:30:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,18 +297,6 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "02:30:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250084",
-            "title": "Sharjah vs Ajman (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250084_53103_SHA_AJM_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Ajman",
-            "startTime": "04:30:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -485,7 +473,7 @@
             "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
             "match_name": "England Champions vs West Indies Champions",
             "event_name": "World Championship of Legends, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
             "team_1": "England Champions",
             "team_2": "West Indies Champions",
             "startTime": "09:00:00 PM 07-10-2026"
@@ -497,7 +485,7 @@
             "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
             "match_name": "Sharjah vs Abu Dhabi",
             "event_name": "Emirates D10, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
             "team_1": "Sharjah",
             "team_2": "Abu Dhabi",
             "startTime": "09:00:00 PM 07-10-2026"
