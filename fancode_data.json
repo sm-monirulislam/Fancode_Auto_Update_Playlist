@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:01:01 PM 05-10-2026",
+    "last_update_time": "10:00:41 PM 05-10-2026",
     "total_matches": 40,
     "live_match": 3,
     "matches": [
@@ -35,27 +35,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250081",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Emirates Blues vs Ajman [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Ajman",
-            "startTime": "06:45:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250081/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250082",
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Red",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Sharjah vs Emirates Red [English]",
             "event_name": "Emirates D10, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4250082_53103_SHA_EMR_FC-WEB.jpg",
             "team_1": "Sharjah",
             "team_2": "Emirates Red",
-            "startTime": "09:00:00 PM 05-10-2026"
+            "startTime": "09:00:00 PM 05-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250082/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -85,12 +73,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250053",
-            "title": "TBC vs TBC (West Singhbhum T20 League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
+            "match_name": "Kolhan King vs Jagannathpur Tigers",
             "event_name": "West Singhbhum T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Kolhan King",
+            "team_2": "Jagannathpur Tigers",
             "startTime": "09:00:00 AM 06-10-2026"
         },
         {
@@ -121,12 +109,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250054",
-            "title": "TBC vs TBC (West Singhbhum T20 League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Manoharpur Lions vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Chaibasa Challengers",
             "event_name": "West Singhbhum T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Chaibasa Challengers",
             "startTime": "01:00:00 PM 06-10-2026"
         },
         {
@@ -239,30 +227,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250121",
-            "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "BWF Arctic Open 2026",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
-            "team_1": "BWF Arctic Open 2026",
-            "team_2": "Vantaa, Finland",
-            "startTime": "01:00:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250122",
-            "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "BWF Arctic Open 2026",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
-            "team_1": "BWF Arctic Open 2026",
-            "team_2": "Vantaa, Finland",
-            "startTime": "01:00:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249662",
             "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
@@ -308,30 +272,6 @@
             "team_1": "Abu Dhabi",
             "team_2": "Fujairah",
             "startTime": "04:30:00 PM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250123",
-            "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "BWF Arctic Open 2026",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
-            "team_1": "BWF Arctic Open 2026",
-            "team_2": "Vantaa, Finland",
-            "startTime": "01:00:00 PM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250128",
-            "title": "BWF Arctic Open 2026 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "BWF Arctic Open 2026",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
-            "team_1": "BWF Arctic Open 2026",
-            "team_2": "Vantaa, Finland",
-            "startTime": "01:00:00 PM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -488,6 +428,66 @@
             "team_1": "Bhutan",
             "team_2": "Mongolia",
             "startTime": "06:45:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249726",
+            "title": "Bahrain vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Bahrain vs Myanmar",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bahrain",
+            "team_2": "Myanmar",
+            "startTime": "06:45:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249739",
+            "title": "China vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249739_53092_CHN_MDV_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Maldives",
+            "startTime": "11:30:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249740",
+            "title": "Saudi Arabia vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Saudi Arabia vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249740_53092_SDA_SIN_fc-web.jpg",
+            "team_1": "Saudi Arabia",
+            "team_2": "Singapore",
+            "startTime": "11:30:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249741",
+            "title": "Malaysia vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249741_53092_MAS_HK_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Hong Kong, China",
+            "startTime": "11:30:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4249774",
+            "title": "Day 1 - World Feed vs Yokohama Country Club - Yokohama, Japan (Baycurrent Classic 2026)",
+            "match_name": "Day 1 - World Feed",
+            "event_name": "Baycurrent Classic 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Yokohama Country Club - Yokohama, Japan",
+            "startTime": "07:30:00 AM 08-10-2026"
         }
     ]
 }
