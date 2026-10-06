@@ -2,6 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:35:44 AM 06-10-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 01:12:08 PM 06-10-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Cricket",Kolhan King vs Jagannathpur Tigers
+https://fancode.sm-monirul-islam-rs.workers.dev/4250053/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Bahrain vs Bhutan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249722/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Mongolia vs Kuwait [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249723/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Tennis",Doubles Final [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248571/index.m3u8
