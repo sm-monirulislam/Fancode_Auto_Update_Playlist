@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:02:04 AM 06-10-2026",
+    "last_update_time": "06:35:44 AM 06-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249657",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "United Arab Emirates vs USA [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "USA",
-            "startTime": "08:30:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249657/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250083",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Ajman vs Fujairah [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Fujairah",
-            "startTime": "11:15:00 PM 05-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250083/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -131,18 +105,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250087",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 06-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249662",
             "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
             "match_name": "Victoria vs South Australia",
@@ -151,6 +113,18 @@
             "team_1": "Victoria",
             "team_2": "South Australia",
             "startTime": "05:00:00 AM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250087",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 06-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -180,11 +154,11 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248578",
-            "title": "Alcaraz vs Lehecka vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "match_name": "Alcaraz vs Lehecka",
+            "title": "Finals: Alcaraz vs Lehecka vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "match_name": "Finals: Alcaraz vs Lehecka",
             "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Alcaraz-vs-lehecka_FC-WEB.jpg",
-            "team_1": "Alcaraz vs Lehecka",
+            "team_1": "Finals: Alcaraz vs Lehecka",
             "team_2": "Tokyo, Japan",
             "startTime": "02:30:00 PM 06-10-2026"
         },
@@ -192,11 +166,11 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248564",
-            "title": "Djokovic vs Alex vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Djokovic vs Alex",
+            "title": "Final: Djokovic vs Alex vs Beijing, China (ATP 500 - China Open 2026)",
+            "match_name": "Final: Djokovic vs Alex",
             "event_name": "ATP 500 - China Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Novak_vs_Alex_FC-Web.jpg",
-            "team_1": "Djokovic vs Alex",
+            "team_1": "Final: Djokovic vs Alex",
             "team_2": "Beijing, China",
             "startTime": "04:30:00 PM 06-10-2026"
         },
@@ -235,6 +209,18 @@
             "team_1": "Abu Dhabi",
             "team_2": "Fujairah",
             "startTime": "04:30:00 PM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249658",
+            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs Namibia",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+            "team_1": "USA",
+            "team_2": "Namibia",
+            "startTime": "08:30:00 PM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -283,18 +269,6 @@
             "team_1": "ATP Masters - Rolex Shanghai Masters",
             "team_2": "Shanghai, China",
             "startTime": "01:30:00 PM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249658",
-            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs Namibia",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "startTime": "08:30:00 PM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,7 +460,31 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
             "team_1": "Round 16",
             "team_2": "Vantaa, Finland",
-            "startTime": "01:00:00 PM 08-10-2026"
+            "startTime": "12:30:00 PM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248813",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248814",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 08-10-2026"
         }
     ]
 }
