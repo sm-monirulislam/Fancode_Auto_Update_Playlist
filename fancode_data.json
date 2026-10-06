@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:42:20 AM 07-10-2026",
+    "last_update_time": "05:34:26 AM 07-10-2026",
     "total_matches": 40,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250087",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Abu Dhabi vs Emirates Blues [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 06-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250087/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -118,18 +105,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250091",
-            "title": "Ajman vs Emirates Blues (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Blues",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250091_53103_AJM_EMB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
-            "startTime": "11:15:00 PM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249663",
             "title": "New South Wales vs Tasmania (Sheffield Shield, 2026/27)",
             "match_name": "New South Wales vs Tasmania",
@@ -141,51 +116,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248809",
-            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
-            "startTime": "09:30:00 AM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248811",
-            "title": "Grandstand 2 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "Grandstand 2",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Grandstand 2",
-            "team_2": "Shanghai, China",
-            "startTime": "09:30:00 AM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248812",
-            "title": "Show Court 3 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "Show Court 3",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "startTime": "09:30:00 AM 07-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248810",
-            "title": "Stadium Court vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "Stadium Court",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
-            "startTime": "11:00:00 AM 07-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250091",
+            "title": "Ajman vs Emirates Blues (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Blues",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250091_53103_AJM_EMB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Blues",
+            "startTime": "11:15:00 PM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -234,6 +173,54 @@
             "team_1": "Bahrain",
             "team_2": "Myanmar",
             "startTime": "06:45:00 AM 08-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248809",
+            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "World Feed",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Shanghai, China",
+            "startTime": "09:30:00 AM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248811",
+            "title": "Grandstand 2 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Grandstand 2",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "Grandstand 2",
+            "team_2": "Shanghai, China",
+            "startTime": "09:30:00 AM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248812",
+            "title": "Show Court 3 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Show Court 3",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "Show Court 3",
+            "team_2": "Shanghai, China",
+            "startTime": "09:30:00 AM 07-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248810",
+            "title": "Stadium Court vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Stadium Court",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "Stadium Court",
+            "team_2": "Shanghai, China",
+            "startTime": "11:00:00 AM 07-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -485,6 +472,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg",
             "team_1": "Malaysia",
             "team_2": "Saudi Arabia",
+            "startTime": "11:30:00 AM 09-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249743",
+            "title": "China vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Hong Kong, China",
             "startTime": "11:30:00 AM 09-10-2026"
         }
     ]
