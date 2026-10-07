@@ -2,6 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:34:26 AM 07-10-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 10:27:26 AM 07-10-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg" group-title="Cricket",Victoria vs South Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249662/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248809/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Grandstand 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248811/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248812/index.m3u8
