@@ -2,20 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:14:38 PM 10-10-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 12:46:03 AM 11-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249781/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Cricket",Emirates Blues vs Abu Dhabi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250099/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Football",Bolton Wanderers vs Stoke City F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249590/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248821/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250196/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Badminton",Semi-Final [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250126/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Motorsports",ADAC GT Masters - Race 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250136/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Cricket",India Champions vs South Africa Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249220/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg" group-title="Cricket",Dubai vs Emirates Blues [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250100/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png" group-title="Football",Al Hilal SFC vs Al-Ittihad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249139/index.m3u8
