@@ -2,46 +2,48 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:08:36 AM 10-10-2026",
-    "total_matches": 39,
-    "live_match": 1,
+    "last_update_time": "07:05:45 AM 10-10-2026",
+    "total_matches": 40,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249588",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "West Ham United vs Queens Park Rangers F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg",
-            "team_1": "West Ham United",
-            "team_2": "Queens Park Rangers F.C.",
-            "startTime": "12:30:00 AM 10-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249588/index.m3u8"
-        },
-        {
-            "status": "PAUSED",
             "event_category": "Cricket",
             "match_id": "4249662",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Victoria vs South Australia [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
             "team_1": "Victoria",
             "team_2": "South Australia",
-            "startTime": "09:50:00 AM 08-10-2026"
+            "startTime": "09:50:00 AM 08-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249662/index.m3u8"
         },
         {
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249663",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
             "team_1": "Tasmania",
             "team_2": "New South Wales",
-            "startTime": "05:00:00 AM 09-10-2026"
+            "startTime": "05:00:00 AM 09-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249663/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "MotoGP",
+            "match_id": "139976",
+            "title": "PERTAMINA GRAND PRIX OF INDONESIA 2026 [English]",
+            "match_name": "Indonesia GP [English]",
+            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Mandalika",
+            "startTime": "06:10:00 AM 10-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/139976/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -95,12 +97,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250098",
-            "title": "TBC vs TBC (Emirates D10, 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Dubai vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Dubai vs Fujairah",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
+            "team_1": "Dubai",
+            "team_2": "Fujairah",
             "startTime": "05:00:00 PM 10-10-2026"
         },
         {
@@ -131,12 +133,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250099",
-            "title": "TBC vs TBC (Emirates D10, 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Emirates Blues vs Abu Dhabi (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Abu Dhabi",
             "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Abu Dhabi",
             "startTime": "07:15:00 PM 10-10-2026"
         },
         {
@@ -165,18 +167,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247647",
-            "title": "FC Barcelona vs Getafe CF (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Getafe CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Getafe CF",
-            "startTime": "10:00:00 PM 10-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250100",
             "title": "TBC vs TBC (Emirates D10, 2026)",
@@ -186,6 +176,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "10:30:00 PM 10-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247647",
+            "title": "FC Barcelona vs Getafe CF (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Getafe CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Getafe CF",
+            "startTime": "10:00:00 PM 10-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -213,15 +215,63 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139976",
-            "title": "Day 2 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
-            "match_name": "Indonesia GP",
-            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Mandalika",
-            "startTime": "06:10:00 AM 10-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250150",
+            "title": "Australia Women vs Bangladesh Women (Bangladesh Women tour of Australia, 2026)",
+            "match_name": "Australia Women vs Bangladesh Women",
+            "event_name": "Bangladesh Women tour of Australia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
+            "team_1": "Australia Women",
+            "team_2": "Bangladesh Women",
+            "startTime": "09:20:00 AM 11-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249745",
+            "title": "Hong Kong, China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Saudi Arabia",
+            "startTime": "06:45:00 AM 11-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249746",
+            "title": "Malaysia vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Maldives",
+            "startTime": "06:45:00 AM 11-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249747",
+            "title": "China vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Singapore",
+            "startTime": "06:45:00 AM 11-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250114",
+            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Canada vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
+            "team_1": "Canada",
+            "team_2": "Nepal",
+            "startTime": "11:00:00 AM 11-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -254,7 +304,7 @@
             "title": "Grandstand 2 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
             "match_name": "Grandstand 2",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Medvedev-vs-Jan-Lennard_web.png",
             "team_1": "Grandstand 2",
             "team_2": "Shanghai, China",
             "startTime": "09:30:00 AM 10-10-2026"
@@ -417,54 +467,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250150",
-            "title": "Australia Women vs Bangladesh Women (Bangladesh Women tour of Australia, 2026)",
-            "match_name": "Australia Women vs Bangladesh Women",
-            "event_name": "Bangladesh Women tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-            "team_1": "Australia Women",
-            "team_2": "Bangladesh Women",
-            "startTime": "09:20:00 AM 11-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249745",
-            "title": "Hong Kong, China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
-            "match_name": "Hong Kong, China vs Saudi Arabia",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg",
-            "team_1": "Hong Kong, China",
-            "team_2": "Saudi Arabia",
-            "startTime": "06:45:00 AM 11-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249746",
-            "title": "Malaysia vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
-            "match_name": "Malaysia vs Maldives",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Maldives",
-            "startTime": "06:45:00 AM 11-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249747",
-            "title": "China vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
-            "match_name": "China vs Singapore",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
-            "team_1": "China",
-            "team_2": "Singapore",
-            "startTime": "06:45:00 AM 11-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Motorsports",
             "match_id": "4250152",
             "title": "ADAC GT4 Germany - Race 2 vs Germany (DTM 2026)",
@@ -474,6 +476,18 @@
             "team_1": "ADAC GT4 Germany - Race 2",
             "team_2": "Germany",
             "startTime": "08:45:00 PM 10-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249730",
+            "title": "Kuwait vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Kuwait vs Myanmar",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Kuwait",
+            "team_2": "Myanmar",
+            "startTime": "11:30:00 AM 11-10-2026"
         }
     ]
 }
