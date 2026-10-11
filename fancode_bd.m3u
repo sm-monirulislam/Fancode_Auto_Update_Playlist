@@ -2,34 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:36:29 PM 11-10-2026 (BD Time)
-# Live Match : 14
+# Last Updated: 08:39:34 PM 11-10-2026 (BD Time)
+# Live Match : 10
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249693/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Cricket",Bangladesh Women vs Australia Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250150/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Nepal vs Canada [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250114/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249781/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Kuwait vs Myanmar [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249730/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Bhutan vs Qatar [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249731/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Mongolia vs Bahrain [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249732/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" group-title="MotoGP",Indonesia GP [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139977/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Nepal vs Canada [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250114/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png" group-title="Cricket",Australia Champions vs West Indies Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249225/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248825/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248826/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Grandstand 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248827/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg" group-title="Golf",Day 4 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250106/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248828/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Motorsports",Qualifying 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250140/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Badminton",Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250127/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg" group-title="Formula 1",Race [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/139501/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports",F1 Kids 2026 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250200/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Motorsports",ADAC GT Masters - Race 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250138/index.m3u8
