@@ -2,10 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:03:04 AM 12-10-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 08:34:16 AM 12-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249784_53097_HB-W_AM-W_FC-Web.png" group-title="Cricket",Hobart Hurricanes Women vs ACT Meteors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249784/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249785_53097_SS-W_BH-W_FC-Web.png" group-title="Cricket",Sydney Sixers Women vs Brisbane Heat Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249785/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249748_53092_MAS_SIN_fc-web.jpg" group-title="Cricket",Malaysia vs Singapore [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249748/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249749_53092_HK_MDV_fc-web.jpg" group-title="Cricket",Hong Kong, China vs Maldives [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249749/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249750_53092_CHN_SDA_fc-web.jpg" group-title="Cricket",Saudi Arabia vs China [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249750/index.m3u8
