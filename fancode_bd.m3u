@@ -2,12 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:34:16 AM 12-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:15:37 PM 12-10-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249748_53092_MAS_SIN_fc-web.jpg" group-title="Cricket",Malaysia vs Singapore [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249748/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249749_53092_HK_MDV_fc-web.jpg" group-title="Cricket",Hong Kong, China vs Maldives [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249749/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249750_53092_CHN_SDA_fc-web.jpg" group-title="Cricket",Saudi Arabia vs China [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249750/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249693/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249781/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg" group-title="Cricket",South Australia vs Victoria [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249280/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248829/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248830/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Grandstand 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248831/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248832/index.m3u8
