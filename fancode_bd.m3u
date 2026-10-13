@@ -2,10 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:51:56 AM 13-10-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 02:58:00 PM 13-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249284/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png" group-title="Cricket",Sydney Sixers Women vs ACT Meteors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249788/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249693/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249781/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250115_53106_OMA_NEP_fc-Web.png" group-title="Cricket",Nepal vs Oman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250115/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249279_53072_WAU_QUN_FC-Web.jpg" group-title="Cricket",Queensland vs Western Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249279/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249790_53097_ST-W_BH-W_FC-Web.png" group-title="Cricket",Sydney Thunder Women vs Brisbane Heat Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249790/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248704_53053_NJ_OSK_fc-web.jpg" group-title="Football",Newcastle Jets vs Gamba Osaka [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248704/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248835/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248836/index.m3u8
