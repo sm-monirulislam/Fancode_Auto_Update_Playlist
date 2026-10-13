@@ -2,14 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:56:07 AM 13-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 07:51:56 AM 13-10-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248699_53053_AFSC_AAI_fc-web.jpg" group-title="Football",Air Force SC vs Al Ain [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248699/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248700_53053_ANF_NB_FC-WEB.jpg" group-title="Football",Al-Nassr FC vs PFC Neftchi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248700/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248701_53053_AGH_ESG_fc-web.jpg" group-title="Football",Al Gharafa vs Esteghlal FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248701/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249268_53017_TFE_GIR_FC-Web.png" group-title="Football",Tenerife vs Girona FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249268/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249284/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png" group-title="Cricket",Sydney Sixers Women vs ACT Meteors [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249788/index.m3u8

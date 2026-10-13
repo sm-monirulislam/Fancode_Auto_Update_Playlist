@@ -2,61 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:56:07 AM 13-10-2026",
-    "total_matches": 39,
-    "live_match": 4,
+    "last_update_time": "07:51:56 AM 13-10-2026",
+    "total_matches": 40,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248699",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Air Force SC vs Al Ain [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248699_53053_AFSC_AAI_fc-web.jpg",
-            "team_1": "Air Force SC",
-            "team_2": "Al Ain",
-            "startTime": "11:45:00 PM 12-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248699/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4249284",
+            "title": "One Day Cup, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "startTime": "04:30:00 AM 13-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249284/index.m3u8"
         },
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248700",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Al-Nassr FC vs PFC Neftchi [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248700_53053_ANF_NB_FC-WEB.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "PFC Neftchi",
-            "startTime": "11:45:00 PM 12-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248700/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4248701",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Al Gharafa vs Esteghlal FC [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248701_53053_AGH_ESG_fc-web.jpg",
-            "team_1": "Al Gharafa",
-            "team_2": "Esteghlal FC",
-            "startTime": "11:45:00 PM 12-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4248701/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249268",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Tenerife vs Girona FC [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249268_53017_TFE_GIR_FC-Web.png",
-            "team_1": "Tenerife",
-            "team_2": "Girona FC",
-            "startTime": "12:30:00 AM 13-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249268/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4249788",
+            "title": "T20 Spring Challenge, 2026 [English]",
+            "match_name": "Sydney Sixers Women vs ACT Meteors [English]",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
+            "team_1": "Sydney Sixers Women",
+            "team_2": "ACT Meteors",
+            "startTime": "04:30:00 AM 13-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249788/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -81,18 +55,6 @@
             "team_1": "Australia",
             "team_2": "South Africa",
             "startTime": "01:00:00 PM 09-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249284",
-            "title": "New South Wales vs Tasmania (One Day Cup, 2026/27)",
-            "match_name": "New South Wales vs Tasmania",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Tasmania",
-            "startTime": "04:30:00 AM 13-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -153,18 +115,6 @@
             "team_1": "India Champions",
             "team_2": "West Indies Champions",
             "startTime": "09:00:00 PM 13-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249788",
-            "title": "Sydney Sixers Women vs ACT Meteors (T20 Spring Challenge, 2026)",
-            "match_name": "Sydney Sixers Women vs ACT Meteors",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
-            "team_1": "Sydney Sixers Women",
-            "team_2": "ACT Meteors",
-            "startTime": "04:30:00 AM 13-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -240,6 +190,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250164",
+            "title": "ICR Falcons vs All Stars Cardinals (Atlanta Open T20 2026)",
+            "match_name": "ICR Falcons vs All Stars Cardinals",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250164_53113_ICR_ASC_fc-web_1791793971741.jpg",
+            "team_1": "ICR Falcons",
+            "team_2": "All Stars Cardinals",
+            "startTime": "07:30:00 PM 13-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248708",
             "title": "Buriram United vs Beijing Guoan (AFC Champions League Elite 2026-27)",
@@ -265,18 +227,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250164",
-            "title": "ICR Falcons vs All Stars Cardinals (Atlanta Open T20 2026)",
-            "match_name": "ICR Falcons vs All Stars Cardinals",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250164_53113_ICR_ASC_fc-web_1791793971741.jpg",
-            "team_1": "ICR Falcons",
-            "team_2": "All Stars Cardinals",
-            "startTime": "07:30:00 PM 13-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250165",
             "title": "Prime Raider Gladiators vs Atlanta Force (Atlanta Open T20 2026)",
             "match_name": "Prime Raider Gladiators vs Atlanta Force",
@@ -285,18 +235,6 @@
             "team_1": "Prime Raider Gladiators",
             "team_2": "Atlanta Force",
             "startTime": "07:45:00 PM 13-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248975",
-            "title": "East Bengal FC vs Al Shorta (AFC Champions League Two 2026-27)",
-            "match_name": "East Bengal FC vs Al Shorta",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Al Shorta",
-            "startTime": "07:15:00 PM 13-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -309,6 +247,18 @@
             "team_1": "Atlanta Lightning",
             "team_2": "Bay Blazers",
             "startTime": "08:00:00 PM 13-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248975",
+            "title": "East Bengal FC vs Al Shorta (AFC Champions League Two 2026-27)",
+            "match_name": "East Bengal FC vs Al Shorta",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Al Shorta",
+            "startTime": "07:15:00 PM 13-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -396,27 +346,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248835",
-            "title": "Show Court 3 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "Show Court 3",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "startTime": "09:30:00 AM 13-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248836",
-            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
-            "startTime": "09:30:00 AM 13-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250151",
+            "title": "Australia Women vs Bangladesh Women (Bangladesh Women tour of Australia, 2026)",
+            "match_name": "Australia Women vs Bangladesh Women",
+            "event_name": "Bangladesh Women tour of Australia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
+            "team_1": "Australia Women",
+            "team_2": "Bangladesh Women",
+            "startTime": "09:20:00 AM 14-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -457,18 +395,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250151",
-            "title": "Australia Women vs Bangladesh Women (Bangladesh Women tour of Australia, 2026)",
-            "match_name": "Australia Women vs Bangladesh Women",
-            "event_name": "Bangladesh Women tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-            "team_1": "Australia Women",
-            "team_2": "Bangladesh Women",
-            "startTime": "09:20:00 AM 14-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249791",
             "title": "Melbourne Renegades Women vs Melbourne Stars Women (T20 Spring Challenge, 2026)",
             "match_name": "Melbourne Renegades Women vs Melbourne Stars Women",
@@ -477,6 +403,90 @@
             "team_1": "Melbourne Renegades Women",
             "team_2": "Melbourne Stars Women",
             "startTime": "09:00:00 AM 14-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248835",
+            "title": "Show Court 3 vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Show Court 3",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "Show Court 3",
+            "team_2": "Shanghai, China",
+            "startTime": "09:30:00 AM 13-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248836",
+            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "World Feed",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Shanghai, China",
+            "startTime": "09:30:00 AM 13-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249738",
+            "title": "Bhutan vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Bhutan vs Thailand",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bhutan",
+            "team_2": "Thailand",
+            "startTime": "11:30:00 AM 14-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249752",
+            "title": "Hong Kong, China vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249752_53092_HK_SIN_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Singapore",
+            "startTime": "11:30:00 AM 14-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249753",
+            "title": "Maldives vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Maldives vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249753_53092_MDV_SDA_fc-web.jpg",
+            "team_1": "Maldives",
+            "team_2": "Saudi Arabia",
+            "startTime": "11:30:00 AM 14-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248977",
+            "title": "Melbourne Victory vs Seoul (AFC Champions League Two 2026-27)",
+            "match_name": "Melbourne Victory vs Seoul",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248977_53057_MLV_SE_fc-web_1789025065995.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Seoul",
+            "startTime": "01:15:00 PM 14-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249792",
+            "title": "Adelaide Strikers Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
+            "match_name": "Adelaide Strikers Women vs Hobart Hurricanes Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249792_53097_AS-W_HB-W_FC-Web.png",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Hobart Hurricanes Women",
+            "startTime": "01:30:00 PM 14-10-2026"
         }
     ]
 }
