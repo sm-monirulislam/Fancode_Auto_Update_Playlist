@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:43:41 AM 14-10-2026",
-    "total_matches": 37,
-    "live_match": 1,
+    "last_update_time": "06:52:21 AM 14-10-2026",
+    "total_matches": 40,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249661",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "USA vs Namibia [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249661_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "startTime": "08:30:00 PM 13-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249661/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -357,6 +344,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250116",
+            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Oman vs Canada",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png",
+            "team_1": "Oman",
+            "team_2": "Canada",
+            "startTime": "11:00:00 AM 15-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4248839",
             "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
@@ -390,18 +389,6 @@
             "team_1": "Round 32",
             "team_2": "Denmark",
             "startTime": "12:30:00 PM 14-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250116",
-            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Oman vs Canada",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png",
-            "team_1": "Oman",
-            "team_2": "Canada",
-            "startTime": "11:00:00 AM 15-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -450,6 +437,54 @@
             "team_1": "Round 16 - Court 1",
             "team_2": "Denmark",
             "startTime": "12:30:00 PM 15-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250144",
+            "title": "Round 16 - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
+            "match_name": "Round 16 - Court 2",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-We.png",
+            "team_1": "Round 16 - Court 2",
+            "team_2": "Denmark",
+            "startTime": "12:30:00 PM 15-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248980",
+            "title": "BG Pathum United vs Adelaide United (AFC Champions League Two 2026-27)",
+            "match_name": "BG Pathum United vs Adelaide United",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg",
+            "team_1": "BG Pathum United",
+            "team_2": "Adelaide United",
+            "startTime": "05:45:00 PM 15-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248981",
+            "title": "Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua (AFC Champions League Two 2026-27)",
+            "match_name": "Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248981_53057_PRK_SHN_fc-web_1789025066106.jpg",
+            "team_1": "Preah Khan Reach Svay Rieng FC",
+            "team_2": "Shanghai Shenhua",
+            "startTime": "05:45:00 PM 15-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248982",
+            "title": "Tampines Rovers FC vs Machida Zelvia (AFC Champions League Two 2026-27)",
+            "match_name": "Tampines Rovers FC vs Machida Zelvia",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248982_53057_TAM_MZ_fc-web_1789025065476.jpg",
+            "team_1": "Tampines Rovers FC",
+            "team_2": "Machida Zelvia",
+            "startTime": "05:45:00 PM 15-10-2026"
         }
     ]
 }
