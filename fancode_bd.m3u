@@ -2,12 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:50:11 AM 14-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:14:33 PM 14-10-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Cricket",Bangladesh Women vs Australia Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250151/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249791_53097_MR-W_MS-W_FC-Web_1791883787885.png" group-title="Cricket",Melbourne Renegades Women vs Melbourne Stars Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249791/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249239_53069_EDC_AAC_FC-Web.png" group-title="Cricket",England Champions vs Australia Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249239/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249792_53097_AS-W_HB-W_FC-Web_1791883787882.png" group-title="Cricket",Adelaide Strikers Women vs Hobart Hurricanes Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249792/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248710_53053_VIS_JNB_fc-web.jpg" group-title="Football",Vissel Kobe vs Jeonbuk Motors [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248710/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248711_53053_REY_PFC_fc-web.jpg" group-title="Football",Kashiwa Reysol vs Port FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248711/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Medvedev-vs-Stefanos_web.png" group-title="Tennis",D. Medvedev vs S. Tsitsipas [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248839/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248840/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 32 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250142/index.m3u8
