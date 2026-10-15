@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:57:27 AM 16-10-2026",
-    "total_matches": 37,
-    "live_match": 1,
+    "last_update_time": "05:36:44 AM 16-10-2026",
+    "total_matches": 40,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4250202",
-            "title": "League One 2026-27 [English]",
-            "match_name": "Mansfield Town vs Oxford United [English]",
-            "event_name": "League One 2026-27",
-            "image": "https://images.fancode.com/aig/match/v1791789693985/4250202_CASACARDS_APP.png",
-            "team_1": "Mansfield Town",
-            "team_2": "Oxford United",
-            "startTime": "12:30:00 AM 16-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250202/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -117,6 +104,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250182",
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "07:30:00 PM 16-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249142",
             "title": "Al-Qadsiah FC vs Abha Club (Roshn Saudi League 2026-2027)",
@@ -130,18 +129,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250182",
-            "title": "TBC vs TBC (Atlanta Open T20 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "07:30:00 PM 16-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250224",
             "title": "THCC Rot-Gelb Hamburg vs ICA Berlin (GSL Championship 2026)",
             "match_name": "THCC Rot-Gelb Hamburg vs ICA Berlin",
@@ -150,6 +137,18 @@
             "team_1": "THCC Rot-Gelb Hamburg",
             "team_2": "ICA Berlin",
             "startTime": "08:00:00 PM 16-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249283",
+            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
+            "match_name": "South Australia vs Queensland",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:00:00 AM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -202,18 +201,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249283",
-            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:00:00 AM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249794",
             "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
@@ -246,6 +233,18 @@
             "team_1": "Stadium Court",
             "team_2": "Shanghai, China",
             "startTime": "09:30:00 AM 16-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249994",
+            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Córdoba",
+            "startTime": "12:00:00 AM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -294,18 +293,6 @@
             "team_1": "QF - Court 2",
             "team_2": "Denmark",
             "startTime": "03:30:00 PM 16-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249994",
-            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Córdoba",
-            "startTime": "12:00:00 AM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -450,6 +437,54 @@
             "team_1": "Semi-Final",
             "team_2": "Denmark",
             "startTime": "12:30:00 PM 17-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247654",
+            "title": "RCD Espanyol vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "RCD Espanyol vs Atletico de Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247654_53004_ESL_ATM_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Atletico de Madrid",
+            "startTime": "05:30:00 PM 17-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250228",
+            "title": "Darmstadt CC vs Koln CC (GSL Championship 2026)",
+            "match_name": "Darmstadt CC vs Koln CC",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "Koln CC",
+            "startTime": "06:00:00 PM 17-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248849",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 17-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248850",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 17-10-2026"
         }
     ]
 }
