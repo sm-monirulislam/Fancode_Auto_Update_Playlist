@@ -2,6 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:15:01 AM 16-10-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 02:24:07 PM 16-10-2026 (BD Time)
+# Live Match : 2
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg" group-title="Cricket",Darmstadt CC vs TSV Malmsheim [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250220/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248845/index.m3u8
