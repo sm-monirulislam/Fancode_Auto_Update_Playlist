@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:35:44 AM 18-10-2026",
-    "total_matches": 38,
-    "live_match": 0,
+    "last_update_time": "05:45:03 AM 18-10-2026",
+    "total_matches": 40,
+    "live_match": 1,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249798",
+            "title": "T20 Spring Challenge, 2026 [English]",
+            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women [English]",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "Melbourne Renegades Women",
+            "startTime": "04:30:00 AM 18-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249798/index.m3u8"
+        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -41,18 +54,6 @@
             "team_1": "England Champions",
             "team_2": "West Indies Champions",
             "startTime": "09:00:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249798",
-            "title": "Melbourne Renegades Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
-            "match_name": "Melbourne Renegades Women vs Hobart Hurricanes Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
-            "team_1": "Melbourne Renegades Women",
-            "team_2": "Hobart Hurricanes Women",
-            "startTime": "04:30:00 AM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -94,12 +95,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250230",
-            "title": "TBC vs TBC (GSL Championship 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Darmstadt CC vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "Darmstadt CC vs ICA Berlin",
             "event_name": "GSL Championship 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Darmstadt CC",
+            "team_2": "ICA Berlin",
             "startTime": "12:30:00 PM 18-10-2026"
         },
         {
@@ -118,12 +119,12 @@
             "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250231",
-            "title": "TBC vs TBC (GSL Championship 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "THCC Rot-Gelb Hamburg vs Koln CC (GSL Championship 2026)",
+            "match_name": "THCC Rot-Gelb Hamburg vs Koln CC",
             "event_name": "GSL Championship 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "THCC Rot-Gelb Hamburg",
+            "team_2": "Koln CC",
             "startTime": "02:30:00 PM 18-10-2026"
         },
         {
@@ -140,18 +141,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247657",
-            "title": "CA Osasuna vs Racing Club de Santander (LALIGA 2026-27)",
-            "match_name": "CA Osasuna vs Racing Club de Santander",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247657_53004_OSN_RAC_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Racing Club de Santander",
-            "startTime": "05:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250233",
             "title": "TBC vs TBC (GSL Championship 2026)",
@@ -161,6 +150,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "06:30:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247657",
+            "title": "CA Osasuna vs Racing Club de Santander (LALIGA 2026-27)",
+            "match_name": "CA Osasuna vs Racing Club de Santander",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247657_53004_OSN_RAC_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Racing Club de Santander",
+            "startTime": "05:30:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -189,6 +190,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249665",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4250195",
             "title": "TBC vs TBC (Atlanta Open Women's T20 2026)",
             "match_name": "TBC vs TBC",
@@ -197,6 +210,42 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "11:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250186",
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "11:45:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249666",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
+            "match_name": "South Australia vs Queensland",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:30:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247651",
+            "title": "Real Madrid vs Sevilla FC (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Sevilla FC",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Sevilla FC",
+            "startTime": "12:30:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -221,18 +270,6 @@
             "team_1": "Crystal Palace Women",
             "team_2": "West Ham United Women",
             "startTime": "04:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250186",
-            "title": "TBC vs TBC (Atlanta Open T20 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "11:45:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -284,30 +321,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247651",
-            "title": "Real Madrid vs Sevilla FC (LALIGA 2026-27)",
-            "match_name": "Real Madrid vs Sevilla FC",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Sevilla FC",
-            "startTime": "12:30:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249997",
             "title": "Granada vs Cadiz (LALIGA Hypermotion 2026-27)",
@@ -317,18 +330,6 @@
             "team_1": "Granada",
             "team_2": "Cadiz",
             "startTime": "07:45:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249666",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:30:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -357,62 +358,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": "4248853",
-            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "ATP Masters - Rolex Shanghai Masters",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "ATP Masters - Rolex Shanghai Masters",
-            "team_2": "Shanghai, China",
-            "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4248854",
-            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "ATP Masters - Rolex Shanghai Masters",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "ATP Masters - Rolex Shanghai Masters",
-            "team_2": "Shanghai, China",
-            "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
             "match_id": "4248855",
-            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "title": "Double's Final vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Double's Final",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_1": "Double's Final",
             "team_2": "Shanghai, China",
-            "startTime": "01:30:00 PM 18-10-2026"
+            "startTime": "11:30:00 AM 18-10-2026"
         },
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": "4248856",
-            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "match_id": "4248853",
+            "title": "Final: A. Davidovich Fokina vs R. Jodar vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "Final: A. Davidovich Fokina vs R. Jodar",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_1": "Final: A. Davidovich Fokina vs R. Jodar",
             "team_2": "Shanghai, China",
-            "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250148",
-            "title": "Finals vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Finals",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Finals",
-            "team_2": "Denmark",
-            "startTime": "03:30:00 PM 18-10-2026"
+            "startTime": "02:00:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -425,6 +390,18 @@
             "team_1": "Oman",
             "team_2": "Nepal",
             "startTime": "11:00:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250148",
+            "title": "Finals vs Denmark (BWF Super 750 - Denmark Open 2026)",
+            "match_name": "Finals",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Finals",
+            "team_2": "Denmark",
+            "startTime": "03:30:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -457,10 +434,58 @@
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
             "match_name": "ATP 250 - Almaty Open 2026",
             "event_name": "ATP 250 - Almaty Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
             "team_1": "ATP 250 - Almaty Open 2026",
             "team_2": "Almaty, Kazakhstan",
             "startTime": "03:30:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249614",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "team_2": "Lyon, France",
+            "startTime": "03:30:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249621",
+            "title": "ATP 250 - BNP Paribas Fortis European Open vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
+            "match_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+            "team_1": "ATP 250 - BNP Paribas Fortis European Open",
+            "team_2": "Brussels, Belgium",
+            "startTime": "03:30:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250213",
+            "title": "Al-Fayha FC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Fayha FC vs Al-Ahli Saudi FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250213_53025_ALF_AAS_FC-Web.png",
+            "team_1": "Al-Fayha FC",
+            "team_2": "Al-Ahli Saudi FC",
+            "startTime": "08:35:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250475",
+            "title": "Emirates Red vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Emirates Red vs Abu Dhabi",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Abu Dhabi",
+            "startTime": "10:00:00 PM 19-10-2026"
         }
     ]
 }
