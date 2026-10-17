@@ -2,16 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:54:09 AM 17-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 04:11:24 PM 17-10-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg" group-title="Cricket",South Australia vs Queensland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249283/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250117/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249796_53097_AM-W_MS-W_FC-Web_1791883788082.png" group-title="Cricket",ACT Meteors vs Melbourne Stars Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249796/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249797_53097_SS-W_AS-W_FC-Web_1791883788114.png" group-title="Cricket",Adelaide Strikers Women vs Sydney Sixers Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249797/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg" group-title="Football",Auckland vs Melbourne City [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249835/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250211/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs THCC Rot-Gelb Hamburg [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250226/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250147/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card.png" group-title="Tennis",Zverev vs Davidovich Fokina [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248850/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249837_53101_CCM_NJ_fc-Web_1792223292109.jpg" group-title="Football",Central Coast Mariners vs Newcastle Jets [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249837/index.m3u8
