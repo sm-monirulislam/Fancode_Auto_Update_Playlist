@@ -2,9 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:15:30 AM 17-10-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 07:24:38 AM 17-10-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg" group-title="Cricket",South Australia vs Queensland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249283/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249794_53097_HB-W_PS-W_FC-Web_1791883788804.png" group-title="Cricket",Perth Scorchers Women vs Hobart Hurricanes Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249794/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249795_53097_ST-W_MR-W_FC-Web_1791883788801.png" group-title="Cricket",Melbourne Renegades Women vs Sydney Thunder Women [English]

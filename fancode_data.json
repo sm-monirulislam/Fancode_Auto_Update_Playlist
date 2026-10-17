@@ -2,10 +2,23 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:15:30 AM 17-10-2026",
+    "last_update_time": "07:24:38 AM 17-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249283",
+            "title": "One Day Cup, 2026/27 [English]",
+            "match_name": "South Australia vs Queensland [English]",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:00:00 AM 17-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249283/index.m3u8"
+        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -31,18 +44,6 @@
             "team_2": "Sydney Thunder Women",
             "startTime": "04:30:00 AM 17-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249795/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249283",
-            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:00:00 AM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -166,18 +167,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247654",
-            "title": "RCD Espanyol vs Atletico de Madrid (LALIGA 2026-27)",
-            "match_name": "RCD Espanyol vs Atletico de Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247654_53004_ESL_ATM_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Atletico de Madrid",
-            "startTime": "05:30:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250193",
             "title": "Hurricanes Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
@@ -187,6 +176,18 @@
             "team_1": "Hurricanes Women",
             "team_2": "Seattle Thunders Women",
             "startTime": "07:00:00 PM 17-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247654",
+            "title": "RCD Espanyol vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "RCD Espanyol vs Atletico de Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247654_53004_ESL_ATM_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Atletico de Madrid",
+            "startTime": "05:30:00 PM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -310,6 +311,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249798",
+            "title": "Melbourne Renegades Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
+            "match_name": "Melbourne Renegades Women vs Hobart Hurricanes Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
+            "team_1": "Melbourne Renegades Women",
+            "team_2": "Hobart Hurricanes Women",
+            "startTime": "04:30:00 AM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249996",
             "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
@@ -323,14 +336,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249798",
-            "title": "Melbourne Renegades Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
-            "match_name": "Melbourne Renegades Women vs Hobart Hurricanes Women",
+            "match_id": "4249799",
+            "title": "Brisbane Heat Women vs Adelaide Strikers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
             "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
-            "team_1": "Melbourne Renegades Women",
-            "team_2": "Hobart Hurricanes Women",
-            "startTime": "04:30:00 AM 18-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png",
+            "team_1": "Brisbane Heat Women",
+            "team_2": "Adelaide Strikers Women",
+            "startTime": "09:00:00 AM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249800",
+            "title": "Sydney Thunder Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Perth Scorchers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Perth Scorchers Women",
+            "startTime": "09:00:00 AM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -403,30 +428,6 @@
             "team_1": "Central Coast Mariners",
             "team_2": "Newcastle Jets",
             "startTime": "02:10:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249799",
-            "title": "Brisbane Heat Women vs Adelaide Strikers Women (T20 Spring Challenge, 2026)",
-            "match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png",
-            "team_1": "Brisbane Heat Women",
-            "team_2": "Adelaide Strikers Women",
-            "startTime": "09:00:00 AM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249800",
-            "title": "Sydney Thunder Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
-            "match_name": "Sydney Thunder Women vs Perth Scorchers Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png",
-            "team_1": "Sydney Thunder Women",
-            "team_2": "Perth Scorchers Women",
-            "startTime": "09:00:00 AM 18-10-2026"
         },
         {
             "status": "UPCOMING",
