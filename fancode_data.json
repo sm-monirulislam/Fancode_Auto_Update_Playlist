@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:50:55 PM 17-10-2026",
-    "total_matches": 38,
-    "live_match": 5,
+    "last_update_time": "10:50:50 PM 17-10-2026",
+    "total_matches": 36,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -21,45 +21,6 @@
         },
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250211",
-            "title": "Jersey tour of Uganda A 2026 [English]",
-            "match_name": "Uganda A vs Jersey [English]",
-            "event_name": "Jersey tour of Uganda A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg",
-            "team_1": "Uganda A",
-            "team_2": "Jersey",
-            "startTime": "12:30:00 PM 17-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250211/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250228",
-            "title": "GSL Championship 2026 [English]",
-            "match_name": "Darmstadt CC vs Koln CC [English]",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg",
-            "team_1": "Darmstadt CC",
-            "team_2": "Koln CC",
-            "startTime": "06:00:00 PM 17-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250228/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249193",
-            "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Arsenal Women vs Birmingham City F.C. Women [English]",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Birmingham City F.C. Women",
-            "startTime": "05:15:00 PM 17-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249193/index.m3u8"
-        },
-        {
-            "status": "LIVE",
             "event_category": "Badminton",
             "match_id": "4250147",
             "title": "BWF Super 750 - Denmark Open 2026 [English]",
@@ -70,54 +31,6 @@
             "team_2": "Denmark",
             "startTime": "12:30:00 PM 17-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250147/index.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250184",
-            "title": "Prime Raider Gladiators vs Bay Blazers (Atlanta Open T20 2026)",
-            "match_name": "Prime Raider Gladiators vs Bay Blazers",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://images.fancode.com/aig/match/v1792229081213/4250184_CASACARDS_APP.png",
-            "team_1": "Prime Raider Gladiators",
-            "team_2": "Bay Blazers",
-            "startTime": "07:30:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250193",
-            "title": "Hurricanes Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
-            "match_name": "Hurricanes Women vs Seattle Thunders Women",
-            "event_name": "Atlanta Open Women's T20 2026",
-            "image": "https://images.fancode.com/aig/match/v1792240672389/4250193_CASACARDS_APP.png",
-            "team_1": "Hurricanes Women",
-            "team_2": "Seattle Thunders Women",
-            "startTime": "07:45:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250229",
-            "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
-            "match_name": "TSV Malmsheim vs THCC Rot-Gelb Hamburg",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250229_53117_TSV_THCC_fc-web.jpg",
-            "team_1": "TSV Malmsheim",
-            "team_2": "THCC Rot-Gelb Hamburg",
-            "startTime": "08:00:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249596",
-            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
-            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
-            "team_1": "Norwich City F.C.",
-            "team_2": "Portsmouth F.C.",
-            "startTime": "07:30:00 PM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -145,18 +58,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249995",
-            "title": "Eibar vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Eibar vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249995_53017_EIB_MRC_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "RCD Mallorca",
-            "startTime": "07:35:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250185",
             "title": "Atlanta Fire vs Atlanta Lightning (Atlanta Open T20 2026)",
@@ -178,18 +79,6 @@
             "team_1": "Atlanta Fire Women",
             "team_2": "Southern Strikers Women",
             "startTime": "11:45:00 PM 17-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247656",
-            "title": "Real Betis vs FC Barcelona (LALIGA 2026-27)",
-            "match_name": "Real Betis vs FC Barcelona",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247656_53004_RB_BAR_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "FC Barcelona",
-            "startTime": "10:00:00 PM 17-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -266,6 +155,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
+            "match_id": "4249230",
+            "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "England Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
+            "startTime": "09:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
             "match_id": "4249801",
             "title": "Sydney Sixers Women vs Melbourne Stars Women (T20 Spring Challenge, 2026)",
             "match_name": "Sydney Sixers Women vs Melbourne Stars Women",
@@ -289,18 +190,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249996",
-            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Castellón",
-            "startTime": "12:30:00 AM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250232",
             "title": "TBC vs TBC (GSL Championship 2026)",
@@ -313,15 +202,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249230",
-            "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "England Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png",
-            "team_1": "England Champions",
-            "team_2": "West Indies Champions",
-            "startTime": "09:00:00 PM 18-10-2026"
+            "event_category": "Football",
+            "match_id": "4249996",
+            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Castellón",
+            "startTime": "12:30:00 AM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -350,6 +239,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247648",
+            "title": "RC Celta vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "RC Celta vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247648_53004_CEV_ALA_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Deportivo Alaves",
+            "startTime": "07:45:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4249196",
             "title": "Chelsea F.C. Women vs Tottenham Hotspur Women (Barclays Women's Super League 2026-27)",
             "match_name": "Chelsea F.C. Women vs Tottenham Hotspur Women",
@@ -370,18 +271,6 @@
             "team_1": "Crystal Palace Women",
             "team_2": "West Ham United Women",
             "startTime": "04:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247648",
-            "title": "RC Celta vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "RC Celta vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247648_53004_CEV_ALA_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Deportivo Alaves",
-            "startTime": "07:45:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -422,18 +311,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249199",
-            "title": "Manchester City Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester City Women vs Brighton and Hove Albion Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249199_53038_MCI-W_BHA-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Brighton and Hove Albion Women",
-            "startTime": "07:00:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247649",
             "title": "Malaga vs Real Sociedad (LALIGA 2026-27)",
             "match_name": "Malaga vs Real Sociedad",
@@ -442,6 +319,18 @@
             "team_1": "Malaga",
             "team_2": "Real Sociedad",
             "startTime": "10:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249199",
+            "title": "Manchester City Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester City Women vs Brighton and Hove Albion Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249199_53038_MCI-W_BHA-W_fc-web.jpg",
+            "team_1": "Manchester City Women",
+            "team_2": "Brighton and Hove Albion Women",
+            "startTime": "07:00:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -457,6 +346,42 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250195",
+            "title": "TBC vs TBC (Atlanta Open Women's T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open Women's T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "11:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250186",
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "11:45:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247651",
+            "title": "Real Madrid vs Sevilla FC (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Sevilla FC",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Sevilla FC",
+            "startTime": "12:30:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249838",
             "title": "Wellington Phoenix vs Melbourne Victory (A-League 2026-27)",
@@ -466,6 +391,54 @@
             "team_1": "Wellington Phoenix",
             "team_2": "Melbourne Victory",
             "startTime": "07:30:00 AM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248853",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248854",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248855",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4248856",
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "startTime": "01:30:00 PM 18-10-2026"
         }
     ]
 }

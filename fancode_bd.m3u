@@ -2,16 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:50:55 PM 17-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 10:50:50 PM 17-10-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" group-title="Cricket",Zimbabwe vs Bangladesh [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249694/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250211/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs Koln CC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250228/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg" group-title="Football",Arsenal Women vs Birmingham City F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250147/index.m3u8
