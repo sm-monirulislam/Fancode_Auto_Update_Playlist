@@ -2,36 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "01:01:29 AM 18-10-2026",
-    "total_matches": 36,
-    "live_match": 2,
+    "last_update_time": "03:35:44 AM 18-10-2026",
+    "total_matches": 38,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249694",
-            "title": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026 [English]",
-            "match_name": "Zimbabwe vs Bangladesh [English]",
-            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Bangladesh",
-            "startTime": "05:00:00 PM 17-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249694/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249996",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Las Palmas vs Castellón [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Castellón",
-            "startTime": "12:30:00 AM 18-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249996/index.m3u8"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -203,6 +177,30 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247649",
+            "title": "Malaga vs Real Sociedad (LALIGA 2026-27)",
+            "match_name": "Malaga vs Real Sociedad",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247649_53004_MAG_RS_FC-Web.png",
+            "team_1": "Malaga",
+            "team_2": "Real Sociedad",
+            "startTime": "10:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250195",
+            "title": "TBC vs TBC (Atlanta Open Women's T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open Women's T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "11:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4249196",
             "title": "Chelsea F.C. Women vs Tottenham Hotspur Women (Barclays Women's Super League 2026-27)",
             "match_name": "Chelsea F.C. Women vs Tottenham Hotspur Women",
@@ -226,27 +224,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247649",
-            "title": "Malaga vs Real Sociedad (LALIGA 2026-27)",
-            "match_name": "Malaga vs Real Sociedad",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247649_53004_MAG_RS_FC-Web.png",
-            "team_1": "Malaga",
-            "team_2": "Real Sociedad",
-            "startTime": "10:00:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250195",
-            "title": "TBC vs TBC (Atlanta Open Women's T20 2026)",
+            "match_id": "4250186",
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
             "match_name": "TBC vs TBC",
-            "event_name": "Atlanta Open Women's T20 2026",
+            "event_name": "Atlanta Open T20 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "TBC",
             "team_2": "TBC",
-            "startTime": "11:00:00 PM 18-10-2026"
+            "startTime": "11:45:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -299,26 +285,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250186",
-            "title": "TBC vs TBC (Atlanta Open T20 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "11:45:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249997",
-            "title": "Granada vs Cadiz (LALIGA Hypermotion 2026-27)",
-            "match_name": "Granada vs Cadiz",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249997_53017_GRD_CDZ_FC-Web.png",
-            "team_1": "Granada",
-            "team_2": "Cadiz",
-            "startTime": "07:45:00 PM 18-10-2026"
+            "match_id": "4249665",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -334,15 +308,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026"
+            "event_category": "Football",
+            "match_id": "4249997",
+            "title": "Granada vs Cadiz (LALIGA Hypermotion 2026-27)",
+            "match_name": "Granada vs Cadiz",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249997_53017_GRD_CDZ_FC-Web.png",
+            "team_1": "Granada",
+            "team_2": "Cadiz",
+            "startTime": "07:45:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -355,6 +329,18 @@
             "team_1": "South Australia",
             "team_2": "Queensland",
             "startTime": "05:30:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249667",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2026/27)",
+            "match_name": "Western Australia vs New South Wales",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "startTime": "08:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -431,14 +417,50 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Western Australia vs New South Wales",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "startTime": "08:00:00 AM 19-10-2026"
+            "match_id": "4250118",
+            "title": "Oman vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Oman vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
+            "team_1": "Oman",
+            "team_2": "Nepal",
+            "startTime": "11:00:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249695",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "startTime": "05:00:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250474",
+            "title": "Sharjah vs Dubai (Emirates D20, 2026)",
+            "match_name": "Sharjah vs Dubai",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "startTime": "06:00:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249607",
+            "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
+            "match_name": "ATP 250 - Almaty Open 2026",
+            "event_name": "ATP 250 - Almaty Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 250 - Almaty Open 2026",
+            "team_2": "Almaty, Kazakhstan",
+            "startTime": "03:30:00 PM 19-10-2026"
         }
     ]
 }
