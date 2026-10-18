@@ -2,22 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:45:03 AM 18-10-2026",
+    "last_update_time": "09:08:25 AM 18-10-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249798",
-            "title": "T20 Spring Challenge, 2026 [English]",
-            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women [English]",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
-            "team_1": "Hobart Hurricanes Women",
-            "team_2": "Melbourne Renegades Women",
-            "startTime": "04:30:00 AM 18-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249798/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4249838",
+            "title": "A-League 2026-27 [English]",
+            "match_name": "Wellington Phoenix vs Melbourne Victory [English]",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne Victory",
+            "startTime": "07:30:00 AM 18-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249838/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -78,6 +78,30 @@
             "team_1": "Sydney Thunder Women",
             "team_2": "Perth Scorchers Women",
             "startTime": "09:00:00 AM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249665",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249666",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
+            "match_name": "South Australia vs Queensland",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:30:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -177,30 +201,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247649",
-            "title": "Malaga vs Real Sociedad (LALIGA 2026-27)",
-            "match_name": "Malaga vs Real Sociedad",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247649_53004_MAG_RS_FC-Web.png",
-            "team_1": "Malaga",
-            "team_2": "Real Sociedad",
-            "startTime": "10:00:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250195",
             "title": "TBC vs TBC (Atlanta Open Women's T20 2026)",
@@ -210,6 +210,18 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "startTime": "11:00:00 PM 18-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247649",
+            "title": "Malaga vs Real Sociedad (LALIGA 2026-27)",
+            "match_name": "Malaga vs Real Sociedad",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247649_53004_MAG_RS_FC-Web.png",
+            "team_1": "Malaga",
+            "team_2": "Real Sociedad",
+            "startTime": "10:00:00 PM 18-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -225,18 +237,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249666",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:30:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247651",
             "title": "Real Madrid vs Sevilla FC (LALIGA 2026-27)",
@@ -246,6 +246,18 @@
             "team_1": "Real Madrid",
             "team_2": "Sevilla FC",
             "startTime": "12:30:00 AM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249667",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2026/27)",
+            "match_name": "Western Australia vs New South Wales",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "startTime": "08:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -334,26 +346,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Western Australia vs New South Wales",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "startTime": "08:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249838",
-            "title": "Wellington Phoenix vs Melbourne Victory (A-League 2026-27)",
-            "match_name": "Wellington Phoenix vs Melbourne Victory",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Melbourne Victory",
-            "startTime": "07:30:00 AM 18-10-2026"
+            "match_id": "4250118",
+            "title": "Oman vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Oman vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
+            "team_1": "Oman",
+            "team_2": "Nepal",
+            "startTime": "11:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -378,18 +378,6 @@
             "team_1": "Final: A. Davidovich Fokina vs R. Jodar",
             "team_2": "Shanghai, China",
             "startTime": "02:00:00 PM 18-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250118",
-            "title": "Oman vs Nepal (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Oman vs Nepal",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
-            "team_1": "Oman",
-            "team_2": "Nepal",
-            "startTime": "11:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +474,18 @@
             "team_1": "Emirates Red",
             "team_2": "Abu Dhabi",
             "startTime": "10:00:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250214",
+            "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Hilal SFC vs Al-Hazem FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250214_53025_AHS_HAZ_FC-Web.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Hazem FC",
+            "startTime": "11:30:00 PM 19-10-2026"
         }
     ]
 }
