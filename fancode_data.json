@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "12:46:31 AM 19-10-2026",
+    "last_update_time": "03:16:11 AM 19-10-2026",
     "total_matches": 38,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249230",
-            "title": "World Championship of Legends, 2026 [English]",
-            "match_name": "England Champions vs West Indies Champions [English]",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png",
-            "team_1": "England Champions",
-            "team_2": "West Indies Champions",
-            "startTime": "09:00:00 PM 18-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249230/index.m3u8"
-        },
         {
             "status": "PAUSED",
             "event_category": "Cricket",
@@ -78,18 +65,6 @@
             "team_1": "Oman",
             "team_2": "Nepal",
             "startTime": "11:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247651",
-            "title": "Real Madrid vs Sevilla FC (LALIGA 2026-27)",
-            "match_name": "Real Madrid vs Sevilla FC",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Sevilla FC",
-            "startTime": "12:30:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -165,6 +140,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249802",
+            "title": "Adelaide Strikers Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Adelaide Strikers Women vs Perth Scorchers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Perth Scorchers Women",
+            "startTime": "04:30:00 AM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249607",
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -202,25 +189,13 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249802",
-            "title": "TBC vs TBC (T20 Spring Challenge, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "04:30:00 AM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4249803",
-            "title": "TBC vs TBC (T20 Spring Challenge, 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
             "event_name": "T20 Spring Challenge, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Sydney Sixers Women",
             "startTime": "09:00:00 AM 20-10-2026"
         },
         {
@@ -462,6 +437,30 @@
             "team_1": "Zambia",
             "team_2": "Nigeria",
             "startTime": "06:30:00 PM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249609",
+            "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
+            "match_name": "ATP 250 - Almaty Open 2026",
+            "event_name": "ATP 250 - Almaty Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 250 - Almaty Open 2026",
+            "team_2": "Almaty, Kazakhstan",
+            "startTime": "03:30:00 PM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249616",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "team_2": "Lyon, France",
+            "startTime": "03:30:00 PM 21-10-2026"
         }
     ]
 }
