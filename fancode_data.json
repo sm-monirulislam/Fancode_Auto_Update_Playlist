@@ -2,23 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:34:36 AM 19-10-2026",
+    "last_update_time": "01:20:16 PM 19-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Sheffield Shield, 2026/27 [English]",
-            "match_name": "Tasmania vs Victoria [English]",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249665/index.m3u8"
-        },
         {
             "status": "LIVE",
             "event_category": "Cricket",
@@ -33,6 +20,45 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249666/index.m3u8"
         },
         {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249667",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "New South Wales vs Western Australia [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "startTime": "08:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4250118",
+            "title": "ICC CWC League 2 Oman, 2026 [English]",
+            "match_name": "Nepal vs Oman [English]",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
+            "team_1": "Nepal",
+            "team_2": "Oman",
+            "startTime": "11:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250118/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4249607",
+            "title": "ATP 250 - Almaty Open 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP 250 - Almaty Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
+            "team_1": "World Feed",
+            "team_2": "Almaty, Kazakhstan",
+            "startTime": "12:00:00 PM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249607/index.m3u8"
+        },
+        {
             "status": "PAUSED",
             "event_category": "Cricket",
             "match_id": "4249782",
@@ -45,28 +71,16 @@
             "startTime": "01:30:00 PM 18-10-2026"
         },
         {
-            "status": "UPCOMING",
+            "status": "PAUSED",
             "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Western Australia vs New South Wales",
+            "match_id": "4249665",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
             "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "startTime": "08:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250118",
-            "title": "Oman vs Nepal (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Oman vs Nepal",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
-            "team_1": "Oman",
-            "team_2": "Nepal",
-            "startTime": "11:00:00 AM 19-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -87,7 +101,7 @@
             "title": "Sharjah vs Dubai (Emirates D20, 2026)",
             "match_name": "Sharjah vs Dubai",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250474_53130_SHA_DUB_fc-web.jpg",
             "team_1": "Sharjah",
             "team_2": "Dubai",
             "startTime": "06:00:00 PM 19-10-2026"
@@ -99,7 +113,7 @@
             "title": "Emirates Red vs Abu Dhabi (Emirates D20, 2026)",
             "match_name": "Emirates Red vs Abu Dhabi",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250475_53130_EMR_ABD_fc-web.jpg",
             "team_1": "Emirates Red",
             "team_2": "Abu Dhabi",
             "startTime": "10:00:00 PM 19-10-2026"
@@ -147,58 +161,10 @@
             "title": "Adelaide Strikers Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Adelaide Strikers Women vs Perth Scorchers Women",
             "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Semifinal1web.png",
             "team_1": "Adelaide Strikers Women",
             "team_2": "Perth Scorchers Women",
             "startTime": "04:30:00 AM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249803",
-            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
-            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sydney Thunder Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "09:00:00 AM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249607",
-            "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
-            "match_name": "ATP 250 - Almaty Open 2026",
-            "event_name": "ATP 250 - Almaty Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "ATP 250 - Almaty Open 2026",
-            "team_2": "Almaty, Kazakhstan",
-            "startTime": "03:30:00 PM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249614",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "team_2": "Lyon, France",
-            "startTime": "03:30:00 PM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249621",
-            "title": "ATP 250 - BNP Paribas Fortis European Open vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
-            "match_name": "ATP 250 - BNP Paribas Fortis European Open",
-            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-            "team_1": "ATP 250 - BNP Paribas Fortis European Open",
-            "team_2": "Brussels, Belgium",
-            "startTime": "03:30:00 PM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -211,6 +177,18 @@
             "team_1": "Australia Women",
             "team_2": "New Zealand Women",
             "startTime": "01:45:00 PM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249803",
+            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "09:00:00 AM 20-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -231,10 +209,34 @@
             "title": "Ajman vs Emirates Blues (Emirates D20, 2026)",
             "match_name": "Ajman vs Emirates Blues",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web.jpg",
             "team_1": "Ajman",
             "team_2": "Emirates Blues",
             "startTime": "06:00:00 PM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249621",
+            "title": "World Feed vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Brussels, Belgium",
+            "startTime": "03:30:00 PM 19-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249614",
+            "title": "World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Lyon, France",
+            "startTime": "06:30:00 PM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -262,12 +264,36 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250477",
+            "title": "Emirates Red vs Sharjah (Emirates D20, 2026)",
+            "match_name": "Emirates Red vs Sharjah",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250477_53130_EMR_SHA_fc-web.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Sharjah",
+            "startTime": "10:00:00 PM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250215",
+            "title": "Al-Taawoun FC vs Al-Qadsiah FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Taawoun FC vs Al-Qadsiah FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png",
+            "team_1": "Al-Taawoun FC",
+            "team_2": "Al-Qadsiah FC",
+            "startTime": "08:40:00 PM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249608",
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
             "match_name": "ATP 250 - Almaty Open 2026",
             "event_name": "ATP 250 - Almaty Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
             "team_1": "ATP 250 - Almaty Open 2026",
             "team_2": "Almaty, Kazakhstan",
             "startTime": "03:30:00 PM 20-10-2026"
@@ -295,30 +321,6 @@
             "team_1": "ATP 250 - BNP Paribas Fortis European Open",
             "team_2": "Brussels, Belgium",
             "startTime": "03:30:00 PM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250215",
-            "title": "Al-Taawoun FC vs Al-Qadsiah FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Taawoun FC vs Al-Qadsiah FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png",
-            "team_1": "Al-Taawoun FC",
-            "team_2": "Al-Qadsiah FC",
-            "startTime": "08:40:00 PM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250477",
-            "title": "Emirates Red vs Sharjah (Emirates D20, 2026)",
-            "match_name": "Emirates Red vs Sharjah",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Sharjah",
-            "startTime": "10:00:00 PM 20-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -411,7 +413,7 @@
             "title": "Emirates Blues vs Dubai (Emirates D20, 2026)",
             "match_name": "Emirates Blues vs Dubai",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web.jpg",
             "team_1": "Emirates Blues",
             "team_2": "Dubai",
             "startTime": "06:00:00 PM 21-10-2026"
@@ -447,7 +449,7 @@
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
             "match_name": "ATP 250 - Almaty Open 2026",
             "event_name": "ATP 250 - Almaty Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
             "team_1": "ATP 250 - Almaty Open 2026",
             "team_2": "Almaty, Kazakhstan",
             "startTime": "03:30:00 PM 21-10-2026"
@@ -483,7 +485,7 @@
             "title": "Ajman vs Abu Dhabi (Emirates D20, 2026)",
             "match_name": "Ajman vs Abu Dhabi",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web.jpg",
             "team_1": "Ajman",
             "team_2": "Abu Dhabi",
             "startTime": "10:00:00 PM 21-10-2026"
