@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:29:35 AM 19-10-2026",
+    "last_update_time": "07:34:36 AM 19-10-2026",
     "total_matches": 40,
-    "live_match": 1,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -20,16 +20,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249665/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249666",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Queensland",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "South Australia vs Queensland [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
             "team_1": "South Australia",
             "team_2": "Queensland",
-            "startTime": "05:30:00 AM 19-10-2026"
+            "startTime": "05:30:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249666/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -153,6 +154,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249803",
+            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "09:00:00 AM 20-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249607",
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -186,18 +199,6 @@
             "team_1": "ATP 250 - BNP Paribas Fortis European Open",
             "team_2": "Brussels, Belgium",
             "startTime": "03:30:00 PM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249803",
-            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
-            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sydney Thunder Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "09:00:00 AM 20-10-2026"
         },
         {
             "status": "UPCOMING",
