@@ -2,18 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:51:46 PM 19-10-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 02:22:28 AM 20-10-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249695/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250474_53130_SHA_DUB_fc-web_1792412930123.jpg" group-title="Cricket",Sharjah vs Dubai [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250474/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249607/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249621/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249614/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250475_53130_EMR_ABD_fc-web_1792412929308.jpg" group-title="Cricket",Emirates Red vs Abu Dhabi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250475/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250214_53025_AHS_HAZ_FC-Web.png" group-title="Football",Al Hilal SFC vs Al-Hazem FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250214/index.m3u8
