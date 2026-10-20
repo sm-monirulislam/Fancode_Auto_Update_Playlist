@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:51:32 AM 20-10-2026",
+    "last_update_time": "09:31:15 AM 20-10-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
@@ -22,15 +22,41 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249802",
+            "match_id": "4249666",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "South Australia vs Queensland [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:30:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249666/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249667",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "New South Wales vs Western Australia [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "startTime": "08:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249803",
             "title": "T20 Spring Challenge, 2026 [English]",
-            "match_name": "Adelaide Strikers Women vs Perth Scorchers Women [English]",
+            "match_name": "Sydney Thunder Women vs Sydney Sixers Women [English]",
             "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Semifinal1web.png",
-            "team_1": "Adelaide Strikers Women",
-            "team_2": "Perth Scorchers Women",
-            "startTime": "04:30:00 AM 20-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249802/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "09:00:00 AM 20-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249803/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -55,30 +81,6 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249666",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:30:00 AM 19-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "New South Wales vs Western Australia (Sheffield Shield, 2026/27)",
-            "match_name": "New South Wales vs Western Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "startTime": "08:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -115,18 +117,6 @@
             "team_1": "Emirates Red",
             "team_2": "Sharjah",
             "startTime": "10:00:00 PM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249803",
-            "title": "Sydney Thunder Women vs Sydney Sixers Women (T20 Spring Challenge, 2026)",
-            "match_name": "Sydney Thunder Women vs Sydney Sixers Women",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sydney Thunder Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "09:00:00 AM 20-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -214,6 +204,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249804",
+            "title": "TBC vs TBC (T20 Spring Challenge, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "08:30:00 AM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250336",
+            "title": "Kenya vs Denmark (ICC CWC Challenge League A 2026)",
+            "match_name": "Kenya vs Denmark",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Kenya",
+            "team_2": "Denmark",
+            "startTime": "12:00:00 PM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249608",
             "title": "Day 2 - World Feed vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -247,30 +261,6 @@
             "team_1": "Day 2 - World Feed",
             "team_2": "Lyon, France",
             "startTime": "05:30:00 PM 20-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249804",
-            "title": "TBC vs TBC (T20 Spring Challenge, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "08:30:00 AM 21-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250336",
-            "title": "Kenya vs Denmark (ICC CWC Challenge League A 2026)",
-            "match_name": "Kenya vs Denmark",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Kenya",
-            "team_2": "Denmark",
-            "startTime": "12:00:00 PM 21-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -322,18 +312,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250153",
-            "title": "Court 1 - Round 32 vs France (BWF Super 750 - French Open 2026)",
-            "match_name": "Court 1 - Round 32",
-            "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
-            "team_1": "Court 1 - Round 32",
-            "team_2": "France",
-            "startTime": "01:30:00 PM 21-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249759",
             "title": "Zambia vs Nigeria (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
@@ -343,6 +321,18 @@
             "team_1": "Zambia",
             "team_2": "Nigeria",
             "startTime": "06:30:00 PM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250153",
+            "title": "Court 1 - Round 32 vs France (BWF Super 750 - French Open 2026)",
+            "match_name": "Court 1 - Round 32",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+            "team_1": "Court 1 - Round 32",
+            "team_2": "France",
+            "startTime": "01:30:00 PM 21-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +476,18 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
             "team_1": "ATP 250 - Almaty Open 2026",
             "team_2": "Almaty, Kazakhstan",
+            "startTime": "03:30:00 PM 22-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249617",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "team_2": "Lyon, France",
             "startTime": "03:30:00 PM 22-10-2026"
         }
     ]
