@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:12:41 PM 21-10-2026",
+    "last_update_time": "10:02:36 PM 21-10-2026",
     "total_matches": 40,
     "live_match": 8,
     "matches": [
@@ -22,54 +22,41 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250336",
-            "title": "ICC CWC Challenge League A 2026 [English]",
-            "match_name": "Kenya vs Denmark [English]",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Kenya",
-            "team_2": "Denmark",
-            "startTime": "12:15:00 PM 21-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250336/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
             "match_id": "4249696",
             "title": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026 [English]",
-            "match_name": "Afghanistan vs Bangladesh [English]",
+            "match_name": "Bangladesh vs Afghanistan [English]",
             "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249696_53089_AFG_BAN_FC-WEB_1792056448070.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
+            "team_1": "Bangladesh",
+            "team_2": "Afghanistan",
             "startTime": "05:00:00 PM 21-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249696/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249757",
-            "title": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]",
-            "match_name": "Mozambique vs Gambia [English]",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249757_53093_MOZ_GAM_FC-Web_1792493253316.png",
-            "team_1": "Mozambique",
-            "team_2": "Gambia",
-            "startTime": "02:00:00 PM 21-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249757/index.m3u8"
+            "match_id": "4250478",
+            "title": "Emirates D20, 2026 [English]",
+            "match_name": "Dubai vs Emirates Blues [English]",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg",
+            "team_1": "Dubai",
+            "team_2": "Emirates Blues",
+            "startTime": "06:00:00 PM 21-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250478/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4249758",
+            "match_id": "4249759",
             "title": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]",
-            "match_name": "Lesotho vs Uganda [English]",
+            "match_name": "Zambia vs Nigeria [English]",
             "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249758_53093_LES_UGA_FC-Web_1792493252675.png",
-            "team_1": "Lesotho",
-            "team_2": "Uganda",
-            "startTime": "02:00:00 PM 21-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249758/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png",
+            "team_1": "Zambia",
+            "team_2": "Nigeria",
+            "startTime": "06:20:00 PM 21-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249759/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -89,10 +76,10 @@
             "event_category": "Badminton",
             "match_id": "4250153",
             "title": "BWF Super 750 - French Open 2026 [English]",
-            "match_name": "S Katethong vs PV Sindhu [English]",
+            "match_name": "Court 1 - Round 32 [English]",
             "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Katethong-vs-PV-Sindhu_FC-App-V2_FC-WEB.jpg",
-            "team_1": "S Katethong vs PV Sindhu",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+            "team_1": "Court 1 - Round 32",
             "team_2": "France",
             "startTime": "01:30:00 PM 21-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250153/index.m3u8"
@@ -109,6 +96,31 @@
             "team_2": "Brussels, Belgium",
             "startTime": "03:30:00 PM 21-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249623/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4249616",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
+            "match_name": "Day 3 - World Feed [English]",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Lyon, France",
+            "startTime": "05:30:00 PM 21-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249616/index.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250479",
+            "title": "Ajman vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Ajman vs Abu Dhabi",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg",
+            "team_1": "Ajman",
+            "team_2": "Abu Dhabi",
+            "startTime": "10:00:00 PM 21-10-2026"
         },
         {
             "status": "PAUSED",
@@ -133,30 +145,6 @@
             "team_1": "New South Wales",
             "team_2": "Western Australia",
             "startTime": "08:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250478",
-            "title": "Emirates Blues vs Dubai (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
-            "startTime": "06:00:00 PM 21-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250479",
-            "title": "Ajman vs Abu Dhabi (Emirates D20, 2026)",
-            "match_name": "Ajman vs Abu Dhabi",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
-            "startTime": "10:00:00 PM 21-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -209,14 +197,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249759",
-            "title": "Zambia vs Nigeria (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
-            "match_name": "Zambia vs Nigeria",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png",
-            "team_1": "Zambia",
-            "team_2": "Nigeria",
-            "startTime": "06:20:00 PM 21-10-2026"
+            "match_id": "4250480",
+            "title": "Emirates Red vs Dubai (Emirates D20, 2026)",
+            "match_name": "Emirates Red vs Dubai",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Dubai",
+            "startTime": "06:00:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -245,30 +233,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250480",
-            "title": "Emirates Red vs Dubai (Emirates D20, 2026)",
-            "match_name": "Emirates Red vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "startTime": "06:00:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249616",
-            "title": "Day 3 - World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Lyon, France",
-            "startTime": "05:30:00 PM 21-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250481",
             "title": "Sharjah vs Abu Dhabi (Emirates D20, 2026)",
             "match_name": "Sharjah vs Abu Dhabi",
@@ -289,6 +253,18 @@
             "team_1": "Al-Fateh SC",
             "team_2": "Al-Shabab FC",
             "startTime": "08:15:00 PM 22-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250219",
+            "title": "Al-Ahli Saudi FC vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ahli Saudi FC vs Al Khaleej FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al Khaleej FC",
+            "startTime": "11:30:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -349,18 +325,6 @@
             "team_1": "Court 2 - Round 16",
             "team_2": "France",
             "startTime": "03:30:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250219",
-            "title": "Al-Ahli Saudi FC vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ahli Saudi FC vs Al Khaleej FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al Khaleej FC",
-            "startTime": "11:30:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -493,6 +457,42 @@
             "team_1": "Gambia",
             "team_2": "Uganda",
             "startTime": "06:20:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249840",
+            "title": "Brisbane Roar vs Perth Glory (A-League 2026-27)",
+            "match_name": "Brisbane Roar vs Perth Glory",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Perth Glory",
+            "startTime": "02:30:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250266",
+            "title": "Al Faisaly Saudi vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Faisaly Saudi vs Al-Nassr FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png",
+            "team_1": "Al Faisaly Saudi",
+            "team_2": "Al-Nassr FC",
+            "startTime": "07:00:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249611",
+            "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
+            "match_name": "ATP 250 - Almaty Open 2026",
+            "event_name": "ATP 250 - Almaty Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
+            "team_1": "ATP 250 - Almaty Open 2026",
+            "team_2": "Almaty, Kazakhstan",
+            "startTime": "03:30:00 PM 23-10-2026"
         }
     ]
 }
