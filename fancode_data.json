@@ -2,49 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:17:54 AM 22-10-2026",
-    "total_matches": 39,
-    "live_match": 3,
+    "last_update_time": "05:31:14 AM 22-10-2026",
+    "total_matches": 40,
+    "live_match": 0,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250479",
-            "title": "Emirates D20, 2026 [English]",
-            "match_name": "Ajman vs Abu Dhabi [English]",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
-            "startTime": "10:00:00 PM 21-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250479/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4249805",
-            "title": "League One 2026-27 [English]",
-            "match_name": "Reading vs Leyton Orient [English]",
-            "event_name": "League One 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Reading",
-            "team_2": "Leyton Orient",
-            "startTime": "12:30:00 AM 22-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249805/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4249616",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
-            "match_name": "Day 3 - World Feed [English]",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Lyon, France",
-            "startTime": "05:30:00 PM 21-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249616/index.m3u8"
-        },
         {
             "status": "PAUSED",
             "event_category": "Cricket",
@@ -476,6 +437,54 @@
             "team_1": "Deportivo Alaves",
             "team_2": "Malaga",
             "startTime": "12:30:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249597",
+            "title": "Bolton Wanderers vs Middlesbrough F.C. (EFL Championship 2026-27)",
+            "match_name": "Bolton Wanderers vs Middlesbrough F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249597_52993_BOL_MIDD_fc-web.jpg",
+            "team_1": "Bolton Wanderers",
+            "team_2": "Middlesbrough F.C.",
+            "startTime": "12:30:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250107",
+            "title": "Granada vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "match_name": "Granada vs Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png",
+            "team_1": "Granada",
+            "team_2": "Real Valladolid",
+            "startTime": "12:00:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250352",
+            "title": "Day 2 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "startTime": "09:30:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249285",
+            "title": "Tasmania vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 24-10-2026"
         }
     ]
 }
