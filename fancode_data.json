@@ -2,22 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:07:23 AM 21-10-2026",
+    "last_update_time": "06:45:40 AM 21-10-2026",
     "total_matches": 40,
-    "live_match": 1,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4249615",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
-            "match_name": "Day 2 - World Feed [English]",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Lyon, France",
-            "startTime": "05:30:00 PM 20-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249615/index.m3u8"
+            "event_category": "Cricket",
+            "match_id": "4249665",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs Victoria [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249665/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249666",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "South Australia vs Queensland [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "startTime": "05:30:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249666/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -30,30 +43,6 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249666",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "startTime": "05:30:00 AM 19-10-2026"
         },
         {
             "status": "PAUSED",
@@ -94,18 +83,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250336",
-            "title": "Kenya vs Denmark (ICC CWC Challenge League A 2026)",
-            "match_name": "Kenya vs Denmark",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Kenya",
-            "team_2": "Denmark",
-            "startTime": "12:15:00 PM 21-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250479",
             "title": "Ajman vs Abu Dhabi (Emirates D20, 2026)",
             "match_name": "Ajman vs Abu Dhabi",
@@ -114,6 +91,18 @@
             "team_1": "Ajman",
             "team_2": "Abu Dhabi",
             "startTime": "10:00:00 PM 21-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250336",
+            "title": "Kenya vs Denmark (ICC CWC Challenge League A 2026)",
+            "match_name": "Kenya vs Denmark",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+            "team_1": "Kenya",
+            "team_2": "Denmark",
+            "startTime": "12:15:00 PM 21-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -309,6 +298,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250218",
+            "title": "Al-Fateh SC vs Al-Shabab FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Fateh SC vs Al-Shabab FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250218_53025_AFF_ASF_FC-Web.png",
+            "team_1": "Al-Fateh SC",
+            "team_2": "Al-Shabab FC",
+            "startTime": "08:15:00 PM 22-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249610",
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -366,18 +367,6 @@
             "team_1": "Court 2 - Round 16",
             "team_2": "France",
             "startTime": "03:30:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250218",
-            "title": "Al-Fateh SC vs Al-Shabab FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Fateh SC vs Al-Shabab FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250218_53025_AFF_ASF_FC-Web.png",
-            "team_1": "Al-Fateh SC",
-            "team_2": "Al-Shabab FC",
-            "startTime": "08:15:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -484,6 +473,18 @@
             "event_name": "BWF Super 750 - French Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
             "team_1": "Court 1 - QF",
+            "team_2": "France",
+            "startTime": "01:00:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250157",
+            "title": "Court 2 - QF vs France (BWF Super 750 - French Open 2026)",
+            "match_name": "Court 2 - QF",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+            "team_1": "Court 2 - QF",
             "team_2": "France",
             "startTime": "01:00:00 PM 23-10-2026"
         }
