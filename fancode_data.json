@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:50:08 PM 22-10-2026",
+    "last_update_time": "08:21:29 PM 22-10-2026",
     "total_matches": 40,
-    "live_match": 7,
+    "live_match": 9,
     "matches": [
         {
             "status": "LIVE",
@@ -18,32 +18,6 @@
             "team_2": "Australia",
             "startTime": "01:30:00 PM 18-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "Sheffield Shield, 2026/27 [English]",
-            "match_name": "New South Wales vs Western Australia [English]",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "startTime": "08:00:00 AM 19-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250337",
-            "title": "ICC CWC Challenge League A 2026 [English]",
-            "match_name": "Jersey vs Papua New Guinea [English]",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Jersey",
-            "team_2": "Papua New Guinea",
-            "startTime": "12:15:00 PM 22-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250337/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -74,15 +48,15 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250163",
-            "title": "New Zealand Women tour of Australia, 2026 [English]",
-            "match_name": "Australia Women vs New Zealand Women [English]",
-            "event_name": "New Zealand Women tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png",
-            "team_1": "Australia Women",
-            "team_2": "New Zealand Women",
-            "startTime": "01:45:00 PM 22-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250163/index.m3u8"
+            "match_id": "4250480",
+            "title": "Emirates D20, 2026 [English]",
+            "match_name": "Dubai vs Emirates Red [English]",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
+            "team_1": "Dubai",
+            "team_2": "Emirates Red",
+            "startTime": "06:00:00 PM 22-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250480/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,16 +72,56 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249610/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250480",
-            "title": "Emirates Red vs Dubai (Emirates D20, 2026)",
-            "match_name": "Emirates Red vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "startTime": "06:00:00 PM 22-10-2026"
+            "status": "LIVE",
+            "event_category": "Badminton",
+            "match_id": "4250154",
+            "title": "BWF Super 750 - French Open 2026 [English]",
+            "match_name": "Court 1 - Round 16 [English]",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+            "team_1": "Court 1 - Round 16",
+            "team_2": "France",
+            "startTime": "03:30:00 PM 22-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250154/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Badminton",
+            "match_id": "4250155",
+            "title": "BWF Super 750 - French Open 2026 [English]",
+            "match_name": "Court 2 - Round 16 [English]",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/R_Gunji_PV_Sindhu_FC-App-V2_FC-WEB.jpg",
+            "team_1": "Court 2 - Round 16",
+            "team_2": "France",
+            "startTime": "03:30:00 PM 22-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250155/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4249624",
+            "title": "ATP 250 - BNP Paribas Fortis European Open [English]",
+            "match_name": "Day 4 - World Feed [English]",
+            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Brussels, Belgium",
+            "startTime": "04:00:00 PM 22-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249624/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4249617",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
+            "match_name": "Day 4 - World Feed [English]",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Lyon, France",
+            "startTime": "05:30:00 PM 22-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249617/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -135,18 +149,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250219",
-            "title": "Al-Ahli Saudi FC vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ahli Saudi FC vs Al Khaleej FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al Khaleej FC",
-            "startTime": "11:30:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249697",
             "title": "Afghanistan vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
@@ -156,6 +158,18 @@
             "team_1": "Afghanistan",
             "team_2": "Zimbabwe",
             "startTime": "05:00:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250482",
+            "title": "Ajman vs Sharjah (Emirates D20, 2026)",
+            "match_name": "Ajman vs Sharjah",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250482_53130_AJM_SHA_fc-web_1792412929295.jpg",
+            "team_1": "Ajman",
+            "team_2": "Sharjah",
+            "startTime": "06:00:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -184,62 +198,50 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250482",
-            "title": "Ajman vs Sharjah (Emirates D20, 2026)",
-            "match_name": "Ajman vs Sharjah",
+            "match_id": "4250483",
+            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Emirates Blues vs Abu Dhabi",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250482_53130_AJM_SHA_fc-web_1792412929295.jpg",
-            "team_1": "Ajman",
-            "team_2": "Sharjah",
-            "startTime": "06:00:00 PM 23-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Abu Dhabi",
+            "startTime": "10:00:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250154",
-            "title": "Court 1 - Round 16 vs France (BWF Super 750 - French Open 2026)",
-            "match_name": "Court 1 - Round 16",
-            "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-            "team_1": "Court 1 - Round 16",
-            "team_2": "France",
-            "startTime": "03:30:00 PM 22-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4249762",
+            "title": "Gambia vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
+            "match_name": "Gambia vs Uganda",
+            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249762_53093_GAM_UGA_FC-Web_1792493253257.png",
+            "team_1": "Gambia",
+            "team_2": "Uganda",
+            "startTime": "06:20:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250155",
-            "title": "Court 2 - Round 16 vs France (BWF Super 750 - French Open 2026)",
-            "match_name": "Court 2 - Round 16",
-            "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-            "team_1": "Court 2 - Round 16",
-            "team_2": "France",
-            "startTime": "03:30:00 PM 22-10-2026"
+            "event_category": "Football",
+            "match_id": "4250266",
+            "title": "Al Faisaly Saudi vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Faisaly Saudi vs Al-Nassr FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png",
+            "team_1": "Al Faisaly Saudi",
+            "team_2": "Al-Nassr FC",
+            "startTime": "07:00:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249624",
-            "title": "Day 4 - World Feed vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Brussels, Belgium",
-            "startTime": "04:00:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249617",
-            "title": "Day 4 - World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Lyon, France",
-            "startTime": "05:30:00 PM 22-10-2026"
+            "event_category": "Football",
+            "match_id": "4250267",
+            "title": "Al-Ittihad vs Diriyah (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ittihad vs Diriyah",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Diriyah",
+            "startTime": "09:00:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -291,39 +293,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249762",
-            "title": "Gambia vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
-            "match_name": "Gambia vs Uganda",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249762_53093_GAM_UGA_FC-Web_1792493253257.png",
-            "team_1": "Gambia",
-            "team_2": "Uganda",
-            "startTime": "06:20:00 PM 23-10-2026"
+            "event_category": "Football",
+            "match_id": "4250219",
+            "title": "Al-Ahli Saudi FC vs Al Khaleej FC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Ahli Saudi FC vs Al Khaleej FC",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al Khaleej FC",
+            "startTime": "11:30:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4250266",
-            "title": "Al Faisaly Saudi vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Faisaly Saudi vs Al-Nassr FC",
+            "match_id": "4250268",
+            "title": "Al-Qadsiah FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Qadsiah FC vs Al Hilal SFC",
             "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png",
-            "team_1": "Al Faisaly Saudi",
-            "team_2": "Al-Nassr FC",
-            "startTime": "07:00:00 PM 23-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250483",
-            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Abu Dhabi",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Abu Dhabi",
-            "startTime": "10:00:00 PM 23-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Al Hilal SFC",
+            "startTime": "11:30:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -348,18 +338,6 @@
             "team_1": "Court 2 - QF",
             "team_2": "France",
             "startTime": "01:00:00 PM 23-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250267",
-            "title": "Al-Ittihad vs Diriyah (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Ittihad vs Diriyah",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Diriyah",
-            "startTime": "09:00:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -412,18 +390,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4250268",
-            "title": "Al-Qadsiah FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Qadsiah FC vs Al Hilal SFC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png",
-            "team_1": "Al-Qadsiah FC",
-            "team_2": "Al Hilal SFC",
-            "startTime": "11:30:00 PM 23-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247660",
             "title": "Deportivo Alaves vs Malaga (LALIGA 2026-27)",
             "match_name": "Deportivo Alaves vs Malaga",
@@ -459,18 +425,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4250352",
-            "title": "Day 2 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Butterfield Bermuda Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "startTime": "09:30:00 PM 23-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4249285",
             "title": "Tasmania vs Victoria (One Day Cup, 2026/27)",
@@ -483,6 +437,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250352",
+            "title": "Day 2 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "startTime": "09:30:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Formula 1",
             "match_id": "139502",
             "title": "Practice 1 vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
@@ -492,6 +458,42 @@
             "team_1": "Practice 1",
             "team_2": "Circuit of the Americas",
             "startTime": "11:00:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139503",
+            "title": "Practice 2 vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+            "team_1": "Practice 2",
+            "team_2": "Circuit of the Americas",
+            "startTime": "02:30:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139979",
+            "title": "Day 2 vs Phillip Island (GRAND PRIX OF AUSTRALIA 2026)",
+            "match_name": "Day 2",
+            "event_name": "GRAND PRIX OF AUSTRALIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Phillip Island",
+            "startTime": "03:10:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4250507",
+            "title": "Opening Race vs Austin (F1 ACADEMY AUSTIN 2026)",
+            "match_name": "Opening Race",
+            "event_name": "F1 ACADEMY AUSTIN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Opening Race",
+            "team_2": "Austin",
+            "startTime": "04:20:00 AM 24-10-2026"
         }
     ]
 }
