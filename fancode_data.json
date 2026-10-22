@@ -2,10 +2,36 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:31:14 AM 22-10-2026",
+    "last_update_time": "09:24:35 AM 22-10-2026",
     "total_matches": 40,
-    "live_match": 0,
+    "live_match": 2,
     "matches": [
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249665",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs Victoria [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249665/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4249667",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "New South Wales vs Western Australia [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "startTime": "08:00:00 AM 19-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8"
+        },
         {
             "status": "PAUSED",
             "event_category": "Cricket",
@@ -17,30 +43,6 @@
             "team_1": "South Africa",
             "team_2": "Australia",
             "startTime": "01:30:00 PM 18-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249665",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 19-10-2026"
-        },
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249667",
-            "title": "New South Wales vs Western Australia (Sheffield Shield, 2026/27)",
-            "match_name": "New South Wales vs Western Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "startTime": "08:00:00 AM 19-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -142,37 +144,13 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249610",
-            "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
-            "match_name": "ATP 250 - Almaty Open 2026",
+            "title": "Day 4 - World Feed vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
+            "match_name": "Day 4 - World Feed",
             "event_name": "ATP 250 - Almaty Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
-            "team_1": "ATP 250 - Almaty Open 2026",
+            "team_1": "Day 4 - World Feed",
             "team_2": "Almaty, Kazakhstan",
-            "startTime": "03:30:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249617",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "team_2": "Lyon, France",
-            "startTime": "03:30:00 PM 22-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249624",
-            "title": "ATP 250 - BNP Paribas Fortis European Open vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
-            "match_name": "ATP 250 - BNP Paribas Fortis European Open",
-            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-            "team_1": "ATP 250 - BNP Paribas Fortis European Open",
-            "team_2": "Brussels, Belgium",
-            "startTime": "03:30:00 PM 22-10-2026"
+            "startTime": "12:00:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -197,6 +175,30 @@
             "team_1": "Court 2 - Round 16",
             "team_2": "France",
             "startTime": "03:30:00 PM 22-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249624",
+            "title": "Day 4 - World Feed vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Brussels, Belgium",
+            "startTime": "04:00:00 PM 22-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249617",
+            "title": "Day 4 - World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Lyon, France",
+            "startTime": "05:30:00 PM 22-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -277,7 +279,7 @@
             "title": "Afghanistan vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
             "match_name": "Afghanistan vs Zimbabwe",
             "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg",
             "team_1": "Afghanistan",
             "team_2": "Zimbabwe",
             "startTime": "05:00:00 PM 23-10-2026"
@@ -293,6 +295,18 @@
             "team_1": "Ajman",
             "team_2": "Sharjah",
             "startTime": "06:00:00 PM 23-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249762",
+            "title": "Gambia vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
+            "match_name": "Gambia vs Uganda",
+            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249762_53093_GAM_UGA_FC-Web_1792493253257.png",
+            "team_1": "Gambia",
+            "team_2": "Uganda",
+            "startTime": "06:20:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -317,18 +331,6 @@
             "team_1": "Court 2 - QF",
             "team_2": "France",
             "startTime": "01:00:00 PM 23-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249762",
-            "title": "Gambia vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
-            "match_name": "Gambia vs Uganda",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249762_53093_GAM_UGA_FC-Web_1792493253257.png",
-            "team_1": "Gambia",
-            "team_2": "Uganda",
-            "startTime": "06:20:00 PM 23-10-2026"
         },
         {
             "status": "UPCOMING",
