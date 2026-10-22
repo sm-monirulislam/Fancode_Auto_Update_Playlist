@@ -2,14 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:42:22 AM 23-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 04:06:38 AM 23-10-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250481_53130_SHA_ABD_fc-web_1792412929288.jpg" group-title="Cricket",Abu Dhabi vs Sharjah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250481/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - Round 16 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250154/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 4 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249617/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Golf",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250351/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139978/index.m3u8
