@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:06:38 AM 23-10-2026",
-    "total_matches": 39,
+    "last_update_time": "06:49:02 AM 23-10-2026",
+    "total_matches": 40,
     "live_match": 1,
     "matches": [
         {
@@ -105,6 +105,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249285",
+            "title": "Tasmania vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "Tasmania vs Victoria",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "startTime": "05:00:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4250267",
             "title": "Al-Ittihad vs Diriyah (Roshn Saudi League 2026-2027)",
@@ -141,18 +153,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249285",
-            "title": "Tasmania vs Victoria (One Day Cup, 2026/27)",
-            "match_name": "Tasmania vs Victoria",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "startTime": "05:00:00 AM 24-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247660",
             "title": "Deportivo Alaves vs Malaga (LALIGA 2026-27)",
@@ -186,6 +186,18 @@
             "team_1": "Granada",
             "team_2": "Real Valladolid",
             "startTime": "12:00:00 AM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4249282",
+            "title": "Western Australia vs New South Wales (One Day Cup, 2026/27)",
+            "match_name": "Western Australia vs New South Wales",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "startTime": "11:30:00 AM 24-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -261,6 +273,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250339",
+            "title": "Denmark vs Kuwait (ICC CWC Challenge League A 2026)",
+            "match_name": "Denmark vs Kuwait",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+            "team_1": "Denmark",
+            "team_2": "Kuwait",
+            "startTime": "12:15:00 PM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250340",
+            "title": "Qatar vs Kenya (ICC CWC Challenge League A 2026)",
+            "match_name": "Qatar vs Kenya",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+            "team_1": "Qatar",
+            "team_2": "Kenya",
+            "startTime": "12:15:00 PM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Golf",
             "match_id": "4250352",
             "title": "Day 2 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
@@ -286,38 +322,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4249282",
-            "title": "Western Australia vs New South Wales (One Day Cup, 2026/27)",
-            "match_name": "Western Australia vs New South Wales",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "startTime": "11:30:00 AM 24-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250339",
-            "title": "Denmark vs Kuwait (ICC CWC Challenge League A 2026)",
-            "match_name": "Denmark vs Kuwait",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Denmark",
-            "team_2": "Kuwait",
-            "startTime": "12:15:00 PM 24-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250340",
-            "title": "Qatar vs Kenya (ICC CWC Challenge League A 2026)",
-            "match_name": "Qatar vs Kenya",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Qatar",
-            "team_2": "Kenya",
-            "startTime": "12:15:00 PM 24-10-2026"
+            "match_id": "4250332",
+            "title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
+            "match_name": "Namibia vs Ireland",
+            "event_name": "Ireland tour of Namibia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Ireland",
+            "startTime": "01:30:00 PM 24-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -354,18 +366,6 @@
             "team_1": "Opening Race",
             "team_2": "Austin",
             "startTime": "04:20:00 AM 24-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250332",
-            "title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
-            "match_name": "Namibia vs Ireland",
-            "event_name": "Ireland tour of Namibia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Ireland",
-            "startTime": "01:30:00 PM 24-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -474,6 +474,18 @@
             "team_1": "Lesotho",
             "team_2": "Nigeria",
             "startTime": "06:20:00 PM 24-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249200",
+            "title": "Tottenham Hotspur Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Tottenham Hotspur Women vs Arsenal Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "Arsenal Women",
+            "startTime": "05:15:00 PM 24-10-2026"
         }
     ]
 }
