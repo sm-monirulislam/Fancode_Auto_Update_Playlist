@@ -2,22 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:47:25 AM 24-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 04:54:10 AM 24-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" group-title="Cricket",Abu Dhabi vs Emirates Blues [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250483/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png" group-title="Football",Al-Ahli Saudi FC vs Al Khaleej FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250219/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png" group-title="Football",Al-Qadsiah FC vs Al Hilal SFC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250268/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249597_52993_BOL_MIDD_fc-web.jpg" group-title="Football",Bolton Wanderers vs Middlesbrough F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249597/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png" group-title="Football",Granada vs Real Valladolid [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 5 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249618/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 5 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249625/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Golf",Day 2 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250352/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139979/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg" group-title="Motorsports",Opening Race [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250507/index.m3u8
