@@ -2,24 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:49:20 PM 23-10-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 01:47:25 AM 24-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" group-title="Cricket",Zimbabwe vs Afghanistan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249697/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250482_53130_AJM_SHA_fc-web_1792412929295.jpg" group-title="Cricket",Ajman vs Sharjah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250482/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png" group-title="Football",Al Faisaly Saudi vs Al-Nassr FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250266/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png" group-title="Football",Al-Ittihad vs Diriyah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250267/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 5 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249611/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - QF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250156/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 2 - QF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250157/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" group-title="Cricket",Abu Dhabi vs Emirates Blues [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250483/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png" group-title="Football",Al-Ahli Saudi FC vs Al Khaleej FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250219/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png" group-title="Football",Al-Qadsiah FC vs Al Hilal SFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250268/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249597_52993_BOL_MIDD_fc-web.jpg" group-title="Football",Bolton Wanderers vs Middlesbrough F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249597/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png" group-title="Football",Granada vs Real Valladolid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 5 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249618/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 5 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249625/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Golf",Day 2 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250352/index.m3u8
