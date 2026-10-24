@@ -2,14 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:13:11 PM 24-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 05:24:37 PM 24-10-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249285/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" group-title="Cricket",Western Australia vs New South Wales [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249282/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249841_53101_NJ_MAC_fc-Web_1792223292297.jpg" group-title="Football",Newcastle Jets vs Macarthur [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249841/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg" group-title="Football",Western Sydney Wanderers vs Auckland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249842/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Denmark vs Kuwait [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250339/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Qatar vs Kenya [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250340/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Namibia vs Ireland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250332/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Semi-Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250158/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 6 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249612/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg" group-title="Football",Charlton Athletic F.C vs Norwich City F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249598/index.m3u8
