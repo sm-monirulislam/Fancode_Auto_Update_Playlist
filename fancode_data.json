@@ -2,87 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:44:44 PM 24-10-2026",
-    "total_matches": 39,
-    "live_match": 9,
+    "last_update_time": "11:50:35 PM 24-10-2026",
+    "total_matches": 38,
+    "live_match": 5,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250332",
-            "title": "Ireland tour of Namibia, 2026 [English]",
-            "match_name": "Namibia vs Ireland [English]",
-            "event_name": "Ireland tour of Namibia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Ireland",
-            "startTime": "01:00:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250332/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250484",
+            "match_id": "4250485",
             "title": "Emirates D20, 2026 [English]",
-            "match_name": "Dubai vs Abu Dhabi [English]",
+            "match_name": "Emirates Red vs Ajman [English]",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg",
-            "team_1": "Dubai",
-            "team_2": "Abu Dhabi",
-            "startTime": "06:00:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250484/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249764",
-            "title": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]",
-            "match_name": "Gambia vs Zambia [English]",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249764_53093_GAM_ZAM_FC-Web_1792493252668.png",
-            "team_1": "Gambia",
-            "team_2": "Zambia",
-            "startTime": "06:20:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249764/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4249765",
-            "title": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]",
-            "match_name": "Lesotho vs Nigeria [English]",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249765_53093_LES_NGR_FC-Web_1792493253251.png",
-            "team_1": "Lesotho",
-            "team_2": "Nigeria",
-            "startTime": "06:20:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249765/index.m3u8"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Ajman",
+            "startTime": "10:00:00 PM 24-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250485/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4249599",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Preston North End F.C. vs West Bromwich Albion F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg",
-            "team_1": "Preston North End F.C.",
-            "team_2": "West Bromwich Albion F.C.",
-            "startTime": "07:30:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249599/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4250108",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Leganes vs RCD Mallorca [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "RCD Mallorca",
-            "startTime": "07:45:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250108/index.m3u8"
+            "match_id": "4249201",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Brighton and Hove Albion Women vs West Ham United Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "West Ham United Women",
+            "startTime": "09:45:00 PM 24-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249201/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -100,19 +48,6 @@
         {
             "status": "LIVE",
             "event_category": "Tennis",
-            "match_id": "4249619",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Lyon, France",
-            "startTime": "05:30:00 PM 24-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249619/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
             "match_id": "4249626",
             "title": "ATP 250 - BNP Paribas Fortis European Open [English]",
             "match_name": "Day 6 - World Feed [English]",
@@ -124,16 +59,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249626/index.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250485",
-            "title": "Emirates Red vs Ajman (Emirates D20, 2026)",
-            "match_name": "Emirates Red vs Ajman",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Ajman",
-            "startTime": "10:00:00 PM 24-10-2026"
+            "status": "LIVE",
+            "event_category": "Golf",
+            "match_id": "4250353",
+            "title": "Butterfield Bermuda Championship 2026 [English]",
+            "match_name": "Day 3 - World Feed [English]",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "startTime": "09:30:00 PM 24-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250353/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -173,15 +109,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247661",
-            "title": "Valencia CF vs Villarreal CF (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Villarreal CF",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247661_53004_VAL_VIL_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Villarreal CF",
-            "startTime": "10:00:00 PM 24-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250486",
+            "title": "Emirates Red vs Emirates Blues (Emirates D20, 2026)",
+            "match_name": "Emirates Red vs Emirates Blues",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Emirates Blues",
+            "startTime": "06:00:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -198,14 +134,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250486",
-            "title": "Emirates Red vs Emirates Blues (Emirates D20, 2026)",
-            "match_name": "Emirates Red vs Emirates Blues",
+            "match_id": "4250487",
+            "title": "Ajman vs Dubai (Emirates D20, 2026)",
+            "match_name": "Ajman vs Dubai",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Emirates Blues",
-            "startTime": "06:00:00 PM 25-10-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "startTime": "10:00:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -233,15 +169,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249201",
-            "title": "Brighton and Hove Albion Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Brighton and Hove Albion Women vs West Ham United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "West Ham United Women",
-            "startTime": "09:45:00 PM 24-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4249768",
+            "title": "Nigeria vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
+            "match_name": "Nigeria vs Uganda",
+            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
+            "team_1": "Nigeria",
+            "team_2": "Uganda",
+            "startTime": "06:20:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -254,30 +190,6 @@
             "team_1": "Almería",
             "team_2": "Real Oviedo",
             "startTime": "12:30:00 AM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250487",
-            "title": "Ajman vs Dubai (Emirates D20, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "startTime": "10:00:00 PM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249768",
-            "title": "Nigeria vs Uganda (ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026)",
-            "match_name": "Nigeria vs Uganda",
-            "event_name": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
-            "team_1": "Nigeria",
-            "team_2": "Uganda",
-            "startTime": "06:20:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -294,18 +206,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4249202",
-            "title": "Crystal Palace Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Crystal Palace Women vs Chelsea F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249202_53038_CP-W_CHE-W_fc-web.jpg",
-            "team_1": "Crystal Palace Women",
-            "team_2": "Chelsea F.C. Women",
-            "startTime": "05:30:00 PM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4247664",
             "title": "RC Celta vs Real Betis (LALIGA 2026-27)",
             "match_name": "RC Celta vs Real Betis",
@@ -314,6 +214,18 @@
             "team_1": "RC Celta",
             "team_2": "Real Betis",
             "startTime": "08:45:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249202",
+            "title": "Crystal Palace Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Crystal Palace Women vs Chelsea F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249202_53038_CP-W_CHE-W_fc-web.jpg",
+            "team_1": "Crystal Palace Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "05:30:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -365,27 +277,27 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4250353",
-            "title": "Day 3 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Butterfield Bermuda Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "startTime": "09:30:00 PM 24-10-2026"
+            "event_category": "Football",
+            "match_id": "4247663",
+            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
+            "match_name": "Real Sociedad vs Levante",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Levante",
+            "startTime": "11:00:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Formula 1",
-            "match_id": "139504",
-            "title": "Practice 3 vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
-            "match_name": "Practice 3",
-            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
-            "team_1": "Practice 3",
-            "team_2": "Circuit of the Americas",
-            "startTime": "11:00:00 PM 24-10-2026"
+            "event_category": "Football",
+            "match_id": "4247666",
+            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Real Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Madrid",
+            "startTime": "01:30:00 AM 26-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -398,6 +310,18 @@
             "team_1": "Qualifying",
             "team_2": "Circuit of the Americas",
             "startTime": "02:30:00 AM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249206",
+            "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Manchester City Women",
+            "startTime": "11:30:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -422,18 +346,6 @@
             "team_1": "Reverse Grid Race",
             "team_2": "Austin",
             "startTime": "04:30:00 AM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247663",
-            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Levante",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Levante",
-            "startTime": "11:00:00 PM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -478,10 +390,82 @@
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
             "match_name": "ATP 250 - Almaty Open 2026",
             "event_name": "ATP 250 - Almaty Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
             "team_1": "ATP 250 - Almaty Open 2026",
             "team_2": "Almaty, Kazakhstan",
             "startTime": "03:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249620",
+            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "team_2": "Lyon, France",
+            "startTime": "03:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249627",
+            "title": "ATP 250 - BNP Paribas Fortis European Open vs Brussels, Belgium (ATP 250 - BNP Paribas Fortis European Open)",
+            "match_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "event_name": "ATP 250 - BNP Paribas Fortis European Open",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+            "team_1": "ATP 250 - BNP Paribas Fortis European Open",
+            "team_2": "Brussels, Belgium",
+            "startTime": "03:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250159",
+            "title": "Finals vs France (BWF Super 750 - French Open 2026)",
+            "match_name": "Finals",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+            "team_1": "Finals",
+            "team_2": "France",
+            "startTime": "03:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250354",
+            "title": "Day 4 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "startTime": "09:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "139699",
+            "title": "Feature Race vs Austin (F1 ACADEMY AUSTIN 2026)",
+            "match_name": "Feature Race",
+            "event_name": "F1 ACADEMY AUSTIN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Austin",
+            "startTime": "10:30:00 PM 25-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139506",
+            "title": "Race vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
+            "match_name": "Race",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+            "team_1": "Race",
+            "team_2": "Circuit of the Americas",
+            "startTime": "01:30:00 AM 26-10-2026"
         }
     ]
 }
