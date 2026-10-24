@@ -2,10 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:22:20 AM 24-10-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 12:13:11 PM 24-10-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249285/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139979/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" group-title="Cricket",Western Australia vs New South Wales [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249282/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249841_53101_NJ_MAC_fc-Web_1792223292297.jpg" group-title="Football",Newcastle Jets vs Macarthur [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249841/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg" group-title="Football",Western Sydney Wanderers vs Auckland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249842/index.m3u8
