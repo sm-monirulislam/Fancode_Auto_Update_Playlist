@@ -2,12 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:42:20 AM 25-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:46:45 PM 25-10-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250516/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg" group-title="Football",Sydney FC vs Adelaide United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249845/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Kenya [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250341/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Denmark vs Papua New Guinea [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250342/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png" group-title="Cricket",Gambia vs Lesotho [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249766/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png" group-title="Cricket",Zambia vs Mozambique [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249767/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png" group-title="Motorsports",Race Day [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250528/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 7 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249613/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg" group-title="Badminton",Young vs PV Sindhu [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250159/index.m3u8
