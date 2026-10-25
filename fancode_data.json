@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "04:38:27 AM 25-10-2026",
+    "last_update_time": "06:50:41 AM 25-10-2026",
     "total_matches": 40,
     "live_match": 1,
     "matches": [
@@ -154,6 +154,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247666",
+            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Real Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Madrid",
+            "startTime": "01:30:00 AM 26-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4249202",
             "title": "Crystal Palace Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
             "match_name": "Crystal Palace Women vs Chelsea F.C. Women",
@@ -162,18 +174,6 @@
             "team_1": "Crystal Palace Women",
             "team_2": "Chelsea F.C. Women",
             "startTime": "05:30:00 PM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Motorsports",
-            "match_id": "139698",
-            "title": "Reverse Grid Race vs Austin (F1 ACADEMY AUSTIN 2026)",
-            "match_name": "Reverse Grid Race",
-            "event_name": "F1 ACADEMY AUSTIN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
-            "team_1": "Reverse Grid Race",
-            "team_2": "Austin",
-            "startTime": "04:30:00 AM 25-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -222,18 +222,6 @@
             "team_1": "Liverpool Women",
             "team_2": "London City Lionesses",
             "startTime": "07:30:00 PM 25-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247666",
-            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Real Madrid",
-            "startTime": "01:30:00 AM 26-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -479,6 +467,18 @@
             "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4249642",
+            "title": "ATP 500 - Swiss Indoors Basel 2026 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "ATP 500 - Swiss Indoors Basel 2026",
+            "team_2": "Basel, Switzerland",
+            "startTime": "03:30:00 PM 26-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4249649",
             "title": "ATP 500 - Swiss Indoors Basel 2026 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
             "match_name": "ATP 500 - Swiss Indoors Basel 2026",
             "event_name": "ATP 500 - Swiss Indoors Basel 2026",
