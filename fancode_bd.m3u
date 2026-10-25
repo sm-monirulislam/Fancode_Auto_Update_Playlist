@@ -2,12 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:08:53 AM 26-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 03:04:45 AM 26-10-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg" group-title="Cricket",Dubai vs Ajman [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250487/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 7 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249627/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Golf",Day 4 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250354/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png" group-title="Formula 1",Race [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/139506/index.m3u8
