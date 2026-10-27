@@ -2,22 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:57:16 PM 27-10-2026 (BD Time)
+# Last Updated: 02:30:43 AM 28-10-2026 (BD Time)
 # Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249769/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248718_53053_SAA_ESG_fc-web.jpg" group-title="Football",Shabab Al Ahli vs Esteghlal FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248718/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248991_53057_ALS_EBFC_fc-web_1789025066274.jpg" group-title="Football",Al Seeb Club vs East Bengal FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248991/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249636/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248719_53053_ALS_AHS_fc-web_1792675117387.jpg" group-title="Football",Al Shamal vs Al Hilal SFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248719/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248992_53057_SHR_HUS_fc-web_1789025066785.jpg" group-title="Football",Al Shorta vs Al Hussein [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248992/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg" group-title="Football",Borussia Dortmund vs SV Werder Bremen [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249991/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg" group-title="Football",Fleetwood Town vs Arsenal [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249711/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249650/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Karen-Khachanov-Open-Web-match-card.png" group-title="Tennis",C. Alcaraz vs K. Khachanov [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Martin-Landaluce-Open-web-match-card.png" group-title="Tennis",A. Zverev vs M. Landaluce [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249629/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249643/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Centre Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250580/index.m3u8
