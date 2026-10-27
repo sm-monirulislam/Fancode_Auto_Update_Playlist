@@ -2,28 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:12:31 PM 27-10-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 09:57:16 PM 27-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Netherlands vs Oman [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250517/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Papua New Guinea vs Qatar [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250343/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Kuwait [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250344/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg" group-title="Cricket",Chitwan Rhinos vs Biratnagar Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250356/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Namibia vs Ireland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250333/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250533_53137_HH_CC_FC-Web.png" group-title="Cricket",Haryana Hustlers vs Chandigarh Chargers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250533/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248720_53053_SHG_CAH_fc-web.jpg" group-title="Football",Shanghai Port vs Cong An Ha Noi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248721_53053_JDT_PFC_fc-web.jpg" group-title="Football",Johor Darul Ta'zim vs Port FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248721/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248722_53053_DAC_VIS_fc-web.jpg" group-title="Football",Daejeon Hana Citizen FC vs Vissel Kobe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248722/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248723_53053_KYS_NJ_fc-web.jpg" group-title="Football",Kyoto Sanga vs Newcastle Jets [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248723/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249769/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248718_53053_SAA_ESG_fc-web.jpg" group-title="Football",Shabab Al Ahli vs Esteghlal FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248718/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248991_53057_ALS_EBFC_fc-web_1789025066274.jpg" group-title="Football",Al Seeb Club vs East Bengal FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248991/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249636/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249650/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Karen-Khachanov-Open-Web-match-card.png" group-title="Tennis",C. Alcaraz vs K. Khachanov [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249629/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249643/index.m3u8
