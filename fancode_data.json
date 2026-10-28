@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:15:01 AM 28-10-2026",
-    "total_matches": 40,
-    "live_match": 1,
+    "last_update_time": "12:01:29 PM 28-10-2026",
+    "total_matches": 39,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
@@ -20,28 +20,17 @@
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8"
         },
         {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249783",
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "startTime": "02:00:00 PM 27-10-2026"
-        },
-        {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4250526",
-            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2026)",
-            "match_name": "Bangladesh vs West Indies",
+            "title": "West Indies tour of Bangladesh, 2026 [English]",
+            "match_name": "Bangladesh vs West Indies [English]",
             "event_name": "West Indies tour of Bangladesh, 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
             "team_1": "Bangladesh",
             "team_2": "West Indies",
-            "startTime": "09:30:00 AM 28-10-2026"
+            "startTime": "09:30:00 AM 28-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -66,6 +55,18 @@
             "team_1": "Kuwait",
             "team_2": "Kenya",
             "startTime": "12:15:00 PM 28-10-2026"
+        },
+        {
+            "status": "PAUSED",
+            "event_category": "Cricket",
+            "match_id": "4249783",
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "startTime": "02:00:00 PM 27-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -106,18 +107,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250535",
-            "title": "Himachal Highlenders vs UP Thunderbolts (Northern Artist Champions League 2026)",
-            "match_name": "Himachal Highlenders vs UP Thunderbolts",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250535_53137_HHL_UPT_FC-Web.png",
-            "team_1": "Himachal Highlenders",
-            "team_2": "UP Thunderbolts",
-            "startTime": "09:00:00 AM 28-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250536",
             "title": "Punjab Warriors vs Rajasthan Royalsmen (Northern Artist Champions League 2026)",
             "match_name": "Punjab Warriors vs Rajasthan Royalsmen",
@@ -126,6 +115,18 @@
             "team_1": "Punjab Warriors",
             "team_2": "Rajasthan Royalsmen",
             "startTime": "01:30:00 PM 28-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250537",
+            "title": "Delhi Dynamites vs Chandigarh Chargers (Northern Artist Champions League 2026)",
+            "match_name": "Delhi Dynamites vs Chandigarh Chargers",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250537_53137_DLD_CC_FC-Web.png",
+            "team_1": "Delhi Dynamites",
+            "team_2": "Chandigarh Chargers",
+            "startTime": "06:00:00 PM 28-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -150,18 +151,6 @@
             "team_1": "Gamba Osaka",
             "team_2": "Buriram United",
             "startTime": "03:30:00 PM 28-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250537",
-            "title": "Delhi Dynamites vs Chandigarh Chargers (Northern Artist Champions League 2026)",
-            "match_name": "Delhi Dynamites vs Chandigarh Chargers",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250537_53137_DLD_CC_FC-Web.png",
-            "team_1": "Delhi Dynamites",
-            "team_2": "Chandigarh Chargers",
-            "startTime": "06:00:00 PM 28-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -297,6 +286,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250387",
+            "title": "Melbourne Renegades Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
+            "match_name": "Melbourne Renegades Women vs Sydney Sixers Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Melbourne Renegades Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "10:10:00 AM 29-10-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249712",
             "title": "Manchester City vs Brighton and Hove Albion (Carabao Cup 2026-27)",
@@ -406,18 +407,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250387",
-            "title": "Melbourne Renegades Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
-            "match_name": "Melbourne Renegades Women vs Sydney Sixers Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Melbourne Renegades Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "10:10:00 AM 29-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250518",
             "title": "United Arab Emirates vs Oman (ICC CWC League 2 UAE, 2026)",
             "match_name": "United Arab Emirates vs Oman",
@@ -429,51 +418,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249651",
-            "title": "IWB Court 1 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
-            "match_name": "IWB Court 1",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "IWB Court 1",
-            "team_2": "Basel, Switzerland",
-            "startTime": "03:30:00 PM 28-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249630",
-            "title": "World Feed vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Vienna, Austria",
-            "startTime": "06:00:00 PM 28-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249637",
-            "title": "Glaubandich Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-            "match_name": "Glaubandich Court",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "startTime": "06:00:00 PM 28-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4249644",
-            "title": "World Feed vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "World Feed",
-            "team_2": "Basel, Switzerland",
-            "startTime": "06:00:00 PM 28-10-2026"
+            "event_category": "Cricket",
+            "match_id": "4250359",
+            "title": "Janakpur Bolts vs Kathmandu Gorkhas (Nepal Premier League Season 3, 2026)",
+            "match_name": "Janakpur Bolts vs Kathmandu Gorkhas",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250359_53124_JKB_KMG_fc-Web.jpg",
+            "team_1": "Janakpur Bolts",
+            "team_2": "Kathmandu Gorkhas",
+            "startTime": "12:15:00 PM 29-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -486,6 +439,42 @@
             "team_1": "Himachal Highlenders",
             "team_2": "Rajasthan Royalsmen",
             "startTime": "09:00:00 AM 29-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250388",
+            "title": "Melbourne Stars Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
+            "match_name": "Melbourne Stars Women vs Hobart Hurricanes Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Melbourne Stars Women",
+            "team_2": "Hobart Hurricanes Women",
+            "startTime": "01:40:00 PM 29-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248995",
+            "title": "Adelaide United vs Lion City Sailors (AFC Champions League Two 2026-27)",
+            "match_name": "Adelaide United vs Lion City Sailors",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248995_53057_ADL_LIO_fc-web_1789025066742.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Lion City Sailors",
+            "startTime": "01:15:00 PM 29-10-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250539",
+            "title": "Punjab Warriors vs UP Thunderbolts (Northern Artist Champions League 2026)",
+            "match_name": "Punjab Warriors vs UP Thunderbolts",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250539_53137_PBW_UPT_FC-Web.png",
+            "team_1": "Punjab Warriors",
+            "team_2": "UP Thunderbolts",
+            "startTime": "01:30:00 PM 29-10-2026"
         }
     ]
 }
