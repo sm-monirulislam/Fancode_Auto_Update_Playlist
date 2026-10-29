@@ -2,20 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:22:41 PM 29-10-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 10:19:56 PM 29-10-2026 (BD Time)
+# Live Match : 8
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249770/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",Bangladesh vs West Indies [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Oman vs United Arab Emirates [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250518/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250359_53124_JKB_KMG_fc-Web.jpg" group-title="Cricket",Kathmandu Gurkhas vs Janakpur Bolts [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250359/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web_1793256237758.jpg" group-title="Cricket",Melbourne Stars Women vs Hobart Hurricanes Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250388/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248995_53057_ADL_LIO_fc-web_1789025066742.jpg" group-title="Football",Adelaide United vs Lion City Sailors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248995/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Round of 16 [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rosy-Oktavia-Pancasari-vs-PV-Sindhu_fc-web.jpg" group-title="Badminton",R Pancasari vs PV Sindhu [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250522/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249645/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Fairplay Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250607/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249652/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Nikoloz-Basilashvili-Open-Web-match-card.png" group-title="Tennis",N. Basilashvili vs C. Alcaraz [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249631/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249638/index.m3u8
