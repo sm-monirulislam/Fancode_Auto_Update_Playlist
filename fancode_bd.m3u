@@ -2,14 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:50:50 AM 31-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 05:28:00 AM 31-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg" group-title="Cricket",Emirates Blues vs Dubai [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250495/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png" group-title="Football",Al-Shabab FC vs Al-Ahli Saudi FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250272/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249646/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249632/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="Golf",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250509/index.m3u8
