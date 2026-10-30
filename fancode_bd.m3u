@@ -2,14 +2,24 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:14:46 AM 30-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 01:31:42 PM 30-10-2026 (BD Time)
+# Live Match : 9
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg" group-title="Cricket",Australia vs Hong Kong, China [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250307/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",Bangladesh vs West Indies [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250313_53120_IND_PAK_fc-web.jpg" group-title="Cricket",India vs Pakistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250313/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Papua New Guinea vs Kuwait [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250347/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Denmark [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250348/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg" group-title="Cricket",South Africa vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250314/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250334/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/139981/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg" group-title="Golf",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250513/index.m3u8
