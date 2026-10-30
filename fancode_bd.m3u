@@ -2,24 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:31:42 PM 30-10-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 08:50:25 PM 30-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",Bangladesh vs West Indies [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250313_53120_IND_PAK_fc-web.jpg" group-title="Cricket",India vs Pakistan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250313/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Papua New Guinea vs Kuwait [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250347/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Denmark [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250348/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg" group-title="Cricket",South Africa vs Afghanistan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250314/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250334/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139981/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg" group-title="Golf",Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250513/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg" group-title="Cricket",Abu Dhabi vs Ajman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250494/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250271_53025_ABC_ITT_FC-Web.png" group-title="Football",Abha Club vs Al-Ittihad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250271/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249639/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249646/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Quarter-Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250523/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6723.png" group-title="Tennis",C Alcaraz vs T Paul [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249632/index.m3u8
