@@ -2,18 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:18:39 AM 30-10-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 07:14:46 AM 30-10-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg" group-title="Football",Everton vs Newcastle United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249717/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249493_53078_KOG-W_BAR-W_fc-web.jpg" group-title="Football",HB Køge Women vs Barcelona Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249493/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg" group-title="Football",Manchester City Women vs Paris Saint-Germain Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249494/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Djokov_Mini.png" group-title="Tennis",N. Djokovic vs J.L. Struff [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249645/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249652/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="Golf",Day 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250508/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg" group-title="Cricket",Australia vs Hong Kong, China [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250307/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139981/index.m3u8
