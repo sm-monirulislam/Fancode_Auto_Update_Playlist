@@ -2,12 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:28:00 AM 31-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 08:39:36 AM 31-10-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="Golf",Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250509/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg" group-title="Cricket",Scotland vs Sri Lanka [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250317/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Cricket",United Arab Emirates vs India [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250318/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139982/index.m3u8
