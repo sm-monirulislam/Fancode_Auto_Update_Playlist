@@ -2,22 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:18:06 PM 31-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 09:27:43 PM 31-10-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",Bangladesh vs West Indies [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Netherlands vs United Arab Emirates [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250519/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Kenya vs Papua New Guinea [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250349/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Qatar vs Jersey [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250350/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SCO-vs-AFG_fc-web.jpg" group-title="Cricket",Afghanistan vs Scotland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250324/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250391_53125_PS-W_MR-W_fc-web_1793352701283.jpg" group-title="Cricket",Melbourne Renegades Women vs Perth Scorchers Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250391/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg" group-title="Football",Macarthur vs Western Sydney Wanderers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249849/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg" group-title="Cricket",Sudurpaschim Royals vs Biratnagar Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250362/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg" group-title="Cricket",Abu Dhabi vs Dubai [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250496/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249602_52993_MLW_DER_fc-web.jpg" group-title="Football",Millwall F.C. vs Derby County Football Club [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249602/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249633/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Semi-Finals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250524/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Alcaraz-web-match-card.png" group-title="Tennis",D Medvedev vs C Alcaraz [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249640/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249647/index.m3u8
