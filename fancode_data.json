@@ -2,61 +2,35 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "09:27:43 PM 31-10-2026",
-    "total_matches": 38,
-    "live_match": 7,
+    "last_update_time": "01:29:01 AM 01-11-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
             "event_category": "Cricket",
-            "match_id": "4250362",
-            "title": "Nepal Premier League Season 3, 2026 [English]",
-            "match_name": "Sudurpaschim Royals vs Biratnagar Kings [English]",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg",
-            "team_1": "Sudurpaschim Royals",
-            "team_2": "Biratnagar Kings",
-            "startTime": "04:45:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250362/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250496",
+            "match_id": "4250497",
             "title": "Emirates D20, 2026 [English]",
-            "match_name": "Abu Dhabi vs Dubai [English]",
+            "match_name": "Emirates Blues vs Sharjah [English]",
             "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "startTime": "06:00:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250496/index.m3u8"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250497_53130_SHA_EMB_fc-web_1792412929424.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "startTime": "10:00:00 PM 31-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250497/index.m3u8"
         },
         {
             "status": "LIVE",
             "event_category": "Football",
-            "match_id": "4249602",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Millwall F.C. vs Derby County Football Club [English]",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249602_52993_MLW_DER_fc-web.jpg",
-            "team_1": "Millwall F.C.",
-            "team_2": "Derby County Football Club",
-            "startTime": "08:30:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249602/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4249633",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "startTime": "05:30:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249633/index.m3u8"
+            "match_id": "4250273",
+            "title": "Roshn Saudi League 2026-2027 [English]",
+            "match_name": "Al Hilal SFC vs Al-Fateh SC [English]",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250273_53025_AHS_AFF_FC-Web.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Fateh SC",
+            "startTime": "11:30:00 PM 31-10-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250273/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,32 +44,6 @@
             "team_2": "Saarbrucken, Germany",
             "startTime": "06:30:00 PM 31-10-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250524/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4249640",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "D Medvedev vs C Alcaraz [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Alcaraz-web-match-card.png",
-            "team_1": "D Medvedev vs C Alcaraz",
-            "team_2": "Vienna, Austria",
-            "startTime": "07:30:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249640/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4249647",
-            "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "World Feed",
-            "team_2": "Basel, Switzerland",
-            "startTime": "07:30:00 PM 31-10-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249647/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -120,18 +68,6 @@
             "team_1": "Victoria",
             "team_2": "Queensland",
             "startTime": "05:30:00 AM 31-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250497",
-            "title": "Sharjah vs Emirates Blues (Emirates D20, 2026)",
-            "match_name": "Sharjah vs Emirates Blues",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250497_53130_SHA_EMB_fc-web_1792412929424.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Blues",
-            "startTime": "10:00:00 PM 31-10-2026"
         },
         {
             "status": "UPCOMING",
@@ -267,42 +203,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250498",
-            "title": "Sharjah vs Abu Dhabi (Emirates D20, 2026)",
-            "match_name": "Sharjah vs Abu Dhabi",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Abu Dhabi",
-            "startTime": "06:00:00 PM 01-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247676",
-            "title": "Real Betis vs Malaga (LALIGA 2026-27)",
-            "match_name": "Real Betis vs Malaga",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247676_53004_RB_MAG_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Malaga",
-            "startTime": "11:00:00 PM 31-10-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250273",
-            "title": "Al Hilal SFC vs Al-Fateh SC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Hilal SFC vs Al-Fateh SC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250273_53025_AHS_AFF_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Fateh SC",
-            "startTime": "11:30:00 PM 31-10-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4247668",
             "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2026-27)",
@@ -312,6 +212,18 @@
             "team_1": "FC Barcelona",
             "team_2": "Deportivo Alaves",
             "startTime": "01:30:00 AM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250498",
+            "title": "Sharjah vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Sharjah vs Abu Dhabi",
+            "event_name": "Emirates D20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Abu Dhabi",
+            "startTime": "06:00:00 PM 01-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -352,6 +264,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247677",
+            "title": "Racing Club de Santander vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Real Madrid",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247677_53004_RAC_RM_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Real Madrid",
+            "startTime": "08:45:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4250248",
             "title": "INAC Kobe Leonessa Women vs Bam Khatoon FC (AFC Women's Champions League 2026-27)",
             "match_name": "INAC Kobe Leonessa Women vs Bam Khatoon FC",
@@ -375,6 +299,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250510",
+            "title": "Day 3 vs Vidanta Vallarta Golf Course - Vallarta, México (VidantaWorld Mexico Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "VidantaWorld Mexico Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+            "team_1": "Day 3",
+            "team_2": "Vidanta Vallarta Golf Course - Vallarta, México",
+            "startTime": "01:30:00 AM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4250260",
             "title": "Beijing Jingtan FC Women vs Kaya FC Iloilo Women (AFC Women's Champions League 2026-27)",
@@ -387,15 +323,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247677",
-            "title": "Racing Club de Santander vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Racing Club de Santander vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247677_53004_RAC_RM_FC-Web.png",
-            "team_1": "Racing Club de Santander",
-            "team_2": "Real Madrid",
-            "startTime": "08:45:00 PM 01-11-2026"
+            "event_category": "Cricket",
+            "match_id": "4250203",
+            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
+            "match_name": "West Indies A vs England Lions",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "West Indies A",
+            "team_2": "England Lions",
+            "startTime": "10:30:00 PM 01-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -436,6 +372,18 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
+            "match_id": "4247672",
+            "title": "Elche CF vs Valencia CF (LALIGA 2026-27)",
+            "match_name": "Elche CF vs Valencia CF",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247672_53004_ELC_VAL_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "Valencia CF",
+            "startTime": "11:00:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
             "match_id": "4249210",
             "title": "Birmingham City F.C. Women vs Tottenham Hotspur Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Tottenham Hotspur Women",
@@ -468,6 +416,66 @@
             "team_1": "West Ham United Women",
             "team_2": "Liverpool Women",
             "startTime": "07:30:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249213",
+            "title": "Charlton Athletic F.C Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs Chelsea F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "08:00:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250255",
+            "title": "Ho Chi Minh City Women vs East Bengal FC Women (AFC Women's Champions League 2026-27)",
+            "match_name": "Ho Chi Minh City Women vs East Bengal FC Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Ho Chi Minh City Women",
+            "team_2": "East Bengal FC Women",
+            "startTime": "08:00:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250261",
+            "title": "Melbourne City Women vs PFC Nasaf Women (AFC Women's Champions League 2026-27)",
+            "match_name": "Melbourne City Women vs PFC Nasaf Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Melbourne City Women",
+            "team_2": "PFC Nasaf Women",
+            "startTime": "08:00:00 PM 01-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247675",
+            "title": "Athletic Club vs Real Sociedad (LALIGA 2026-27)",
+            "match_name": "Athletic Club vs Real Sociedad",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247675_53004_ATH_RS_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Real Sociedad",
+            "startTime": "01:30:00 AM 02-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Formula 1",
+            "match_id": "139510",
+            "title": "Qualifying vs Autodromo Hermanos Rodriguez (F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Autodromo Hermanos Rodriguez",
+            "startTime": "02:30:00 AM 01-11-2026"
         }
     ]
 }
