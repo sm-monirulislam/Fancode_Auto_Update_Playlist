@@ -2,12 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:12:05 AM 02-11-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:45:40 AM 02-11-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250499_53130_AJM_EMR_fc-web_1792412929398.jpg" group-title="Cricket",Ajman vs Emirates Red [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250499/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg" group-title="Formula 1",Race [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/139511/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="Golf",Day 4 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250511/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
