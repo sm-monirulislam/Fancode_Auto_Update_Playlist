@@ -2,14 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:51:54 AM 01-11-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 02:44:01 PM 01-11-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_fc-web.jpg" group-title="Cricket",Bangladesh vs India [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250325/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Race Day [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139983/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-AFG_fc-web.jpg" group-title="Cricket",Australia vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250330/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250335/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg" group-title="Cricket",Sydney Sixers Women vs Hobart Hurricanes Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250393/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",INAC Kobe Leonessa Women vs Bam Khatoon FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250248/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Hwacheon KSPO WFC vs 4.25 SC Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250254/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249851_53101_PG_ADL_fc-Web_1792223292274.jpg" group-title="Football",Perth Glory vs Adelaide United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249851/index.m3u8
