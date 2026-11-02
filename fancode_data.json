@@ -2,61 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "07:06:50 PM 02-11-2026",
-    "total_matches": 40,
-    "live_match": 5,
+    "last_update_time": "04:24:33 AM 03-11-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250365",
-            "title": "Nepal Premier League Season 3, 2026 [English]",
-            "match_name": "Chitwan Rhinos vs Sudurpaschim Royals [English]",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250365_53124_SPR_CWR_fc-Web_1793616701602.jpg",
-            "team_1": "Chitwan Rhinos",
-            "team_2": "Sudurpaschim Royals",
-            "startTime": "04:45:00 PM 02-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250365/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Cricket",
-            "match_id": "4250500",
-            "title": "Emirates D20, 2026 [English]",
-            "match_name": "Emirates Blues vs Ajman [English]",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250500_53130_EMB_AJM_fc-web_1792412930091.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Ajman",
-            "startTime": "06:00:00 PM 02-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250500/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4250547",
-            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
-            "match_name": "Court 2 [English]",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 2",
-            "team_2": "Paris, France",
-            "startTime": "03:30:00 PM 02-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250547/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4250548",
-            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
-            "match_name": "Court 1 [English]",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 1",
-            "team_2": "Paris, France",
-            "startTime": "03:30:00 PM 02-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250548/index.m3u8"
+            "event_category": "Football",
+            "match_id": "4250629",
+            "title": "LALIGA Hypermotion 2026-27 [English]",
+            "match_name": "RCD Mallorca vs Cadiz [English]",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Cadiz",
+            "startTime": "01:30:00 AM 03-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250629/index.m3u8"
         },
         {
             "status": "LIVE",
@@ -70,6 +31,19 @@
             "team_2": "Paris, France",
             "startTime": "03:30:00 PM 02-11-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250549/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Tennis",
+            "match_id": "4250550",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court Central [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court Central",
+            "team_2": "Paris, France",
+            "startTime": "11:30:00 PM 02-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250550/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -86,30 +60,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250501",
-            "title": "Dubai vs Sharjah (Emirates D20, 2026)",
-            "match_name": "Dubai vs Sharjah",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250501_53130_DUB_SHA_fc-web_1792412930100.jpg",
-            "team_1": "Dubai",
-            "team_2": "Sharjah",
-            "startTime": "10:00:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248728",
-            "title": "Pakhtakor Tashkent vs Al-Nassr FC (AFC Champions League Elite 2026-27)",
-            "match_name": "Pakhtakor Tashkent vs Al-Nassr FC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248728_53053_PT_ANF_fc-web_1793182503341.jpg",
-            "team_1": "Pakhtakor Tashkent",
-            "team_2": "Al-Nassr FC",
-            "startTime": "07:15:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4250366",
             "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League Season 3, 2026)",
             "match_name": "Biratnagar Kings vs Janakpur Bolts",
@@ -118,78 +68,6 @@
             "team_1": "Biratnagar Kings",
             "team_2": "Janakpur Bolts",
             "startTime": "12:15:00 PM 03-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248729",
-            "title": "Tractor vs PFC Neftchi (AFC Champions League Elite 2026-27)",
-            "match_name": "Tractor vs PFC Neftchi",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248729_53053_TFC_NB_fc-web.jpg",
-            "team_1": "Tractor",
-            "team_2": "PFC Neftchi",
-            "startTime": "09:30:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248730",
-            "title": "Al Wasl F.C. vs Air Force SC (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Wasl F.C. vs Air Force SC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248730_53053_AWS_AFSC_fc-web.jpg",
-            "team_1": "Al Wasl F.C.",
-            "team_2": "Air Force SC",
-            "startTime": "09:30:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248731",
-            "title": "Al Sadd vs Al-Ahli Saudi FC (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Sadd vs Al-Ahli Saudi FC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248731_53053_SDD_AAS_fc-web.jpg",
-            "team_1": "Al Sadd",
-            "team_2": "Al-Ahli Saudi FC",
-            "startTime": "09:30:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248732",
-            "title": "Al-Ittihad vs Al Ain (AFC Champions League Elite 2026-27)",
-            "match_name": "Al-Ittihad vs Al Ain",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248732_53053_ITT_AAI_fc-web.jpg",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al Ain",
-            "startTime": "11:45:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4248733",
-            "title": "Al Gharafa vs Al Qadisiyah (AFC Champions League Elite 2026-27)",
-            "match_name": "Al Gharafa vs Al Qadisiyah",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248733_53053_AGH_ALQ_fc-web.jpg",
-            "team_1": "Al Gharafa",
-            "team_2": "Al Qadisiyah",
-            "startTime": "11:45:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247673",
-            "title": "Deportivo de La Coruna vs CA Osasuna (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs CA Osasuna",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247673_53004_COR_OSN_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "CA Osasuna",
-            "startTime": "01:30:00 AM 03-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -217,6 +95,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250503",
+            "title": "Dubai vs Ajman (Emirates D20, 2026)",
+            "match_name": "Dubai vs Ajman",
+            "event_name": "Emirates D20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Dubai",
+            "team_2": "Ajman",
+            "startTime": "10:00:00 PM 03-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4248736",
             "title": "Newcastle Jets vs Shanghai Port (AFC Champions League Elite 2026-27)",
@@ -226,30 +116,6 @@
             "team_1": "Newcastle Jets",
             "team_2": "Shanghai Port",
             "startTime": "01:15:00 PM 03-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250628",
-            "title": "Real Oviedo vs Las Palmas (LALIGA Hypermotion 2026-27)",
-            "match_name": "Real Oviedo vs Las Palmas",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://images.fancode.com/aig/match/v1793599278548/4250628_CASACARDS_APP.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Las Palmas",
-            "startTime": "08:45:00 PM 02-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250629",
-            "title": "RCD Mallorca vs Cadiz (LALIGA Hypermotion 2026-27)",
-            "match_name": "RCD Mallorca vs Cadiz",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Cadiz",
-            "startTime": "01:30:00 AM 03-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -313,18 +179,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250503",
-            "title": "Dubai vs Ajman (Emirates D20, 2026)",
-            "match_name": "Dubai vs Ajman",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Dubai",
-            "team_2": "Ajman",
-            "startTime": "10:00:00 PM 03-11-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249007",
             "title": "East Bengal FC vs Al Seeb Club (AFC Champions League Two 2026-27)",
@@ -334,18 +188,6 @@
             "team_1": "East Bengal FC",
             "team_2": "Al Seeb Club",
             "startTime": "07:15:00 PM 03-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4250550",
-            "title": "Court Central vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court Central",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court Central",
-            "team_2": "Paris, France",
-            "startTime": "11:30:00 PM 02-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -397,6 +239,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250006",
+            "title": "West Bromwich Albion F.C. vs Southampton F.C. (EFL Championship 2026-27)",
+            "match_name": "West Bromwich Albion F.C. vs Southampton F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Southampton F.C.",
+            "startTime": "01:30:00 AM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4250551",
             "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
@@ -445,18 +299,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250006",
-            "title": "West Bromwich Albion F.C. vs Southampton F.C. (EFL Championship 2026-27)",
-            "match_name": "West Bromwich Albion F.C. vs Southampton F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Southampton F.C.",
-            "startTime": "01:30:00 AM 04-11-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250521",
             "title": "United Arab Emirates vs Oman (ICC CWC League 2 UAE, 2026)",
@@ -481,6 +323,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Live Events",
+            "match_id": "4250648",
+            "title": "APL Draft 2026 vs United Arab Emirates (APL Draft 2026)",
+            "match_name": "APL Draft 2026",
+            "event_name": "APL Draft 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "APL Draft 2026",
+            "team_2": "United Arab Emirates",
+            "startTime": "04:30:00 PM 03-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4249009",
             "title": "Melbourne Victory vs Persib Bandung (AFC Champions League Two 2026-27)",
@@ -490,6 +344,138 @@
             "team_1": "Melbourne Victory",
             "team_2": "Persib Bandung",
             "startTime": "01:15:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250250",
+            "title": "Bam Khatoon FC vs Naegohyang Women's FC (AFC Women's Champions League 2026-27)",
+            "match_name": "Bam Khatoon FC vs Naegohyang Women's FC",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png",
+            "team_1": "Bam Khatoon FC",
+            "team_2": "Naegohyang Women's FC",
+            "startTime": "02:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250256",
+            "title": "4.25 SC Women vs Ho Chi Minh City Women (AFC Women's Champions League 2026-27)",
+            "match_name": "4.25 SC Women vs Ho Chi Minh City Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1793533399050/4250256_CASACARDS_APP.png",
+            "team_1": "4.25 SC Women",
+            "team_2": "Ho Chi Minh City Women",
+            "startTime": "02:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248742",
+            "title": "Pohang Steelers vs Gamba Osaka (AFC Champions League Elite 2026-27)",
+            "match_name": "Pohang Steelers vs Gamba Osaka",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248742_53053_PHG_OSK_fc-web.jpg",
+            "team_1": "Pohang Steelers",
+            "team_2": "Gamba Osaka",
+            "startTime": "03:30:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249010",
+            "title": "Seoul vs The Cong - Viettel FC (AFC Champions League Two 2026-27)",
+            "match_name": "Seoul vs The Cong - Viettel FC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249010_53057_SE_CV_fc-web_1789025065555.jpg",
+            "team_1": "Seoul",
+            "team_2": "The Cong - Viettel FC",
+            "startTime": "03:30:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250504",
+            "title": "TBC vs TBC (Emirates D20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Emirates D20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "06:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250555",
+            "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
+            "match_name": "ATP - Rolex Paris Masters 2026",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "ATP - Rolex Paris Masters 2026",
+            "team_2": "Paris, France",
+            "startTime": "12:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250556",
+            "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
+            "match_name": "ATP - Rolex Paris Masters 2026",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "ATP - Rolex Paris Masters 2026",
+            "team_2": "Paris, France",
+            "startTime": "12:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250557",
+            "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
+            "match_name": "ATP - Rolex Paris Masters 2026",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "ATP - Rolex Paris Masters 2026",
+            "team_2": "Paris, France",
+            "startTime": "12:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250558",
+            "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
+            "match_name": "ATP - Rolex Paris Masters 2026",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "ATP - Rolex Paris Masters 2026",
+            "team_2": "Paris, France",
+            "startTime": "12:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250262",
+            "title": "Kaya FC Iloilo Women vs Melbourne City Women (AFC Women's Champions League 2026-27)",
+            "match_name": "Kaya FC Iloilo Women vs Melbourne City Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1793533399054/4250262_CASACARDS_APP.png",
+            "team_1": "Kaya FC Iloilo Women",
+            "team_2": "Melbourne City Women",
+            "startTime": "04:00:00 PM 04-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4248743",
+            "title": "Buriram United vs Kashima Antlers (AFC Champions League Elite 2026-27)",
+            "match_name": "Buriram United vs Kashima Antlers",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
+            "team_1": "Buriram United",
+            "team_2": "Kashima Antlers",
+            "startTime": "05:45:00 PM 04-11-2026"
         }
     ]
 }
