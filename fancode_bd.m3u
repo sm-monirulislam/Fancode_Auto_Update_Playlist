@@ -2,8 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:35:53 AM 03-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 05:38:17 PM 03-11-2026 (BD Time)
+# Live Match : 10
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250367_53124_LBL_PKA_fc-Web_1793616701725.jpg" group-title="Cricket",Pokhara Avengers vs Lumbini Lions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250367/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248737_53053_JNB_JDT_fc-web.jpg" group-title="Football",Jeonbuk Motors vs Johor Darul Ta'zim [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248737/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg" group-title="Football",Vissel Kobe vs Ratchaburi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248738/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248739_53053_REY_DAC_fc-web.jpg" group-title="Football",Kashiwa Reysol vs Daejeon Hana Citizen FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248739/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250551/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250552/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250554/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250553/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/APL-Draft-2026_Auction_fc-web.jpg" group-title="Live Events",APL Draft 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4250648/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court Central [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250649/index.m3u8
