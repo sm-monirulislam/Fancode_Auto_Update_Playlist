@@ -2,16 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:50:44 PM 04-11-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 09:06:48 PM 04-11-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Oman
-https://fancode.sm-monirul-islam-rs.workers.dev/4250521/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 2
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg" group-title="Cricket",Ajman vs Abu Dhabi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250504/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg" group-title="Football",FK Arkadag vs Golgohar Sirjan SC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249003/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Football",East Bengal FC Women vs Hwacheon KSPO WFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250257/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Football",PFC Nasaf Women vs Beijing Jingtan FC Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250263/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 2 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250555/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 1
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250556/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",World Feed
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Rinky-Hijikata_fc-web.jpg" group-title="Tennis",Djokovic vs Hijikata [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250557/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 3
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 3 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250558/index.m3u8
