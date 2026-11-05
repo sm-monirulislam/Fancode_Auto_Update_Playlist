@@ -2,35 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "03:24:26 AM 05-11-2026",
+    "last_update_time": "07:38:29 AM 05-11-2026",
     "total_matches": 40,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
-            "event_category": "Football",
-            "match_id": "4250007",
-            "title": "EFL Championship 2026-27 [English]",
-            "match_name": "Bristol City F.C. vs Wolverhampton Wanderers F.C. [English]",
-            "event_name": "EFL Championship 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg",
-            "team_1": "Bristol City F.C.",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "startTime": "01:30:00 AM 05-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250007/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Tennis",
-            "match_id": "4250557",
-            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Paris, France",
-            "startTime": "03:30:00 PM 04-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250557/index.m3u8"
+            "event_category": "Badminton",
+            "match_id": "4250603",
+            "title": "BWF Super 500 -  Korea Open 2026 [English]",
+            "match_name": "Round of 16 [English]",
+            "event_name": "BWF Super 500 -  Korea Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+            "team_1": "Round of 16",
+            "team_2": "Korea",
+            "startTime": "06:30:00 AM 05-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250603/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -190,15 +177,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250603",
-            "title": "Round of 16 vs Korea (BWF Super 500 -  Korea Open 2026)",
-            "match_name": "Round of 16",
-            "event_name": "BWF Super 500 -  Korea Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
-            "team_1": "Round of 16",
-            "team_2": "Korea",
-            "startTime": "06:30:00 AM 05-11-2026"
+            "event_category": "Cricket",
+            "match_id": "4250370",
+            "title": "Sudurpaschim Royals vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
+            "match_name": "Sudurpaschim Royals vs Karnali Yaks",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250370_53124_SPR_KNY_fc-Web_1793616701745.jpg",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Karnali Yaks",
+            "startTime": "12:15:00 PM 06-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -263,14 +250,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250370",
-            "title": "Sudurpaschim Royals vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
-            "match_name": "Sudurpaschim Royals vs Karnali Yaks",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250370_53124_SPR_KNY_fc-Web_1793616701745.jpg",
-            "team_1": "Sudurpaschim Royals",
-            "team_2": "Karnali Yaks",
-            "startTime": "12:15:00 PM 06-11-2026"
+            "match_id": "4250398",
+            "title": "Melbourne Stars Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
+            "match_name": "Melbourne Stars Women vs Sydney Sixers Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250398_53125_MS-W_SS-W_fc-web_1793352701994.jpg",
+            "team_1": "Melbourne Stars Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "01:40:00 PM 06-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -287,14 +274,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250398",
-            "title": "Melbourne Stars Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
-            "match_name": "Melbourne Stars Women vs Sydney Sixers Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250398_53125_MS-W_SS-W_fc-web_1793352701994.jpg",
-            "team_1": "Melbourne Stars Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "01:40:00 PM 06-11-2026"
+            "match_id": "4250371",
+            "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League Season 3, 2026)",
+            "match_name": "Chitwan Rhinos vs Pokhara Avengers",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250371_53124_CWR_PKA_fc-Web_1793616701620.jpg",
+            "team_1": "Chitwan Rhinos",
+            "team_2": "Pokhara Avengers",
+            "startTime": "04:45:00 PM 06-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -307,18 +294,6 @@
             "team_1": "Quarter-Final",
             "team_2": "Korea",
             "startTime": "08:30:00 AM 06-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250371",
-            "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League Season 3, 2026)",
-            "match_name": "Chitwan Rhinos vs Pokhara Avengers",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250371_53124_CWR_PKA_fc-Web_1793616701620.jpg",
-            "team_1": "Chitwan Rhinos",
-            "team_2": "Pokhara Avengers",
-            "startTime": "04:45:00 PM 06-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -487,6 +462,30 @@
             "team_1": "Melbourne Renegades Women",
             "team_2": "Adelaide Strikers Women",
             "startTime": "10:10:00 AM 07-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250400",
+            "title": "Brisbane Heat Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
+            "match_name": "Brisbane Heat Women vs Hobart Hurricanes Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250400_53125_BH-W_HB-W_fc-web_1793352701367.jpg",
+            "team_1": "Brisbane Heat Women",
+            "team_2": "Hobart Hurricanes Women",
+            "startTime": "01:40:00 PM 07-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Badminton",
+            "match_id": "4250605",
+            "title": "Semi-Final vs Korea (BWF Super 500 -  Korea Open 2026)",
+            "match_name": "Semi-Final",
+            "event_name": "BWF Super 500 -  Korea Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+            "team_1": "Semi-Final",
+            "team_2": "Korea",
+            "startTime": "07:30:00 AM 07-11-2026"
         }
     ]
 }
