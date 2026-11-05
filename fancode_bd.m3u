@@ -2,18 +2,10 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:58:53 PM 05-11-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 11:17:01 PM 05-11-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",West Indies vs Bangladesh
-https://fancode.sm-monirul-islam-rs.workers.dev/4250527/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" group-title="Cricket",Zimbabwe vs Afghanistan
-https://fancode.sm-monirul-islam-rs.workers.dev/4249772/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250368_53124_LBL_JKB_fc-Web_1793616701591.jpg" group-title="Cricket",Lumbini Lions vs Janakpur Bolts
-https://fancode.sm-monirul-islam-rs.workers.dev/4250368/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250397_53125_ST-W_PS-W_fc-web_1793352702086.jpg" group-title="Cricket",Perth Scorchers Women vs Sydney Thunder Women
-https://fancode.sm-monirul-islam-rs.workers.dev/4250397/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png" group-title="Badminton",Round of 16
-https://fancode.sm-monirul-islam-rs.workers.dev/4250603/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png" group-title="Golf",Day 1
-https://fancode.sm-monirul-islam-rs.workers.dev/4250608/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250559/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250560/index.m3u8
