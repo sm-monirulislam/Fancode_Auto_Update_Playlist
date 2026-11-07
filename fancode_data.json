@@ -2,10 +2,22 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:23:32 AM 07-11-2026",
-    "total_matches": 38,
+    "last_update_time": "09:01:36 AM 07-11-2026",
+    "total_matches": 39,
     "live_match": 0,
     "matches": [
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250750",
+            "title": "Western Australia vs England (Western Australia vs England One-Day 2026)",
+            "match_name": "Western Australia vs England",
+            "event_name": "Western Australia vs England One-Day 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web2.png",
+            "team_1": "Western Australia",
+            "team_2": "England",
+            "startTime": "09:00:00 AM 07-11-2026"
+        },
         {
             "status": "PAUSED",
             "event_category": "Cricket",
@@ -29,18 +41,6 @@
             "team_1": "Zimbabwe",
             "team_2": "Afghanistan",
             "startTime": "11:30:00 AM 05-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250750",
-            "title": "Western Australia vs England (Western Australia vs England One-Day 2026)",
-            "match_name": "Western Australia vs England",
-            "event_name": "Western Australia vs England One-Day 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web2.png",
-            "team_1": "Western Australia",
-            "team_2": "England",
-            "startTime": "09:00:00 AM 07-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -164,6 +164,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250401",
+            "title": "Sydney Sixers Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
+            "match_name": "Sydney Sixers Women vs Sydney Thunder Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250401_53125_SS-W_ST-W_fc-web_1793352701343.jpg",
+            "team_1": "Sydney Sixers Women",
+            "team_2": "Sydney Thunder Women",
+            "startTime": "08:10:00 AM 08-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247682",
+            "title": "Valencia CF vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "Valencia CF vs Real Madrid",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247682_53004_VAL_RM_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Real Madrid",
+            "startTime": "01:30:00 AM 08-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Football",
             "match_id": "4250252",
             "title": "Naegohyang Women's FC vs INAC Kobe Leonessa Women (AFC Women's Champions League 2026-27)",
@@ -213,18 +237,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4247682",
-            "title": "Valencia CF vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247682_53004_VAL_RM_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Madrid",
-            "startTime": "01:30:00 AM 08-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
             "match_id": "4250259",
             "title": "East Bengal FC Women vs 4.25 SC Women (AFC Women's Champions League 2026-27)",
             "match_name": "East Bengal FC Women vs 4.25 SC Women",
@@ -261,26 +273,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250401",
-            "title": "Sydney Sixers Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
-            "match_name": "Sydney Sixers Women vs Sydney Thunder Women",
+            "match_id": "4250402",
+            "title": "Perth Scorchers Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+            "match_name": "Perth Scorchers Women vs Melbourne Stars Women",
             "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250401_53125_SS-W_ST-W_fc-web_1793352701343.jpg",
-            "team_1": "Sydney Sixers Women",
-            "team_2": "Sydney Thunder Women",
-            "startTime": "08:10:00 AM 08-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Badminton",
-            "match_id": "4250605",
-            "title": "Semi-Final vs Korea (BWF Super 500 -  Korea Open 2026)",
-            "match_name": "Semi-Final",
-            "event_name": "BWF Super 500 -  Korea Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
-            "team_1": "Semi-Final",
-            "team_2": "Korea",
-            "startTime": "07:30:00 AM 07-11-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250402_53125_PS-W_MS-W_fc-web_1793352702019.jpg",
+            "team_1": "Perth Scorchers Women",
+            "team_2": "Melbourne Stars Women",
+            "startTime": "11:40:00 AM 08-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -404,18 +404,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250402",
-            "title": "Perth Scorchers Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
-            "match_name": "Perth Scorchers Women vs Melbourne Stars Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250402_53125_PS-W_MS-W_fc-web_1793352702019.jpg",
-            "team_1": "Perth Scorchers Women",
-            "team_2": "Melbourne Stars Women",
-            "startTime": "11:40:00 AM 08-11-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Formula 1",
             "match_id": "139515",
             "title": "Qualifying vs Autodromo Jose Carlos Pace (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026)",
@@ -461,6 +449,30 @@
             "team_1": "Final",
             "team_2": "Korea",
             "startTime": "07:30:00 AM 08-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249856",
+            "title": "Macarthur vs Brisbane Roar (A-League 2026-27)",
+            "match_name": "Macarthur vs Brisbane Roar",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249856_53101_MAC_BRB_fc-Web_1792223292092.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Brisbane Roar",
+            "startTime": "09:30:00 AM 08-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250611",
+            "title": "Day 4 vs Mission Hills, China (Aramco China Championship 2026)",
+            "match_name": "Day 4",
+            "event_name": "Aramco China Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
+            "team_1": "Day 4",
+            "team_2": "Mission Hills, China",
+            "startTime": "10:30:00 AM 08-11-2026"
         }
     ]
 }
