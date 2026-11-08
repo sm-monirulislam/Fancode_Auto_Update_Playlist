@@ -2,9 +2,9 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:40:10 AM 08-11-2026",
-    "total_matches": 38,
-    "live_match": 2,
+    "last_update_time": "06:12:43 AM 08-11-2026",
+    "total_matches": 40,
+    "live_match": 1,
     "matches": [
         {
             "status": "LIVE",
@@ -18,19 +18,6 @@
             "team_2": "England Lions",
             "startTime": "11:30:00 PM 07-11-2026",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250206/index.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "event_category": "Golf",
-            "match_id": "4250599",
-            "title": "World Wide Technology Championship 2026 [English]",
-            "match_name": "Day 3 [English]",
-            "event_name": "World Wide Technology Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-            "team_1": "Day 3",
-            "team_2": " Los Cabos, Mexico",
-            "startTime": "01:30:00 AM 08-11-2026",
-            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250599/index.m3u8"
         },
         {
             "status": "PAUSED",
@@ -346,6 +333,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250373",
+            "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
+            "match_name": "Pokhara Avengers vs Karnali Yaks",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg",
+            "team_1": "Pokhara Avengers",
+            "team_2": "Karnali Yaks",
+            "startTime": "12:15:00 PM 09-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Formula 1",
             "match_id": "139516",
             "title": "Race vs Autodromo Jose Carlos Pace (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026)",
@@ -371,14 +370,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4250373",
-            "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
-            "match_name": "Pokhara Avengers vs Karnali Yaks",
+            "match_id": "4250374",
+            "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League Season 3, 2026)",
+            "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
             "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg",
-            "team_1": "Pokhara Avengers",
-            "team_2": "Karnali Yaks",
-            "startTime": "12:15:00 PM 09-11-2026"
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250374_53124_CWR_KMG_fc-Web_1793616701562.jpg",
+            "team_1": "Chitwan Rhinos",
+            "team_2": "Kathmandu Gorkhas",
+            "startTime": "04:45:00 PM 09-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -391,18 +390,6 @@
             "team_1": "LAGC vs NYGC",
             "team_2": "Palm Beach Gardens, FL",
             "startTime": "01:30:00 AM 09-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250374",
-            "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League Season 3, 2026)",
-            "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250374_53124_CWR_KMG_fc-Web_1793616701562.jpg",
-            "team_1": "Chitwan Rhinos",
-            "team_2": "Kathmandu Gorkhas",
-            "startTime": "04:45:00 PM 09-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -463,6 +450,42 @@
             "team_1": "ATP 250 - Bybit Stockholm Open 2026",
             "team_2": "Stockholm, Sweden",
             "startTime": "12:00:00 PM 10-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249495",
+            "title": "BK Häcken Women vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "BK Häcken Women vs Chelsea F.C. Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249495_53078_BKH-W_CHE-W_fc-web.jpg",
+            "team_1": "BK Häcken Women",
+            "team_2": "Chelsea F.C. Women",
+            "startTime": "11:15:00 PM 10-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249496",
+            "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Real Madrid Women vs Paris FC Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249496_53078_RM-W_PFC-W_fc-web.jpg",
+            "team_1": "Real Madrid Women",
+            "team_2": "Paris FC Women",
+            "startTime": "11:15:00 PM 10-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249497",
+            "title": "Roma Women vs Servette Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Roma Women vs Servette Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249497_53078_ROM-W_SVT-W_fc-web.jpg",
+            "team_1": "Roma Women",
+            "team_2": "Servette Women",
+            "startTime": "01:30:00 AM 11-11-2026"
         }
     ]
 }
