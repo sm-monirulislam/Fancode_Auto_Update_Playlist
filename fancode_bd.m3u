@@ -2,6 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:22:50 AM 09-11-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 04:04:38 PM 09-11-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",West Indies vs Bangladesh [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250527/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" group-title="Cricket",Zimbabwe vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249772/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg" group-title="Cricket",Pokhara Avengers vs Karnali Yaks [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250373/index.m3u8

@@ -2,45 +2,48 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "08:22:50 AM 09-11-2026",
+    "last_update_time": "04:04:38 PM 09-11-2026",
     "total_matches": 40,
-    "live_match": 0,
+    "live_match": 3,
     "matches": [
         {
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4250527",
-            "title": "West Indies vs Bangladesh (West Indies tour of Bangladesh, 2026)",
-            "match_name": "West Indies vs Bangladesh",
+            "title": "West Indies tour of Bangladesh, 2026 [English]",
+            "match_name": "West Indies vs Bangladesh [English]",
             "event_name": "West Indies tour of Bangladesh, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
             "team_1": "West Indies",
             "team_2": "Bangladesh",
-            "startTime": "09:00:00 AM 05-11-2026"
+            "startTime": "09:00:00 AM 05-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250527/index.m3u8"
         },
         {
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4249772",
-            "title": "Zimbabwe vs Afghanistan (Zimbabwe Tour of Afghanistan in UAE, 2026)",
-            "match_name": "Zimbabwe vs Afghanistan",
+            "title": "Zimbabwe Tour of Afghanistan in UAE, 2026 [English]",
+            "match_name": "Zimbabwe vs Afghanistan [English]",
             "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
             "team_1": "Zimbabwe",
             "team_2": "Afghanistan",
-            "startTime": "11:30:00 AM 05-11-2026"
+            "startTime": "11:30:00 AM 05-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249772/index.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_category": "Cricket",
             "match_id": "4250373",
-            "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
-            "match_name": "Pokhara Avengers vs Karnali Yaks",
+            "title": "Nepal Premier League Season 3, 2026 [English]",
+            "match_name": "Pokhara Avengers vs Karnali Yaks [English]",
             "event_name": "Nepal Premier League Season 3, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg",
             "team_1": "Pokhara Avengers",
             "team_2": "Karnali Yaks",
-            "startTime": "12:15:00 PM 09-11-2026"
+            "startTime": "12:15:00 PM 09-11-2026",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250373/index.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -65,18 +68,6 @@
             "team_1": "West Indies A",
             "team_2": "England Lions",
             "startTime": "11:30:00 PM 09-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4250582",
-            "title": "ATP 250 - Bybit Stockholm Open 2026 vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
-            "match_name": "ATP 250 - Bybit Stockholm Open 2026",
-            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
-            "team_1": "ATP 250 - Bybit Stockholm Open 2026",
-            "team_2": "Stockholm, Sweden",
-            "startTime": "12:00:00 PM 09-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -105,14 +96,26 @@
         {
             "status": "UPCOMING",
             "event_category": "Tennis",
-            "match_id": "4250583",
-            "title": "ATP 250 - Bybit Stockholm Open 2026 vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
-            "match_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "match_id": "4250582",
+            "title": "World Feed vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
+            "match_name": "World Feed",
             "event_name": "ATP 250 - Bybit Stockholm Open 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
-            "team_1": "ATP 250 - Bybit Stockholm Open 2026",
+            "team_1": "World Feed",
             "team_2": "Stockholm, Sweden",
-            "startTime": "12:00:00 PM 10-11-2026"
+            "startTime": "05:30:00 PM 09-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250583",
+            "title": "World Feed vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+            "team_1": "World Feed",
+            "team_2": "Stockholm, Sweden",
+            "startTime": "03:30:00 PM 10-11-2026"
         },
         {
             "status": "UPCOMING",
