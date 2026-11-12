@@ -2,8 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:44:48 AM 12-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 08:41:38 AM 12-11-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249502_53078_JUV-W_OLY-W_fc-web.jpg" group-title="Football",Juventus Women vs OL Lyonnes [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249502/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="Cricket",New South Wales vs South Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249671/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="Cricket",Victoria vs Western Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249672/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="Cricket",Queensland vs Tasmania [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249673/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg" group-title="Badminton",Round of 16 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250630/index.m3u8
