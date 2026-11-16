@@ -2,22 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "06:10:03 AM 16-11-2026",
-    "total_matches": 38,
+    "last_update_time": "01:01:58 PM 16-11-2026",
+    "total_matches": 35,
     "live_match": 0,
     "matches": [
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249773",
-            "title": "Zimbabwe vs Afghanistan (Zimbabwe Tour of Afghanistan in UAE, 2026)",
-            "match_name": "Zimbabwe vs Afghanistan",
-            "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Afghanistan",
-            "startTime": "11:30:00 AM 13-11-2026"
-        },
         {
             "status": "PAUSED",
             "event_category": "Cricket",
@@ -29,42 +17,6 @@
             "team_1": "Bangladesh",
             "team_2": "South Africa",
             "startTime": "01:30:00 PM 15-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249289",
-            "title": "Victoria vs Western Australia (One Day Cup, 2026/27)",
-            "match_name": "Victoria vs Western Australia",
-            "event_name": "One Day Cup, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249289_53072_VCT_WAU_FC-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "Western Australia",
-            "startTime": "08:30:00 AM 16-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250671",
-            "title": "Bangladesh Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2026)",
-            "match_name": "Bangladesh Women vs Netherlands Women",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250671_53149_BAN-W_NED-W_FC-WEB.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Netherlands Women",
-            "startTime": "10:30:00 AM 16-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250672",
-            "title": "Zimbabwe Women vs Pakistan Women (ICC Women's Emerging Nations Trophy, 2026)",
-            "match_name": "Zimbabwe Women vs Pakistan Women",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250672_53149_ZIM-W_PAK-W_FC-WEB.jpg",
-            "team_1": "Zimbabwe Women",
-            "team_2": "Pakistan Women",
-            "startTime": "10:30:00 AM 16-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -128,6 +80,30 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250383",
+            "title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "12:15:00 PM 17-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250411",
+            "title": "Adelaide Strikers Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
+            "match_name": "Adelaide Strikers Women vs Sydney Sixers Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250411_53125_AS-W_SS-W_fc-web_1793352702025.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Sydney Sixers Women",
+            "startTime": "01:40:00 PM 17-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4250930",
             "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -152,18 +128,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250383",
-            "title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "12:15:00 PM 17-11-2026"
-        },
-        {
-            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4250931",
             "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -185,18 +149,6 @@
             "team_1": "Medvedev vs Cobolli",
             "team_2": "Turin, Italy",
             "startTime": "01:00:00 AM 17-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250411",
-            "title": "Adelaide Strikers Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
-            "match_name": "Adelaide Strikers Women vs Sydney Sixers Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250411_53125_AS-W_SS-W_fc-web_1793352702025.jpg",
-            "team_1": "Adelaide Strikers Women",
-            "team_2": "Sydney Sixers Women",
-            "startTime": "01:40:00 PM 17-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -461,6 +413,18 @@
             "team_1": "Nitto ATP Finals 2026",
             "team_2": "Turin, Italy",
             "startTime": "01:00:00 AM 19-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250412",
+            "title": "Hobart Hurricanes Women vs Perth Scorchers Women (Women's Big Bash League, 2026)",
+            "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250412_53125_HB-W_PS-W_fc-web_1793352701293.jpg",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "Perth Scorchers Women",
+            "startTime": "10:10:00 AM 19-11-2026"
         }
     ]
 }
