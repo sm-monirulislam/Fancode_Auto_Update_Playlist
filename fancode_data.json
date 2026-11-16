@@ -2,7 +2,7 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "02:08:52 AM 16-11-2026",
+    "last_update_time": "06:10:03 AM 16-11-2026",
     "total_matches": 38,
     "live_match": 0,
     "matches": [
@@ -29,30 +29,6 @@
             "team_1": "Bangladesh",
             "team_2": "South Africa",
             "startTime": "01:30:00 PM 15-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249281",
-            "title": "New South Wales vs South Australia (One Day Cup, 2026/27)",
-            "match_name": "New South Wales vs South Australia",
-            "event_name": "One Day Cup, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249281_53072_NSW_SAU_FC-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "startTime": "04:30:00 AM 16-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4249286",
-            "title": "Queensland vs Tasmania (One Day Cup, 2026/27)",
-            "match_name": "Queensland vs Tasmania",
-            "event_name": "One Day Cup, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249286_53072_QUN_TAS_FC-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "startTime": "05:30:00 AM 16-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -176,6 +152,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4250383",
+            "title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "startTime": "12:15:00 PM 17-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Tennis",
             "match_id": "4250931",
             "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -197,18 +185,6 @@
             "team_1": "Medvedev vs Cobolli",
             "team_2": "Turin, Italy",
             "startTime": "01:00:00 AM 17-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250383",
-            "title": "TBC vs TBC (Nepal Premier League Season 3, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "startTime": "12:15:00 PM 17-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -461,6 +437,30 @@
             "team_1": "Juventus Women",
             "team_2": "Oud-Heverlee Leuven Women",
             "startTime": "01:30:00 AM 19-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250937",
+            "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+            "match_name": "Nitto ATP Finals 2026",
+            "event_name": "Nitto ATP Finals 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+            "team_1": "Nitto ATP Finals 2026",
+            "team_2": "Turin, Italy",
+            "startTime": "10:30:00 PM 18-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250938",
+            "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+            "match_name": "Nitto ATP Finals 2026",
+            "event_name": "Nitto ATP Finals 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+            "team_1": "Nitto ATP Finals 2026",
+            "team_2": "Turin, Italy",
+            "startTime": "01:00:00 AM 19-11-2026"
         }
     ]
 }
