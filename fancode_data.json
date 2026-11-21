@@ -2,8 +2,8 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:06:39 PM 21-11-2026",
-    "total_matches": 34,
+    "last_update_time": "04:16:05 AM 22-11-2026",
+    "total_matches": 38,
     "live_match": 0,
     "matches": [
         {
@@ -13,7 +13,7 @@
             "title": "New South Wales vs Queensland (Sheffield Shield, 2026/27)",
             "match_name": "New South Wales vs Queensland",
             "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
             "team_1": "New South Wales",
             "team_2": "Queensland",
             "startTime": "05:00:00 AM 22-11-2026"
@@ -25,7 +25,7 @@
             "title": "Brisbane Heat Women vs Adelaide Strikers Women (Women's Big Bash League, 2026)",
             "match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
             "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250417_53125_BH-W_AS-W_fc-web_1793352701319.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250417_53125_BH-W_AS-W_fc-web_1793352701319.jpg",
             "team_1": "Brisbane Heat Women",
             "team_2": "Adelaide Strikers Women",
             "startTime": "10:10:00 AM 22-11-2026"
@@ -37,7 +37,7 @@
             "title": "Netherlands Women vs Sri Lanka Women (ICC Women's Emerging Nations Trophy, 2026)",
             "match_name": "Netherlands Women vs Sri Lanka Women",
             "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250682_53149_NED-W_SL-W_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250682_53149_NED-W_SL-W_FC-WEB.jpg",
             "team_1": "Netherlands Women",
             "team_2": "Sri Lanka Women",
             "startTime": "10:30:00 AM 22-11-2026"
@@ -49,7 +49,7 @@
             "title": "Pakistan Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2026)",
             "match_name": "Pakistan Women vs Scotland Women",
             "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250683_53149_PAK-W_SCO-W_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250683_53149_PAK-W_SCO-W_FC-WEB.jpg",
             "team_1": "Pakistan Women",
             "team_2": "Scotland Women",
             "startTime": "10:30:00 AM 22-11-2026"
@@ -61,7 +61,7 @@
             "title": "Melbourne Stars Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
             "match_name": "Melbourne Stars Women vs Melbourne Renegades Women",
             "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250418_53125_MS-W_MR-W_fc-web_1793352701275.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250418_53125_MS-W_MR-W_fc-web_1793352701275.jpg",
             "team_1": "Melbourne Stars Women",
             "team_2": "Melbourne Renegades Women",
             "startTime": "01:40:00 PM 22-11-2026"
@@ -73,7 +73,7 @@
             "title": "Ireland Women vs Zimbabwe Women (ICC Women's Emerging Nations Trophy, 2026)",
             "match_name": "Ireland Women vs Zimbabwe Women",
             "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250684_53149_IRE-W_ZIM-W_FC-WEB_1795262068644.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250684_53149_IRE-W_ZIM-W_FC-WEB_1795262068644.jpg",
             "team_1": "Ireland Women",
             "team_2": "Zimbabwe Women",
             "startTime": "02:45:00 PM 22-11-2026"
@@ -85,7 +85,7 @@
             "title": "Team Footy vs Team Cricket (Gold Clash T20 2026)",
             "match_name": "Team Footy vs Team Cricket",
             "event_name": "Gold Clash T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Gold_Clash_2026_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Gold_Clash_2026_FC-WEB.jpg",
             "team_1": "Team Footy",
             "team_2": "Team Cricket",
             "startTime": "02:45:00 PM 22-11-2026"
@@ -97,7 +97,7 @@
             "title": "Napoli Knights vs Venice Livewires (Italia T10 2026)",
             "match_name": "Napoli Knights vs Venice Livewires",
             "event_name": "Italia T10 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251138_53165_NP_VL_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4251138_53165_NP_VL_fc-web.jpg",
             "team_1": "Napoli Knights",
             "team_2": "Venice Livewires",
             "startTime": "04:30:00 PM 22-11-2026"
@@ -109,34 +109,10 @@
             "title": "Brescia Lions vs Rome Gladiators (Italia T10 2026)",
             "match_name": "Brescia Lions vs Rome Gladiators",
             "event_name": "Italia T10 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251139_53165_BL_RG_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4251139_53165_BL_RG_fc-web.jpg",
             "team_1": "Brescia Lions",
             "team_2": "Rome Gladiators",
             "startTime": "06:45:00 PM 22-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250770",
-            "title": "London City Lionesses vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "London City Lionesses vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250770_53038_LCL_CP-W_fc-web.jpg",
-            "team_1": "London City Lionesses",
-            "team_2": "Crystal Palace Women",
-            "startTime": "10:45:00 PM 21-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247691",
-            "title": "Real Madrid vs RC Celta (LALIGA 2026-27)",
-            "match_name": "Real Madrid vs RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247691_53004_RM_CEV_FC-Web_1792660540658.png",
-            "team_1": "Real Madrid",
-            "team_2": "RC Celta",
-            "startTime": "01:30:00 AM 22-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -145,7 +121,7 @@
             "title": "Australasia vs Europe (Test Twenty Championship 2026)",
             "match_name": "Australasia vs Europe",
             "event_name": "Test Twenty Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg",
             "team_1": "Australasia",
             "team_2": "Europe",
             "startTime": "02:30:00 PM 22-11-2026"
@@ -157,7 +133,7 @@
             "title": "Sharjah Warriorz vs Gulf Giants (DP World ILT20 2026)",
             "match_name": "Sharjah Warriorz vs Gulf Giants",
             "event_name": "DP World ILT20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251050_53162_SW_GG_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4251050_53162_SW_GG_FC-WEB.jpg",
             "team_1": "Sharjah Warriorz",
             "team_2": "Gulf Giants",
             "startTime": "03:30:00 PM 22-11-2026"
@@ -169,7 +145,7 @@
             "title": "OCA Strikers Women vs Wadi Kabir Royals Women (Oman Women's D20, 2026)",
             "match_name": "OCA Strikers Women vs Wadi Kabir Royals Women",
             "event_name": "Oman Women's D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
             "team_1": "OCA Strikers Women",
             "team_2": "Wadi Kabir Royals Women",
             "startTime": "04:00:00 PM 22-11-2026"
@@ -181,7 +157,7 @@
             "title": "Burnley vs Blackburn Rovers F.C. (EFL Championship 2026-27)",
             "match_name": "Burnley vs Blackburn Rovers F.C.",
             "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250013_52993_BUR_BLK_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250013_52993_BUR_BLK_fc-web.jpg",
             "team_1": "Burnley",
             "team_2": "Blackburn Rovers F.C.",
             "startTime": "05:30:00 PM 22-11-2026"
@@ -193,7 +169,7 @@
             "title": "FC Barcelona vs Villarreal CF (LALIGA 2026-27)",
             "match_name": "FC Barcelona vs Villarreal CF",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247688_53004_BAR_VIL_FC-Web.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247688_53004_BAR_VIL_FC-Web.png",
             "team_1": "FC Barcelona",
             "team_2": "Villarreal CF",
             "startTime": "06:30:00 PM 22-11-2026"
@@ -205,7 +181,7 @@
             "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2026)",
             "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
             "event_name": "DP World ILT20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251051_53162_DC_ADKR_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4251051_53162_DC_ADKR_FC-WEB.jpg",
             "team_1": "Dubai Capitals",
             "team_2": "Abu Dhabi Knight Riders",
             "startTime": "08:00:00 PM 22-11-2026"
@@ -217,7 +193,7 @@
             "title": "Danube Titans  Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
             "match_name": "Danube Titans  Women vs Ghubra Giants Women",
             "event_name": "Oman Women's D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
             "team_1": "Danube Titans  Women",
             "team_2": "Ghubra Giants Women",
             "startTime": "08:30:00 PM 22-11-2026"
@@ -229,10 +205,22 @@
             "title": "Racing Club de Santander vs Real Sociedad (LALIGA 2026-27)",
             "match_name": "Racing Club de Santander vs Real Sociedad",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247696_53004_RAC_RS_FC-Web.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247696_53004_RAC_RS_FC-Web.png",
             "team_1": "Racing Club de Santander",
             "team_2": "Real Sociedad",
             "startTime": "08:45:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4247695",
+            "title": "CA Osasuna vs Malaga (LALIGA 2026-27)",
+            "match_name": "CA Osasuna vs Malaga",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247695_53004_OSN_MAG_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Malaga",
+            "startTime": "11:00:00 PM 22-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -241,7 +229,7 @@
             "title": "Birmingham City F.C. Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Manchester United Women",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250771_53038_BIR-W_MUN-W_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250771_53038_BIR-W_MUN-W_fc-web.jpg",
             "team_1": "Birmingham City F.C. Women",
             "team_2": "Manchester United Women",
             "startTime": "05:30:00 PM 22-11-2026"
@@ -253,22 +241,10 @@
             "title": "Manchester City Women vs Tottenham Hotspur Women (Barclays Women's Super League 2026-27)",
             "match_name": "Manchester City Women vs Tottenham Hotspur Women",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250772_53038_MCI-W_TOT-W_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250772_53038_MCI-W_TOT-W_fc-web.jpg",
             "team_1": "Manchester City Women",
             "team_2": "Tottenham Hotspur Women",
             "startTime": "05:30:00 PM 22-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4250751",
-            "title": "Tenerife vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://images.fancode.com/aig/match/v1794380803724/4250751_CASACARDS_APP.png",
-            "team_1": "Tenerife",
-            "team_2": "RCD Mallorca",
-            "startTime": "01:30:00 AM 22-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -277,7 +253,7 @@
             "title": "Charlton Athletic F.C Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
             "match_name": "Charlton Athletic F.C Women vs Aston Villa Women",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250773_53038_CHL-W_AST-W_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250773_53038_CHL-W_AST-W_fc-web.jpg",
             "team_1": "Charlton Athletic F.C Women",
             "team_2": "Aston Villa Women",
             "startTime": "07:30:00 PM 22-11-2026"
@@ -289,7 +265,7 @@
             "title": "Everton Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
             "match_name": "Everton Women vs Brighton and Hove Albion Women",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250774_53038_EVE-W_BHA-W_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250774_53038_EVE-W_BHA-W_fc-web.jpg",
             "team_1": "Everton Women",
             "team_2": "Brighton and Hove Albion Women",
             "startTime": "07:30:00 PM 22-11-2026"
@@ -301,7 +277,7 @@
             "title": "Arsenal Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
             "match_name": "Arsenal Women vs West Ham United Women",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250775_53038_ARS-W_WHU-W_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250775_53038_ARS-W_WHU-W_fc-web.jpg",
             "team_1": "Arsenal Women",
             "team_2": "West Ham United Women",
             "startTime": "08:00:00 PM 22-11-2026"
@@ -309,38 +285,38 @@
         {
             "status": "UPCOMING",
             "event_category": "Football",
-            "match_id": "4247695",
-            "title": "CA Osasuna vs Malaga (LALIGA 2026-27)",
-            "match_name": "CA Osasuna vs Malaga",
+            "match_id": "4247694",
+            "title": "Getafe CF vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Atletico de Madrid",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247695_53004_OSN_MAG_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Malaga",
-            "startTime": "11:00:00 PM 22-11-2026"
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247694_53004_GEF_ATM_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Atletico de Madrid",
+            "startTime": "01:30:00 AM 23-11-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4250735",
-            "title": "Day 3 - World Feed vs St. Simons Island, Georgia (The RSM Classic 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "The RSM Classic 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "St. Simons Island, Georgia",
-            "startTime": "11:30:00 PM 21-11-2026"
+            "event_category": "Cricket",
+            "match_id": "4249675",
+            "title": "Western Australia vs Tasmania (Sheffield Shield, 2026/27)",
+            "match_name": "Western Australia vs Tasmania",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Tasmania",
+            "startTime": "08:00:00 AM 23-11-2026"
         },
         {
             "status": "UPCOMING",
-            "event_category": "Tennis",
-            "match_id": "4250947",
-            "title": "Zverev vs Medvedev vs Turin, Italy (Nitto ATP Finals 2026)",
-            "match_name": "Zverev vs Medvedev",
-            "event_name": "Nitto ATP Finals 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/NittoATPFinalswebplayervsplayer1.png",
-            "team_1": "Zverev vs Medvedev",
-            "team_2": "Turin, Italy",
-            "startTime": "01:00:00 AM 22-11-2026"
+            "event_category": "Football",
+            "match_id": "4250752",
+            "title": "Sporting de Gijón vs Las Palmas (LALIGA Hypermotion 2026-27)",
+            "match_name": "Sporting de Gijón vs Las Palmas",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803724/4250752_CASACARDS_APP.png",
+            "team_1": "Sporting de Gijón",
+            "team_2": "Las Palmas",
+            "startTime": "08:45:00 PM 22-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -349,7 +325,7 @@
             "title": "Feature Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
             "match_name": "Feature Race",
             "event_name": "F1 ACADEMY LAS VEGAS 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
             "team_1": "Feature Race",
             "team_2": "Las Vegas",
             "startTime": "05:50:00 AM 22-11-2026"
@@ -361,7 +337,7 @@
             "title": "Wellington Phoenix vs Macarthur (A-League 2026-27)",
             "match_name": "Wellington Phoenix vs Macarthur",
             "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249862_53101_WEL_MAC_fc-Web_1792223292178.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249862_53101_WEL_MAC_fc-Web_1792223292178.jpg",
             "team_1": "Wellington Phoenix",
             "team_2": "Macarthur",
             "startTime": "07:30:00 AM 22-11-2026"
@@ -373,22 +349,10 @@
             "title": "Race vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
             "match_name": "Race",
             "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
             "team_1": "Race",
             "team_2": "Las Vegas Strip Circuit",
             "startTime": "09:30:00 AM 22-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4247694",
-            "title": "Getafe CF vs Atletico de Madrid (LALIGA 2026-27)",
-            "match_name": "Getafe CF vs Atletico de Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247694_53004_GEF_ATM_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Atletico de Madrid",
-            "startTime": "01:30:00 AM 23-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -397,10 +361,22 @@
             "title": "Finals vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
             "match_name": "Finals",
             "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
             "team_1": "Finals",
             "team_2": "Hong Kong",
             "startTime": "11:30:00 AM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4250753",
+            "title": "Girona FC vs Eibar (LALIGA Hypermotion 2026-27)",
+            "match_name": "Girona FC vs Eibar",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803722/4250753_CASACARDS_APP.png",
+            "team_1": "Girona FC",
+            "team_2": "Eibar",
+            "startTime": "11:00:00 PM 22-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -409,10 +385,82 @@
             "title": "Coppa Shell AM World Final Race vs Barcelona, Spain (Ferrari Challenge Series 2026)",
             "match_name": "Coppa Shell AM World Final Race",
             "event_name": "Ferrari Challenge Series 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
             "team_1": "Coppa Shell AM World Final Race",
             "team_2": "Barcelona, Spain",
             "startTime": "02:15:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139986",
+            "title": "Race Day vs Portimao (REPSOL GRAND PRIX OF PORTUGAL 2026)",
+            "match_name": "Race Day",
+            "event_name": "REPSOL GRAND PRIX OF PORTUGAL 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/REPSOL-GRAND-PRIX-OF-PORTUGAL_fc-web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Portimao",
+            "startTime": "02:30:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Live Events",
+            "match_id": "4251168",
+            "title": "Auction vs New Delhi (Super T10 Auction 2026)",
+            "match_name": "Auction",
+            "event_name": "Super T10 Auction 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WEBMini.jpeg",
+            "team_1": "Auction",
+            "team_2": "New Delhi",
+            "startTime": "03:00:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250732",
+            "title": "Match 8 vs Turin, Italy (Nitto ATP Finals 2026)",
+            "match_name": "Match 8",
+            "event_name": "Nitto ATP Finals 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+            "team_1": "Match 8",
+            "team_2": "Turin, Italy",
+            "startTime": "04:00:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4251126",
+            "title": "Coppa Shell World Final Race vs Barcelona, Spain (Ferrari Challenge Series 2026)",
+            "match_name": "Coppa Shell World Final Race",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
+            "team_1": "Coppa Shell World Final Race",
+            "team_2": "Barcelona, Spain",
+            "startTime": "04:30:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250948",
+            "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+            "match_name": "Nitto ATP Finals 2026",
+            "event_name": "Nitto ATP Finals 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+            "team_1": "Nitto ATP Finals 2026",
+            "team_2": "Turin, Italy",
+            "startTime": "06:30:00 PM 22-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Motorsports",
+            "match_id": "4251127",
+            "title": "Trofeo Pirelli World Final Race vs Barcelona, Spain (Ferrari Challenge Series 2026)",
+            "match_name": "Trofeo Pirelli World Final Race",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
+            "team_1": "Trofeo Pirelli World Final Race",
+            "team_2": "Barcelona, Spain",
+            "startTime": "06:45:00 PM 22-11-2026"
         }
     ]
 }
