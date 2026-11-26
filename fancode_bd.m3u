@@ -2,8 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:59:22 AM 26-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:00:12 PM 26-11-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250420_53125_ST-W_AS-W_fc-web_1793352701216.jpg" group-title="Cricket",Sydney Thunder Women Vs Adelaide Strikers Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4250420/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" group-title="Cricket",South Australia Vs Victoria
 https://fancode.sm-monirul-islam-rs.workers.dev/4249676/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-App.jpg" group-title="Cricket",Muscat Thunderers Vs Majees Titans
+https://fancode.sm-monirul-islam-rs.workers.dev/4251085/index.m3u8

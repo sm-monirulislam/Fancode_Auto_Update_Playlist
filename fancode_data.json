@@ -2,34 +2,10 @@
     "name": "Fancode Auto Update Playlist ",
     "devoloper": "Monirul Islam",
     "telegram_group": "https://t.me/sm_iptv_bd",
-    "last_update_time": "05:59:22 AM 26-11-2026",
-    "total_matches": 40,
-    "live_match": 1,
+    "last_update_time": "02:00:12 PM 26-11-2026",
+    "total_matches": 39,
+    "live_match": 3,
     "matches": [
-        {
-            "status": "PAUSED",
-            "event_category": "Cricket",
-            "match_id": "4249675",
-            "title": "Tasmania vs Western Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs Western Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Western Australia",
-            "startTime": "08:00:00 AM 23-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250420",
-            "title": "Sydney Thunder Women vs Adelaide Strikers Women (Women's Big Bash League, 2026)",
-            "match_name": "Sydney Thunder Women vs Adelaide Strikers Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250420_53125_ST-W_AS-W_fc-web_1793352701216.jpg",
-            "team_1": "Sydney Thunder Women",
-            "team_2": "Adelaide Strikers Women",
-            "startTime": "10:10:00 AM 26-11-2026"
-        },
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
@@ -69,18 +45,6 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4251085",
-            "title": "Muscat Thunderers vs Majees Titans (Oman D20 2026)",
-            "match_name": "Muscat Thunderers vs Majees Titans",
-            "event_name": "Oman D20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-web.jpg",
-            "team_1": "Muscat Thunderers",
-            "team_2": "Majees Titans",
-            "startTime": "11:30:00 AM 26-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
             "match_id": "4251086",
             "title": "Royal Oman Stallions vs Mustafa Fragrance House Strikers (Oman D20 2026)",
             "match_name": "Royal Oman Stallions vs Mustafa Fragrance House Strikers",
@@ -89,6 +53,30 @@
             "team_1": "Royal Oman Stallions",
             "team_2": "Mustafa Fragrance House Strikers",
             "startTime": "04:00:00 PM 26-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4251055",
+            "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
+            "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
+            "event_name": "DP World ILT20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
+            "team_1": "Abu Dhabi Knight Riders",
+            "team_2": "MI Emirates",
+            "startTime": "08:00:00 PM 26-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Cricket",
+            "match_id": "4251087",
+            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 2026)",
+            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+            "event_name": "Oman D20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Yalla Shabab Giants",
+            "startTime": "08:30:00 PM 26-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -165,26 +153,14 @@
         {
             "status": "UPCOMING",
             "event_category": "Cricket",
-            "match_id": "4251055",
-            "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
-            "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
-            "event_name": "DP World ILT20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "MI Emirates",
-            "startTime": "08:00:00 PM 26-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4251087",
-            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 2026)",
-            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-            "event_name": "Oman D20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-web.jpg",
-            "team_1": "IAS Invincibles",
-            "team_2": "Yalla Shabab Giants",
-            "startTime": "08:30:00 PM 26-11-2026"
+            "match_id": "4250645",
+            "title": "Australia vs England (England tour of Australia, 2026)",
+            "match_name": "Australia vs England",
+            "event_name": "England tour of Australia, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/wevb.png",
+            "team_1": "Australia",
+            "team_2": "England",
+            "startTime": "01:45:00 PM 27-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -197,30 +173,6 @@
             "team_1": "Doncaster Rovers F.C.",
             "team_2": "Huddersfield Town A.F.C.",
             "startTime": "01:30:00 AM 27-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4250886",
-            "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
-            "match_name": "Day 1",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-            "team_1": "Day 1",
-            "team_2": "Málaga, Spain",
-            "startTime": "02:15:00 PM 26-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250645",
-            "title": "Australia vs England (England tour of Australia, 2026)",
-            "match_name": "Australia vs England",
-            "event_name": "England tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/wevb.png",
-            "team_1": "Australia",
-            "team_2": "England",
-            "startTime": "01:45:00 PM 27-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -272,15 +224,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "Cricket",
-            "match_id": "4250911",
-            "title": "Ghubra Giants Women vs OCA Invincibles Women (Oman Women's D20, 2026)",
-            "match_name": "Ghubra Giants Women vs OCA Invincibles Women",
-            "event_name": "Oman Women's D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-            "team_1": "Ghubra Giants Women",
-            "team_2": "OCA Invincibles Women",
-            "startTime": "04:00:00 PM 27-11-2026"
+            "event_category": "Golf",
+            "match_id": "4250886",
+            "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+            "match_name": "Day 1",
+            "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+            "team_1": "Day 1",
+            "team_2": "Málaga, Spain",
+            "startTime": "02:15:00 PM 26-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -296,39 +248,15 @@
         },
         {
             "status": "UPCOMING",
-            "event_category": "MotoGP",
-            "match_id": "139987",
-            "title": "Day 1 vs Cheste (MOTUL GRAND PRIX OF VALENCIA 2026)",
-            "match_name": "Day 1",
-            "event_name": "MOTUL GRAND PRIX OF VALENCIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Cheste",
-            "startTime": "01:30:00 PM 27-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Football",
-            "match_id": "4249863",
-            "title": "Macarthur vs Melbourne City (A-League 2026-27)",
-            "match_name": "Macarthur vs Melbourne City",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Melbourne City",
-            "startTime": "02:10:00 PM 27-11-2026"
-        },
-        {
-            "status": "UPCOMING",
-            "event_category": "Golf",
-            "match_id": "4250887",
-            "title": "Day 2 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
-            "match_name": "Day 2",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-            "team_1": "Day 2",
-            "team_2": "Málaga, Spain",
-            "startTime": "02:15:00 PM 27-11-2026"
+            "event_category": "Cricket",
+            "match_id": "4250911",
+            "title": "Ghubra Giants Women vs OCA Invincibles Women (Oman Women's D20, 2026)",
+            "match_name": "Ghubra Giants Women vs OCA Invincibles Women",
+            "event_name": "Oman Women's D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+            "team_1": "Ghubra Giants Women",
+            "team_2": "OCA Invincibles Women",
+            "startTime": "04:00:00 PM 27-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -356,6 +284,18 @@
         },
         {
             "status": "UPCOMING",
+            "event_category": "MotoGP",
+            "match_id": "139987",
+            "title": "Day 1 vs Cheste (MOTUL GRAND PRIX OF VALENCIA 2026)",
+            "match_name": "Day 1",
+            "event_name": "MOTUL GRAND PRIX OF VALENCIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Cheste",
+            "startTime": "01:30:00 PM 27-11-2026"
+        },
+        {
+            "status": "UPCOMING",
             "event_category": "Cricket",
             "match_id": "4250912",
             "title": "Wadi Kabir Royals Women vs Muscat Shaheens  Women (Oman Women's D20, 2026)",
@@ -365,6 +305,30 @@
             "team_1": "Wadi Kabir Royals Women",
             "team_2": "Muscat Shaheens  Women",
             "startTime": "08:30:00 PM 27-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Football",
+            "match_id": "4249863",
+            "title": "Macarthur vs Melbourne City (A-League 2026-27)",
+            "match_name": "Macarthur vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Melbourne City",
+            "startTime": "02:10:00 PM 27-11-2026"
+        },
+        {
+            "status": "UPCOMING",
+            "event_category": "Golf",
+            "match_id": "4250887",
+            "title": "Day 2 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+            "match_name": "Day 2",
+            "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+            "team_1": "Day 2",
+            "team_2": "Málaga, Spain",
+            "startTime": "02:15:00 PM 27-11-2026"
         },
         {
             "status": "UPCOMING",
@@ -477,6 +441,24 @@
         {
             "status": "LIVE",
             "event_category": "Cricket",
+            "match_id": "4250420",
+            "title": "Sydney Thunder Women Vs Adelaide Strikers Women",
+            "match_name": "Sydney Thunder Women Vs Adelaide Strikers Women",
+            "event_name": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250420_53125_ST-W_AS-W_fc-web_1793352701216.jpg",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250420_53125_ST-W_AS-W_fc-web_1793352701216.jpg",
+            "team_1": null,
+            "team_2": null,
+            "startTime": null,
+            "referer": "https://fancode.com/",
+            "language": "English",
+            "category": "Cricket",
+            "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250420_english_hls_ac2784bf3e70568_1ta-di_h264/index.m3u8",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4250420/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
             "match_id": "4249676",
             "title": "South Australia Vs Victoria",
             "match_name": "South Australia Vs Victoria",
@@ -491,6 +473,24 @@
             "category": "Cricket",
             "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249676_english_hls_fffac9b5e044756_1ta-di_h264/index.m3u8",
             "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4249676/index.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "event_category": "Cricket",
+            "match_id": "4251085",
+            "title": "Muscat Thunderers Vs Majees Titans",
+            "match_name": "Muscat Thunderers Vs Majees Titans",
+            "event_name": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-App.jpg",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-App.jpg",
+            "team_1": null,
+            "team_2": null,
+            "startTime": null,
+            "referer": "https://fancode.com/",
+            "language": "English",
+            "category": "Cricket",
+            "stream_url": "https://in-mc-vod.fancode.com/mumbai/4251085_english_hls_18f4f1c77374411_1ta-di_h264/index.m3u8",
+            "stream_link": "https://fancode.sm-monirul-islam-rs.workers.dev/4251085/index.m3u8"
         }
     ]
 }
