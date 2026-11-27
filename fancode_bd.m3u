@@ -2,8 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:51:39 AM 27-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 04:32:20 PM 27-11-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" group-title="Cricket",South Australia Vs Victoria
-https://fancode.sm-monirul-islam-rs.workers.dev/4249676/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/wevb.png" group-title="Cricket",Australia Vs England
+https://fancode.sm-monirul-islam-rs.workers.dev/4250645/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg" group-title="Cricket",Perth Scorchers Women Vs Hobart Hurricanes Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4250422/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" group-title="Cricket",Sub Saharan Africa Vs Europe
+https://fancode.sm-monirul-islam-rs.workers.dev/4250957/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Cricket",Ghubra Giants Women Vs Oca Strikers Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4250911/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg" group-title="MotoGP",Day 1
+https://fancode.sm-monirul-islam-rs.workers.dev/139987/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg" group-title="Football",Macarthur Vs Melbourne City
+https://fancode.sm-monirul-islam-rs.workers.dev/4249863/index.m3u8
